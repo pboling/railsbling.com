@@ -19,7 +19,6 @@ I am not available for additional work very often.
 ## Past Work
 
 * Ruby Expert at Church Pension Group, modernized 5-year-old internal Ruby service stack, 2013 - 2014
-* Stuff that I can't talk about, FBI & SEC 2006 - 2014
 * Co-founder & CTO of Acquaintable, accepted into ERA (NYC-based accelerator), then acquired, 2012 - 2013
 * First Employee and Senior Rails Developer on Bloomberg Black, 2010 - 2012
 * Senior Rails Developer, BibleGateway (6 month PHP to Rails contract), 2010

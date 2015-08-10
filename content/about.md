@@ -27,3 +27,9 @@ I am Peter Boling, of Earth.
 * Computer Science, Ball State University, 1997 - 1999 \*
 
 \* (No actual degrees, just lots of education!)
+
+### Humanitarian
+
+* Devoted to making the world a better place, and to furthering scientific knowledge.
+* I dedicate a significant potion of my time, talents, and resources to refugees in Africa.
+* Also donate to a large number of humanitarian organizations working on issues of injustice and poverty.
