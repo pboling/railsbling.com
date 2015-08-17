@@ -7,8 +7,8 @@ pygmentsuseclasses = true
 
 ## First Post!
 
-I am relaunching my blog!  I have decided to use [Hugo](https://gohugo.io/) for several reasons and after much internal debate, and blog 
-reading because I desperately want to be cool.
+I am relaunching my blog!  I have decided to use [Hugo](https://gohugo.io/) for several reasons, after much internal debate, and blog 
+reading, and because I desperately want to be cool.
 
 ```lang=html
 {{< highlight html >}}
