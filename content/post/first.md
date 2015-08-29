@@ -11,17 +11,16 @@ I am relaunching my blog!  I have decided to use [Hugo](https://gohugo.io/) for 
 reading, and because I desperately want to be cool.
 
 ```lang=html
-{{< highlight html >}}
 <html>
-    <body> This HTML </body>
+    <body>
+     <h1>This HTML</h1>
+     <p>Paragraph!</p>
+    </body>
 </html>
-{{< /highlight >}}
-
 ```
 Now Ruby:
 
 ```lang=ruby
-{{< highlight ruby >}}
 class ClassProbe < Probe
   def local_method_defs(klass)
     klass.singleton_methods(false)
@@ -41,7 +40,6 @@ class ClassProbe < Probe
     end
   end
 end
-{{< /highlight >}}
 ```
 
 https://img.shields.io/github/forks/pboling/flag_shih_tzu.svg
