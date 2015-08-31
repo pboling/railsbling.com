@@ -165,6 +165,7 @@ Rack Middleware that injects things into the response body.
 ### humorous_log_formatter
 
 Allows you to customize (and normalize the length of!) the text and color used to write the log level to your logs.
+
 * "error" can become red and say "noo".
 * "info" can become white and say "meh".
 * "debug" can become blue and say "wat".
@@ -222,6 +223,20 @@ Performance Measured and Tuned Batch Processing of Records with Blocks in Rails.
 [![Documentation](http://inch-ci.org/github/pboling/each_in_batches.png)](http://inch-ci.org/github/pboling/each_in_batches)
 [![Dependency Status](https://gemnasium.com/pboling/each_in_batches.png)](https://gemnasium.com/pboling/each_in_batches)
 
+### react-rails-benchmark_renderer
+
+A reference implementation of a custom React renderer for Rails.  Adds benchmarking info to Rails logs for parity with Rails view rendering benchmarking.
+
+[![Total Downloads](https://img.shields.io/gem/rt/react-rails-benchmark_renderer.svg)](https://github.com/pboling/react-rails-benchmark_renderer)
+[![Downloads Today](https://img.shields.io/gem/rd/react-rails-benchmark_renderer.svg)](https://github.com/pboling/react-rails-benchmark_renderer)
+[![Code Quality](https://img.shields.io/codeclimate/github/pboling/react-rails-benchmark_renderer.svg)](https://codeclimate.com/github/pboling/react-rails-benchmark_renderer)
+[![Network](https://img.shields.io/github/forks/pboling/react-rails-benchmark_renderer.svg?style=social)](https://github.com/pboling/react-rails-benchmark_renderer/network)
+[![Stars](https://img.shields.io/github/stars/pboling/react-rails-benchmark_renderer.svg?style=social)](https://github.com/pboling/react-rails-benchmark_renderer/stargazers)
+[![Version](https://img.shields.io/gem/v/react-rails-benchmark_renderer.svg)](https://rubygems.org/gems/react-rails-benchmark_renderer)
+[![Build](https://img.shields.io/travis/pboling/react-rails-benchmark_renderer.svg)](https://travis-ci.org/pboling/react-rails-benchmark_renderer)
+[![Documentation](http://inch-ci.org/github/pboling/react-rails-benchmark_renderer.png)](http://inch-ci.org/github/pboling/react-rails-benchmark_renderer)
+[![Dependency Status](https://gemnasium.com/pboling/react-rails-benchmark_renderer.png)](https://gemnasium.com/pboling/react-rails-benchmark_renderer)
+
 ### status_tag
 
 [![Total Downloads](https://img.shields.io/gem/rt/status_tag.svg)](https://github.com/pboling/status_tag)
@@ -247,17 +262,3 @@ Create files with sequential file names for nicer directory listing, with automa
 [![Build](https://img.shields.io/travis/pboling/status_tag.svg)](https://travis-ci.org/pboling/status_tag)
 [![Documentation](http://inch-ci.org/github/pboling/status_tag.png)](http://inch-ci.org/github/pboling/status_tag)
 [![Dependency Status](https://gemnasium.com/pboling/status_tag.png)](https://gemnasium.com/pboling/status_tag)
-
-### react-rails-benchmark_renderer
-
-A reference implementation of a custom React renderer for Rails.  Adds benchmarking info to Rails logs for parity with Rails view rendering benchmarking.
-
-[![Total Downloads](https://img.shields.io/gem/rt/react-rails-benchmark_renderer.svg)](https://github.com/pboling/react-rails-benchmark_renderer)
-[![Downloads Today](https://img.shields.io/gem/rd/react-rails-benchmark_renderer.svg)](https://github.com/pboling/react-rails-benchmark_renderer)
-[![Code Quality](https://img.shields.io/codeclimate/github/pboling/react-rails-benchmark_renderer.svg)](https://codeclimate.com/github/pboling/react-rails-benchmark_renderer)
-[![Network](https://img.shields.io/github/forks/pboling/react-rails-benchmark_renderer.svg?style=social)](https://github.com/pboling/react-rails-benchmark_renderer/network)
-[![Stars](https://img.shields.io/github/stars/pboling/react-rails-benchmark_renderer.svg?style=social)](https://github.com/pboling/react-rails-benchmark_renderer/stargazers)
-[![Version](https://img.shields.io/gem/v/react-rails-benchmark_renderer.svg)](https://rubygems.org/gems/react-rails-benchmark_renderer)
-[![Build](https://img.shields.io/travis/pboling/react-rails-benchmark_renderer.svg)](https://travis-ci.org/pboling/react-rails-benchmark_renderer)
-[![Documentation](http://inch-ci.org/github/pboling/react-rails-benchmark_renderer.png)](http://inch-ci.org/github/pboling/react-rails-benchmark_renderer)
-[![Dependency Status](https://gemnasium.com/pboling/react-rails-benchmark_renderer.png)](https://gemnasium.com/pboling/react-rails-benchmark_renderer)
