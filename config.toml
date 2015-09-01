@@ -1,6 +1,7 @@
 BaseUrl = "http://railsbling.com"
 LanguageCode = "en-us"
 Title = "Rails Bling"
+disqusShortname = "railsbling"
 
 [params]
   author = "Peter Boling"
