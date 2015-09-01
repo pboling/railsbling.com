@@ -19,6 +19,10 @@ Title = "Rails Bling"
 [permalinks]
     post = "/blog/:year/:month/:day/:title/"
 
+[[menu.main]]
+    name = "Blog"
+    url = "/posts"
+
 [[menu.social]]
     pre = "<i class='fa fa-github'></i>"
     url = "https://github.com/pboling"
@@ -35,3 +39,7 @@ Title = "Rails Bling"
     pre = "<i class='fa fa-linkedin'></i>"
     url = "https://www.linkedin.com/in/peterboling"
     identifier = "linkedin"
+[[menu.social]]
+    pre = "<i class='fa fa-google-plus'></i>"
+    url = "https://plus.google.com/+PeterBoling/posts"
+    identifier = "google-plus"
