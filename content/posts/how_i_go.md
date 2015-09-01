@@ -2,6 +2,8 @@
 date = "2015-08-31T00:55:47-07:00"
 draft = true
 title = "How I Go"
+socialsharing = true
+
 +++
 
 I am relaunching my blog!  I have decided to use [Hugo](https://gohugo.io/) after much internal debate, and strong lobbying from all the sleazy corporate bag-men that are constantly trying to bribe me with buzz words <i class='fa fa-money'></i>.  I will always <i class='fa fa-heart'></i> Ruby and use it every day, but for my blog I gotta go.  So easy, static and fast!  As my first post I will document how I made this work.
