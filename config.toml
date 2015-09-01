@@ -43,3 +43,7 @@ Title = "Rails Bling"
     pre = "<i class='fa fa-google-plus'></i>"
     url = "https://plus.google.com/+PeterBoling/posts"
     identifier = "google-plus"
+
+[[menu.footer]]
+    name = "My Other Blog"
+    url = "http://galtzo.blogspot.com"
