@@ -1,6 +1,6 @@
 +++
 date = "2015-08-31T00:55:47-07:00"
-draft = true
+draft = false
 title = "How I Go"
 socialsharing = true
 
