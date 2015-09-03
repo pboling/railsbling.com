@@ -3,6 +3,9 @@ date = "2015-08-31T00:55:47-07:00"
 draft = false
 title = "How I Go"
 socialsharing = true
+tags = [ "Development", "Go" ]
+categories = [ "Development", "howto", "Go" ]
+series = [ "Blogging" ]
 
 +++
 

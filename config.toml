@@ -17,6 +17,11 @@ disqusShortname = "railsbling"
   sidebartitle = "Rails Bling"
   sidebartagline = "Yet Another Paradigm by Peter Boling"
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
 [permalinks]
     post = "/blog/:year/:month/:day/:title/"
 
