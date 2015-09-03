@@ -1,6 +1,6 @@
 +++
 date = "2015-09-03T09:26:22-07:00"
-draft = true
+draft = false
 title = "Fix The Nokogiri Warning"
 tags = [ "Development", "Ruby", "rubygems", "nokogiri", "bundler" ]
 categories = [ "Development", "howto", "Ruby" ]
