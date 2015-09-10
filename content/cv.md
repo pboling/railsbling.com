@@ -20,7 +20,7 @@ I am working on updating my PDF CV.
 
 ## Past Work
 
-* Resident Ruby Expert at [Church Pension Group](https://www.cpg.org/) &larr; I built the entire backend, 200x improvement in performance, 2013 - 2014 ([bloomberg profile](http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=3648509))
+* Resident Ruby Expert at [Church Pension Group](https://www.cpg.org/) &larr; I built the entire backend, 10x improvement in performance, 2013 - 2014 ([bloomberg profile](http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=3648509))
 * Co-founder & CTO of Acquaintable, accepted into ERA (NYC-based accelerator), then acquired, 2012 - 2013 ([on Crunchbase](https://www.crunchbase.com/organization/acquaintable))([Tweet @ my co-founder](https://twitter.com/joeljrod))
 * First Employee and Senior Rails Developer on Bloomberg Black, 2010 - 2012 ([bloomberg profile](http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=160210))
 * Senior Rails Developer, [BibleGateway](https://www.biblegateway.com/) (6 month PHP to Rails contract), 2010 ([on wikipedia](https://en.wikipedia.org/wiki/BibleGateway.com))
