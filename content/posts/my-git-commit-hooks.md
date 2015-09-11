@@ -102,4 +102,4 @@ else
 end
 ```
 
-\* Note: In the regex in both scripts I have a test for > 8 digits.  That's to match the format of my story IDs which are always at least 8 digits.  Your story ID format may vary.
+\* Note: In the regex in both scripts I have a test for >= 8 digits.  That's to match the format of my story IDs which are always at least 8 digits.  Your story ID format may vary.
