@@ -103,3 +103,6 @@ end
 ```
 
 \* Note: In the regex in both scripts I have a test for >= 8 digits.  That's to match the format of my story IDs which are always at least 8 digits.  Your story ID format may vary.
+
+\*\* Note: Much of this is based on work originally done by Brett Fishman ([github](https://github.com/brettfishman)), Director of Engineering at [Trumaker &amp; Co](http://www.trumaker.com/)
+\*\*\* Note: Brett used a [great ascii art generator](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
