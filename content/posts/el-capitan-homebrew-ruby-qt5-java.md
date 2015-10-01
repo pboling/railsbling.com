@@ -27,7 +27,7 @@ In order...
 
 ### Xcode
 
-The El Capitan install wiped out my Xcode install, so I had to search for it in the App Store and reinstall.
+~~The El Capitan install wiped out my Xcode install~~, so I had to search for it in the App Store and reinstall.  I now believe that I deleted Xcode awhile ago and forgot, hence the reinstall.  I did this on a machine that I rarely use.
 
 After Xcode is finished installing, open [iTerm](https://www.iterm2.com/downloads.html), which I use as a Terminal.app replacement, or Terminal.app if you are so inclined.
 
@@ -84,6 +84,7 @@ Then I was able to update Homebrew.
 I know the `capybara-webkit` gem will require qt5, and I know qt is one of the primary remaining pain points in [homebrew / El Capitan issues tracker](https://github.com/Homebrew/homebrew/issues?utf8=✓&q=is%3Aissue+is%3Aopen+Capitan), so I decided to get it out of the way first.
 
 ```
+∴ brew uninstall qt5
 ∴ brew install qt5
 ∴ brew linkapps qt5
 ∴ brew link --force qt5
