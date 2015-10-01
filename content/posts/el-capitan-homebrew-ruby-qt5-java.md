@@ -140,7 +140,7 @@ bundle install
 
 ### Postgres
 
-I also took the opportunity to upgrade to the [latest Postgres.app](http://postgresapp.com/).
+I also took the opportunity to upgrade to the [latest Postgres.app](http://postgresapp.com/).  Alternatively you can install postgres with `brew install postgres`.  I choose Postgres.app begause it is supported directly by Heroku, and I like to think there is a parity win there somewhere.
 
 Glorious.
 
