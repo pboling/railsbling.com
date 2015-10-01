@@ -8,7 +8,7 @@ series = [ "Rails Project Setup" ]
 
 +++
 
-Post Upgrade to El Capitan, with Homebrew & Ruby
+I upgraded to El Capitan, with Homebrew & Ruby, and this is how I did it *flawlessly*.
 
 ... and Xcode and Java, etc.
 
