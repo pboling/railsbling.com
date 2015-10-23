@@ -48,3 +48,31 @@ Improvement on ye olde exception_notification plugin.  Rails 1, 2, 3 only.
 [![Build](https://img.shields.io/travis/pboling/exception_notification.svg)](https://travis-ci.org/pboling/exception_notification)
 [![Documentation](http://inch-ci.org/github/pboling/exception_notification.png)](http://inch-ci.org/github/pboling/exception_notification)
 [![Dependency Status](https://gemnasium.com/pboling/exception_notification.png)](https://gemnasium.com/pboling/exception_notification)
+
+### controller_validator
+
+Use the familiar ActiveModel::Errors pattern for controller validations
+
+[![Total Downloads](https://img.shields.io/gem/rt/controller_validator.svg)](https://github.com/pboling/controller_validator)
+[![Downloads Today](https://img.shields.io/gem/rd/controller_validator.svg)](https://github.com/pboling/controller_validator)
+[![Code Quality](https://img.shields.io/codeclimate/github/pboling/controller_validator.svg)](https://codeclimate.com/github/pboling/controller_validator)
+[![Network](https://img.shields.io/github/forks/pboling/controller_validator.svg?style=social)](https://github.com/pboling/controller_validator/network)
+[![Stars](https://img.shields.io/github/stars/pboling/controller_validator.svg?style=social)](https://github.com/pboling/controller_validator/stargazers)
+[![Version](https://img.shields.io/gem/v/controller_validator.svg)](https://rubygems.org/gems/controller_validator)
+[![Build](https://img.shields.io/travis/pboling/controller_validator.svg)](https://travis-ci.org/pboling/controller_validator)
+[![Documentation](http://inch-ci.org/github/pboling/controller_validator.png)](http://inch-ci.org/github/pboling/controller_validator)
+[![Dependency Status](https://gemnasium.com/pboling/controller_validator.png)](https://gemnasium.com/pboling/controller_validator)
+
+### sequential_file
+
+Create files with sequential file names for nicer directory listing, with automatic collision detection and resolution.
+
+[![Total Downloads](https://img.shields.io/gem/rt/status_tag.svg)](https://github.com/pboling/status_tag)
+[![Downloads Today](https://img.shields.io/gem/rd/status_tag.svg)](https://github.com/pboling/status_tag)
+[![Code Quality](https://img.shields.io/codeclimate/github/pboling/status_tag.svg)](https://codeclimate.com/github/pboling/status_tag)
+[![Network](https://img.shields.io/github/forks/pboling/status_tag.svg?style=social)](https://github.com/pboling/status_tag/network)
+[![Stars](https://img.shields.io/github/stars/pboling/status_tag.svg?style=social)](https://github.com/pboling/status_tag/stargazers)
+[![Version](https://img.shields.io/gem/v/status_tag.svg)](https://rubygems.org/gems/status_tag)
+[![Build](https://img.shields.io/travis/pboling/status_tag.svg)](https://travis-ci.org/pboling/status_tag)
+[![Documentation](http://inch-ci.org/github/pboling/status_tag.png)](http://inch-ci.org/github/pboling/status_tag)
+[![Dependency Status](https://gemnasium.com/pboling/status_tag.png)](https://gemnasium.com/pboling/status_tag)

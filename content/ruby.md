@@ -195,20 +195,6 @@ Organize data results from raw sql queries (as with PGresult, or Dossier) intell
 [![Documentation](http://inch-ci.org/github/pboling/letter_group.png)](http://inch-ci.org/github/pboling/letter_group)
 [![Dependency Status](https://gemnasium.com/pboling/letter_group.png)](https://gemnasium.com/pboling/letter_group)
 
-### controller_validator
-
-Use the familiar ActiveModel::Errors pattern for controller validations
-
-[![Total Downloads](https://img.shields.io/gem/rt/controller_validator.svg)](https://github.com/pboling/controller_validator)
-[![Downloads Today](https://img.shields.io/gem/rd/controller_validator.svg)](https://github.com/pboling/controller_validator)
-[![Code Quality](https://img.shields.io/codeclimate/github/pboling/controller_validator.svg)](https://codeclimate.com/github/pboling/controller_validator)
-[![Network](https://img.shields.io/github/forks/pboling/controller_validator.svg?style=social)](https://github.com/pboling/controller_validator/network)
-[![Stars](https://img.shields.io/github/stars/pboling/controller_validator.svg?style=social)](https://github.com/pboling/controller_validator/stargazers)
-[![Version](https://img.shields.io/gem/v/controller_validator.svg)](https://rubygems.org/gems/controller_validator)
-[![Build](https://img.shields.io/travis/pboling/controller_validator.svg)](https://travis-ci.org/pboling/controller_validator)
-[![Documentation](http://inch-ci.org/github/pboling/controller_validator.png)](http://inch-ci.org/github/pboling/controller_validator)
-[![Dependency Status](https://gemnasium.com/pboling/controller_validator.png)](https://gemnasium.com/pboling/controller_validator)
-
 ### each_in_batches
 
 Performance Measured and Tuned Batch Processing of Records with Blocks in Rails.
@@ -239,19 +225,7 @@ A reference implementation of a custom React renderer for Rails.  Adds benchmark
 
 ### status_tag
 
-[![Total Downloads](https://img.shields.io/gem/rt/status_tag.svg)](https://github.com/pboling/status_tag)
-[![Downloads Today](https://img.shields.io/gem/rd/status_tag.svg)](https://github.com/pboling/status_tag)
-[![Code Quality](https://img.shields.io/codeclimate/github/pboling/status_tag.svg)](https://codeclimate.com/github/pboling/status_tag)
-[![Network](https://img.shields.io/github/forks/pboling/status_tag.svg?style=social)](https://github.com/pboling/status_tag/network)
-[![Stars](https://img.shields.io/github/stars/pboling/status_tag.svg?style=social)](https://github.com/pboling/status_tag/stargazers)
-[![Version](https://img.shields.io/gem/v/status_tag.svg)](https://rubygems.org/gems/status_tag)
-[![Build](https://img.shields.io/travis/pboling/status_tag.svg)](https://travis-ci.org/pboling/status_tag)
-[![Documentation](http://inch-ci.org/github/pboling/status_tag.png)](http://inch-ci.org/github/pboling/status_tag)
-[![Dependency Status](https://gemnasium.com/pboling/status_tag.png)](https://gemnasium.com/pboling/status_tag)
-
-### sequential_file
-
-Create files with sequential file names for nicer directory listing, with automatic collision detection and resolution.
+Provides content_tag_for method signature to create customizable and logic-gated labels from objects. Also includes a presenter base class to allow any Ruby web framework to create logic around HTML tags
 
 [![Total Downloads](https://img.shields.io/gem/rt/status_tag.svg)](https://github.com/pboling/status_tag)
 [![Downloads Today](https://img.shields.io/gem/rd/status_tag.svg)](https://github.com/pboling/status_tag)
@@ -262,3 +236,31 @@ Create files with sequential file names for nicer directory listing, with automa
 [![Build](https://img.shields.io/travis/pboling/status_tag.svg)](https://travis-ci.org/pboling/status_tag)
 [![Documentation](http://inch-ci.org/github/pboling/status_tag.png)](http://inch-ci.org/github/pboling/status_tag)
 [![Dependency Status](https://gemnasium.com/pboling/status_tag.png)](https://gemnasium.com/pboling/status_tag)
+
+### rspec-pending_for
+
+Mark specs pending or skipped for specific Ruby engine (e.g. MRI or JRuby) / version combinations
+
+[![Total Downloads](https://img.shields.io/gem/rt/rspec-pending_for.svg)](https://github.com/pboling/rspec-pending_for)
+[![Downloads Today](https://img.shields.io/gem/rd/rspec-pending_for.svg)](https://github.com/pboling/rspec-pending_for)
+[![Code Quality](https://img.shields.io/codeclimate/github/pboling/rspec-pending_for.svg)](https://codeclimate.com/github/pboling/rspec-pending_for)
+[![Network](https://img.shields.io/github/forks/pboling/rspec-pending_for.svg?style=social)](https://github.com/pboling/rspec-pending_for/network)
+[![Stars](https://img.shields.io/github/stars/pboling/rspec-pending_for.svg?style=social)](https://github.com/pboling/rspec-pending_for/stargazers)
+[![Version](https://img.shields.io/gem/v/rspec-pending_for.svg)](https://rubygems.org/gems/rspec-pending_for)
+[![Build](https://img.shields.io/travis/pboling/rspec-pending_for.svg)](https://travis-ci.org/pboling/rspec-pending_for)
+[![Documentation](http://inch-ci.org/github/pboling/rspec-pending_for.png)](http://inch-ci.org/github/pboling/rspec-pending_for)
+[![Dependency Status](https://gemnasium.com/pboling/rspec-pending_for.png)](https://gemnasium.com/pboling/rspec-pending_for)
+
+### celluloid-io-pg-listener
+
+Asynchronously LISTEN for Postgresql NOTIFY messages with payloads and Do Something
+
+[![Total Downloads](https://img.shields.io/gem/rt/celluloid-io-pg-listener.svg)](https://github.com/pboling/celluloid-io-pg-listener)
+[![Downloads Today](https://img.shields.io/gem/rd/celluloid-io-pg-listener.svg)](https://github.com/pboling/celluloid-io-pg-listener)
+[![Code Quality](https://img.shields.io/codeclimate/github/pboling/celluloid-io-pg-listener.svg)](https://codeclimate.com/github/pboling/celluloid-io-pg-listener)
+[![Network](https://img.shields.io/github/forks/pboling/celluloid-io-pg-listener.svg?style=social)](https://github.com/pboling/celluloid-io-pg-listener/network)
+[![Stars](https://img.shields.io/github/stars/pboling/celluloid-io-pg-listener.svg?style=social)](https://github.com/pboling/celluloid-io-pg-listener/stargazers)
+[![Version](https://img.shields.io/gem/v/celluloid-io-pg-listener.svg)](https://rubygems.org/gems/celluloid-io-pg-listener)
+[![Build](https://img.shields.io/travis/pboling/celluloid-io-pg-listener.svg)](https://travis-ci.org/pboling/celluloid-io-pg-listener)
+[![Documentation](http://inch-ci.org/github/pboling/celluloid-io-pg-listener.png)](http://inch-ci.org/github/pboling/celluloid-io-pg-listener)
+[![Dependency Status](https://gemnasium.com/pboling/celluloid-io-pg-listener.png)](https://gemnasium.com/pboling/celluloid-io-pg-listener)
