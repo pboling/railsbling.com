@@ -28,6 +28,12 @@ disqusShortname = "railsbling"
 [[menu.main]]
     name = "Blog"
     url = "/posts"
+[[menu.main]]
+    name = "FOSS"
+    url = "/foss"
+[[menu.main]]
+    name = "Resume"
+    url = "http://resume.peterboling.com"
 
 [[menu.social]]
     pre = "<i class='fa fa-github'></i>"
