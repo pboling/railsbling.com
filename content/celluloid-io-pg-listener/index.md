@@ -8,9 +8,7 @@ series = [ "Toolchain" ]
 
 +++
 
-## For those engaged in the pillage and plunder of comma separated values.
-
-Asynchronously LISTEN for Postgresql NOTIFY messages with payloads and Do Something
+## Asynchronously LISTEN for Postgresql NOTIFY messages with payloads and Do Something
 
 [![Total Downloads](https://img.shields.io/gem/rt/celluloid-io-pg-listener.svg)](https://github.com/pboling/celluloid-io-pg-listener)
 [![Downloads Today](https://img.shields.io/gem/rd/celluloid-io-pg-listener.svg)](https://github.com/pboling/celluloid-io-pg-listener)
