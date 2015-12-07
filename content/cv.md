@@ -1,5 +1,5 @@
 +++
-date = "2015-08-12T00:54:16-07:00"
+date = "2015-12-06T23:32:16-07:00"
 draft = false
 title = "CV"
 
@@ -7,9 +7,9 @@ title = "CV"
 
 ## I build things out of bits.
 
-I am not available for additional work very often.
+I am not available for additional work very often, but I am right now, December 2015.
 
-I am working on updating my PDF CV.
+For a printable version of my Resume look here: [http://resume.peterboling.com](http://resume.peterboling.com).
 
 ## Stuff I am working on now
 

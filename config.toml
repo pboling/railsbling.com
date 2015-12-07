@@ -33,12 +33,28 @@ disqusShortname = "railsbling"
     url = "/foss"
 [[menu.main]]
     name = "Resume"
-    url = "http://resume.peterboling.com"
+    url = "/cv"
 
 [[menu.social]]
     pre = "<i class='fa fa-github'></i>"
     url = "https://github.com/pboling"
     identifier = "github"
+[[menu.social]]
+    pre = "<i class='fa fa-angellist'></i>"
+    url = "https://angel.co/peter-boling"
+    identifier = "angellist"
+[[menu.social]]
+    pre = "<i class='fa fa-code'></i>"
+    url = "https://coderwall.com/pboling"
+    identifier = "coderwall"
+[[menu.social]]
+    pre = "<i class='fa fa-cogs'></i>"
+    url = "https://coderbits.com/pboling"
+    identifier = "coderbits"
+[[menu.social]]
+    pre = "<i class='fa fa-code-fork'></i>"
+    url = "https://masterbranch.com/d/pboling"
+    identifier = "masterbranch"
 [[menu.social]]
     pre = "<i class='fa fa-twitter'></i>"
     url = "https://www.twitter.com/galtzo"

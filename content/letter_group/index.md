@@ -1,0 +1,23 @@
++++
+date = "2015-12-06T23:30:16-07:00"
+draft = false
+title = "letter_group"
+tags = [ "Development", "Ruby", "rails", "RubyGems", "letter_group" ]
+categories = [ "Development", "tools", "Ruby" ]
+series = [ "Toolchain" ]
+
++++
+
+## Organize data results from raw sql queries (as with PGresult, or Dossier) intelligently.
+
+[![Total Downloads](https://img.shields.io/gem/rt/letter_group.svg)](https://github.com/pboling/letter_group)
+[![Downloads Today](https://img.shields.io/gem/rd/letter_group.svg)](https://github.com/pboling/letter_group)
+[![Code Quality](https://img.shields.io/codeclimate/github/pboling/letter_group.svg)](https://codeclimate.com/github/pboling/letter_group)
+[![Network](https://img.shields.io/github/forks/pboling/letter_group.svg?style=social)](https://github.com/pboling/letter_group/network)
+[![Stars](https://img.shields.io/github/stars/pboling/letter_group.svg?style=social)](https://github.com/pboling/letter_group/stargazers)
+[![Version](https://img.shields.io/gem/v/letter_group.svg)](https://rubygems.org/gems/letter_group)
+[![Build](https://img.shields.io/travis/pboling/letter_group.svg)](https://travis-ci.org/pboling/letter_group)
+[![Documentation](http://inch-ci.org/github/pboling/letter_group.png)](http://inch-ci.org/github/pboling/letter_group)
+[![Dependency Status](https://gemnasium.com/pboling/letter_group.png)](https://gemnasium.com/pboling/letter_group)
+
+I'll put something here soon.
