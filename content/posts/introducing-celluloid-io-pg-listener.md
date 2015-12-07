@@ -159,5 +159,3 @@ I use a "supervisor" to do the listening.  See the bin/ directory of this projec
 What I have at the end is a `pg_notify_logs` table that fill up with logs of all the inserts into the "salesforce.account" table.  I then have my listener client (built with this gem) insert jobs into Redis for working by my queue workers which do whatever I want with the data (Sidekiq, Resque).  I can either delete the `pg_notify_logs` records, or mark them as 'processed'.  I could also record errors in processing there, but I haven't gotten that far yet.
 
 Let me know if this answered your questions!
-
-I'll clean this up and make a blog post shortly.
