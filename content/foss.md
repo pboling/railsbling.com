@@ -17,7 +17,7 @@ Along the way I have contributed to many projects, including rails' **active-rec
 ## I maintain that <i class="fa fa-level-down"></i>
 
 <div class="project">
-  <a href="/flag_shih_tzu">
+  <a href="/tags/flag_shih_tzu">
     <div class="name"><i class="fa fa-flag-checkered"></i> flag_shih_tzu</div>
   </a>
   <div class="description">Bit Fields for Active Record, (originally by <a href=""https://github.com/xing">XING Developers</a>)</div>
@@ -27,7 +27,7 @@ Along the way I have contributed to many projects, including rails' **active-rec
 [![Version](https://img.shields.io/gem/v/flag_shih_tzu.svg)](https://rubygems.org/gems/flag_shih_tzu)
 
 <div class="project">
-  <a href="/cacheable-flash">
+  <a href="/tags/cacheable-flash">
     <div class="name"><i class="fa fa-flash"></i> cacheable-flash </div>
   </a>
   <div class="description">Rails flash object, but compatible with cacheing, (originally by <a href="https://github.com/pivotal">Pivotal Labs</a>)</div>
@@ -37,7 +37,7 @@ Along the way I have contributed to many projects, including rails' **active-rec
 [![Version](https://img.shields.io/gem/v/cacheable_flash.svg)](https://rubygems.org/gems/cacheable_flash)
 
 <div class="project">
-  <a href="/subdomain-fu">
+  <a href="/tags/subdomain-fu">
     <div class="name"><i class="fa fa-eye-slash"></i> subdomain-fu</div>
   </a>
   <div class="description">Subdomain linking and routing for Rails, (written by <a href="https://github.com/mbleigh">Michael Bleigh</a>)</div>
@@ -49,7 +49,7 @@ Along the way I have contributed to many projects, including rails' **active-rec
 ## I built that <i class="fa fa-level-down"></i>
 
 <div class="project">
-  <a href="/sanitize_email">
+  <a href="/tags/sanitize_email">
     <div class="name"><i class="fa fa-send-o"></i> sanitize_email</div>
   </a>
   <div class="description">An Email Condom for your Ruby Server</div>
@@ -59,7 +59,7 @@ Along the way I have contributed to many projects, including rails' **active-rec
 [![Version](https://img.shields.io/gem/v/sanitize_email.svg)](https://rubygems.org/gems/sanitize_email)
 
 <div class="project">
-  <a href="/stackable_flash">
+  <a href="/tags/stackable_flash">
     <div class="name"><i class="fa fa-cubes"></i> stackable_flash</div>
   </a>
   <div class="description">Add Super Powers to your Rails flash object</div>
@@ -69,7 +69,7 @@ Along the way I have contributed to many projects, including rails' **active-rec
 [![Version](https://img.shields.io/gem/v/stackable_flash.svg)](https://rubygems.org/gems/stackable_flash)
 
 <div class="project">
-  <a href="/csv_pirate">
+  <a href="/tags/csv_pirate">
     <div class="name"><i class="fa fa-anchor"></i> csv_pirate</div>
   </a>
   <div class="description">Engage in pillage and plunder of demarcated values</div>
@@ -79,7 +79,7 @@ Along the way I have contributed to many projects, including rails' **active-rec
 [![Version](https://img.shields.io/gem/v/csv_pirate.svg)](https://rubygems.org/gems/csv_pirate)
 
 <div class="project">
-  <a href="/rack-insight">
+  <a href="/tags/rack-insight">
     <div class="name"><i class="fa fa-dashboard"></i> rack-insight</div>
   </a>
   <div class="description">Endlessly customizable successor of ye olde rack-bug</div>
@@ -89,7 +89,7 @@ Along the way I have contributed to many projects, including rails' **active-rec
 [![Version](https://img.shields.io/gem/v/rack-insight.svg)](https://rubygems.org/gems/rack-insight)
 
 <div class="project">
-  <a href="/gem_bench">
+  <a href="/tags/gem_bench">
     <div class="name"><i class="fa fa-ambulance"></i> gem_bench</div>
   </a>
   <div class="description">Gemfile analysis</div>
@@ -99,7 +99,7 @@ Along the way I have contributed to many projects, including rails' **active-rec
 [![Version](https://img.shields.io/gem/v/gem_bench.svg)](https://rubygems.org/gems/gem_bench)
 
 <div class="project">
-  <a href="/archivist-client">
+  <a href="/tags/archivist-client">
     <div class="name"><i class="fa fa-book"></i> archivist-client</div>
   </a>
   <div class="description">Archive.org client</div>
@@ -109,7 +109,7 @@ Along the way I have contributed to many projects, including rails' **active-rec
 [![Version](https://img.shields.io/gem/v/archivist-client.svg)](https://rubygems.org/gems/archivist-client)
 
 <div class="project">
-  <a href="/dry_views">
+  <a href="/tags/dry_views">
     <div class="name"><i class="fa fa-strikethrough"></i> dry_views</div>
   </a>
   <div class="description">Enhance Rails' content_for system with defaults</div>
@@ -119,7 +119,7 @@ Along the way I have contributed to many projects, including rails' **active-rec
 [![Version](https://img.shields.io/gem/v/dry_views.svg)](https://rubygems.org/gems/dry_views)
 
 <div class="project">
-  <a href="/destination_errors">
+  <a href="/tags/destination_errors">
     <div class="name"><i class="fa fa-chain-broken"></i> destination_errors</div>
   </a>
   <div class="description">Provides errors to the Form Object Presenter Pattern</div>
@@ -129,7 +129,7 @@ Along the way I have contributed to many projects, including rails' **active-rec
 [![Version](https://img.shields.io/gem/v/destination_errors.svg)](https://rubygems.org/gems/destination_errors)
 
 <div class="project">
-  <a href="/rack-toolbar">
+  <a href="/tags/rack-toolbar">
     <div class="name"><i class="fa fa-pencil"></i> rack-toolbar</div>
   </a>
   <div class="description">Injects things into response body</div>
@@ -139,7 +139,7 @@ Along the way I have contributed to many projects, including rails' **active-rec
 [![Version](https://img.shields.io/gem/v/rack-toolbar.svg)](https://rubygems.org/gems/rack-toolbar)
 
 <div class="project">
-  <a href="/humorous_log_formatter">
+  <a href="/tags/humorous_log_formatter">
     <div class="name"><i class="fa fa-folder-open-o"></i> humorous_log_formatter</div>
   </a>
   <div class="description">Normalize your logs.  Customize level display text, and level color.</div>
@@ -149,7 +149,7 @@ Along the way I have contributed to many projects, including rails' **active-rec
 [![Version](https://img.shields.io/gem/v/humorous_log_formatter.svg)](https://rubygems.org/gems/humorous_log_formatter)
 
 <div class="project">
-  <a href="/letter_group">
+  <a href="/tags/letter_group">
     <div class="name"><i class="fa fa-sort-alpha-asc"></i> letter_group</div>
   </a>
   <div class="description">Organize data results from raw sql queries (as with PGresult, or Dossier) intelligently</div>
@@ -159,7 +159,7 @@ Along the way I have contributed to many projects, including rails' **active-rec
 [![Version](https://img.shields.io/gem/v/letter_group.svg)](https://rubygems.org/gems/letter_group)
 
 <div class="project">
-  <a href="/each_in_batches">
+  <a href="/tags/each_in_batches">
     <div class="name"><i class="fa fa-tasks"></i> each_in_batches</div>
   </a>
   <div class="description">Performance Measured and Tuned Batch Processing of Records with Blocks in Rails</div>
@@ -169,7 +169,7 @@ Along the way I have contributed to many projects, including rails' **active-rec
 [![Version](https://img.shields.io/gem/v/each_in_batches.svg)](https://rubygems.org/gems/each_in_batches)
 
 <div class="project">
-  <a href="/react-rails-benchmark_renderer">
+  <a href="/tags/react-rails-benchmark_renderer">
     <div class="name"><i class="fa fa-clock-o"></i> react-rails-benchmark_renderer</div>
   </a>
   <div class="description">A reference implementation of a custom React renderer for Rails.  Adds benchmarking info to Rails logs for parity with Rails view rendering benchmarking.</div>
@@ -179,7 +179,7 @@ Along the way I have contributed to many projects, including rails' **active-rec
 [![Version](https://img.shields.io/gem/v/react-rails-benchmark_renderer.svg)](https://rubygems.org/gems/react-rails-benchmark_renderer)
 
 <div class="project">
-  <a href="/status_tag">
+  <a href="/tags/status_tag">
     <div class="name"><i class="fa fa-tags"></i> status_tag</div>
   </a>
   <div class="description">Provides content_tag_for method signature to create customizable and logic-gated labels from objects. Also includes a presenter base class to allow any Ruby web framework to create logic around HTML tags.</div>
@@ -189,7 +189,7 @@ Along the way I have contributed to many projects, including rails' **active-rec
 [![Version](https://img.shields.io/gem/v/status_tag.svg)](https://rubygems.org/gems/status_tag)
 
 <div class="project">
-  <a href="/rspec-pending_for">
+  <a href="/tags/rspec-pending_for">
     <div class="name"><i class="fa fa-toggle-off"></i> rspec-pending_for</div>
   </a>
   <div class="description">Mark specs pending or skipped for specific Ruby engine (e.g. MRI or JRuby) / version combinations.</div>
@@ -199,7 +199,7 @@ Along the way I have contributed to many projects, including rails' **active-rec
 [![Version](https://img.shields.io/gem/v/rspec-pending_for.svg)](https://rubygems.org/gems/rspec-pending_for)
 
 <div class="project">
-  <a href="/celluloid-io-pg-listener">
+  <a href="/tags/celluloid-io-pg-listener">
     <div class="name"><i class="fa fa-headphones"></i> celluloid-io-pg-listener</div>
   </a>
   <div class="description">Mark specs pending or skipped for specific Ruby engine (e.g. MRI or JRuby) / version combinations.</div>
