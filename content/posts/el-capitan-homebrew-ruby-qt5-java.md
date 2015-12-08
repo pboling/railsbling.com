@@ -1,6 +1,12 @@
 +++
 date = "2015-09-30T22:43:30-07:00"
 draft = false
+authorlink = "https://about.me/peter.boling"
+authorlinktarget = "_blank"
+authortwitter = "https://www.twitter.com/galtzo"
+authorlinkedin = "https://www.linkedin.com/in/peterboling"
+authorfacebook = "https://www.facebook.com/peter.boling"
+authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "Upgrade to El Capitan with Homebrew, Ruby, qt5, & Java"
 tags = [ "Development", "Ruby", "rails", "environment", "homebrew", "qt5", "java" ]
 categories = [ "Development", "howto", "Ruby" ]

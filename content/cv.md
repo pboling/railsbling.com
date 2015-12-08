@@ -1,6 +1,12 @@
 +++
 date = "2015-12-06T23:32:16-07:00"
 draft = false
+authorlink = "https://about.me/peter.boling"
+authorlinktarget = "_blank"
+authortwitter = "https://www.twitter.com/galtzo"
+authorlinkedin = "https://www.linkedin.com/in/peterboling"
+authorfacebook = "https://www.facebook.com/peter.boling"
+authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "CV"
 
 +++
@@ -17,6 +23,7 @@ For a printable version of my Resume look here: [http://resume.peterboling.com](
 [![Tweet](https://img.shields.io/twitter/url/https/trumaker.com.svg?style=social)](https://twitter.com/intent/tweet?text=Shirts:&amp;url=https%3A%2F%2Ftrumaker.com)
 * Co-founder of [WordTree Foundation](http://blog.wordtree.org) - non-profit scientific linguistics research, 2014 - present
 [![Tweet](https://img.shields.io/twitter/url/http/wordtree.org.svg?style=social)](https://twitter.com/intent/tweet?text=Interesting:&amp;url=http%3A%2F%2Fwordtree.org)
+* This blog!  [Check out the source.](https://github.com/pboling/railsbling.com)
 
 ## Past Work
 

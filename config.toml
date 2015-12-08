@@ -8,6 +8,8 @@ disqusShortname = "railsbling"
   AuthorName = "Peter Boling"
   DateForm = "Mon, Jan 2, 2006"
   GoogleAnalyticsUserID = "UA-37606822-1"
+  gaid = "UA-37606822-1"
+  baseurl = "http://www.railsbling.com/"
   Facebook = "peter.boling"
   Twitter = "galtzo"
   Github = "pboling"
@@ -16,6 +18,8 @@ disqusShortname = "railsbling"
   SyntaxHighlightTheme = "solarized_dark.min.css"
   sidebartitle = "Rails Bling"
   sidebartagline = "Yet Another Paradigm by Peter Boling"
+  categoriescss = "/css/project.css"
+  noauthor = false
 
 [taxonomies]
   tag = "tags"

@@ -1,6 +1,12 @@
 +++
 date = "2015-12-07T01:27:16-08:00"
 draft = false
+authorlink = "https://about.me/peter.boling"
+authorlinktarget = "_blank"
+authortwitter = "https://www.twitter.com/galtzo"
+authorlinkedin = "https://www.linkedin.com/in/peterboling"
+authorfacebook = "https://www.facebook.com/peter.boling"
+authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "Introducing celluloid-io-pg-listener"
 tags = [ "Development", "Ruby", "rails", "RubyGems", "celluloid-io-pg-listener" ]
 categories = [ "Development", "tools", "Ruby", "async", "evented", "threaded" ]
@@ -24,7 +30,7 @@ Allows you to asynchronously LISTEN for Postgresql NOTIFY messages and do someth
 
 
 <a href="https://github.com/pboling/celluloid-io-pg-listener/issues/2">
-  <img src="/images/interesting-celluloid-io-pg-listener.png" alt="Interesting Project!" style="width: 700px;"/>
+  <img src="/images/interesting-celluloid-io-pg-listener.png" alt="Interesting Project!" style="width: 75%;"/>
 </a>
 
 Sure! 

@@ -1,6 +1,12 @@
 +++
 date = "2015-09-03T09:26:22-07:00"
 draft = false
+authorlink = "https://about.me/peter.boling"
+authorlinktarget = "_blank"
+authortwitter = "https://www.twitter.com/galtzo"
+authorlinkedin = "https://www.linkedin.com/in/peterboling"
+authorfacebook = "https://www.facebook.com/peter.boling"
+authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "Fix The Nokogiri Warning"
 tags = [ "Development", "Ruby", "rubygems", "nokogiri", "bundler" ]
 categories = [ "Development", "howto", "Ruby" ]
