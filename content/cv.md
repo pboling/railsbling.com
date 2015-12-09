@@ -13,9 +13,11 @@ title = "CV"
 
 ## I build things out of bits.
 
-I am not available for additional work very often, but I am right now, December 2015.
+I am not available for new opportunities very often, but I am right now, December 2015.
 
 For a printable version of my Resume look here: [http://resume.peterboling.com](http://resume.peterboling.com).
+
+My [public calendar is available](https://calendar.google.com/calendar/embed?src=peter.boling%40gmail.com&ctz=America/Los_Angeles), so you can know when I am available for scheduling interviews.
 
 ## Stuff I am working on now
 

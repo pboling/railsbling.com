@@ -28,5 +28,8 @@ title = "contact"
 * https://twitter.com/galtzo 
 * https://facebook.com/peter.boling
 
-## Follow me!
+## My Schedule
 
+Here is my public calendar so you know when I am available:
+
+<iframe src="https://calendar.google.com/calendar/embed?src=peter.boling%40gmail.com&ctz=America/Los_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
