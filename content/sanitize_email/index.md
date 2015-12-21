@@ -26,7 +26,6 @@ series = [ "Toolchain" ]
 [![Coverage Status](https://coveralls.io/repos/pboling/sanitize_email/badge.png)](https://coveralls.io/r/pboling/sanitize_email)
 [![Documentation](http://inch-ci.org/github/pboling/sanitize_email.png)](http://inch-ci.org/github/pboling/sanitize_email)
 [![Dependency Status](https://gemnasium.com/pboling/sanitize_email.png)](https://gemnasium.com/pboling/sanitize_email)
-[![Maintainer Status](http://stillmaintained.com/pboling/sanitize_email.png)](http://stillmaintained.com/pboling/sanitize_email)
 
 # sanitize_email
 
