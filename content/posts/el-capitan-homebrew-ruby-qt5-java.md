@@ -137,11 +137,30 @@ gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB8
 
 The main app I currently work on is using Ruby 2.1.2, so I install that first, and then go to the project directory to have the gemset created and to bundle.
 
+**Update 12/21/2015**
+
+I eventually ran into OpenSSL errors due to a certificate chain being outdated.  The error was:
+
 ```
-rvm install 2.1.2
-cd ~/project
-gem install bundler -v 1.9.7
-bundle install
+SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed:
+```
+
+I took a few additional steps to ensure Ruby would be fully operational, including disabling the binary install.
+
+```
+∴ rvm osx-ssl-certs update all
+# or whichever Ruby you need
+∴ rvm reinstall 2.2.3 --disable-binary 
+∴ rvm use 2.2.3@myproject 
+```
+
+Bundler version 1.9.7 because that's what Heroku is on, and I want to stay in sync, because 1.10* changed things that make the `Gemfile.lock` incompatible with 1.9.7 on the deployed server (for me, with multiple gem sources, private gem server, etc).
+
+```
+∴ cd ~/project
+# If you use a specific gemset
+∴ gem install bundler -v 1.9.7 
+∴ bundle install
 ```
 
 ### Postgres
@@ -152,3 +171,4 @@ Glorious.
 
 * [On reddit](https://www.reddit.com/r/ruby/comments/3n26gt/upgrade_to_el_capitan_with_homebrew_ruby/)
 * [On Github](https://gist.github.com/pboling/c2bb179e73f8a6ca94e4)
+* The reddit version of this post was featured in [RubyWeekly Issue #266, October 1, 2015](http://rubyweekly.com/issues/266)
