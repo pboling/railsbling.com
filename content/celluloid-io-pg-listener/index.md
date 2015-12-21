@@ -1,5 +1,5 @@
 +++
-date = "2015-12-06T23:30:16-07:00"
+date = "2015-12-21T00:30:16-07:00"
 draft = false
 authorlink = "https://about.me/peter.boling"
 authorlinktarget = "_blank"
@@ -14,7 +14,9 @@ series = [ "Toolchain" ]
 
 +++
 
-## Asynchronously LISTEN for Postgresql NOTIFY messages with payloads and Do Something
+## LISTEN for Postgresql NOTIFY messages;
+
+### Asynchronously process payloads
 
 [![Total Downloads](https://img.shields.io/gem/rt/celluloid-io-pg-listener.svg)](https://github.com/pboling/celluloid-io-pg-listener)
 [![Downloads Today](https://img.shields.io/gem/rd/celluloid-io-pg-listener.svg)](https://github.com/pboling/celluloid-io-pg-listener)
@@ -26,4 +28,20 @@ series = [ "Toolchain" ]
 [![Documentation](http://inch-ci.org/github/pboling/celluloid-io-pg-listener.png)](http://inch-ci.org/github/pboling/celluloid-io-pg-listener)
 [![Dependency Status](https://gemnasium.com/pboling/celluloid-io-pg-listener.png)](https://gemnasium.com/pboling/celluloid-io-pg-listener)
 
-I'll put something here soon.
+`celluloid-io-pg-listener` (on [github](https://github.com/pboling/celluloid-io-pg-listener))
+
+# Why?
+
+At [Trumaker & Co](http://www.trumaker.com) we had a distributed data problem.
+Two data stores that needed to be kept synchronized, in real time, with inserts and updates allowed on both sides.
+There wasn't a good solution available for that, so I did a lot of research and built `celluloid-io-pg-listener` to solve the problem.
+
+# How?
+
+The data stores are both PostgreSQL databases living in different `namespaces` (i.e. `schemas` in PostgreSQL-speak).  A recently improved feature of PostgreSQL is the built-in pub/sub type messaging channel.  It can pass payloads, and as of version `9.4`, has a built-in function (`json_build_object`) to serialize data as `JSON`.
+
+With some triggers and functions on both sides connected by the channel payloads would be sent with information about inserts and updates happening on the other side.
+
+# I want to know more!
+
+Read [this little tutorial.](/posts/introducing-celluloid-io-pg-listener/)

@@ -15,7 +15,7 @@ title = "CV"
 
 I am not available for new opportunities very often, but I am right now, December 2015.
 
-For a printable version of my Resume look here: [http://resume.peterboling.com](http://resume.peterboling.com).
+For a printable version of my resume look here: [http://resume.peterboling.com](http://resume.peterboling.com).
 
 My [public calendar is available](https://calendar.google.com/calendar/embed?src=peter.boling%40gmail.com&ctz=America/Los_Angeles), so you can know when I am available for scheduling interviews.
 
@@ -29,7 +29,7 @@ My [public calendar is available](https://calendar.google.com/calendar/embed?src
 
 ## Past Work
 
-* Resident Ruby Expert at [Church Pension Group](https://www.cpg.org/) &larr; I built the entire backend, 10x improvement in performance, 2013 - 2014 ([bloomberg profile](http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=3648509))
+* Resident Ruby Expert at [Church Pension Group](https://www.cpg.org/) &larr; I (re)built the entire backend, 10x improvement in performance, 2013 - 2014 ([bloomberg profile](http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=3648509))
 * Co-founder & CTO of Acquaintable, accepted into ERA (NYC-based accelerator), then acquired, 2012 - 2013 ([on Crunchbase](https://www.crunchbase.com/organization/acquaintable))([Tweet @ my co-founder](https://twitter.com/joeljrod))
 * First Employee and Senior Rails Developer on Bloomberg Black, 2010 - 2012 ([bloomberg profile](http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=160210))
 * Senior Rails Developer, [BibleGateway](https://www.biblegateway.com/) (6 month PHP to Rails contract), 2010 ([on wikipedia](https://en.wikipedia.org/wiki/BibleGateway.com))
@@ -46,7 +46,7 @@ My [public calendar is available](https://calendar.google.com/calendar/embed?src
 
 * CIT (Computer Information Technology), Indiana University, 2005 - 2008 \*
 * Computer Science, Ball State University, 2004 - 2005 \*
-* MIS (Manufacturing Information Systems), Purdue University, 2002 - 2004 \*
+* MIS (Management Information Systems), Purdue University, 2002 - 2004 \*
 * Computer Science, Ball State University, 1997 - 1999 \*
 
 \* (No actual degrees, just lots of education!)
