@@ -61,8 +61,8 @@ disqusShortname = "railsbling"
     identifier = "coderbits"
 [[menu.social]]
     pre = "<i class='fa fa-code-fork'></i>"
-    url = "https://masterbranch.com/d/pboling"
-    identifier = "masterbranch"
+    url = "https://geekli.st/pboling"
+    identifier = "geekli.st"
 [[menu.social]]
     pre = "<i class='fa fa-twitter'></i>"
     url = "https://www.twitter.com/galtzo"
@@ -87,6 +87,10 @@ disqusShortname = "railsbling"
     pre = "<i class='fa fa-diamond'></i>"
     url = "https://rubygems.org/profiles/pboling"
     identifier = "rubygems"
+[[menu.social]]
+    pre = "<i class='fa fa-gittip'></i>"
+    url = "https://gratipay.com/~pboling/"
+    identifier = "gittip"
 
 [[menu.footer]]
     name = "My Old Blog"
