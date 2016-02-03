@@ -13,22 +13,23 @@ title = "CV"
 
 ## I build things out of bits.
 
-I am not available for new opportunities very often, but I am right now, December 2015.
+I have accepted a new position leading Productivity and Automation at Invoice2Go starting in January 2016 in Redwood City, CA.  I am thrilled to have found a role that matches perfectly with my passion for efficiency and process iteration.  I am not currently considering new opportunities.
 
 For a printable version of my resume look here: [http://resume.peterboling.com](http://resume.peterboling.com).
 
-My [public calendar is available](https://calendar.google.com/calendar/embed?src=peter.boling%40gmail.com&ctz=America/Los_Angeles), so you can know when I am available for scheduling interviews.
+My [public calendar is available](https://calendar.google.com/calendar/embed?src=peter.boling%40gmail.com&ctz=America/Los_Angeles), so you can know when I am available.  I am always happy to chat about tech, and have advised many companies on a wide range of issues from development to infrastructure.
 
 ## Stuff I am working on now
 
-* Senior Engineer at [Trumaker](http://www.trumaker.com) - building a bad-ass system. 2014 - present 
-[![Tweet](https://img.shields.io/twitter/url/https/trumaker.com.svg?style=social)](https://twitter.com/intent/tweet?text=Shirts:&amp;url=https%3A%2F%2Ftrumaker.com)
+* Senior Systems Engineer at [Invoice2Go](http://www.invoice2go.com), 2016 - present
 * Co-founder of [WordTree Foundation](http://blog.wordtree.org) - non-profit scientific linguistics research, 2014 - present
 [![Tweet](https://img.shields.io/twitter/url/http/wordtree.org.svg?style=social)](https://twitter.com/intent/tweet?text=Interesting:&amp;url=http%3A%2F%2Fwordtree.org)
 * This blog!  [Check out the source.](https://github.com/pboling/railsbling.com)
 
 ## Past Work
 
+* Senior Engineer at [Trumaker](http://www.trumaker.com) - building a bad-ass system. 2014 - 2016 
+[![Fashion Tweet](https://img.shields.io/twitter/url/https/trumaker.com.svg?style=social)](https://twitter.com/intent/tweet?text=Shirts:&amp;url=https%3A%2F%2Ftrumaker.com)
 * Resident Ruby Expert at [Church Pension Group](https://www.cpg.org/) &larr; I (re)built the entire backend, 10x improvement in performance, 2013 - 2014 ([bloomberg profile](http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=3648509))
 * Co-founder & CTO of Acquaintable, accepted into ERA (NYC-based accelerator), then acquired, 2012 - 2013 ([on Crunchbase](https://www.crunchbase.com/organization/acquaintable))([Tweet @ my co-founder](https://twitter.com/joeljrod))
 * First Employee and Senior Rails Developer on Bloomberg Black, 2010 - 2012 ([bloomberg profile](http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=160210))
