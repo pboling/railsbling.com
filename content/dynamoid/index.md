@@ -16,16 +16,16 @@ series = [ "Toolchain" ]
 
 ## Bit Fields for Active Record
 
-[![Total Downloads](https://img.shields.io/gem/rt/flag_shih_tzu.svg)](https://github.com/pboling/flag_shih_tzu)
-[![Downloads Today](https://img.shields.io/gem/rd/flag_shih_tzu.svg)](https://github.com/pboling/flag_shih_tzu)
-[![Code Quality](https://img.shields.io/codeclimate/github/pboling/flag_shih_tzu.svg)](https://codeclimate.com/github/pboling/flag_shih_tzu)
-[![Network](https://img.shields.io/github/forks/pboling/flag_shih_tzu.svg?style=social)](https://github.com/pboling/flag_shih_tzu/network)
-[![Stars](https://img.shields.io/github/stars/pboling/flag_shih_tzu.svg?style=social)](https://github.com/pboling/flag_shih_tzu/stargazers)
+[![Total Downloads](https://img.shields.io/gem/rt/flag_shih_tzu.svg)](https://github.com/Dynamoid/Dynamoid)
+[![Downloads Today](https://img.shields.io/gem/rd/flag_shih_tzu.svg)](https://github.com/Dynamoid/Dynamoid)
+[![Code Quality](https://img.shields.io/codeclimate/github/Dynamoid/Dynamoid.svg)](https://codeclimate.com/github/Dynamoid/Dynamoid)
+[![Network](https://img.shields.io/github/forks/Dynamoid/Dynamoid.svg?style=social)](https://github.com/Dynamoid/Dynamoid/network)
+[![Stars](https://img.shields.io/github/stars/Dynamoid/Dynamoid.svg?style=social)](https://github.com/Dynamoid/Dynamoid/stargazers)
 [![Version](https://img.shields.io/gem/v/flag_shih_tzu.svg)](https://rubygems.org/gems/flag_shih_tzu)
-[![Build](https://img.shields.io/travis/pboling/flag_shih_tzu.svg)](https://travis-ci.org/pboling/flag_shih_tzu)
-[![Documentation](http://inch-ci.org/github/pboling/flag_shih_tzu.svg)](http://inch-ci.org/github/pboling/flag_shih_tzu)
-[![Dependency Status](https://gemnasium.com/pboling/flag_shih_tzu.svg)](https://gemnasium.com/pboling/flag_shih_tzu)
-[![Chat](https://img.shields.io/gitter/room/pboling/flag_shih_tzu.svg)](https://img.shields.io/gitter/room/pboling/flag_shih_tzu.svg)
+[![Build](https://img.shields.io/travis/Dynamoid/Dynamoid.svg)](https://travis-ci.org/Dynamoid/Dynamoid)
+[![Documentation](http://inch-ci.org/github/Dynamoid/Dynamoid.svg)](http://inch-ci.org/github/Dynamoid/Dynamoid)
+[![Dependency Status](https://gemnasium.com/Dynamoid/Dynamoid.svg)](https://gemnasium.com/Dynamoid/Dynamoid)
+[![Chat](https://img.shields.io/gitter/room/pboling/dry_views.svg)](https://gitter.im/pboling/dry_views)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ### What is a bit field?

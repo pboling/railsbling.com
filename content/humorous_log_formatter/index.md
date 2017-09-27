@@ -28,7 +28,8 @@ series = [ "Toolchain" ]
 [![Stars](https://img.shields.io/github/stars/pboling/humorous_log_formatter.svg?style=social)](https://github.com/pboling/humorous_log_formatter/stargazers)
 [![Version](https://img.shields.io/gem/v/humorous_log_formatter.svg)](https://rubygems.org/gems/humorous_log_formatter)
 [![Build](https://img.shields.io/travis/pboling/humorous_log_formatter.svg)](https://travis-ci.org/pboling/humorous_log_formatter)
-[![Documentation](http://inch-ci.org/github/pboling/humorous_log_formatter.png)](http://inch-ci.org/github/pboling/humorous_log_formatter)
-[![Dependency Status](https://gemnasium.com/pboling/humorous_log_formatter.png)](https://gemnasium.com/pboling/humorous_log_formatter)
+[![Documentation](http://inch-ci.org/github/pboling/humorous_log_formatter.svg)](http://inch-ci.org/github/pboling/humorous_log_formatter)
+[![Dependency Status](https://gemnasium.com/pboling/humorous_log_formatter.svg)](https://gemnasium.com/pboling/humorous_log_formatter)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 I'll put something here soon.

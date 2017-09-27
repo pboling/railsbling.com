@@ -23,6 +23,8 @@ series = [ "Toolchain" ]
 [![Stars](https://img.shields.io/github/stars/pboling/debug_logging.svg?style=social)](https://github.com/pboling/debug_logging/stargazers)
 [![Version](https://img.shields.io/gem/v/debug_logging.svg)](https://rubygems.org/gems/debug_logging)
 [![Build](https://img.shields.io/travis/pboling/debug_logging.svg)](https://travis-ci.org/pboling/debug_logging)
-[![Dependency Status](https://gemnasium.com/pboling/debug_logging.png)](https://gemnasium.com/pboling/debug_logging)
+[![Dependency Status](https://gemnasium.com/pboling/debug_logging.svg)](https://gemnasium.com/pboling/debug_logging)
+[![Chat](https://img.shields.io/gitter/room/pboling/debug_logging.svg)](https://gitter.im/pboling/debug_logging)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 I'll put something here soon.

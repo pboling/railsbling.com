@@ -23,7 +23,9 @@ series = [ "Toolchain" ]
 [![Stars](https://img.shields.io/github/stars/wordtreefoundation/archivist-client.svg?style=social)](https://github.com/wordtreefoundation/archivist-client/stargazers)
 [![Version](https://img.shields.io/gem/v/archivist-client.svg)](https://rubygems.org/gems/archivist-client)
 [![Build](https://img.shields.io/travis/wordtreefoundation/archivist-client.svg)](https://travis-ci.org/wordtreefoundation/archivist-client)
-[![Documentation](http://inch-ci.org/github/wordtreefoundation/archivist-client.png)](http://inch-ci.org/github/wordtreefoundation/archivist-client)
-[![Dependency Status](https://gemnasium.com/wordtreefoundation/archivist-client.png)](https://gemnasium.com/wordtreefoundation/archivist-client)
+[![Documentation](http://inch-ci.org/github/wordtreefoundation/archivist-client.svg)](http://inch-ci.org/github/wordtreefoundation/archivist-client)
+[![Dependency Status](https://gemnasium.com/wordtreefoundation/archivist-client.svg)](https://gemnasium.com/wordtreefoundation/archivist-client)
+[![Chat](https://img.shields.io/gitter/room/wordtreefoundation/wordtreefoundation.svg)](https://gitter.im/wordtreefoundation)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 I'll put something here soon.

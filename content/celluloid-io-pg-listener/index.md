@@ -25,8 +25,10 @@ series = [ "Toolchain" ]
 [![Stars](https://img.shields.io/github/stars/pboling/celluloid-io-pg-listener.svg?style=social)](https://github.com/pboling/celluloid-io-pg-listener/stargazers)
 [![Version](https://img.shields.io/gem/v/celluloid-io-pg-listener.svg)](https://rubygems.org/gems/celluloid-io-pg-listener)
 [![Build](https://img.shields.io/travis/pboling/celluloid-io-pg-listener.svg)](https://travis-ci.org/pboling/celluloid-io-pg-listener)
-[![Documentation](http://inch-ci.org/github/pboling/celluloid-io-pg-listener.png)](http://inch-ci.org/github/pboling/celluloid-io-pg-listener)
-[![Dependency Status](https://gemnasium.com/pboling/celluloid-io-pg-listener.png)](https://gemnasium.com/pboling/celluloid-io-pg-listener)
+[![Documentation](http://inch-ci.org/github/pboling/celluloid-io-pg-listener.svg)](http://inch-ci.org/github/pboling/celluloid-io-pg-listener)
+[![Dependency Status](https://gemnasium.com/pboling/celluloid-io-pg-listener.svg)](https://gemnasium.com/pboling/celluloid-io-pg-listener)
+[![Chat](https://img.shields.io/gitter/room/pboling/celluloid-io-pg-listener.svg)](https://gitter.im/pboling/celluloid-io-pg-listener)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 `celluloid-io-pg-listener` (on [github](https://github.com/pboling/celluloid-io-pg-listener))
 

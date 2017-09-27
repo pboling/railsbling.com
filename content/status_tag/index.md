@@ -25,7 +25,9 @@ Also includes a presenter base class to allow any Ruby web framework to create l
 [![Stars](https://img.shields.io/github/stars/pboling/status_tag.svg?style=social)](https://github.com/pboling/status_tag/stargazers)
 [![Version](https://img.shields.io/gem/v/status_tag.svg)](https://rubygems.org/gems/status_tag)
 [![Build](https://img.shields.io/travis/pboling/status_tag.svg)](https://travis-ci.org/pboling/status_tag)
-[![Documentation](http://inch-ci.org/github/pboling/status_tag.png)](http://inch-ci.org/github/pboling/status_tag)
-[![Dependency Status](https://gemnasium.com/pboling/status_tag.png)](https://gemnasium.com/pboling/status_tag)
+[![Documentation](http://inch-ci.org/github/pboling/status_tag.svg)](http://inch-ci.org/github/pboling/status_tag)
+[![Dependency Status](https://gemnasium.com/pboling/status_tag.svg)](https://gemnasium.com/pboling/status_tag)
+[![Chat](https://img.shields.io/gitter/room/pboling/status_tag.svg)](https://gitter.im/pboling/status_tag)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 I'll put something here soon.

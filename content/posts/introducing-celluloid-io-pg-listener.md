@@ -25,8 +25,8 @@ Allows you to asynchronously LISTEN for Postgresql NOTIFY messages and do someth
 [![Network](https://img.shields.io/github/forks/pboling/celluloid-io-pg-listener.svg?style=social)](https://github.com/pboling/celluloid-io-pg-listener/network)
 [![Stars](https://img.shields.io/github/stars/pboling/celluloid-io-pg-listener.svg?style=social)](https://github.com/pboling/celluloid-io-pg-listener/stargazers)
 [![Version](https://img.shields.io/gem/v/celluloid-io-pg-listener.svg)](https://rubygems.org/gems/celluloid-io-pg-listener)
-[![Documentation](http://inch-ci.org/github/pboling/celluloid-io-pg-listener.png)](http://inch-ci.org/github/pboling/celluloid-io-pg-listener)
-[![Dependency Status](https://gemnasium.com/pboling/celluloid-io-pg-listener.png)](https://gemnasium.com/pboling/celluloid-io-pg-listener)
+[![Documentation](http://inch-ci.org/github/pboling/celluloid-io-pg-listener.svg)](http://inch-ci.org/github/pboling/celluloid-io-pg-listener)
+[![Dependency Status](https://gemnasium.com/pboling/celluloid-io-pg-listener.svg)](https://gemnasium.com/pboling/celluloid-io-pg-listener)
 
 
 <a href="https://github.com/pboling/celluloid-io-pg-listener/issues/2">

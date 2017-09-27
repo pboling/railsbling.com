@@ -23,7 +23,8 @@ series = [ "Toolchain" ]
 [![Stars](https://img.shields.io/github/stars/pboling/stackable_flash.svg?style=social)](https://github.com/pboling/stackable_flash/stargazers)
 [![Version](https://img.shields.io/gem/v/stackable_flash.svg)](https://rubygems.org/gems/stackable_flash)
 [![Build](https://img.shields.io/travis/pboling/stackable_flash.svg)](https://travis-ci.org/pboling/stackable_flash)
-[![Documentation](http://inch-ci.org/github/pboling/stackable_flash.png)](http://inch-ci.org/github/pboling/stackable_flash)
-[![Dependency Status](https://gemnasium.com/pboling/stackable_flash.png)](https://gemnasium.com/pboling/stackable_flash)
+[![Documentation](http://inch-ci.org/github/pboling/stackable_flash.svg)](http://inch-ci.org/github/pboling/stackable_flash)
+[![Dependency Status](https://gemnasium.com/pboling/stackable_flash.svg)](https://gemnasium.com/pboling/stackable_flash)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 I'll put something here soon.

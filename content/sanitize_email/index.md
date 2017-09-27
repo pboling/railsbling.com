@@ -23,9 +23,11 @@ series = [ "Toolchain" ]
 [![Stars](https://img.shields.io/github/stars/pboling/sanitize_email.svg?style=social)](https://github.com/pboling/sanitize_email/stargazers)
 [![Version](https://img.shields.io/gem/v/sanitize_email.svg)](https://rubygems.org/gems/sanitize_email)
 [![Build](https://img.shields.io/travis/pboling/sanitize_email.svg)](https://travis-ci.org/pboling/sanitize_email)
-[![Coverage Status](https://coveralls.io/repos/pboling/sanitize_email/badge.png)](https://coveralls.io/r/pboling/sanitize_email)
-[![Documentation](http://inch-ci.org/github/pboling/sanitize_email.png)](http://inch-ci.org/github/pboling/sanitize_email)
-[![Dependency Status](https://gemnasium.com/pboling/sanitize_email.png)](https://gemnasium.com/pboling/sanitize_email)
+[![Coverage Status](https://coveralls.io/repos/pboling/sanitize_email/badge.svg)](https://coveralls.io/r/pboling/sanitize_email)
+[![Documentation](http://inch-ci.org/github/pboling/sanitize_email.svg)](http://inch-ci.org/github/pboling/sanitize_email)
+[![Dependency Status](https://gemnasium.com/pboling/sanitize_email.svg)](https://gemnasium.com/pboling/sanitize_email)
+[![Chat](https://img.shields.io/gitter/room/pboling/sanitize_email.svg)](https://gitter.im/pboling/sanitize_email)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # sanitize_email
 

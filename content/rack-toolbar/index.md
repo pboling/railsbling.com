@@ -23,7 +23,9 @@ series = [ "Toolchain" ]
 [![Stars](https://img.shields.io/github/stars/pboling/rack-toolbar.svg?style=social)](https://github.com/pboling/rack-toolbar/stargazers)
 [![Version](https://img.shields.io/gem/v/rack-toolbar.svg)](https://rubygems.org/gems/rack-toolbar)
 [![Build](https://img.shields.io/travis/pboling/rack-toolbar.svg)](https://travis-ci.org/pboling/rack-toolbar)
-[![Documentation](http://inch-ci.org/github/pboling/rack-toolbar.png)](http://inch-ci.org/github/pboling/rack-toolbar)
-[![Dependency Status](https://gemnasium.com/pboling/rack-toolbar.png)](https://gemnasium.com/pboling/rack-toolbar)
+[![Documentation](http://inch-ci.org/github/pboling/rack-toolbar.svg)](http://inch-ci.org/github/pboling/rack-toolbar)
+[![Dependency Status](https://gemnasium.com/pboling/rack-toolbar.svg)](https://gemnasium.com/pboling/rack-toolbar)
+[![Chat](https://img.shields.io/gitter/room/pboling/rack-toolbar.svg)](https://gitter.im/pboling/rack-toolbar)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 I'll put something here soon.

@@ -23,8 +23,10 @@ series = [ "Toolchain" ]
 [![Stars](https://img.shields.io/github/stars/pboling/each_in_batches.svg?style=social)](https://github.com/pboling/each_in_batches/stargazers)
 [![Version](https://img.shields.io/gem/v/each_in_batches.svg)](https://rubygems.org/gems/each_in_batches)
 [![Build](https://img.shields.io/travis/pboling/each_in_batches.svg)](https://travis-ci.org/pboling/each_in_batches)
-[![Documentation](http://inch-ci.org/github/pboling/each_in_batches.png)](http://inch-ci.org/github/pboling/each_in_batches)
-[![Dependency Status](https://gemnasium.com/pboling/each_in_batches.png)](https://gemnasium.com/pboling/each_in_batches)
+[![Documentation](http://inch-ci.org/github/pboling/each_in_batches.svg)](http://inch-ci.org/github/pboling/each_in_batches)
+[![Dependency Status](https://gemnasium.com/pboling/each_in_batches.svg)](https://gemnasium.com/pboling/each_in_batches)
+[![Chat](https://img.shields.io/gitter/room/pboling/each_in_batches.svg)](https://gitter.im/pboling/deach_in_batches)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # EachInBatches
 

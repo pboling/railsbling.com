@@ -23,7 +23,9 @@ series = [ "Toolchain" ]
 [![Stars](https://img.shields.io/github/stars/pboling/activerecord-transactionable.svg?style=social)](https://github.com/pboling/activerecord-transactionable/stargazers)
 [![Version](https://img.shields.io/gem/v/archivist-client.svg)](https://rubygems.org/gems/archivist-client)
 [![Build](https://img.shields.io/travis/pboling/activerecord-transactionable.svg)](https://travis-ci.org/pboling/activerecord-transactionable)
-[![Documentation](http://inch-ci.org/github/pboling/activerecord-transactionable.png)](http://inch-ci.org/github/pboling/activerecord-transactionable)
-[![Dependency Status](https://gemnasium.com/pboling/activerecord-transactionable.png)](https://gemnasium.com/pboling/activerecord-transactionable)
+[![Documentation](http://inch-ci.org/github/pboling/activerecord-transactionable.svg)](http://inch-ci.org/github/pboling/activerecord-transactionable)
+[![Dependency Status](https://gemnasium.com/pboling/activerecord-transactionable.svg)](https://gemnasium.com/pboling/activerecord-transactionable)
+[![Chat](https://img.shields.io/gitter/room/pboling/activerecord-transactionable.svg)](https://img.shields.io/gitter/room/pboling/activerecord-transactionable.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Makes it easy to do transactions correctly, with proper error handling, configurable retries, and rollbacks.

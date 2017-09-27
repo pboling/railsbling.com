@@ -25,7 +25,7 @@ written by <a href="https://github.com/mbleigh">Michael Bleigh</a>, maintained b
 [![Stars](https://img.shields.io/github/stars/pboling/status_tag.svg?style=social)](https://github.com/pboling/status_tag/stargazers)
 [![Version](https://img.shields.io/gem/v/status_tag.svg)](https://rubygems.org/gems/status_tag)
 [![Build](https://img.shields.io/travis/pboling/status_tag.svg)](https://travis-ci.org/pboling/status_tag)
-[![Documentation](http://inch-ci.org/github/pboling/status_tag.png)](http://inch-ci.org/github/pboling/status_tag)
-[![Dependency Status](https://gemnasium.com/pboling/status_tag.png)](https://gemnasium.com/pboling/status_tag)
+[![Documentation](http://inch-ci.org/github/pboling/status_tag.svg)](http://inch-ci.org/github/pboling/status_tag)
+[![Dependency Status](https://gemnasium.com/pboling/status_tag.svg)](https://gemnasium.com/pboling/status_tag)
 
 I'll put something here soon.

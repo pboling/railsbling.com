@@ -23,7 +23,9 @@ series = [ "Toolchain" ]
 [![Stars](https://img.shields.io/github/stars/pboling/csv_pirate.svg?style=social)](https://github.com/pboling/csv_pirate/stargazers)
 [![Version](https://img.shields.io/gem/v/csv_pirate.svg)](https://rubygems.org/gems/csv_pirate)
 [![Build](https://img.shields.io/travis/pboling/csv_pirate.svg)](https://travis-ci.org/pboling/csv_pirate)
-[![Documentation](http://inch-ci.org/github/pboling/csv_pirate.png)](http://inch-ci.org/github/pboling/csv_pirate)
-[![Dependency Status](https://gemnasium.com/pboling/csv_pirate.png)](https://gemnasium.com/pboling/csv_pirate)
+[![Documentation](http://inch-ci.org/github/pboling/csv_pirate.svg)](http://inch-ci.org/github/pboling/csv_pirate)
+[![Dependency Status](https://gemnasium.com/pboling/csv_pirate.svg)](https://gemnasium.com/pboling/csv_pirate)
+[![Chat](https://img.shields.io/gitter/room/pboling/csv_pirate.svg)](https://gitter.im/pboling/csv_pirate)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 I'll put something here soon.
