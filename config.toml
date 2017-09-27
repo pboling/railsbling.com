@@ -44,25 +44,37 @@ disqusShortname = "railsbling"
     url = "https://github.com/pboling"
     identifier = "github"
 [[menu.social]]
-    pre = "<i class='fa fa-trophy'></i>"
-    url = "http://github-awards.com/users/search?login=pboling"
-    identifier = "awards"
+    pre = "<i class='fa fa-linkedin'></i>"
+    url = "https://www.linkedin.com/in/peterboling"
+    identifier = "linkedin"
+[[menu.social]]
+    pre = "<i class='fa fa-diamond'></i>"
+    url = "https://rubygems.org/profiles/pboling"
+    identifier = "rubygems"
 [[menu.social]]
     pre = "<i class='fa fa-angellist'></i>"
     url = "https://angel.co/peter-boling"
     identifier = "angellist"
 [[menu.social]]
+    pre = "<i class='fa fa-code-fork'></i>"
+    url = "https://www.crunchbase.com/person/peter-boling#/entity"
+    identifier = "crunchbase"
+[[menu.social]]
+    pre = "<i class='fa fa-smile-o'></i>"
+    url = "https://about.me/peter.boling"
+    identifier = "aboutme"
+[[menu.social]]
     pre = "<i class='fa fa-code'></i>"
-    url = "https://coderwall.com/pboling"
-    identifier = "coderwall"
+    url = "https://stackoverflow.com/users/213191/peter-h-boling?tab=profile"
+    identifier = "stackoverflow"
+[[menu.social]]
+    pre = "<i class='fa fa-trophy'></i>"
+    url = "http://github-awards.com/users/search?login=pboling"
+    identifier = "awards"
 [[menu.social]]
     pre = "<i class='fa fa-cogs'></i>"
     url = "https://coderbits.com/pboling"
     identifier = "coderbits"
-[[menu.social]]
-    pre = "<i class='fa fa-code-fork'></i>"
-    url = "https://geekli.st/pboling"
-    identifier = "geekli.st"
 [[menu.social]]
     pre = "<i class='fa fa-twitter'></i>"
     url = "https://www.twitter.com/galtzo"
@@ -72,21 +84,9 @@ disqusShortname = "railsbling"
     url = "https://www.facebook.com/peter.boling"
     identifier = "facebook"
 [[menu.social]]
-    pre = "<i class='fa fa-linkedin'></i>"
-    url = "https://www.linkedin.com/in/peterboling"
-    identifier = "linkedin"
-[[menu.social]]
     pre = "<i class='fa fa-google-plus'></i>"
     url = "https://plus.google.com/+PeterBoling/posts"
     identifier = "google-plus"
-[[menu.social]]
-    pre = "<i class='fa fa-smile-o'></i>"
-    url = "https://about.me/peter.boling"
-    identifier = "aboutme"
-[[menu.social]]
-    pre = "<i class='fa fa-diamond'></i>"
-    url = "https://rubygems.org/profiles/pboling"
-    identifier = "rubygems"
 [[menu.social]]
     pre = "<i class='fa fa-gittip'></i>"
     url = "https://gratipay.com/~pboling/"
