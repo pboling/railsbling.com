@@ -13,6 +13,8 @@ title = "CV"
 
 # Resume
 
+### Download
+
 My resume as [WEB](http://resume.peterboling.com), [PDF](https://drive.google.com/open?id=0B93ImOO_OrnTNDVwYkZmVVZmSG8), or [DOCX](https://drive.google.com/open?id=0B93ImOO_OrnTSXIzZXcxTkpROFE).
 
 ### I build things out of bits
