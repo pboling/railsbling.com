@@ -11,39 +11,58 @@ title = "CV"
 
 +++
 
-## I build things out of bits.
+# Resume
 
-I have accepted a new position leading Productivity and Automation at Invoice2Go starting in January 2016 in Redwood City, CA.  I am thrilled to have found a role that matches perfectly with my passion for efficiency and process iteration.  I am not currently considering new opportunities.
+My resume as [WEB](http://resume.peterboling.com), [PDF](https://drive.google.com/open?id=0B93ImOO_OrnTNDVwYkZmVVZmSG8), or [DOCX](https://drive.google.com/open?id=0B93ImOO_OrnTSXIzZXcxTkpROFE).
 
-For a printable version of my resume look here: [http://resume.peterboling.com](http://resume.peterboling.com).
+### I build things out of bits
+
+I am exploring new opportunities that can match my passion for efficiency and process iteration. I have accomplished all that I set out to in the contracting role I have had at Intricately for the past 18 months. For my next position I hope to find a long-term, full-time, role where I can roll up my sleeves and dedicate myself to building, or improving upon, a solid backend system, as an architect, or building a team to do so, as a team lead.
+
+### About Me
+
+Experienced system architect, team leader, mentor, rubyist, and full stack web application programmer since 2004; sometime linux system administrator.
+
+Author and maintainer of many popular open source libraries.
+
+I excel at data analysis, task automation, testing, style guides, best practices, API design, benchmarking, and Domain Driven Design.
+
+Created solutions for finance, social networking, government, information technology, B2B, fashion, gaming, publishing, and e-commerce sectors.
+
+Dedicated to moving science forward and improving the condition of life generally by automation and process improvement.
 
 My [public calendar is available](https://calendar.google.com/calendar/embed?src=peter.boling%40gmail.com&ctz=America/Los_Angeles), so you can know when I am available.  I am always happy to chat about tech, and have advised many companies on a wide range of issues from development to infrastructure.
 
-## Stuff I am working on now
+### Stuff I am working on now
 
-* Senior Systems Engineer at [Invoice2Go](http://www.invoice2go.com), 2016 - present
+* Principle Engineer at [Intricately](https://www.intricately.com) &larr; I built, optimized, or extended, most of the backend, 2016 - Present ([on Crunchbase](https://www.crunchbase.com/organization/intricately#/entity))
 * Co-founder of [WordTree Foundation](http://blog.wordtree.org) - non-profit scientific linguistics research, 2014 - present
 [![Tweet](https://img.shields.io/twitter/url/http/wordtree.org.svg?style=social)](https://twitter.com/intent/tweet?text=Interesting:&amp;url=http%3A%2F%2Fwordtree.org)
 * This blog!  [Check out the source.](https://github.com/pboling/railsbling.com)
 
-## Past Work
+### Past Work
 
-* Senior Engineer at [Trumaker](http://www.trumaker.com) - building a bad-ass system. 2014 - 2016 
+* Principle Engineer & Web Team Lead at [Invoice2Go](https://www.invoice2go.com) &larr; Led team in rewrite; implemented engineering process, 2016 - 2017 ([on Crunchbase](https://www.crunchbase.com/organization/invoice2go))
+* Senior Engineer at [Trumaker](http://www.trumaker.com) - built a hydra: e-commerce platform, sales CRM, warehousing, inventory management, and fulfillment system. 2014 - 2016 
 [![Fashion Tweet](https://img.shields.io/twitter/url/https/trumaker.com.svg?style=social)](https://twitter.com/intent/tweet?text=Shirts:&amp;url=https%3A%2F%2Ftrumaker.com)
-* Resident Ruby Expert at [Church Pension Group](https://www.cpg.org/) &larr; I (re)built the entire backend, 10x improvement in performance, 2013 - 2014 ([bloomberg profile](http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=3648509))
+* Senior Staff Architect, Services at [Church Pension Group](https://www.cpg.org/) &larr; I (re)built the entire backend, 10x improvement in performance, 2013 - 2014 ([bloomberg profile](http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=3648509))
 * Co-founder & CTO of Acquaintable, accepted into ERA (NYC-based accelerator), then acquired, 2012 - 2013 ([on Crunchbase](https://www.crunchbase.com/organization/acquaintable))([Tweet @ my co-founder](https://twitter.com/joeljrod))
-* First Employee and Senior Rails Developer on Bloomberg Black, 2010 - 2012 ([bloomberg profile](http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=160210))
-* Senior Rails Developer, [BibleGateway](https://www.biblegateway.com/) (6 month PHP to Rails contract), 2010 ([on wikipedia](https://en.wikipedia.org/wiki/BibleGateway.com))
-* Tech Lead & Rails Developer, [Neighborino](http://www.neighborino.com/) (HOA startup) &larr; I built that!, 2008 - 2010 ([on Crunchbase](https://www.crunchbase.com/organization/neighborino))
+* First Employee and Tech Lead on Bloomberg Black, 2010 - 2012 ([bloomberg profile](http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=160210))
+* Senior Rails Developer, [BibleGateway](https://www.biblegateway.com/) (9 month PHP to Rails contract), 2010 ([on wikipedia](https://en.wikipedia.org/wiki/BibleGateway.com))
+* Tech Lead & Rails Developer, Neighborino (HOA startup), 2008 - 2010 ([on Crunchbase](https://www.crunchbase.com/organization/neighborino))
 * Partner, Team Lead and Senior Rails Developer, Sagebit LLC (development shop), 2007 - 2009 ([on Crunchbase](https://www.crunchbase.com/organization/sagebit)([Tweet @ a co-founder](https://twitter.com/ben_mishkin))
-* Senior Software Engineer (Rails & XSLT), [Indiana Legislative Services Agency](http://www.in.gov/legislative/register/irtoc.htm) &larr; I built that!, 2006 - 2007 ([on Ballotpedia](http://ballotpedia.org/Indiana_Legislative_Services_Agency))
+* Senior Software Engineer (Rails & XSLT), [Indiana Legislative Services Agency](http://www.in.gov/legislative/register/irtoc.htm) &larr; I built the Indiana Register!, 2006 - 2007 ([on Ballotpedia](http://ballotpedia.org/Indiana_Legislative_Services_Agency))
 * Linux Sys Admin, .deb, Java, PHP, Rails Developer, Optivel (IT shop), 2004 - 2006 ([tweet at my old boss!](https://twitter.com/macksmind))
 
-### Skills:
+### Skills
 
-* Expert at creating modern interactive websites utilizing Ruby on Rails, Javascript, CSS, and HTML
+* Expert at creating modern interactive websites utilizing Ruby on Rails, various backend data stores, Javascript, CSS, and HTML
+* Fluent in 3 languages, English, Spanish, and Portuguese, and conversational in Indonesian.
+* Nationally recognized, licensed, certified coffee barista; CBD College in Sydney, RTO# 91399
+  * SITHFAB005 Prepare and serve espresso coffee
+  * SITXFSA001 Use hygienic practices for food safety
 
-### Education: 
+### Education
 
 * CIT (Computer Information Technology), Indiana University, 2005 - 2008 \*
 * Computer Science, Ball State University, 2004 - 2005 \*
