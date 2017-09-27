@@ -23,7 +23,7 @@ I am exploring new opportunities that can match my passion for efficiency and pr
 
 Experienced system architect, team leader, mentor, rubyist, and full stack web application programmer since 2004; sometime linux system administrator.
 
-Author and maintainer of many popular open source libraries.
+Author and maintainer of many popular open source libraries [![On RubyGems](https://img.shields.io/gem/u/pboling.svg)](https://rubygems.org/profiles/pboling).
 
 I excel at data analysis, task automation, testing, style guides, best practices, API design, benchmarking, and Domain Driven Design.
 

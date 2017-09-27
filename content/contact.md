@@ -24,9 +24,9 @@ title = "contact"
 [![On Github](https://img.shields.io/github/followers/pboling.svg)](https://github.com/pboling/)
 [![On RubyGems](https://img.shields.io/gem/u/pboling.svg)](https://rubygems.org/profiles/pboling)
 
-* http://www.linkedin.com/in/peterboling
-* https://twitter.com/galtzo 
-* https://facebook.com/peter.boling
+* [http://www.linkedin.com/in/peterboling](http://www.linkedin.com/in/peterboling)
+* [https://twitter.com/galtzo](https://twitter.com/galtzo)
+* [https://facebook.com/peter.boling](https://facebook.com/peter.boling)
 
 ## My Schedule
 
