@@ -64,8 +64,12 @@ I am a political activist utilizing my social currency to advocate for equality 
 ### Skills
 
 * Expert at creating modern interactive websites utilizing Ruby on Rails, various backend data stores, Javascript, CSS, and HTML
-* Fluent in 3 languages, English, Spanish, and Portuguese, and conversational in Indonesian.
-* Nationally recognized, licensed, certified coffee barista; CBD College in Sydney, RTO# 91399
+* Fluent in 3 languages
+  * English
+  * Spanish
+  * Portuguese
+  * and conversational in Indonesian
+* Licensed, certified coffee barista; CBD College in Sydney, RTO# 91399
   * SITHFAB005 Prepare and serve espresso coffee
   * SITXFSA001 Use hygienic practices for food safety
 
