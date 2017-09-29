@@ -37,9 +37,7 @@ Dedicated to moving science forward and improving the condition of life generall
 
 My [public calendar is available](https://calendar.google.com/calendar/embed?src=peter.boling%40gmail.com&ctz=America/Los_Angeles), so you can know when I am available.  I am always happy to chat about tech, and have advised many companies on a wide range of issues from development to infrastructure.
 
-I am a political activist utilizing my social currency to advocate for equality for all
- 
-[![Follow Me](https://img.shields.io/twitter/follow/galtzo.svg?style=social&label=Follow)](http://twitter.com/intent/user?screen_name=galtzo)
+I am a political activist utilizing my social currency to advocate for equality for all [![Follow Me](https://img.shields.io/twitter/follow/galtzo.svg?style=social&label=Follow)](http://twitter.com/intent/user?screen_name=galtzo).
 
 ### Stuff I am working on now
 
