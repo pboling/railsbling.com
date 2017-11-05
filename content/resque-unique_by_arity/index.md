@@ -14,7 +14,7 @@ series = [ "Toolchain" ]
 
 +++
 
-## Magic hacks which allow integration of job multiple Resque plugins providing different types of job  uniqueness
+## Magic hacks which allow integration of job multiple Resque plugins providing different types of job uniqueness
 
 `resque_solo` and `resque-unique_at_runtime` (a `resque-lonely_job` rewrite) will now work together!  Without this gem they are fundamentally incompatible. 
 
