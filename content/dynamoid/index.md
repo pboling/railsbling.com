@@ -14,7 +14,7 @@ series = [ "Toolchain" ]
 
 +++
 
-## Keep slow gems on the bench.  Gemfile analysis.
+## Ruby ORM for Amazon's DynamoDB.
 
 [![Total Downloads](https://img.shields.io/gem/rt/Dynamoid.svg)](https://github.com/Dynamoid/Dynamoid)
 [![Downloads Today](https://img.shields.io/gem/rd/Dynamoid.svg)](https://github.com/Dynamoid/Dynamoid)
