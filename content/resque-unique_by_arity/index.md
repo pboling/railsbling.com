@@ -14,7 +14,9 @@ series = [ "Toolchain" ]
 
 +++
 
-## Mark specs pending or skipped for specific Ruby engine (e.g. MRI or JRuby) / version combinations.
+## Magic hacks which allow integration of job multiple Resque plugins providing different types of job  uniqueness
+
+`resque_solo` and `resque-unique_at_runtime` (a `resque-lonely_job` rewrite) will now work together!  Without this gem they are fundamentally incompatible. 
 
 [![Total Downloads](https://img.shields.io/gem/rt/resque-unique_by_arity.svg)](https://github.com/pboling/resque-unique_by_arity)
 [![Downloads Today](https://img.shields.io/gem/rd/resque-unique_by_arity.svg)](https://github.com/pboling/resque-unique_by_arity)
