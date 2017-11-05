@@ -1,5 +1,5 @@
 +++
-date = "2015-12-06T23:30:16-07:00"
+date = "2017-11-02T23:30:16-07:00"
 draft = false
 authorlink = "https://about.me/peter.boling"
 authorlinktarget = "_blank"
@@ -14,7 +14,7 @@ series = [ "Toolchain" ]
 
 +++
 
-## Mark specs pending or skipped for specific Ruby engine (e.g. MRI or JRuby) / version combinations.
+## A resque plugin that ensures that only one job for a given queue will be running on any worker at a given time.
 
 [![Total Downloads](https://img.shields.io/gem/rt/resque-unique_at_runtime.svg)](https://github.com/pboling/resque-unique_at_runtime)
 [![Downloads Today](https://img.shields.io/gem/rd/resque-unique_at_runtime.svg)](https://github.com/pboling/resque-unique_at_runtime)
