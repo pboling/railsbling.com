@@ -55,16 +55,6 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 [![Stars](https://img.shields.io/github/stars/pboling/cacheable-flash.svg?style=social)](https://github.com/pboling/cacheable-flash/stargazers)
 [![Version](https://img.shields.io/gem/v/cacheable_flash.svg)](https://rubygems.org/gems/cacheable_flash)
 
-<div class="project">
-  <a href="/tags/subdomain-fu">
-    <div class="name"><i class="fa fa-eye-slash"></i> subdomain-fu&rarr;</div>
-  </a>
-  <div class="description">Subdomain linking and routing for Rails, (written by <a href="https://github.com/mbleigh">Michael Bleigh</a>)</div>
-</div>
-
-[![Stars](https://img.shields.io/github/stars/mbleigh/subdomain-fu.svg?style=social)](https://github.com/mbleigh/subdomain-fu/stargazers)
-[![Version](https://img.shields.io/gem/v/cacheable_flash.svg)](https://rubygems.org/gems/cacheable_flash)
-
 ## Ruby: I built that <i class="fa fa-level-down"></i>
 
 <div class="project">
