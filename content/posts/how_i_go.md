@@ -15,7 +15,7 @@ series = [ "Blogging" ]
 
 +++
 
-I am relaunching my blog!  I have decided to use [Hugo](https://gohugo.io/) after much internal debate, and strong lobbying from all the sleazy corporate bag-men that are constantly trying to bribe me with buzz words <i class='fa fa-money'></i>.  I will always <i class='fa fa-heart'></i> Ruby and use it every day, but for my blog I gotta go.  So easy, static and fast!  As my first post I will document how I made this work.
+I am relaunching my blog!  I have decided to use [Hugo](https://gohugo.io/) after much internal debate, and strong lobbying from all the sleazy corporate bag-men that are constantly trying to bribe me with buzz words <i class='fas fa-money'></i>.  I will always <i class='fas fa-heart'></i> Ruby and use it every day, but for my blog I gotta go.  So easy, static and fast!  As my first post I will document how I made this work.
 
 ## My Architecture
 
@@ -43,7 +43,7 @@ Look nice right?!?  Have that [source](https://github.com/tmaiaroto/hugo-redloun
 
 ## HOW TO HUGO
 
-Enough evangelism, let's talk code <i class='fa fa-code'></i>.
+Enough evangelism, let's talk code <i class='fas fa-code'></i>.
 
 ### Setup the Web Host
 
@@ -72,7 +72,7 @@ Then add Hugo's `bin` dir to my `$PATH`
 echo 'export PATH=~/root/usr/bin:$PATH' >> ~/.bashrc
 ```
 
-I will be pushing my site's repo onto the server as a remote from my local.  So prepare <i class='fa fa-git'></i> for that.
+I will be pushing my site's repo onto the server as a remote from my local.  So prepare <i class='fas fa-git'></i> for that.
 
 ```
 mkdir ~/railsbling.git
@@ -87,7 +87,7 @@ Then checkout the theme I chose onto the server.  I picked `redlounge` (for now)
 git clone https://github.com/tmaiaroto/hugo-redlounge.git ~/redlounge.git
 ```
 
-Then tweak for my needs and make it my `~/railsbling.git/.git/hooks/post-receive` <i class='fa fa-paste'></i>:
+Then tweak for my needs and make it my `~/railsbling.git/.git/hooks/post-receive` <i class='fas fa-paste'></i>:
 
 ```
 cat ~/railsbling.git/.git/hooks/post-receive

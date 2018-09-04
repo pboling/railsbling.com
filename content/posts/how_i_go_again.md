@@ -43,7 +43,7 @@ So nice right?!?  Have that [source](https://github.com/tmaiaroto/hugo-redlounge
 
 ## HOW TO HUGO
 
-Enough evangelism, let's talk code <i class='fa fa-code'></i>.
+Enough evangelism, let's talk code <i class='fas fa-code'></i>.
 
 ### Setup the Web Host
 
@@ -86,7 +86,7 @@ I had already done this for the initial install 2 years ago, but the path has ch
 echo 'export PATH=~/root/usr/local/bin:$PATH' >> ~/.bashrc
 ```
 
-You will be pushing my site's git repo onto the server as a remote from my local.  So prepare <i class='fa fa-git'></i> for that.
+You will be pushing my site's git repo onto the server as a remote from my local.  So prepare <i class='fas fa-git'></i> for that.
 I had already done this for the initial install 2 years ago, and it isn't changing, so I skipped this step.
 
 ```
@@ -105,7 +105,7 @@ git clone https://github.com/tmaiaroto/hugo-redlounge.git ~/redlounge.git
 
 And instead I just went into my `redlounge.git` directory and did a `git pull`.
 
-Then tweak for my needs and make it my `~/railsbling.git/.git/hooks/post-receive` <i class='fa fa-paste'></i>:
+Then tweak for my needs and make it my `~/railsbling.git/.git/hooks/post-receive` <i class='fas fa-paste'></i>:
 I had already done this for the initial install 2 years ago, but the path changed with the newer version of hugo (adds `local`).
 
 ```

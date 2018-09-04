@@ -17,17 +17,17 @@ type = "page"
 
 I have been writing RubyGems since 2008, and Rails plugins since 2005.
 
-## Contributions to the community <i class="fa fa-level-down"></i>
+## Contributions to the community <i class="fas fa-level-down"></i>
 
 Along the way I have contributed to many projects, including **rails' active-record** ([PR #20921](https://github.com/rails/rails/pull/20921)), **hashie** ([PR #313](https://github.com/intridea/hashie/pull/313), [PR #314](https://github.com/intridea/hashie/pull/314), [PR #315](https://github.com/intridea/hashie/pull/315), [PR #316](https://github.com/intridea/hashie/pull/316), and [PR #318](https://github.com/intridea/hashie/pull/318)), **memoist** ([PR #33](https://github.com/matthewrudy/memoist/pull/33)), **neography** ([PR #74](https://github.com/maxdemarzi/neography/pull/74) and [PR #104](https://github.com/maxdemarzi/neography/pull/104)), **masonry-rails** ([PR #14](https://github.com/kristianmandrup/masonry-rails/pull/14)), **zues-parallel_tests** ([PR #28](https://github.com/sevos/zeus-parallel_tests/pull/28)), **rusen** ([PR #5](https://github.com/moove-it/rusen/pull/5), and [PR #6](https://github.com/moove-it/rusen/pull/6)), and **gem-release** ([PR #37](https://github.com/svenfuchs/gem-release/pull/37), and [PR #38](https://github.com/svenfuchs/gem-release/pull/38)).
 
 Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript), [my Older Ruby work&rarr;](/ruby-old)
 
-## Ruby: I maintain that <i class="fa fa-level-down"></i>
+## Ruby: I maintain that <i class="fas fa-level-down"></i>
 
 <div class="project">
   <a href="/tags/oauth2">
-    <div class="name"><i class="fa fa-flag-checkered"></i> oauth2&rarr;</div>
+    <div class="name"><i class="fas fa-flag-checkered"></i> oauth2&rarr;</div>
   </a>
   <div class="description">A Ruby wrapper for the OAuth 2.0 protocol</div>
 </div>
@@ -37,7 +37,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/flag_shih_tzu">
-    <div class="name"><i class="fa fa-flag-checkered"></i> flag_shih_tzu&rarr;</div>
+    <div class="name"><i class="fas fa-flag-checkered"></i> flag_shih_tzu&rarr;</div>
   </a>
   <div class="description">Bit Fields for Active Record, (originally by <a href=""https://github.com/xing">XING Developers</a>)</div>
 </div>
@@ -47,7 +47,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/cacheable-flash">
-    <div class="name"><i class="fa fa-flash"></i> cacheable-flash&rarr;</div>
+    <div class="name"><i class="fas fa-flash"></i> cacheable-flash&rarr;</div>
   </a>
   <div class="description">Rails flash object, but compatible with cacheing, (originally by <a href="https://github.com/pivotal">Pivotal Labs</a>)</div>
 </div>
@@ -55,11 +55,11 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 [![Stars](https://img.shields.io/github/stars/pboling/cacheable-flash.svg?style=social)](https://github.com/pboling/cacheable-flash/stargazers)
 [![Version](https://img.shields.io/gem/v/cacheable_flash.svg)](https://rubygems.org/gems/cacheable_flash)
 
-## Ruby: I built that <i class="fa fa-level-down"></i>
+## Ruby: I built that <i class="fas fa-level-down"></i>
 
 <div class="project">
   <a href="/tags/celluloid-io-pg-listener">
-    <div class="name"><i class="fa fa-headphones"></i> celluloid-io-pg-listener&rarr;</div>
+    <div class="name"><i class="fas fa-headphones"></i> celluloid-io-pg-listener&rarr;</div>
   </a>
   <div class="description">LISTEN for NOTIFY events from PostgreSQL and Asynchronously Do Something with the payload.</div>
 </div>
@@ -69,7 +69,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/sanitize_email">
-    <div class="name"><i class="fa fa-send-o"></i> sanitize_email&rarr;</div>
+    <div class="name"><i class="fas fa-send-o"></i> sanitize_email&rarr;</div>
   </a>
   <div class="description">An Email Condom for your Ruby Server</div>
 </div>
@@ -79,7 +79,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/status_tag">
-    <div class="name"><i class="fa fa-tags"></i> status_tag&rarr;</div>
+    <div class="name"><i class="fas fa-tags"></i> status_tag&rarr;</div>
   </a>
   <div class="description">Provides content_tag_for method signature to create customizable and logic-gated labels from objects. Also includes a presenter base class to allow any Ruby web framework to create logic around HTML tags.</div>
 </div>
@@ -89,7 +89,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/rack-insight">
-    <div class="name"><i class="fa fa-dashboard"></i> rack-insight</div>
+    <div class="name"><i class="fas fa-dashboard"></i> rack-insight</div>
   </a>
   <div class="description">Endlessly customizable successor of ye olde rack-bug</div>
 </div>
@@ -99,7 +99,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/rspec-pending_for">
-    <div class="name"><i class="fa fa-toggle-off"></i> rspec-pending_for&rarr;</div>
+    <div class="name"><i class="fas fa-toggle-off"></i> rspec-pending_for&rarr;</div>
   </a>
   <div class="description">Mark specs pending or skipped for specific Ruby engine / version combinations (e.g. MRI or jRuby, or version 1.9.3).</div>
 </div>
@@ -109,7 +109,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/gem_bench">
-    <div class="name"><i class="fa fa-ambulance"></i> gem_bench&rarr;</div>
+    <div class="name"><i class="fas fa-ambulance"></i> gem_bench&rarr;</div>
   </a>
   <div class="description">Gemfile analysis</div>
 </div>
@@ -119,7 +119,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/archivist-client">
-    <div class="name"><i class="fa fa-book"></i> archivist-client&rarr;</div>
+    <div class="name"><i class="fas fa-book"></i> archivist-client&rarr;</div>
   </a>
   <div class="description">Archive.org client</div>
 </div>
@@ -129,7 +129,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/stackable_flash">
-    <div class="name"><i class="fa fa-cubes"></i> stackable_flash&rarr;</div>
+    <div class="name"><i class="fas fa-cubes"></i> stackable_flash&rarr;</div>
   </a>
   <div class="description">Add Super Powers to your Rails flash object</div>
 </div>
@@ -139,7 +139,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/csv_pirate">
-    <div class="name"><i class="fa fa-anchor"></i> csv_pirate&rarr;</div>
+    <div class="name"><i class="fas fa-anchor"></i> csv_pirate&rarr;</div>
   </a>
   <div class="description">Engage in pillage and plunder of demarcated values</div>
 </div>
@@ -149,7 +149,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/dry_views">
-    <div class="name"><i class="fa fa-strikethrough"></i> dry_views&rarr;</div>
+    <div class="name"><i class="fas fa-strikethrough"></i> dry_views&rarr;</div>
   </a>
   <div class="description">Enhance Rails' content_for system with defaults</div>
 </div>
@@ -159,7 +159,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/destination_errors">
-    <div class="name"><i class="fa fa-chain-broken"></i> destination_errors&rarr;</div>
+    <div class="name"><i class="fas fa-chain-broken"></i> destination_errors&rarr;</div>
   </a>
   <div class="description">Provides errors to the Form Object Presenter Pattern</div>
 </div>
@@ -169,7 +169,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/rack-toolbar">
-    <div class="name"><i class="fa fa-pencil"></i> rack-toolbar&rarr;</div>
+    <div class="name"><i class="fas fa-pencil"></i> rack-toolbar&rarr;</div>
   </a>
   <div class="description">Injects things into response body</div>
 </div>
@@ -179,7 +179,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/humorous_log_formatter">
-    <div class="name"><i class="fa fa-folder-open-o"></i> humorous_log_formatter&rarr;</div>
+    <div class="name"><i class="fas fa-folder-open-o"></i> humorous_log_formatter&rarr;</div>
   </a>
   <div class="description">Normalize your logs.  Customize level display text, and level color.</div>
 </div>
@@ -189,7 +189,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/letter_group">
-    <div class="name"><i class="fa fa-sort-alpha-asc"></i> letter_group&rarr;</div>
+    <div class="name"><i class="fas fa-sort-alpha-asc"></i> letter_group&rarr;</div>
   </a>
   <div class="description">Organize data results from raw sql queries (as with PGresult, or Dossier) intelligently</div>
 </div>
@@ -199,7 +199,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/each_in_batches">
-    <div class="name"><i class="fa fa-tasks"></i> each_in_batches&rarr;</div>
+    <div class="name"><i class="fas fa-tasks"></i> each_in_batches&rarr;</div>
   </a>
   <div class="description">Performance Measured and Tuned Batch Processing of Records with Blocks in Rails</div>
 </div>
@@ -209,7 +209,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/react-rails-benchmark_renderer">
-    <div class="name"><i class="fa fa-clock-o"></i> react-rails-benchmark_renderer&rarr;</div>
+    <div class="name"><i class="fas fa-clock-o"></i> react-rails-benchmark_renderer&rarr;</div>
   </a>
   <div class="description">A reference implementation of a custom React renderer for Rails.  Adds benchmarking info to Rails logs for parity with Rails view rendering benchmarking.</div>
 </div>
