@@ -64,6 +64,12 @@ mv hugo_0.14_amd64.deb old_debs/
 mv hugo_0.15_amd64.deb old_debs/
 ```
 
+I remove the old local hugo install.
+
+```
+rm -rf ~/root
+```
+
 Now I download and build the new Hugo.
 
 ```
@@ -100,7 +106,7 @@ git clone https://github.com/tmaiaroto/hugo-redlounge.git ~/redlounge.git
 And instead I just went into my `redlounge.git` directory and did a `git pull`.
 
 Then tweak for my needs and make it my `~/railsbling.git/.git/hooks/post-receive` <i class='fa fa-paste'></i>:
-I had already done this for the initial install 2 years ago, and it isn't changing, so I skipped this step.
+I had already done this for the initial install 2 years ago, but the path changed with the newer version of hugo (adds `local`).
 
 ```
 cat ~/railsbling.git/.git/hooks/post-receive
@@ -114,7 +120,7 @@ SITE_WWW=$HOME/railsbling.com
 git clone $SITE_REPO $SITE_TMP
 git clone $THEME_REPO $THEME_TMP
 cd $SITE_TMP
-$HOME/root/usr/bin/hugo --theme="redlounge" -s $SITE_TMP -d $SITE_WWW -b "http://www.railsbling.com"
+$HOME/root/usr/local/bin/hugo --theme="redlounge" -s $SITE_TMP -d $SITE_WWW -b "http://www.railsbling.com"
 rm -Rf $SITE_TMP
 exit
 ```
