@@ -73,8 +73,8 @@ disqusShortname = "railsbling"
     identifier = "awards"
 [[menu.social]]
     pre = "<i class='fa fa-cogs'></i>"
-    url = "https://coderbits.com/pboling"
-    identifier = "coderbits"
+    url = "https://www.hackerrank.com/peter_boling"
+    identifier = "hackerrank"
 [[menu.social]]
     pre = "<i class='fa fa-twitter'></i>"
     url = "https://www.twitter.com/galtzo"

@@ -25,6 +25,16 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 ## Ruby: I maintain that <i class="fa fa-level-down"></i>
 
 <div class="project">
+  <a href="/tags/oauth2">
+    <div class="name"><i class="fa fa-flag-checkered"></i> oauth2&rarr;</div>
+  </a>
+  <div class="description">A Ruby wrapper for the OAuth 2.0 protocol</div>
+</div>
+
+[![Stars](https://img.shields.io/github/stars/oauth-xx/oauth2.svg?style=social)](https://github.com/oauth-xx/oauth2/stargazers)
+[![Version](https://img.shields.io/gem/v/oauth2.svg)](https://rubygems.org/gems/oauth2)
+
+<div class="project">
   <a href="/tags/flag_shih_tzu">
     <div class="name"><i class="fa fa-flag-checkered"></i> flag_shih_tzu&rarr;</div>
   </a>

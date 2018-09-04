@@ -1,5 +1,5 @@
 +++
-date = "2015-08-31T00:55:47-07:00"
+date = "2018-09-04T02:55:33-07:00"
 draft = false
 authorlink = "https://about.me/peter.boling"
 authorlinktarget = "_blank"
@@ -7,7 +7,7 @@ authortwitter = "https://www.twitter.com/galtzo"
 authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
-title = "How I Go"
+title = "How I Go Again"
 socialsharing = true
 tags = [ "Development", "Go" ]
 categories = [ "Development", "howto", "Go" ]
@@ -15,17 +15,17 @@ series = [ "Blogging" ]
 
 +++
 
-I am relaunching my blog!  I have decided to use [Hugo](https://gohugo.io/) after much internal debate, and strong lobbying from all the sleazy corporate bag-men that are constantly trying to bribe me with buzz words <i class='fa fa-money'></i>.  I will always <i class='fa fa-heart'></i> Ruby and use it every day, but for my blog I gotta go.  So easy, static and fast!  As my first post I will document how I made this work.
+I am upgrading my [Hugo-based](https://gohugo.io/) blog from v0.15 to v0.48!  Quite a mad leap.
 
 ## My Architecture
 
 ### Local is Mac
 
-My workhorse is my heavily modified (via cover stickers) Macbook Pro.  I may replicate the setup on my linux box, and if I do I'll add notes for important tweaks to this process.
+I am using a Mac for this process.
 
 ### Host is Dreamhost
 
-My host is Dreamhost shared hosting, because I have an unlimited plan with them, and they are fundamentally awesome in my experience, but this guide will probably work for whatever host you have.  Deploying a static site means I don't need an app server that eats barbells for breakfast.
+My host is Dreamhost shared hosting, because I have an unlimited plan with them, and they are fundamentally awesome in my experience, but this guide will probably work for whatever host I have.  Deploying a static site means I don't need an app server that eats barbells for breakfast.
 
 Configured my web directory as:
 
@@ -35,11 +35,11 @@ railsbling.com
 
 ### Build is Hugo
 
-Hugo is very customizable and pluguzable, so I can add Disqus comments, and [SEO sharing bars to my posts](http://discuss.gohugo.io/t/hugo-seo-social-partials/353), and other cool stuff (all of which I have yet to tackle).  Static doesn't need to mean boring.  There is also a wide range of possibilities with Javascript.
+Hugo is very customizable.  Static doesn't need to mean boring.  There is also a wide range of possibilities with Javascript.
 
 ### Theme is redlounge
 
-Look nice right?!?  Have that [source](https://github.com/tmaiaroto/hugo-redlounge).
+So nice right?!?  Have that [source](https://github.com/tmaiaroto/hugo-redlounge).
 
 ## HOW TO HUGO
 
@@ -55,24 +55,33 @@ I used ssh keys and my `~/.ssh/config` so I can just `ssh <server name alias>` w
 chmod 600 ~/.ssh/authorized_keys
 ```
 
-Then on my server I will have to build Hugo, and then I call a friend I haven't spoken to in a while just to catch up.
+So I ssh in to my server, and cleanup a bit from the old Hugo installs.
+
+```
+cd ~/debs
+mkdir -p old_debs
+mv hugo_0.14_amd64.deb old_debs/
+mv hugo_0.15_amd64.deb old_debs/
+```
+
+Now I download and build the new Hugo.
 
 ```
 root=~/root
-mkdir -p ~/debs
-cd ~/debs
-wget https://github.com/spf13/hugo/releases/download/v0.14/hugo_0.14_amd64.deb
+wget https://github.com/gohugoio/hugo/releases/download/v0.48/hugo_0.48_Linux-64bit.deb
 mkdir -p $root
 for d in *.deb; do echo "Installing $d"; dpkg -x $d $root; done
 ```
 
-Then add Hugo's `bin` dir to my `$PATH`
+Then add Hugo's `bin` dir to my `$PATH`.
+I had already done this for the initial install 2 years ago, and it isn't changing, so I skipped this step.
 
 ```
 echo 'export PATH=~/root/usr/bin:$PATH' >> ~/.bashrc
 ```
 
-I will be pushing my site's repo onto the server as a remote from my local.  So prepare <i class='fa fa-git'></i> for that.
+You will be pushing my site's git repo onto the server as a remote from my local.  So prepare <i class='fa fa-git'></i> for that.
+I had already done this for the initial install 2 years ago, and it isn't changing, so I skipped this step.
 
 ```
 mkdir ~/railsbling.git
@@ -82,12 +91,16 @@ git config receive.denyCurrentBranch ignore
 ```
 
 Then checkout the theme I chose onto the server.  I picked `redlounge` (for now) from the options at the [master theme repo](https://github.com/gohugoio/hugoThemes).
+I had already done this for the initial install 2 years ago, and it isn't changing, so I skipped this step...
 
 ```
 git clone https://github.com/tmaiaroto/hugo-redlounge.git ~/redlounge.git
 ```
 
+And instead I just went into my `redlounge.git` directory and did a `git pull`.
+
 Then tweak for my needs and make it my `~/railsbling.git/.git/hooks/post-receive` <i class='fa fa-paste'></i>:
+I had already done this for the initial install 2 years ago, and it isn't changing, so I skipped this step.
 
 ```
 cat ~/railsbling.git/.git/hooks/post-receive
@@ -110,8 +123,17 @@ exit
 
 Homebrew continues to kick ass and take names.  Give it the name "hugo", and brew will kick its ass.
 
-```lang=bash
-brew install hugo
+```
+$ brew install hugo
+...
+==> Downloading https://homebrew.bintray.com/bottles/hugo-0.48.high_sierra.bottle.1.tar.gz
+######################################################################## 100.0%
+==> Pouring hugo-0.48.high_sierra.bottle.1.tar.gz
+==> Caveats
+Bash completion has been installed to:
+  /usr/local/etc/bash_completion.d
+==> Summary
+🍺  /usr/local/Cellar/hugo/0.48: 32 files, 37.2MB
 ```
 
 Create this website and move in.
@@ -136,14 +158,15 @@ Below the `+++` is regular Markdown.  So Blaze that Fireball and write some stuf
 Install the themes.  Just grab them all initially so I can try out a bunch and find the one I like.
 
 ```
-git clone --recursive https://github.com/spf13/hugoThemes themes
+cd ~/Documents/hugo/railsbling
+git clone --depth 1 --recursive https://github.com/gohugoio/hugoThemes.git themes
 ```
 
 From the directory listing, pick a theme that has a name I am particularly drawn to, like "redlounge", and execute it without prejudice.
 
+The following can be run from any directory, so I have it aliased as `bling` on my system.
 ```
-ls themes
-hugo server --theme=redlounge --buildDrafts --watch
+hugo server --source ~/Documents/hugo/railsbling --buildDrafts --watch --theme redlounge --destination ~/Documents/hugo/drafts
 ```
 
 Now I have the site running locally.  Now comes the actual work.

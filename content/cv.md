@@ -15,13 +15,11 @@ title = "CV"
 
 ### Download
 
-My resume as **[WEB](http://resume.peterboling.com)**, **[PDF](https://drive.google.com/open?id=0B93ImOO_OrnTNDVwYkZmVVZmSG8)**, or **[DOCX](https://drive.google.com/open?id=0B93ImOO_OrnTSXIzZXcxTkpROFE)**.
+My resume as **[WEB](http://resume.peterboling.com)**, **[PDF](https://drive.google.com/open?id=1oIzEHgwj8qpbNLvRVaaqhl_itZy4NncA)**, or **[DOCX](https://drive.google.com/open?id=1r-QrWA6mgJ6k7eJvMHpOt3DBIwSAN3TA)**.
 
 ### I build big things out of bitty bits
 
-I have accepted an offer to wear the Principal Systems Architect hat with a [Bolt Threads](https://boltthreads.com/) logo on it, effective immediately.  There is a hat, right?
-
-The more I learn about what the company is doing to revolutionize the textile industry the more excited I become about the possibilities.  Changing the world for the better, through efficiency, is always my goal professionally and personally, and now it truly seems within reach.
+I am the Principle Systems Architect at [Intricately](https://www.intricately.com) &larr; Building, optimizing, and extending, the backend, 2016 - present ([on Crunchbase](https://www.crunchbase.com/organization/intricately#/entity))
 
 ### About Me
 
@@ -48,7 +46,7 @@ I am a political activist utilizing my social currency to advocate for equality 
 
 ### Past Work
 
-* Principle Engineer at [Intricately](https://www.intricately.com) &larr; I built, optimized, or extended, most of the backend, 2016 - 2017 ([on Crunchbase](https://www.crunchbase.com/organization/intricately#/entity))
+* Principle Systems Architect at [Bolt Threads](https://boltthreads.com/) &larr; The more I learn about what the company is doing to revolutionize the textile industry the more excited I become about the possibilities.  Changing the world for the better, through efficiency, is always my goal professionally and personally.
 * Principle Engineer, Web Team Lead, Productivity & Automation Lead at [Invoice2Go](https://www.invoice2go.com) &larr; Led team in rewrite; implemented engineering process, 2016 - 2017 ([on Crunchbase](https://www.crunchbase.com/organization/invoice2go))
 * Senior Engineer at [Trumaker](http://www.trumaker.com) - built a hydra: e-commerce platform, sales CRM, warehousing, inventory management, and fulfillment system. 2014 - 2016 
 [![Fashion Tweet](https://img.shields.io/twitter/url/https/trumaker.com.svg?style=social)](https://twitter.com/intent/tweet?text=Shirts:&amp;url=https%3A%2F%2Ftrumaker.com)
