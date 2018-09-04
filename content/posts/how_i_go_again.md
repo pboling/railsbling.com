@@ -15,7 +15,7 @@ series = [ "Blogging" ]
 
 +++
 
-I am upgrading my [Hugo-based](https://gohugo.io/) blog from v0.15 to v0.48!  Quite a mad leap.
+I am upgrading my [Hugo-based](https://gohugo.io/) blog from v0.15 to v0.48 (extended)!  Quite a mad leap.
 
 ## My Architecture
 
@@ -74,16 +74,16 @@ Now I download and build the new Hugo.
 
 ```
 root=~/root
-wget https://github.com/gohugoio/hugo/releases/download/v0.48/hugo_0.48_Linux-64bit.deb
+wget https://github.com/gohugoio/hugo/releases/download/v0.48/hugo_extended_0.48_Linux-64bit.deb
 mkdir -p $root
 for d in *.deb; do echo "Installing $d"; dpkg -x $d $root; done
 ```
 
 Then add Hugo's `bin` dir to my `$PATH`.
-I had already done this for the initial install 2 years ago, and it isn't changing, so I skipped this step.
+I had already done this for the initial install 2 years ago, but the path has changed, so I had to fix it.
 
 ```
-echo 'export PATH=~/root/usr/bin:$PATH' >> ~/.bashrc
+echo 'export PATH=~/root/usr/local/bin:$PATH' >> ~/.bashrc
 ```
 
 You will be pushing my site's git repo onto the server as a remote from my local.  So prepare <i class='fa fa-git'></i> for that.
