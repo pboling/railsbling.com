@@ -1,50 +1,25 @@
-baseurl = "http://railsbling.com" # Hostname (and path) to the root.
-title = "Rails Bling" # Site title.
-theme = "coder" # Set the theme.
-languagecode = "en-us" # The site’s language code used to generate RSS.
-defaultcontentlanguage = "en" # The default content language.
+BaseUrl = "http://railsbling.com"
+LanguageCode = "en-us"
+Title = "Rails Bling"
+disqusShortname = "railsbling"
 
-paginate = 20 # Default number of pages per page in pagination.
-canonifyurls = true # Enable to turn relative URLs into absolute.
-
-pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
-pygmentscodefences = true # Enable code fence background highlighting.
-pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
-
-disqusShortname = "railsbling" # Enable or disable Disqus.
-
-[params] # theme parameters
-    author = "Peter Boling" # Author's name.
-    info = "Systems Architect" # Author's job title or info.
-    description = "Yet Another Paradigm by Peter Boling" # Site description.
-    keywords = "blog,developer,personal,code,programming,ruby" # Site keywords.
-    avatarurl = "images/peterboling.jpg" # Contain the path of the optionnal avatar in the static folder.
-
-    footercontent = "Keep the footer down low" # Add footer content
-
-    # Whether you want to hide copyright and credits in the footer.
-    hideCredits = false
-    hideCopyright = false
-
-    # to switch bewteen LTR and RTL layout
-    rtl = false
-
-    # Custom CSS
-    custom_css = []
-
-    AuthorName = "Peter Boling"
-    DateForm = "Mon, Jan 2, 2006"
-    GoogleAnalyticsUserID = "UA-37606822-1"
-    gaid = "UA-37606822-1"
-    baseurl = "http://www.railsbling.com/"
-    Facebook = "peter.boling"
-    Twitter = "galtzo"
-    Github = "pboling"
-    ShowRelatedPost = true
-    Disqus = "peterboling"
-    SyntaxHighlightTheme = "solarized_dark.min.css"
-    categoriescss = "/css/project.css"
-    noauthor = false
+[params]
+  author = "Peter Boling"
+  AuthorName = "Peter Boling"
+  DateForm = "Mon, Jan 2, 2006"
+  GoogleAnalyticsUserID = "UA-37606822-1"
+  gaid = "UA-37606822-1"
+  baseurl = "http://www.railsbling.com/"
+  Facebook = "peter.boling"
+  Twitter = "galtzo"
+  Github = "pboling"
+  ShowRelatedPost = true
+  Disqus = "peterboling"
+  SyntaxHighlightTheme = "solarized_dark.min.css"
+  sidebartitle = "Rails Bling"
+  sidebartagline = "Yet Another Paradigm by Peter Boling"
+  categoriescss = "/css/project.css"
+  noauthor = false
 
 [taxonomies]
   tag = "tags"
@@ -54,99 +29,68 @@ disqusShortname = "railsbling" # Enable or disable Disqus.
 [permalinks]
     post = "/blog/:year/:month/:day/:title/"
 
-# Social links
-[[params.social]]
-    name = "Github"
-    weight = 1
-    icon = "fab fa-github fa-2x"
+[[menu.main]]
+    name = "Blog"
+    url = "/posts"
+[[menu.main]]
+    name = "FOSS"
+    url = "/foss"
+[[menu.main]]
+    name = "Resume"
+    url = "/cv"
+
+[[menu.social]]
+    pre = "<i class='fa fa-github'></i>"
     url = "https://github.com/pboling"
     identifier = "github"
-[[params.social]]
-    name = "LinkedIn"
-    weight = 2
-    icon = "fab fa-linkedin fa-2x"
+[[menu.social]]
+    pre = "<i class='fa fa-linkedin'></i>"
     url = "https://www.linkedin.com/in/peterboling"
     identifier = "linkedin"
-[[params.social]]
-    name = "RubyGems"
-    weight = 3
-    icon = "fas fa-gem fa-2x"
+[[menu.social]]
+    pre = "<i class='fa fa-diamond'></i>"
     url = "https://rubygems.org/profiles/pboling"
     identifier = "rubygems"
-[[params.social]]
-    name = "Angel List"
-    weight = 4
-    icon = "fab fa-angellist fa-2x"
+[[menu.social]]
+    pre = "<i class='fa fa-angellist'></i>"
     url = "https://angel.co/peter-boling"
     identifier = "angellist"
-[[params.social]]
-    name = "Crunchbase"
-    weight = 5
-    icon = "fas fa-cogs fa-2x"
+[[menu.social]]
+    pre = "<i class='fa fa-code-fork'></i>"
     url = "https://www.crunchbase.com/person/peter-boling#/entity"
     identifier = "crunchbase"
-[[params.social]]
-    name = "About.me"
-    weight = 6
-    icon = "fas fa-user-astronaut fa-2x"
+[[menu.social]]
+    pre = "<i class='fa fa-smile-o'></i>"
     url = "https://about.me/peter.boling"
     identifier = "aboutme"
-[[params.social]]
-    name = "Stack Overflow"
-    weight = 7
-    icon = "fas fa-code fa-2x"
+[[menu.social]]
+    pre = "<i class='fa fa-code'></i>"
     url = "https://stackoverflow.com/users/213191/peter-h-boling?tab=profile"
     identifier = "stackoverflow"
 [[menu.social]]
-    name = "Github Awards"
-    weight = 8
-    icon = "fas fa-trophy-alt fa-2x"
+    pre = "<i class='fa fa-trophy'></i>"
     url = "http://github-awards.com/users/search?login=pboling"
     identifier = "awards"
-[[params.social]]
-    name = "Twitter"
-    weight = 9
-    icon = "fab fa-twitter fa-2x"
-    url = "https://www.twitter.com/galtzo"
-    identifier = "twitter"
-[[params.social]]
-    name = "Facebook"
-    weight = 10
-    icon = "fab fa-facebook fa-2x"
-    url = "https://www.facebook.com/peter.boling"
-    identifier = "facebook"
-[[params.social]]
-    name = "Google Plus"
-    weight = 11
-    icon = "fab fa-google-plus fa-2x"
-    url = "https://plus.google.com/+PeterBoling/posts"
-    identifier = "google-plus"
-[[params.social]]
-    name = "GitTip"
-    weight = 12
-    icon = "fas fa-comment-dollar fa-2x"
-    url = "https://gratipay.com/~pboling/"
-    identifier = "gittip"
-[[params.social]]
-    name = "Hacker Rank"
-    weight = 13
-    icon = "fas fa-terminal fa-2x"
+[[menu.social]]
+    pre = "<i class='fa fa-cogs'></i>"
     url = "https://www.hackerrank.com/peter_boling"
     identifier = "hackerrank"
-
-# Menu links
-[[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  = "/posts/"
-[[menu.main]]
-    name = "About"
-    weight = 2
-    url = "/cv/"
-[[menu.main]]
-    name = "FOSS"
-    weight = 3
-    url = "/foss/"
+[[menu.social]]
+    pre = "<i class='fa fa-twitter'></i>"
+    url = "https://www.twitter.com/galtzo"
+    identifier = "twitter"
+[[menu.social]]
+    pre = "<i class='fa fa-facebook'></i>"
+    url = "https://www.facebook.com/peter.boling"
+    identifier = "facebook"
+[[menu.social]]
+    pre = "<i class='fa fa-google-plus'></i>"
+    url = "https://plus.google.com/+PeterBoling/posts"
+    identifier = "google-plus"
+[[menu.social]]
+    pre = "<i class='fa fa-gittip'></i>"
+    url = "https://gratipay.com/~pboling/"
+    identifier = "gittip"
 
 [[menu.footer]]
     name = "My Old Blog"
