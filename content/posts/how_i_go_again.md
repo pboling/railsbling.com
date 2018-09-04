@@ -189,4 +189,4 @@ git push --set-upstream live master
 
 Like magic, and unless I missed something in my writeup, my new site will deploy and be live!
 
-Update: I am switching my theme to `coder`!
+Update: I am switching my theme to [`coder`](https://github.com/luizdepra/hugo-coder/)!
