@@ -27,3 +27,5 @@ Bash Shell Function Library
 
 [![Network](https://img.shields.io/github/forks/pboling/bsfl.svg?style=social)](https://github.com/pboling/bsfl/network)
 [![Stars](https://img.shields.io/github/stars/pboling/bsfl.svg?style=social)](https://github.com/pboling/bsfl/stargazers)
+
+I want to get better at bash scripting!
