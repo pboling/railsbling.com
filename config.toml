@@ -40,55 +40,55 @@ disqusShortname = "railsbling"
     url = "/cv"
 
 [[menu.social]]
-    pre = "<i class='fa fa-github'></i>"
+    pre = "<i class='fab fa-github fa-2x'></i>"
     url = "https://github.com/pboling"
     identifier = "github"
 [[menu.social]]
-    pre = "<i class='fa fa-linkedin'></i>"
+    pre = "<i class='fab fa-linkedin fa-2x'></i>"
     url = "https://www.linkedin.com/in/peterboling"
     identifier = "linkedin"
 [[menu.social]]
-    pre = "<i class='fa fa-diamond'></i>"
+    pre = "<i class='fas fa-diamond fa-2x'></i>"
     url = "https://rubygems.org/profiles/pboling"
     identifier = "rubygems"
 [[menu.social]]
-    pre = "<i class='fa fa-angellist'></i>"
+    pre = "<i class='fab fa-angellist fa-2x'></i>"
     url = "https://angel.co/peter-boling"
     identifier = "angellist"
 [[menu.social]]
-    pre = "<i class='fa fa-code-fork'></i>"
+    pre = "<i class='fas fa-money-bill fa-2x'></i>"
     url = "https://www.crunchbase.com/person/peter-boling#/entity"
     identifier = "crunchbase"
 [[menu.social]]
-    pre = "<i class='fa fa-smile-o'></i>"
+    pre = "<i class='fas fa-user-astronaut fa-2x'></i>"
     url = "https://about.me/peter.boling"
     identifier = "aboutme"
 [[menu.social]]
-    pre = "<i class='fa fa-code'></i>"
+    pre = "<i class='fab fa-stack-overflow fa-2x'></i>"
     url = "https://stackoverflow.com/users/213191/peter-h-boling?tab=profile"
     identifier = "stackoverflow"
 [[menu.social]]
-    pre = "<i class='fa fa-trophy'></i>"
+    pre = "<i class='far fa-keyboard fa-2x'></i>"
     url = "http://github-awards.com/users/search?login=pboling"
     identifier = "awards"
 [[menu.social]]
-    pre = "<i class='fa fa-cogs'></i>"
+    pre = "<i class='fas fa-terminal fa-2x'></i>"
     url = "https://www.hackerrank.com/peter_boling"
     identifier = "hackerrank"
 [[menu.social]]
-    pre = "<i class='fa fa-twitter'></i>"
+    pre = "<i class='fab fa-twitter fa-2x'></i>"
     url = "https://www.twitter.com/galtzo"
     identifier = "twitter"
 [[menu.social]]
-    pre = "<i class='fa fa-facebook'></i>"
+    pre = "<i class='fab fa-facebook fa-2x'></i>"
     url = "https://www.facebook.com/peter.boling"
     identifier = "facebook"
 [[menu.social]]
-    pre = "<i class='fa fa-google-plus'></i>"
+    pre = "<i class='fab fa-google-plus fa-2x'></i>"
     url = "https://plus.google.com/+PeterBoling/posts"
     identifier = "google-plus"
 [[menu.social]]
-    pre = "<i class='fa fa-gittip'></i>"
+    pre = "<i class='fab fa-gittip fa-2x'></i>"
     url = "https://gratipay.com/~pboling/"
     identifier = "gittip"
 
