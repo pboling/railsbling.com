@@ -11,6 +11,7 @@ title = "FOSS Ruby Projects"
 tags = [ "Development", "Ruby", "rails", "RubyGems" ]
 categories = [ "Development", "tools", "Ruby" ]
 series = [ "Toolchain" ]
+type = "page"
 
 +++
 
