@@ -1,6 +1,6 @@
 +++
 date = "2015-08-03T00:54:16-07:00"
-draft = true
+draft = false
 authorlink = "https://about.me/peter.boling"
 authorlinktarget = "_blank"
 authortwitter = "https://www.twitter.com/galtzo"
@@ -11,7 +11,3 @@ title = "index"
 type = "page"
 
 +++
-
-Welcome to my website.
-
-This page is an unpublished draft.
