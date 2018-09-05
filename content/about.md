@@ -18,7 +18,7 @@ It is a place for me to write about code, technology, and the future.
 
 ## Who am I?
 
-I am Peter Boling, of Earth.
+I am Peter Boling, presently of Earth.
 
 ## You're still here?
 
