@@ -1,5 +1,5 @@
 +++
-date = "2015-12-21T00:30:16-07:00"
+date = "2015-10-06T00:30:16-07:00"
 draft = false
 authorlink = "https://about.me/peter.boling"
 authorlinktarget = "_blank"

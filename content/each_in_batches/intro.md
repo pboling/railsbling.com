@@ -1,5 +1,5 @@
 +++
-date = "2015-12-06T23:30:16-07:00"
+date = "2015-06-18T12:30:16-07:00"
 draft = false
 authorlink = "https://about.me/peter.boling"
 authorlinktarget = "_blank"
@@ -26,7 +26,7 @@ type = "docs"
 [![Build](https://img.shields.io/travis/pboling/each_in_batches.svg)](https://travis-ci.org/pboling/each_in_batches)
 [![Documentation](http://inch-ci.org/github/pboling/each_in_batches.svg)](http://inch-ci.org/github/pboling/each_in_batches)
 [![Dependency Status](https://gemnasium.com/pboling/each_in_batches.svg)](https://gemnasium.com/pboling/each_in_batches)
-[![Chat](https://img.shields.io/gitter/room/pboling/each_in_batches.svg)](https://gitter.im/pboling/deach_in_batches)
+[![Chat](https://img.shields.io/gitter/room/pboling/each_in_batches.svg)](https://gitter.im/pboling/each_in_batches)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # EachInBatches
@@ -41,7 +41,7 @@ I often need to execute really large computations on really large data sets.
 I usually end up writing a rake task to do it, which calls methods in my models.
 But something about the process bugged me.  Each time I had to re-implement my
 'batching code' that allowed me to not chew up GB after GB of memory due to
-klass.find(:all, :include => [:everything_under_the_sun]). Re-implementation of
+`klass.find(:all, :include => [:everything_under_the_sun])`. Re-implementation of
 the same logic over and over across many projects is not very DRY, so I got out
 my blow torch and lit it up.  The difficulty was that the part that was different
 each time I batched was at the center of the code, right in the middle of the
@@ -59,7 +59,7 @@ batch loop.  But I didn't let that stop me!
     the needed functionality as I felt the plugin should support this directly.
     I modified the original plugin so that it takes a block instead of a method.
     It will pass the object instance to the block.  It works pretty much the same
-    as Class.find(:all).each {|x| do something}, except in batches n that you
+    as `Class.find(:all).each {|x| do something}`, except in batches n that you
     specify with :batch_size.
 
 ## Installation

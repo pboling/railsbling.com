@@ -12,7 +12,41 @@ type = "page"
 
 +++
 
-## Open Source Ruby - Deprecated - New maintainers apply within!
+## Open Source Ruby - Deprecated - New maintainers please apply!
+
+### cacheable_flash
+
+See [retired_projects/cacheable_flash](http://www.railsbling.com/retired_projects/cacheable_flash/)
+
+### controller_validator
+
+See [retired_projects/controller_validator](http://www.railsbling.com/retired_projects/controller_validator/)
+
+### humorous_log_formatter
+
+See [retired_projects/rack-insight](http://www.railsbling.com/retired_projects/rack-insight/)
+
+### rack-insight
+
+See [retired_projects/rack-insight/](http://www.railsbling.com/retired_projects/rack-insight/)
+
+### rack-toolbar
+
+See [retired_projects/rack-toolbar/](http://www.railsbling.com/retired_projects/rack-toolbar/)
+
+### react-rails-benchmark_renderer
+
+See [retired_projects/react-rails-benchmark_renderer/](http://www.railsbling.com/retired_projects/react-rails-benchmark_renderer/)
+
+### stackable_flash
+
+See [retired_projects/stackable_flash/](http://www.railsbling.com/retired_projects/stackable_flash/)
+
+### subdomain-fu
+
+See [retired_projects/subdomain-fu/](http://www.railsbling.com/retired_projects/subdomain-fu/)
+
+## Deprecated Open Source Ruby - The Real Zombies!
 
 ### remit
 
@@ -55,20 +89,6 @@ Improvement on ye olde exception_notification plugin.  Rails 1, 2, 3 only.
 [![Build](https://img.shields.io/travis/pboling/exception_notification.svg)](https://travis-ci.org/pboling/exception_notification)
 [![Documentation](http://inch-ci.org/github/pboling/exception_notification.svg)](http://inch-ci.org/github/pboling/exception_notification)
 [![Dependency Status](https://gemnasium.com/pboling/exception_notification.svg)](https://gemnasium.com/pboling/exception_notification)
-
-### controller_validator
-
-Use the familiar ActiveModel::Errors pattern for controller validations
-
-[![Total Downloads](https://img.shields.io/gem/rt/controller_validator.svg)](https://github.com/pboling/controller_validator)
-[![Downloads Today](https://img.shields.io/gem/rd/controller_validator.svg)](https://github.com/pboling/controller_validator)
-[![Code Quality](https://img.shields.io/codeclimate/github/pboling/controller_validator.svg)](https://codeclimate.com/github/pboling/controller_validator)
-[![Network](https://img.shields.io/github/forks/pboling/controller_validator.svg?style=social)](https://github.com/pboling/controller_validator/network)
-[![Stars](https://img.shields.io/github/stars/pboling/controller_validator.svg?style=social)](https://github.com/pboling/controller_validator/stargazers)
-[![Version](https://img.shields.io/gem/v/controller_validator.svg)](https://rubygems.org/gems/controller_validator)
-[![Build](https://img.shields.io/travis/pboling/controller_validator.svg)](https://travis-ci.org/pboling/controller_validator)
-[![Documentation](http://inch-ci.org/github/pboling/controller_validator.svg)](http://inch-ci.org/github/pboling/controller_validator)
-[![Dependency Status](https://gemnasium.com/pboling/controller_validator.svg)](https://gemnasium.com/pboling/controller_validator)
 
 ### sequential_file
 

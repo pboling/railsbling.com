@@ -1,5 +1,5 @@
 +++
-date = "2015-12-06T23:30:16-07:00"
+date = "2015-06-21T12:30:16-07:00"
 draft = false
 authorlink = "https://about.me/peter.boling"
 authorlinktarget = "_blank"
@@ -11,7 +11,7 @@ title = "react-rails-benchmark_renderer"
 tags = [ "Development", "Ruby", "rails", "RubyGems", "react-rails-benchmark_renderer" ]
 categories = [ "Development", "tools", "Ruby" ]
 series = [ "Toolchain" ]
-type = "docs"
+type = "retired_projects"
 
 +++
 

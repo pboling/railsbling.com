@@ -45,16 +45,6 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 [![Stars](https://img.shields.io/github/stars/pboling/flag_shih_tzu.svg?style=social)](https://github.com/pboling/flag_shih_tzu/stargazers)
 [![Version](https://img.shields.io/gem/v/flag_shih_tzu.svg)](https://rubygems.org/gems/flag_shih_tzu)
 
-<div class="project">
-  <a href="/tags/cacheable-flash">
-    <div class="name"><i class="fas fa-flash"></i> cacheable-flash&rarr;</div>
-  </a>
-  <div class="description">Rails flash object, but compatible with cacheing, (originally by <a href="https://github.com/pivotal">Pivotal Labs</a>)</div>
-</div>
-
-[![Stars](https://img.shields.io/github/stars/pboling/cacheable-flash.svg?style=social)](https://github.com/pboling/cacheable-flash/stargazers)
-[![Version](https://img.shields.io/gem/v/cacheable_flash.svg)](https://rubygems.org/gems/cacheable_flash)
-
 ## Ruby: I built that <i class="fas fa-level-down"></i>
 
 <div class="project">
@@ -88,16 +78,6 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 [![Version](https://img.shields.io/gem/v/status_tag.svg)](https://rubygems.org/gems/status_tag)
 
 <div class="project">
-  <a href="/tags/rack-insight">
-    <div class="name"><i class="fas fa-dashboard"></i> rack-insight</div>
-  </a>
-  <div class="description">Endlessly customizable successor of ye olde rack-bug</div>
-</div>
-
-[![Stars](https://img.shields.io/github/stars/pboling/rack-insight.svg?style=social)](https://github.com/pboling/rack-insight/stargazers)
-[![Version](https://img.shields.io/gem/v/rack-insight.svg)](https://rubygems.org/gems/rack-insight)
-
-<div class="project">
   <a href="/tags/rspec-pending_for">
     <div class="name"><i class="fas fa-toggle-off"></i> rspec-pending_for&rarr;</div>
   </a>
@@ -126,16 +106,6 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 [![Stars](https://img.shields.io/github/stars/wordtreefoundation/archivist-client.svg?style=social)](https://github.com/wordtreefoundation/archivist-client/stargazers)
 [![Version](https://img.shields.io/gem/v/archivist-client.svg)](https://rubygems.org/gems/archivist-client)
-
-<div class="project">
-  <a href="/tags/stackable_flash">
-    <div class="name"><i class="fas fa-cubes"></i> stackable_flash&rarr;</div>
-  </a>
-  <div class="description">Add Super Powers to your Rails flash object</div>
-</div>
-
-[![Stars](https://img.shields.io/github/stars/pboling/stackable_flash.svg?style=social)](https://github.com/pboling/stackable_flash/stargazers)
-[![Version](https://img.shields.io/gem/v/stackable_flash.svg)](https://rubygems.org/gems/stackable_flash)
 
 <div class="project">
   <a href="/tags/csv_pirate">
@@ -168,26 +138,6 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 [![Version](https://img.shields.io/gem/v/destination_errors.svg)](https://rubygems.org/gems/destination_errors)
 
 <div class="project">
-  <a href="/tags/rack-toolbar">
-    <div class="name"><i class="fas fa-pencil"></i> rack-toolbar&rarr;</div>
-  </a>
-  <div class="description">Injects things into response body</div>
-</div>
-
-[![Stars](https://img.shields.io/github/stars/pboling/rack-toolbar.svg?style=social)](https://github.com/pboling/rack-toolbar/stargazers)
-[![Version](https://img.shields.io/gem/v/rack-toolbar.svg)](https://rubygems.org/gems/rack-toolbar)
-
-<div class="project">
-  <a href="/tags/humorous_log_formatter">
-    <div class="name"><i class="fas fa-folder-open-o"></i> humorous_log_formatter&rarr;</div>
-  </a>
-  <div class="description">Normalize your logs.  Customize level display text, and level color.</div>
-</div>
-
-[![Stars](https://img.shields.io/github/stars/pboling/humorous_log_formatter.svg?style=social)](https://github.com/pboling/humorous_log_formatter/stargazers)
-[![Version](https://img.shields.io/gem/v/humorous_log_formatter.svg)](https://rubygems.org/gems/humorous_log_formatter)
-
-<div class="project">
   <a href="/tags/letter_group">
     <div class="name"><i class="fas fa-sort-alpha-asc"></i> letter_group&rarr;</div>
   </a>
@@ -207,16 +157,8 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 [![Stars](https://img.shields.io/github/stars/pboling/each_in_batches.svg?style=social)](https://github.com/pboling/each_in_batches/stargazers)
 [![Version](https://img.shields.io/gem/v/each_in_batches.svg)](https://rubygems.org/gems/each_in_batches)
 
-<div class="project">
-  <a href="/tags/react-rails-benchmark_renderer">
-    <div class="name"><i class="fas fa-clock-o"></i> react-rails-benchmark_renderer&rarr;</div>
-  </a>
-  <div class="description">A reference implementation of a custom React renderer for Rails.  Adds benchmarking info to Rails logs for parity with Rails view rendering benchmarking.</div>
-</div>
-
-[![Stars](https://img.shields.io/github/stars/pboling/react-rails-benchmark_renderer.svg?style=social)](https://github.com/pboling/react-rails-benchmark_renderer/stargazers)
-[![Version](https://img.shields.io/gem/v/react-rails-benchmark_renderer.svg)](https://rubygems.org/gems/react-rails-benchmark_renderer)
-
 And many more...
+
+Some things I've written have been [deprecated](http://www.railsbling.com/ruby-old/), or [retired](http://www.railsbling.com/retired_projects).
 
 Will be expanding this page soon, and write some articles about each project and how I use it.
