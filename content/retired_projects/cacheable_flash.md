@@ -30,4 +30,4 @@ type = "retired_projects"
 [![Build](https://img.shields.io/travis/pboling/cacheable-flash.svg)](https://travis-ci.org/pboling/cacheable-flash)
 [![Documentation](http://inch-ci.org/github/pboling/cacheable-flash.svg)](http://inch-ci.org/github/pboling/cacheable-flash)
 [![Depfu](https://badges.depfu.com/badges/f13068686306ad691084c5112078dd2d/count.svg)](https://depfu.com/github/pboling/cacheable-flash?project=Bundler)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)

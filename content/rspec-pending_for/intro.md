@@ -27,6 +27,6 @@ type = "docs"
 [![Documentation](http://inch-ci.org/github/pboling/rspec-pending_for.svg)](http://inch-ci.org/github/pboling/rspec-pending_for)
 [![Dependency Status](https://gemnasium.com/pboling/rspec-pending_for.svg)](https://gemnasium.com/pboling/rspec-pending_for)
 [![Chat](https://img.shields.io/gitter/room/pboling/rspec-pending_for.svg)](https://gitter.im/pboling/rspec-pending_for)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 I'll put something here soon.

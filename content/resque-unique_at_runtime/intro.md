@@ -28,6 +28,6 @@ type = "docs"
 [![Documentation](http://inch-ci.org/github/pboling/resque-unique_at_runtime.svg)](http://inch-ci.org/github/pboling/resque-unique_at_runtime)
 [![Depfu](https://badges.depfu.com/badges/99a79f37d1bc55353d0480f5138a0ce0/count.svg)](https://depfu.com/github/pboling/resque-unique_at_runtime?project_id=4349)
 [![Chat](https://img.shields.io/gitter/room/pboling/resque-unique_at_runtime.svg)](https://gitter.im/pboling/resque-unique_at_runtime)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 I'll put something here soon.

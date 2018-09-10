@@ -27,7 +27,7 @@ type = "docs"
 [![Documentation](http://inch-ci.org/github/pboling/flag_shih_tzu.svg)](http://inch-ci.org/github/pboling/flag_shih_tzu)
 [![Depfu](https://badges.depfu.com/badges/f011a69cf2426f91483aaade580823ac/count.svg)](https://depfu.com/github/pboling/flag_shih_tzu?project_id=2685)
 [![Chat](https://img.shields.io/gitter/room/pboling/flag_shih_tzu.svg)](https://img.shields.io/gitter/room/pboling/flag_shih_tzu.svg)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ### What is a bit field?
 

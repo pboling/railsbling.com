@@ -27,7 +27,7 @@ type = "docs"
 [![Documentation](http://inch-ci.org/github/pboling/each_in_batches.svg)](http://inch-ci.org/github/pboling/each_in_batches)
 [![Dependency Status](https://gemnasium.com/pboling/each_in_batches.svg)](https://gemnasium.com/pboling/each_in_batches)
 [![Chat](https://img.shields.io/gitter/room/pboling/each_in_batches.svg)](https://gitter.im/pboling/each_in_batches)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 # EachInBatches
 

@@ -28,7 +28,7 @@ type = "docs"
 [![Documentation](http://inch-ci.org/github/pboling/sanitize_email.svg)](http://inch-ci.org/github/pboling/sanitize_email)
 [![Dependency Status](https://gemnasium.com/pboling/sanitize_email.svg)](https://gemnasium.com/pboling/sanitize_email)
 [![Chat](https://img.shields.io/gitter/room/pboling/sanitize_email.svg)](https://gitter.im/pboling/sanitize_email)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 # sanitize_email
 

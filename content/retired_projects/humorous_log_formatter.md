@@ -33,4 +33,4 @@ type = "retired_projects"
 [![Build](https://img.shields.io/travis/pboling/humorous_log_formatter.svg)](https://travis-ci.org/pboling/humorous_log_formatter)
 [![Documentation](http://inch-ci.org/github/pboling/humorous_log_formatter.svg)](http://inch-ci.org/github/pboling/humorous_log_formatter)
 [![Dependency Status](https://gemnasium.com/pboling/humorous_log_formatter.svg)](https://gemnasium.com/pboling/humorous_log_formatter)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)

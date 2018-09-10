@@ -29,6 +29,6 @@ Also includes a presenter base class to allow any Ruby web framework to create l
 [![Documentation](http://inch-ci.org/github/pboling/strict_states.svg)](http://inch-ci.org/github/pboling/strict_states)
 [![Dependency Status](https://gemnasium.com/pboling/strict_states.svg)](https://gemnasium.com/pboling/strict_states)
 [![Chat](https://img.shields.io/gitter/room/pboling/strict_states.svg)](https://gitter.im/pboling/strict_states)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 I'll put something here soon.

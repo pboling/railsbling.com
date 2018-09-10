@@ -26,6 +26,6 @@ type = "docs"
 [![Build](https://img.shields.io/travis/trumaker/destination_errors.svg)](https://travis-ci.org/trumaker/destination_errors)
 [![Documentation](http://inch-ci.org/github/trumaker/destination_errors.svg)](http://inch-ci.org/github/trumaker/destination_errors)
 [![Dependency Status](https://gemnasium.com/trumaker/destination_errors.svg)](https://gemnasium.com/trumaker/destination_errors)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 I'll put something here soon.

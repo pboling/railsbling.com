@@ -28,4 +28,4 @@ type = "retired_projects"
 [![Build](https://img.shields.io/travis/pboling/rack-insight.svg)](https://travis-ci.org/pboling/rack-insight)
 [![Documentation](http://inch-ci.org/github/pboling/rack-insight.svg)](http://inch-ci.org/github/pboling/rack-insight)
 [![Dependency Status](https://gemnasium.com/pboling/rack-insight.svg)](https://gemnasium.com/pboling/rack-insight)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)

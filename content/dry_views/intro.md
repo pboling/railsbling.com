@@ -27,7 +27,7 @@ type = "docs"
 [![Documentation](http://inch-ci.org/github/pboling/dry_views.svg)](http://inch-ci.org/github/pboling/dry_views)
 [![Dependency Status](https://gemnasium.com/pboling/dry_views.svg)](https://gemnasium.com/pboling/dry_views)
 [![Chat](https://img.shields.io/gitter/room/pboling/dry_views.svg)](https://gitter.im/pboling/dry_views)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ## Why?
 

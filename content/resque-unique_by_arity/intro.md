@@ -33,6 +33,6 @@ Because some jobs have parameters that you do *not* want to consider for determi
 [![Version](https://img.shields.io/gem/v/resque-unique_by_arity.svg)](https://rubygems.org/gems/resque-unique_by_arity)
 [![Documentation](http://inch-ci.org/github/pboling/resque-unique_by_arity.svg)](http://inch-ci.org/github/pboling/resque-unique_by_arity)
 [![Chat](https://img.shields.io/gitter/room/pboling/resque-unique_by_arity.svg)](https://gitter.im/pboling/resque-unique_by_arity)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 I'll put something here soon.

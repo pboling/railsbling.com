@@ -29,7 +29,7 @@ type = "docs"
 [![Documentation](http://inch-ci.org/github/pboling/celluloid-io-pg-listener.svg)](http://inch-ci.org/github/pboling/celluloid-io-pg-listener)
 [![Dependency Status](https://gemnasium.com/pboling/celluloid-io-pg-listener.svg)](https://gemnasium.com/pboling/celluloid-io-pg-listener)
 [![Chat](https://img.shields.io/gitter/room/pboling/celluloid-io-pg-listener.svg)](https://gitter.im/pboling/celluloid-io-pg-listener)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 `celluloid-io-pg-listener` (on [github](https://github.com/pboling/celluloid-io-pg-listener))
 

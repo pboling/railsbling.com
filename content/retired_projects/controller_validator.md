@@ -29,6 +29,6 @@ Also includes a presenter base class to allow any Ruby web framework to create l
 [![Documentation](http://inch-ci.org/github/pboling/controller_validator.svg)](http://inch-ci.org/github/pboling/controller_validator)
 [![Dependency Status](https://gemnasium.com/pboling/controller_validator.svg)](https://gemnasium.com/pboling/controller_validator)
 [![Chat](https://img.shields.io/gitter/room/pboling/controller_validator.svg)](https://gitter.im/pboling/controller_validator)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 I'll put something here soon.

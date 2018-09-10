@@ -29,6 +29,6 @@ Adds benchmarking info to Rails logs for parity with Rails view rendering benchm
 [![Documentation](http://inch-ci.org/github/pboling/react-rails-benchmark_renderer.svg)](http://inch-ci.org/github/pboling/react-rails-benchmark_renderer)
 [![Dependency Status](https://gemnasium.com/pboling/react-rails-benchmark_renderer.svg)](https://gemnasium.com/pboling/react-rails-benchmark_renderer)
 [![Chat](https://img.shields.io/gitter/room/pboling/react-rails-benchmark_renderer.svg)](https://gitter.im/pboling/react-rails-benchmark_renderer)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 I'll put something here soon.

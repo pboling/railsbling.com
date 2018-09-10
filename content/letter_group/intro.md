@@ -27,6 +27,6 @@ type = "docs"
 [![Documentation](http://inch-ci.org/github/pboling/letter_group.svg)](http://inch-ci.org/github/pboling/letter_group)
 [![Dependency Status](https://gemnasium.com/pboling/letter_group.svg)](https://gemnasium.com/pboling/letter_group)
 [![Chat](https://img.shields.io/gitter/room/pboling/letter_group.svg)](https://gitter.im/pboling/letter_group)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 I'll put something here soon.
