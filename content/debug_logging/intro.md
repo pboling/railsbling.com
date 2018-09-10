@@ -19,12 +19,14 @@ type = "docs"
 
 [![Total Downloads](https://img.shields.io/gem/rt/debug_logging.svg)](https://github.com/pboling/debug_logging)
 [![Downloads Today](https://img.shields.io/gem/rd/debug_logging.svg)](https://github.com/pboling/debug_logging)
-[![Code Quality](https://img.shields.io/codeclimate/github/pboling/debug_logging.svg)](https://codeclimate.com/github/pboling/debug_logging)
+[![Build](https://img.shields.io/travis/pboling/debug_logging.svg)](https://travis-ci.org/pboling/debug_logging)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/1f36d7019c3b81cae1a2/test_coverage)](https://codeclimate.com/github/pboling/debug_logging/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/1f36d7019c3b81cae1a2/maintainability)](https://codeclimate.com/github/pboling/debug_logging/maintainability)
+[![Depfu](https://badges.depfu.com/badges/d1a4cf43255916521fef1e3685c61faa/count.svg)](https://depfu.com/github/pboling/debug_logging?project_id=2675)
 [![Network](https://img.shields.io/github/forks/pboling/debug_logging.svg?style=social)](https://github.com/pboling/debug_logging/network)
 [![Stars](https://img.shields.io/github/stars/pboling/debug_logging.svg?style=social)](https://github.com/pboling/debug_logging/stargazers)
 [![Version](https://img.shields.io/gem/v/debug_logging.svg)](https://rubygems.org/gems/debug_logging)
-[![Build](https://img.shields.io/travis/pboling/debug_logging.svg)](https://travis-ci.org/pboling/debug_logging)
-[![Dependency Status](https://gemnasium.com/pboling/debug_logging.svg)](https://gemnasium.com/pboling/debug_logging)
+[![Open Source Helpers](https://www.codetriage.com/pboling/debug_logging/badges/users.svg)](https://www.codetriage.com/pboling/debug_logging)
 [![Chat](https://img.shields.io/gitter/room/pboling/debug_logging.svg)](https://gitter.im/pboling/debug_logging)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
