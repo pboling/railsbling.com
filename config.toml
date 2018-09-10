@@ -87,10 +87,6 @@ disqusShortname = "railsbling"
     pre = "<i class='fab fa-google-plus fa-2x'></i>"
     url = "https://plus.google.com/+PeterBoling/posts"
     identifier = "google-plus"
-[[menu.social]]
-    pre = "<i class='fab fa-gittip fa-2x'></i>"
-    url = "https://gratipay.com/~pboling/"
-    identifier = "gittip"
 
 [[menu.footer]]
     name = "My Old Blog"

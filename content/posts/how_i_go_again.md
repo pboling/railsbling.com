@@ -15,7 +15,7 @@ series = [ "Blogging" ]
 
 +++
 
-I am upgrading my [Hugo-based](https://gohugo.io/) blog from v0.15 to v0.48 (extended)!  Quite a mad leap.
+I am upgrading my [Hugo-based](https://gohugo.io/) blog from v0.15 to v0.48 ~~(extended)~~!  Quite a mad leap.  Update: As it turns out, extended won't run on my (or any) shared hosting provider, and I am still *building* my site on my shared host.  I know, that's not cool anymore, but updating my deployment pipeline would require more time than I have.
 
 ## My Architecture
 
@@ -74,7 +74,7 @@ Now I download and build the new Hugo.
 
 ```
 root=~/root
-wget https://github.com/gohugoio/hugo/releases/download/v0.48/hugo_extended_0.48_Linux-64bit.deb
+wget https://github.com/gohugoio/hugo/releases/download/v0.48/hugo_0.48_Linux-ARM64.deb
 mkdir -p $root
 for d in *.deb; do echo "Installing $d"; dpkg -x $d $root; done
 ```
