@@ -11,7 +11,7 @@ title = "controller_validator"
 tags = [ "Development", "Ruby", "rails", "RubyGems", "controller_validator" ]
 categories = [ "Development", "tools", "Ruby" ]
 series = [ "Toolchain" ]
-type = "docs"
+type = "retired_projects"
 
 +++
 
