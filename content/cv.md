@@ -40,9 +40,10 @@ I am a political activist utilizing my social currency to advocate for equality 
 
 ### Stuff I am working on now
 
-* Principle Systems Architect at [Bolt Threads](https://boltthreads.com/) &larr; Working on internal tools for SCIENCE!, 2017 - Present ([on Crunchbase](https://www.crunchbase.com/organization/bolt-threads#/entity))
+* Principle Systems Architect at [Intricately](https://intricately.com/) &larr; Building, optimizing, and extending, the backend, 2016 - present ([on Crunchbase](https://www.crunchbase.com/organization/intricately#/entity))
 * Co-founder of [WordTree Foundation](http://blog.wordtree.org) - non-profit scientific linguistics research, 2014 - present
 [![Tweet](https://img.shields.io/twitter/url/http/wordtree.org.svg?style=social)](https://twitter.com/intent/tweet?text=Interesting:&amp;url=http%3A%2F%2Fwordtree.org)
+* Many Open Source projects!  [Check out the source.](https://github.com/pboling/)
 * This blog!  [Check out the source.](https://github.com/pboling/railsbling.com)
 
 ### Past Work
