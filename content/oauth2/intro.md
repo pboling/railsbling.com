@@ -1,5 +1,5 @@
 +++
-date = "2018-09-21T11:00:00-07:00"
+date = "2017-12-06T11:00:00-07:00"
 draft = false
 authorlink = "https://about.me/peter.boling"
 authorlinktarget = "_blank"
@@ -7,7 +7,7 @@ authortwitter = "https://www.twitter.com/galtzo"
 authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
-title = "Introducing oauth2"
+title = "Maintaining oauth2"
 tags = [ "Development", "Ruby", "rails", "RubyGems", "oauth2" ]
 categories = [ "Development", "tools", "Ruby" ]
 series = [ "Toolchain" ]
@@ -41,6 +41,8 @@ type = "docs"
 [source-license]: https://opensource.org/licenses/MIT
 [inch-ci]: http://inch-ci.org/github/oauth-xx/oauth2
 [code-triage]: https://www.codetriage.com/oauth-xx/oauth2
+
+I am now the lead maintainer of the oauth2 gem.  I will work toward getting a version 2.0.0 released, which will not drop support for any currently supported Rubies.  After that a 3.0.0 release will drop support for EOL Rubies.
 
 ### Oauth2 gem is looking for additional maintainers. See [#307](https://github.com/oauth-xx/oauth2/issues/307).
 
