@@ -17,10 +17,6 @@ type = "docs"
 
 ## Ruby Bootstrapping Analysis
 
-Ruby app loading slowly, or never?
-
-Discover bootstrapping issues in Ruby by benchmarking "Kernel.require"
-
 [![Total Downloads](https://img.shields.io/gem/rt/require_bench.svg)](https://github.com/pboling/require_bench)
 [![Downloads Today](https://img.shields.io/gem/rd/require_bench.svg)](https://github.com/pboling/require_bench)
 [![Network](https://img.shields.io/github/forks/pboling/require_bench.svg?style=social)](https://github.com/pboling/require_bench/network)
@@ -33,6 +29,10 @@ Discover bootstrapping issues in Ruby by benchmarking "Kernel.require"
 [![Open Source Helpers](https://www.codetriage.com/pboling/require_bench/badges/users.svg)](https://www.codetriage.com/pboling/require_bench)
 [![Chat](https://img.shields.io/gitter/room/pboling/require_bench.svg)](https://gitter.im/pboling/require_bench)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+Ruby app loading slowly, or never?
+
+Discover bootstrapping issues in Ruby by benchmarking "Kernel.require"
 
 ## Installation
 
