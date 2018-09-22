@@ -9,19 +9,21 @@
   {{ partial "og.html" . }}
 
   <!-- CSS -->
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.5.0/base-min.css">
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.5.0/pure-min.css">
+  <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.5.0/base-min.css">
+  <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.5.0/pure-min.css">
   <!--[if lte IE 8]>
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.5.0/grids-responsive-old-ie-min.css">
+  <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.5.0/grids-responsive-old-ie-min.css">
   <![endif]-->
   <!--[if gt IE 8]><!-->
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.5.0/grids-responsive-min.css">
+  <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.5.0/grids-responsive-min.css">
   <!--<![endif]-->
   <!--[if lt IE 9]>
   <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.js"></script>
   <![endif]-->
 
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/redlounge.css">
+  <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/redlounge.css">
+  <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/default.css" />
+  <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/component.css" />
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
   <link href='//fonts.googleapis.com/css?family=Raleway:400,200,100,700,300,500,600,800' rel='stylesheet' type='text/css'>
   <link href='//fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
@@ -37,8 +39,8 @@
 
   {{ if .Params.lightbox }}
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-  <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/lightbox.css">
-  <script src="{{ .Site.BaseURL }}/js/lightbox.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/lightbox.css">
+  <script src="{{ .Site.BaseURL }}js/lightbox.min.js"></script>
   {{ end }}
 
   {{ if .Site.Params.categoriescss }}

@@ -9,7 +9,7 @@ disqusShortname = "railsbling"
   DateForm = "Mon, Jan 2, 2006"
   GoogleAnalyticsUserID = "UA-37606822-1"
   gaid = "UA-37606822-1"
-  baseurl = "http://www.railsbling.com/"
+  BaseURL = "http://www.railsbling.com"
   Facebook = "peter.boling"
   Twitter = "galtzo"
   Github = "pboling"
@@ -20,6 +20,7 @@ disqusShortname = "railsbling"
   sidebartagline = "Yet Another Paradigm by Peter Boling"
   categoriescss = "/css/project.css"
   noauthor = false
+  sidebarphoto = "/images/peter-japan.jpg"
 
 [taxonomies]
   tag = "tags"
@@ -38,6 +39,9 @@ disqusShortname = "railsbling"
 [[menu.main]]
     name = "Resume"
     url = "/cv"
+[[menu.main]]
+    name = "Contact"
+    url = "/contact"
 
 [[menu.social]]
     pre = "<i class='fab fa-github fa-2x'></i>"
