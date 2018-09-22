@@ -27,6 +27,7 @@ type = "docs"
 [![Test Coverage](https://api.codeclimate.com/v1/badges/65af4948d859903a0372/test_coverage)](https://codeclimate.com/github/pboling/sanitize_email/test_coverage)
 [![Documentation](http://inch-ci.org/github/pboling/sanitize_email.svg)](http://inch-ci.org/github/pboling/sanitize_email)
 [![Depfu](https://badges.depfu.com/badges/bba430e8f19a2ba3273fb20d5e8c82d6/count.svg)](https://depfu.com/github/pboling/sanitize_email)
+[![Open Source Helpers](https://www.codetriage.com/pboling/sanitize_email/badges/users.svg)](https://www.codetriage.com/pboling/sanitize_email)
 [![Chat](https://img.shields.io/gitter/room/pboling/sanitize_email.svg)](https://gitter.im/pboling/sanitize_email)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
