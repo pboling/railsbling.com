@@ -11,7 +11,7 @@
 
     <nav class="nav">
       <ul class="nav-list">
-        <li class="nav-item"><span class="nav-item-separator">//</span><a href="{{ .Site.BaseURL }}">Home</a></li>
+        <li class="nav-item"><span class="nav-item-separator">//</span><a href="{{ .Site.BaseURL }}/">Home</a></li>
         {{ range .Site.Menus.main }}
           <li class="nav-item"><span class="nav-item-separator">//</span><a href="{{ .URL }}">{{ .Name }}</a></li>
         {{ end }}
