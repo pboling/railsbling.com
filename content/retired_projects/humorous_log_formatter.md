@@ -8,7 +8,7 @@ authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "humorous_log_formatter"
-tags = [ "Development", "Ruby", "rails", "RubyGems", "humorous_log_formatter" ]
+tags = [ "Development", "Ruby", "rails", "RubyGems", "humorous_log_formatter", "retired" ]
 categories = [ "Development", "tools", "Ruby" ]
 series = [ "Toolchain" ]
 type = "retired_projects"
@@ -32,5 +32,4 @@ type = "retired_projects"
 [![Version](https://img.shields.io/gem/v/humorous_log_formatter.svg)](https://rubygems.org/gems/humorous_log_formatter)
 [![Build](https://img.shields.io/travis/pboling/humorous_log_formatter.svg)](https://travis-ci.org/pboling/humorous_log_formatter)
 [![Documentation](http://inch-ci.org/github/pboling/humorous_log_formatter.svg)](http://inch-ci.org/github/pboling/humorous_log_formatter)
-[![Dependency Status](https://gemnasium.com/pboling/humorous_log_formatter.svg)](https://gemnasium.com/pboling/humorous_log_formatter)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)

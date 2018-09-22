@@ -27,6 +27,5 @@ type = "retired_projects"
 [![Version](https://img.shields.io/gem/v/stackable_flash.svg)](https://rubygems.org/gems/stackable_flash)
 [![Build](https://img.shields.io/travis/pboling/stackable_flash.svg)](https://travis-ci.org/pboling/stackable_flash)
 [![Documentation](http://inch-ci.org/github/pboling/stackable_flash.svg)](http://inch-ci.org/github/pboling/stackable_flash)
-[![Dependency Status](https://gemnasium.com/pboling/stackable_flash.svg)](https://gemnasium.com/pboling/stackable_flash)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 

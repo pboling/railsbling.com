@@ -8,7 +8,7 @@ authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "controller_validator"
-tags = [ "Development", "Ruby", "rails", "RubyGems", "controller_validator" ]
+tags = [ "Development", "Ruby", "rails", "RubyGems", "controller_validator", "retired" ]
 categories = [ "Development", "tools", "Ruby" ]
 series = [ "Toolchain" ]
 type = "retired_projects"
@@ -27,7 +27,6 @@ Also includes a presenter base class to allow any Ruby web framework to create l
 [![Version](https://img.shields.io/gem/v/controller_validator.svg)](https://rubygems.org/gems/controller_validator)
 [![Build](https://img.shields.io/travis/pboling/controller_validator.svg)](https://travis-ci.org/pboling/controller_validator)
 [![Documentation](http://inch-ci.org/github/pboling/controller_validator.svg)](http://inch-ci.org/github/pboling/controller_validator)
-[![Dependency Status](https://gemnasium.com/pboling/controller_validator.svg)](https://gemnasium.com/pboling/controller_validator)
 [![Chat](https://img.shields.io/gitter/room/pboling/controller_validator.svg)](https://gitter.im/pboling/controller_validator)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 

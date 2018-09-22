@@ -10,6 +10,15 @@
 }
 
 /* Common styles of menus */
+.dl-menuwrapper a {
+	color: #ccc;
+	text-decoration: none;
+	text-align: left;
+}
+
+.dl-menuwrapper a:hover {
+	color: #fff;
+}
 
 .dl-menuwrapper {
 	width: 100%;

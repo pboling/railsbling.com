@@ -1,5 +1,5 @@
 +++
-date = "2017-06-02T11:00:00-07:00"
+date = "2017-02-26T11:00:00-07:00"
 draft = false
 authorlink = "https://about.me/peter.boling"
 authorlinktarget = "_blank"
@@ -15,37 +15,23 @@ type = "docs"
 
 +++
 
-# Gemfile Specs! New for 1.0.2
+# Find WAT Dragons! New for 1.0.0
 
-Version constraints are important.  Give the Gemfile some love in your CI build
+Search the Ruby source code of all the gems loaded by your Gemfile for a specified regex, to find out which gems have wat DRAGONS.
 
-Create a `spec/gemfile_spec.rb` like:
-```ruby
-Rspec.describe "Gemfile" do
-  it("has version constraint on every gem") do
-    requirements = GemBench::StrictVersionRequirement.new({verbose: false})
-    expect(requirements.list_missing_version_constraints).to eq([])
-  end
-end
-```
-
-Then your build will fail as soon as a gem is added without a proper constraint:
+Gem: "I have no wat DRAGONS!"
+You: ❨╯°□°❩╯︵┻━┻
 
 ```
-Failures:
-
-1) Gemfile has version constraint on every gem
-Failure/Error: expect(requirements.list_missing_version_constraints).to eq([])
-
-  expected: []
-       got: ["puma"]
-
-  (compared using ==)
-# ./spec/gemfile_spec.rb:7:in `block (2 levels) in <top (required)>'
+>> puts GemBench.find(look_for_regex: /wat/).starters.map {|gem| "#{gem.name} has wat DRAGONS at #{gem.stats}" }.join("\n")
+[GemBench] Will search for gems in ["/Users/pboling/.rvm/gems/ruby-2.4.0@foss/gems", "/Users/pboling/.rvm/gems/ruby-2.4.0@global/gems", "/Users/pboling/.rvm/gems/ruby-2.4.0@foss/bundler/gems"]
+[GemBench] Detected 11 loaded gems + 2 loaded gems which GemBench is configured to ignore.
+byebug has wat DRAGONS at [["/Users/pboling/.rvm/gems/ruby-2.4.0@foss/gems/byebug-9.0.6/lib/byebug/commands/frame.rb", 954]]
+=> nil
 ```
 
-For `:git`/`:github` sources, `:ref` and `:tag` are considered as "constraints", while `:branch` is not, because branches may be a moving target, and this gem aims to make Gemfiles production-ready.
-For string version constraints anything is allowed (e.g. `'~> 1.0'`), as it assumes the constraint placed is well considered.
+NOTE: The number (954, above) is not a line number. The file which contains the text `wat` was the 954th file evaluated, i.e. the number doesn't matter.
+NOTE: This is a contrived example.  The occurrence of `wat` in byebug is meaningless: `byebug/commands/frame.rb:34` has `        if there is a front end also watching over things.`.  This is just an example!  You can find anything you want, perhaps even something important!
 
 # What is gem_bench?
 

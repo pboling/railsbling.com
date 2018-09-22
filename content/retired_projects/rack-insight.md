@@ -8,7 +8,7 @@ authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "rack-insight"
-tags = [ "Development", "Ruby", "rails", "RubyGems", "rack-insight" ]
+tags = [ "Development", "Ruby", "rails", "RubyGems", "rack-insight", "retired" ]
 categories = [ "Development", "tools", "Ruby" ]
 series = [ "Toolchain" ]
 type = "retired_projects"
@@ -27,5 +27,4 @@ type = "retired_projects"
 [![Version](https://img.shields.io/gem/v/rack-insight.svg)](https://rubygems.org/gems/rack-insight)
 [![Build](https://img.shields.io/travis/pboling/rack-insight.svg)](https://travis-ci.org/pboling/rack-insight)
 [![Documentation](http://inch-ci.org/github/pboling/rack-insight.svg)](http://inch-ci.org/github/pboling/rack-insight)
-[![Dependency Status](https://gemnasium.com/pboling/rack-insight.svg)](https://gemnasium.com/pboling/rack-insight)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)

@@ -27,6 +27,5 @@ type = "retired_projects"
 [![Version](https://img.shields.io/gem/v/rack-toolbar.svg)](https://rubygems.org/gems/rack-toolbar)
 [![Build](https://img.shields.io/travis/pboling/rack-toolbar.svg)](https://travis-ci.org/pboling/rack-toolbar)
 [![Documentation](http://inch-ci.org/github/pboling/rack-toolbar.svg)](http://inch-ci.org/github/pboling/rack-toolbar)
-[![Dependency Status](https://gemnasium.com/pboling/rack-toolbar.svg)](https://gemnasium.com/pboling/rack-toolbar)
 [![Chat](https://img.shields.io/gitter/room/pboling/rack-toolbar.svg)](https://gitter.im/pboling/rack-toolbar)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
