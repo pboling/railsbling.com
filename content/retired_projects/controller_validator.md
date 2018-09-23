@@ -15,9 +15,7 @@ type = "retired_projects"
 
 +++
 
-## Provides content_tag_for method signature to create customizable and logic-gated labels from objects.
-
-Also includes a presenter base class to allow any Ruby web framework to create logic around HTML tags.
+## This Gem Is No Longer Maintained
 
 [![Total Downloads](https://img.shields.io/gem/rt/controller_validator.svg)](https://github.com/pboling/controller_validator)
 [![Downloads Today](https://img.shields.io/gem/rd/controller_validator.svg)](https://github.com/pboling/controller_validator)
@@ -27,7 +25,4 @@ Also includes a presenter base class to allow any Ruby web framework to create l
 [![Version](https://img.shields.io/gem/v/controller_validator.svg)](https://rubygems.org/gems/controller_validator)
 [![Build](https://img.shields.io/travis/pboling/controller_validator.svg)](https://travis-ci.org/pboling/controller_validator)
 [![Documentation](http://inch-ci.org/github/pboling/controller_validator.svg)](http://inch-ci.org/github/pboling/controller_validator)
-[![Chat](https://img.shields.io/gitter/room/pboling/controller_validator.svg)](https://gitter.im/pboling/controller_validator)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
-I'll put something here soon.
