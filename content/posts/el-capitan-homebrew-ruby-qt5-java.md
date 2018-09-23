@@ -8,8 +8,8 @@ authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "Upgrade to El Capitan with Homebrew, Ruby, qt5, & Java"
-tags = [ "Development", "Ruby", "rails", "environment", "homebrew", "qt5", "java" ]
-categories = [ "Development", "howto", "Ruby" ]
+tags = [ "development", "ruby", "rails", "environment", "homebrew", "qt5", "java" ]
+categories = [ "development", "howto", "Ruby" ]
 series = [ "Rails Project Setup" ]
 
 +++

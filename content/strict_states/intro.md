@@ -8,9 +8,9 @@ authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "Introducing strict_states"
-tags = [ "Development", "Ruby", "rails", "RubyGems", "strict_states" ]
-categories = [ "Development", "tools", "Ruby" ]
-series = [ "Toolchain" ]
+tags = [ "development", "ruby", "rails", "rubygems", "strict_states" ]
+categories = [ "development", "tools", "Ruby" ]
+series = [ "toolchain" ]
 type = "docs"
 
 +++

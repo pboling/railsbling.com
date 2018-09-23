@@ -8,9 +8,9 @@ authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "Introducing each_in_batches"
-tags = [ "Development", "Ruby", "rails", "RubyGems", "each_in_batches" ]
-categories = [ "Development", "tools", "Ruby" ]
-series = [ "Toolchain" ]
+tags = [ "development", "ruby", "rails", "rubygems", "each_in_batches" ]
+categories = [ "development", "tools", "Ruby" ]
+series = [ "toolchain" ]
 type = "docs"
 
 +++

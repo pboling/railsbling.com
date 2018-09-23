@@ -8,9 +8,9 @@ authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "FOSS Ruby Projects"
-tags = [ "Development", "Ruby", "rails", "RubyGems" ]
-categories = [ "Development", "tools", "Ruby" ]
-series = [ "Toolchain" ]
+tags = [ "development", "ruby", "rails", "rubygems" ]
+categories = [ "development", "tools", "Ruby" ]
+series = [ "toolchain" ]
 type = "page"
 
 +++

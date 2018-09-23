@@ -8,9 +8,9 @@ authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "Maintaining oauth2"
-tags = [ "Development", "Ruby", "rails", "RubyGems", "oauth2" ]
-categories = [ "Development", "tools", "Ruby" ]
-series = [ "Toolchain" ]
+tags = [ "development", "ruby", "rails", "rubygems", "oauth2" ]
+categories = [ "development", "tools", "Ruby" ]
+series = [ "toolchain" ]
 type = "docs"
 
 +++

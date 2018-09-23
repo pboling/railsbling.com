@@ -8,9 +8,9 @@ authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "Introducing anonymous_active_record"
-tags = [ "Development", "Ruby", "rails", "RubyGems", "anonymous_active_record", "Database" ]
-categories = [ "Development", "tools", "Ruby" ]
-series = [ "Toolchain" ]
+tags = [ "development", "ruby", "rails", "rubygems", "anonymous_active_record", "database" ]
+categories = [ "development", "tools", "Ruby" ]
+series = [ "toolchain" ]
 type = "docs"
 
 +++

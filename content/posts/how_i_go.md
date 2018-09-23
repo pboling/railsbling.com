@@ -9,8 +9,8 @@ authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "How I Go"
 socialsharing = true
-tags = [ "Development", "Go" ]
-categories = [ "Development", "howto", "Go" ]
+tags = [ "development", "Go" ]
+categories = [ "development", "howto", "Go" ]
 series = [ "Blogging" ]
 
 +++

@@ -8,8 +8,8 @@ authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "Introducing celluloid-io-pg-listener: Part 1"
-tags = [ "Development", "Ruby", "rails", "RubyGems", "celluloid-io-pg-listener" ]
-categories = [ "Development", "tools", "Ruby", "async", "evented", "threaded" ]
+tags = [ "development", "ruby", "rails", "rubygems", "celluloid-io-pg-listener" ]
+categories = [ "development", "tools", "Ruby", "async", "evented", "threaded" ]
 series = [ "Introductions" ]
 
 +++

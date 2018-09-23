@@ -8,8 +8,8 @@ authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "My Git Commit Hooks"
-tags = [ "Development", "git", "process" ]
-categories = [ "Development", "howto", "git" ]
+tags = [ "development", "git", "process" ]
+categories = [ "development", "howto", "git" ]
 series = [ "Rails Project Setup" ]
 
 +++

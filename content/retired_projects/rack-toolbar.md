@@ -8,9 +8,9 @@ authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "rack-toolbar"
-tags = [ "Development", "Ruby", "rails", "RubyGems", "rack-toolbar" ]
-categories = [ "Development", "tools", "Ruby" ]
-series = [ "Toolchain" ]
+tags = [ "development", "ruby", "rails", "rubygems", "rack-toolbar" ]
+categories = [ "development", "tools", "Ruby" ]
+series = [ "toolchain" ]
 type = "retired_projects"
 
 +++

@@ -10,7 +10,7 @@ authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "Repatriate Refugees"
 tags = [ "humanitarian", "refugees", "charity", "africa", "repatriation", "liberia", "ghana" ]
 categories = [ "humanitarian", "refugees" ]
-series = [ "Refugees" ]
+series = [ "refugees" ]
 type = "posts"
 
 +++

@@ -8,9 +8,9 @@ authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "controller_validator"
-tags = [ "Development", "Ruby", "rails", "RubyGems", "controller_validator", "retired" ]
-categories = [ "Development", "tools", "Ruby" ]
-series = [ "Toolchain" ]
+tags = [ "development", "ruby", "rails", "rubygems", "controller_validator", "retired" ]
+categories = [ "development", "tools", "Ruby" ]
+series = [ "toolchain" ]
 type = "retired_projects"
 
 +++

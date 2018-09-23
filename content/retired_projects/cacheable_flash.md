@@ -8,9 +8,9 @@ authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "cacheable-flash"
-tags = [ "Development", "Ruby", "rails", "RubyGems", "cacheable-flash", "retired" ]
-categories = [ "Development", "tools", "Ruby" ]
-series = [ "Toolchain" ]
+tags = [ "development", "ruby", "rails", "rubygems", "cacheable-flash", "retired" ]
+categories = [ "development", "tools", "Ruby" ]
+series = [ "toolchain" ]
 type = "retired_projects"
 
 +++
