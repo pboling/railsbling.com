@@ -9,7 +9,7 @@ authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "rack-insight"
 tags = [ "development", "ruby", "rails", "rubygems", "rack-insight", "retired" ]
-categories = [ "development", "tools", "Ruby" ]
+categories = [ "development", "tools", "ruby" ]
 series = [ "toolchain" ]
 type = "retired_projects"
 

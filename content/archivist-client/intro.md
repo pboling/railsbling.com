@@ -9,7 +9,7 @@ authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "Introducing archivist-client"
 tags = [ "development", "ruby", "rails", "rubygems", "archivist-client" ]
-categories = [ "development", "tools", "Ruby" ]
+categories = [ "development", "tools", "ruby" ]
 series = [ "toolchain" ]
 type = "docs"
 

@@ -9,7 +9,7 @@ authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "Introducing rspec-pending_for"
 tags = [ "development", "ruby", "rails", "rubygems", "rspec-pending_for" ]
-categories = [ "development", "tools", "Ruby" ]
+categories = [ "development", "tools", "ruby" ]
 series = [ "toolchain" ]
 type = "docs"
 

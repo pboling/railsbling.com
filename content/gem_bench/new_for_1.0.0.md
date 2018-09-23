@@ -9,7 +9,7 @@ authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "Gemfile Specs! New for gem_bench v1.0.2"
 tags = [ "development", "ruby", "rails", "rubygems", "gem_bench", "release" ]
-categories = [ "development", "tools", "Ruby" ]
+categories = [ "development", "tools", "ruby" ]
 series = [ "toolchain" ]
 type = "docs"
 

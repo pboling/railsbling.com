@@ -9,7 +9,7 @@ authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "Fix The Nokogiri Warning"
 tags = [ "development", "ruby", "rubygems", "nokogiri", "bundler" ]
-categories = [ "development", "howto", "Ruby" ]
+categories = [ "development", "howto", "ruby" ]
 series = [ "Rails Project Setup" ]
 
 +++

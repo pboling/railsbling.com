@@ -9,7 +9,7 @@ authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "react-rails-benchmark_renderer"
 tags = [ "development", "ruby", "rails", "rubygems", "react-rails-benchmark_renderer" ]
-categories = [ "development", "tools", "Ruby" ]
+categories = [ "development", "tools", "ruby" ]
 series = [ "toolchain" ]
 type = "retired_projects"
 
