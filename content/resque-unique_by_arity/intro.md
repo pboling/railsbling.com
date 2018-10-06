@@ -8,8 +8,8 @@ authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "Introducing resque-unique_by_arity"
-tags = [ "development", "ruby", "rails", "rubygems", "resque-unique_by_arity" ]
-categories = [ "development", "tools", "ruby" ]
+tags = [ "development", "ruby", "rails", "rubygems", "resque", "resque-unique_by_arity" ]
+categories = [ "development", "tools", "ruby", "resque" ]
 series = [ "toolchain" ]
 type = "docs"
 

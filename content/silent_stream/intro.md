@@ -8,8 +8,8 @@ authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "Introducing silent_stream"
-tags = [ "development", "ruby", "rails", "rubygems", "silent_stream" ]
-categories = [ "development", "tools", "ruby" ]
+tags = [ "development", "ruby", "rails", "rubygems", "silent_stream", "logging" ]
+categories = [ "development", "tools", "ruby", "logging" ]
 series = [ "toolchain" ]
 type = "docs"
 

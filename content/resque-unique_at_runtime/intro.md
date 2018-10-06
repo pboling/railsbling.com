@@ -8,8 +8,8 @@ authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "Introducing resque-unique_at_runtime"
-tags = [ "development", "ruby", "rails", "rubygems", "resque-unique_at_runtime" ]
-categories = [ "development", "tools", "ruby" ]
+tags = [ "development", "ruby", "rails", "rubygems", "resque", "resque-unique_at_runtime" ]
+categories = [ "development", "tools", "ruby", "resque" ]
 series = [ "toolchain" ]
 type = "docs"
 

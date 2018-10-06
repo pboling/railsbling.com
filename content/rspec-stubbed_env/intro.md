@@ -9,7 +9,7 @@ authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "Introducing rspec-stubbed_env"
 tags = [ "development", "ruby", "rails", "rubygems", "rspec-stubbed_env" ]
-categories = [ "development", "tools", "ruby" ]
+categories = [ "development", "tools", "ruby", "rspec"]
 series = [ "toolchain" ]
 type = "docs"
 

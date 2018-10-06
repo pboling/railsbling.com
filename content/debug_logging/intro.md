@@ -8,8 +8,8 @@ authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "Introducing debug_logging"
-tags = [ "development", "ruby", "rails", "rubygems", "debug_logging" ]
-categories = [ "development", "tools", "ruby" ]
+tags = [ "development", "ruby", "rails", "rubygems", "debug_logging", "logging" ]
+categories = [ "development", "tools", "ruby", "logging" ]
 series = [ "toolchain" ]
 type = "docs"
 
