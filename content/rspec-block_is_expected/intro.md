@@ -15,7 +15,7 @@ type = "docs"
 
 +++
 
-## Mark specs pending or skipped for specific Ruby engine (e.g. MRI or JRuby) / version combinations.
+## Allows you to use `block_is_expected` similarly to how you would use `is_expected` if a block was wrapping the subject.
 
 [![Total Downloads](https://img.shields.io/gem/rt/rspec-block_is_expected.svg)](https://github.com/pboling/rspec-block_is_expected)
 [![Downloads Today](https://img.shields.io/gem/rd/rspec-block_is_expected.svg)](https://github.com/pboling/rspec-block_is_expected)
