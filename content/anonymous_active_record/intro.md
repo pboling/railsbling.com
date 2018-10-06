@@ -34,4 +34,4 @@ Replacement for broken `Class.new(ActiveRecord::Base)`.
 
 Very useful in testing Rails apps, and even more so for testing gems without having to specify full blown models.
 
-An exceptionally hacky alternative that could also be used for real runtime code, see my other gem [activerecord-tablefree](https://rubygems.org/gems/activerecord-tablefree)!
+If you prefer an exceptionally hacky alternative that could also be used for real runtime code, see my other gem [activerecord-tablefree](https://rubygems.org/gems/activerecord-tablefree)!
