@@ -27,7 +27,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/oauth2">
-    <div class="name"><i class="fas fa-flag-checkered"></i> oauth2&rarr;</div>
+    <div class="name"><i class="fas fa-lock"></i> oauth2&rarr;</div>
   </a>
   <div class="description">A Ruby wrapper for the OAuth 2.0 protocol</div>
 </div>
@@ -37,7 +37,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/flag_shih_tzu">
-    <div class="name"><i class="fas fa-flag-checkered"></i> flag_shih_tzu&rarr;</div>
+    <div class="name"><i class="fas fa-toggle-on"></i> flag_shih_tzu&rarr;</div>
   </a>
   <div class="description">Bit Fields for Active Record, (originally by <a href=""https://github.com/xing">XING Developers</a>)</div>
 </div>
@@ -47,7 +47,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/dynamoid">
-    <div class="name"><i class="fas fa-flag-checkered"></i> dynamoid&rarr;</div>
+    <div class="name"><i class="fas fa-database"></i> dynamoid&rarr;</div>
   </a>
   <div class="description">Ruby ORM for Amazon's DynamoDB</div>
 </div>
@@ -63,21 +63,21 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
   <a href="/tags/rspec-pending_for">
     <div class="name"><i class="fas fa-toggle-off"></i> rspec-pending_for&rarr;</div>
   </a>
-  <div class="description">Mark specs pending or skipped for specific Ruby engine / version combinations (e.g. MRI or jRuby, or version 1.9.3)</div>
+  <div class="description">Mark specs pending or skipped for specific Ruby engine / version combinations, e.g. <pre><code>pending_for(engine: "ruby", versions: "2.0.0", reason: "just because")</code></pre></div>
 </div>
 
 [![Stars](https://img.shields.io/github/stars/pboling/rspec-pending_for.svg?style=social)](https://github.com/pboling/rspec-pending_for/stargazers)
 [![Version](https://img.shields.io/gem/v/rspec-pending_for.svg)](https://rubygems.org/gems/rspec-pending_for)
 
 <div class="project">
-  <a href="/tags/rspec-stubbed_env">
-    <div class="name"><i class="fas fa-toggle-off"></i> rspec-stubbed_env&rarr;</div>
+  <a href="/tags/rspec-block_is_expected">
+    <div class="name"><i class="fas fa-toggle-off"></i> rspec-block_is_expected&rarr;</div>
   </a>
   <div class="description">Simplify testing of blocks in RSpec via, e.g. <pre><code>block_is_expected.to_not raise_error</code></pre></div>
 </div>
 
-[![Stars](https://img.shields.io/github/stars/pboling/rspec-stubbed_env.svg?style=social)](https://github.com/pboling/rspec-stubbed_env/stargazers)
-[![Version](https://img.shields.io/gem/v/rspec-stubbed_env.svg)](https://rubygems.org/gems/rspec-stubbed_env)
+[![Stars](https://img.shields.io/github/stars/pboling/rspec-block_is_expected.svg?style=social)](https://github.com/pboling/rspec-block_is_expected/stargazers)
+[![Version](https://img.shields.io/gem/v/rspec-block_is_expected.svg)](https://rubygems.org/gems/rspec-block_is_expected)
 
 <div class="project">
   <a href="/tags/rspec-stubbed_env">
@@ -93,9 +93,13 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/activerecord-transactionable">
-    <div class="name"><i class="fas fa-toggle-off"></i> activerecord-transactionable&rarr;</div>
+    <div class="name"><i class="fas fa-check-circle"></i> activerecord-transactionable&rarr;</div>
   </a>
-  <div class="description">Properly Implement ActiveRecord Transactions</div>
+  <div class="description">Properly Implement ActiveRecord Transactions, e.g. <pre><code>
+  Car.transaction_wrapper(outside_retriable_errors: ActivRecord::RecordNotFound, outside_num_retry_attempts: 3) do |is_retry|
+    is_retry ? Car.find_by!(vin: vin) : Car.create!(vin: vin)
+  end
+  </code></pre></div>
 </div>
 
 [![Stars](https://img.shields.io/github/stars/pboling/activerecord-transactionable.svg?style=social)](https://github.com/pboling/activerecord-transactionable/stargazers)
@@ -103,9 +107,9 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/anonymous_active_record">
-    <div class="name"><i class="fas fa-toggle-off"></i> anonymous_active_record&rarr;</div>
+    <div class="name"><i class="fas fa-check-circle"></i> anonymous_active_record&rarr;</div>
   </a>
-  <div class="description">Faux Anonymous ActiveRecord Classes for easily testing Concerns</div>
+  <div class="description">Faux Anonymous ActiveRecord Classes for easily testing Concerns, e.g. <pre><code>AnonymousActiveRecord.generate(columns: ['name']) { include HasBalloon }</code></pre></div>
 </div>
 
 [![Stars](https://img.shields.io/github/stars/pboling/anonymous_active_record.svg?style=social)](https://github.com/pboling/anonymous_active_record/stargazers)
@@ -113,7 +117,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/activerecord-tablefree">
-    <div class="name"><i class="fas fa-toggle-off"></i> activerecord-tablefree&rarr;</div>
+    <div class="name"><i class="fas fa-check-circle"></i> activerecord-tablefree&rarr;</div>
   </a>
   <div class="description">TableFree ActiveRecord w/ associations and nested attributes</div>
 </div>
@@ -125,7 +129,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/resque-unique_at_runtime">
-    <div class="name"><i class="fas fa-toggle-off"></i> resque-unique_at_runtime&rarr;</div>
+    <div class="name"><i class="fas fa-cubes"></i> resque-unique_at_runtime&rarr;</div>
   </a>
   <div class="description">A resque plugin that ensures that only one job for a given queue will be running on any worker at a given time</div>
 </div>
@@ -135,7 +139,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/resque-unique_by_arity">
-    <div class="name"><i class="fas fa-toggle-off"></i> resque-unique_by_arity&rarr;</div>
+    <div class="name"><i class="fas fa-cubes"></i> resque-unique_by_arity&rarr;</div>
   </a>
   <div class="description">Magic hacks which allow integration of job multiple Resque plugins providing different types of job uniqueness</div>
 </div>
@@ -145,10 +149,9 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 ### Benchmarking Gems
 
-
 <div class="project">
   <a href="/tags/gem_bench">
-    <div class="name"><i class="fas fa-ambulance"></i> gem_bench&rarr;</div>
+    <div class="name"><i class="fas fa-bolt"></i> gem_bench&rarr;</div>
   </a>
   <div class="description">Static Gemfile analysis</div>
 </div>
@@ -158,7 +161,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/react-rails-benchmark_renderer">
-    <div class="name"><i class="fas fa-ambulance"></i> react-rails-benchmark_renderer&rarr;</div>
+    <div class="name"><i class="fas fa-bolt"></i> react-rails-benchmark_renderer&rarr;</div>
   </a>
   <div class="description">Static Gemfile analysis</div>
 </div>
@@ -168,7 +171,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/require_bench">
-    <div class="name"><i class="fas fa-headphones"></i> require_bench&rarr;</div>
+    <div class="name"><i class="fas fa-bolt"></i> require_bench&rarr;</div>
   </a>
   <div class="description">Benchmark Ruby's `require` for Debugging Glory</div>
 </div>
@@ -180,7 +183,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/sanitize_email">
-    <div class="name"><i class="fas fa-send-o"></i> sanitize_email&rarr;</div>
+    <div class="name"><i class="fas fa-envelope"></i> sanitize_email&rarr;</div>
   </a>
   <div class="description">An Email Condom for your Ruby Server</div>
 </div>
@@ -190,7 +193,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/silent_stream">
-    <div class="name"><i class="fas fa-send-o"></i> silent_stream&rarr;</div>
+    <div class="name"><i class="fas fa-volume-off"></i> silent_stream&rarr;</div>
   </a>
   <div class="description">ActiveSupport Stream Silencing - Without ActiveSupport</div>
 </div>
@@ -251,7 +254,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/destination_errors">
-    <div class="name"><i class="fas fa-chain-broken"></i> destination_errors&rarr;</div>
+    <div class="name"><i class="fas fa-eye"></i> destination_errors&rarr;</div>
   </a>
   <div class="description">Provides errors to the Form Object Presenter Pattern</div>
 </div>
@@ -261,7 +264,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 <div class="project">
   <a href="/tags/letter_group">
-    <div class="name"><i class="fas fa-sort-alpha-asc"></i> letter_group&rarr;</div>
+    <div class="name"><i class="fas fa-object-group"></i> letter_group&rarr;</div>
   </a>
   <div class="description">Organize data results from raw sql queries (as with PGresult, or Dossier) intelligently</div>
 </div>
