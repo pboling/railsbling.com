@@ -45,17 +45,138 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 [![Stars](https://img.shields.io/github/stars/pboling/flag_shih_tzu.svg?style=social)](https://github.com/pboling/flag_shih_tzu/stargazers)
 [![Version](https://img.shields.io/gem/v/flag_shih_tzu.svg)](https://rubygems.org/gems/flag_shih_tzu)
 
-## Ruby: I built that <i class="fas fa-level-down"></i>
-
 <div class="project">
-  <a href="/tags/celluloid-io-pg-listener">
-    <div class="name"><i class="fas fa-headphones"></i> celluloid-io-pg-listener&rarr;</div>
+  <a href="/tags/dynamoid">
+    <div class="name"><i class="fas fa-flag-checkered"></i> dynamoid&rarr;</div>
   </a>
-  <div class="description">LISTEN for NOTIFY events from PostgreSQL and Asynchronously Do Something with the payload.</div>
+  <div class="description">Ruby ORM for Amazon's DynamoDB</div>
 </div>
 
-[![Stars](https://img.shields.io/github/stars/pboling/celluloid-io-pg-listener.svg?style=social)](https://github.com/pboling/celluloid-io-pg-listener/stargazers)
-[![Version](https://img.shields.io/gem/v/celluloid-io-pg-listener.svg)](https://rubygems.org/gems/celluloid-io-pg-listener)
+[![Stars](https://img.shields.io/github/stars/dynamoid/dynamoid.svg?style=social)](https://github.com/dynamoid/dynamoid/stargazers)
+[![Version](https://img.shields.io/gem/v/dynamoid.svg)](https://rubygems.org/gems/dynamoid)
+
+## Ruby: I built that <i class="fas fa-level-down"></i>
+
+### RSpec Plugin Gems
+
+<div class="project">
+  <a href="/tags/rspec-pending_for">
+    <div class="name"><i class="fas fa-toggle-off"></i> rspec-pending_for&rarr;</div>
+  </a>
+  <div class="description">Mark specs pending or skipped for specific Ruby engine / version combinations (e.g. MRI or jRuby, or version 1.9.3)</div>
+</div>
+
+[![Stars](https://img.shields.io/github/stars/pboling/rspec-pending_for.svg?style=social)](https://github.com/pboling/rspec-pending_for/stargazers)
+[![Version](https://img.shields.io/gem/v/rspec-pending_for.svg)](https://rubygems.org/gems/rspec-pending_for)
+
+<div class="project">
+  <a href="/tags/rspec-stubbed_env">
+    <div class="name"><i class="fas fa-toggle-off"></i> rspec-stubbed_env&rarr;</div>
+  </a>
+  <div class="description">Simplify testing of blocks in RSpec via, e.g. <pre><code>block_is_expected.to_not raise_error</code></pre></div>
+</div>
+
+[![Stars](https://img.shields.io/github/stars/pboling/rspec-stubbed_env.svg?style=social)](https://github.com/pboling/rspec-stubbed_env/stargazers)
+[![Version](https://img.shields.io/gem/v/rspec-stubbed_env.svg)](https://rubygems.org/gems/rspec-stubbed_env)
+
+<div class="project">
+  <a href="/tags/rspec-stubbed_env">
+    <div class="name"><i class="fas fa-toggle-off"></i> rspec-stubbed_env&rarr;</div>
+  </a>
+  <div class="description">Unobtrusively stub ENV keys and values during testing, e.g. <pre><code>stub_env('LANG' => 'en_US.UTF-8')</code></pre></div>
+</div>
+
+[![Stars](https://img.shields.io/github/stars/pboling/rspec-stubbed_env.svg?style=social)](https://github.com/pboling/rspec-stubbed_env/stargazers)
+[![Version](https://img.shields.io/gem/v/rspec-stubbed_env.svg)](https://rubygems.org/gems/rspec-stubbed_env)
+
+### ActiveRecord Plugin Gems
+
+<div class="project">
+  <a href="/tags/activerecord-transactionable">
+    <div class="name"><i class="fas fa-toggle-off"></i> activerecord-transactionable&rarr;</div>
+  </a>
+  <div class="description">Properly Implement ActiveRecord Transactions</div>
+</div>
+
+[![Stars](https://img.shields.io/github/stars/pboling/activerecord-transactionable.svg?style=social)](https://github.com/pboling/activerecord-transactionable/stargazers)
+[![Version](https://img.shields.io/gem/v/activerecord-transactionable.svg)](https://rubygems.org/gems/activerecord-transactionable)
+
+<div class="project">
+  <a href="/tags/anonymous_active_record">
+    <div class="name"><i class="fas fa-toggle-off"></i> anonymous_active_record&rarr;</div>
+  </a>
+  <div class="description">Faux Anonymous ActiveRecord Classes for easily testing Concerns</div>
+</div>
+
+[![Stars](https://img.shields.io/github/stars/pboling/anonymous_active_record.svg?style=social)](https://github.com/pboling/anonymous_active_record/stargazers)
+[![Version](https://img.shields.io/gem/v/anonymous_active_record.svg)](https://rubygems.org/gems/anonymous_active_record)
+
+<div class="project">
+  <a href="/tags/activerecord-tablefree">
+    <div class="name"><i class="fas fa-toggle-off"></i> activerecord-tablefree&rarr;</div>
+  </a>
+  <div class="description">TableFree ActiveRecord w/ associations and nested attributes</div>
+</div>
+
+[![Stars](https://img.shields.io/github/stars/pboling/activerecord-tablefree.svg?style=social)](https://github.com/pboling/activerecord-tablefree/stargazers)
+[![Version](https://img.shields.io/gem/v/activerecord-tablefree.svg)](https://rubygems.org/gems/activerecord-tablefree)
+
+### Resque Plugin Gems
+
+<div class="project">
+  <a href="/tags/resque-unique_at_runtime">
+    <div class="name"><i class="fas fa-toggle-off"></i> resque-unique_at_runtime&rarr;</div>
+  </a>
+  <div class="description">A resque plugin that ensures that only one job for a given queue will be running on any worker at a given time</div>
+</div>
+
+[![Stars](https://img.shields.io/github/stars/pboling/resque-unique_at_runtime.svg?style=social)](https://github.com/pboling/resque-unique_at_runtime/stargazers)
+[![Version](https://img.shields.io/gem/v/resque-unique_at_runtime.svg)](https://rubygems.org/gems/resque-unique_at_runtime)
+
+<div class="project">
+  <a href="/tags/resque-unique_by_arity">
+    <div class="name"><i class="fas fa-toggle-off"></i> resque-unique_by_arity&rarr;</div>
+  </a>
+  <div class="description">Magic hacks which allow integration of job multiple Resque plugins providing different types of job uniqueness</div>
+</div>
+
+[![Stars](https://img.shields.io/github/stars/pboling/resque-unique_by_arity.svg?style=social)](https://github.com/pboling/resque-unique_by_arity/stargazers)
+[![Version](https://img.shields.io/gem/v/resque-unique_by_arity.svg)](https://rubygems.org/gems/resque-unique_by_arity)
+
+### Benchmarking Gems
+
+
+<div class="project">
+  <a href="/tags/gem_bench">
+    <div class="name"><i class="fas fa-ambulance"></i> gem_bench&rarr;</div>
+  </a>
+  <div class="description">Static Gemfile analysis</div>
+</div>
+
+[![Stars](https://img.shields.io/github/stars/pboling/gem_bench.svg?style=social)](https://github.com/pboling/gem_bench/stargazers)
+[![Version](https://img.shields.io/gem/v/gem_bench.svg)](https://rubygems.org/gems/gem_bench)
+
+<div class="project">
+  <a href="/tags/react-rails-benchmark_renderer">
+    <div class="name"><i class="fas fa-ambulance"></i> react-rails-benchmark_renderer&rarr;</div>
+  </a>
+  <div class="description">Static Gemfile analysis</div>
+</div>
+
+[![Stars](https://img.shields.io/github/stars/pboling/react-rails-benchmark_renderer.svg?style=social)](https://github.com/pboling/react-rails-benchmark_renderer/stargazers)
+[![Version](https://img.shields.io/gem/v/react-rails-benchmark_renderer.svg)](https://rubygems.org/gems/react-rails-benchmark_renderer)
+
+<div class="project">
+  <a href="/tags/require_bench">
+    <div class="name"><i class="fas fa-headphones"></i> require_bench&rarr;</div>
+  </a>
+  <div class="description">Benchmark Ruby's `require` for Debugging Glory</div>
+</div>
+
+[![Stars](https://img.shields.io/github/stars/pboling/require_bench.svg?style=social)](https://github.com/pboling/require_bench/stargazers)
+[![Version](https://img.shields.io/gem/v/require_bench.svg)](https://rubygems.org/gems/require_bench)
+
+### Other Gems
 
 <div class="project">
   <a href="/tags/sanitize_email">
@@ -68,6 +189,26 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 [![Version](https://img.shields.io/gem/v/sanitize_email.svg)](https://rubygems.org/gems/sanitize_email)
 
 <div class="project">
+  <a href="/tags/silent_stream">
+    <div class="name"><i class="fas fa-send-o"></i> silent_stream&rarr;</div>
+  </a>
+  <div class="description">ActiveSupport Stream Silencing - Without ActiveSupport</div>
+</div>
+
+[![Stars](https://img.shields.io/github/stars/pboling/silent_stream.svg?style=social)](https://github.com/pboling/silent_stream/stargazers)
+[![Version](https://img.shields.io/gem/v/silent_stream.svg)](https://rubygems.org/gems/silent_stream)
+
+<div class="project">
+  <a href="/tags/celluloid-io-pg-listener">
+    <div class="name"><i class="fas fa-headphones"></i> celluloid-io-pg-listener&rarr;</div>
+  </a>
+  <div class="description">LISTEN for NOTIFY events from PostgreSQL and Asynchronously Do Something with the payload.</div>
+</div>
+
+[![Stars](https://img.shields.io/github/stars/pboling/celluloid-io-pg-listener.svg?style=social)](https://github.com/pboling/celluloid-io-pg-listener/stargazers)
+[![Version](https://img.shields.io/gem/v/celluloid-io-pg-listener.svg)](https://rubygems.org/gems/celluloid-io-pg-listener)
+
+<div class="project">
   <a href="/tags/status_tag">
     <div class="name"><i class="fas fa-tags"></i> status_tag&rarr;</div>
   </a>
@@ -77,25 +218,6 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 [![Stars](https://img.shields.io/github/stars/pboling/status_tag.svg?style=social)](https://github.com/pboling/status_tag/stargazers)
 [![Version](https://img.shields.io/gem/v/status_tag.svg)](https://rubygems.org/gems/status_tag)
 
-<div class="project">
-  <a href="/tags/rspec-pending_for">
-    <div class="name"><i class="fas fa-toggle-off"></i> rspec-pending_for&rarr;</div>
-  </a>
-  <div class="description">Mark specs pending or skipped for specific Ruby engine / version combinations (e.g. MRI or jRuby, or version 1.9.3).</div>
-</div>
-
-[![Stars](https://img.shields.io/github/stars/pboling/rspec-pending_for.svg?style=social)](https://github.com/pboling/rspec-pending_for/stargazers)
-[![Version](https://img.shields.io/gem/v/rspec-pending_for.svg)](https://rubygems.org/gems/rspec-pending_for)
-
-<div class="project">
-  <a href="/tags/gem_bench">
-    <div class="name"><i class="fas fa-ambulance"></i> gem_bench&rarr;</div>
-  </a>
-  <div class="description">Gemfile analysis</div>
-</div>
-
-[![Stars](https://img.shields.io/github/stars/pboling/gem_bench.svg?style=social)](https://github.com/pboling/gem_bench/stargazers)
-[![Version](https://img.shields.io/gem/v/gem_bench.svg)](https://rubygems.org/gems/gem_bench)
 
 <div class="project">
   <a href="/tags/archivist-client">
