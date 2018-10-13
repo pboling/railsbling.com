@@ -22,7 +22,7 @@ type = "docs"
 [![Downloads Today](https://img.shields.io/gem/rt/oauth2.svg)][gem]
 [![Network](https://img.shields.io/github/forks/oauth-xx/oauth2.svg?style=social)][network]
 [![Stars](https://img.shields.io/github/stars/oauth-xx/oauth2.svg?style=social)][stargazers]
-[![Build Status](http://img.shields.io/travis/oauth-xx/oauth2.svg)][travis]
+[![Build Status](https://travis-ci.org/oauth-xx/oauth2.svg?branch=1-4-stable)][travis]
 [![Coverage Status](http://img.shields.io/coveralls/intridea/oauth2.svg)][coveralls]
 [![Maintainability](https://api.codeclimate.com/v1/badges/688c612528ff90a46955/maintainability)][codeclimate-maintainability]
 [![Depfu](https://badges.depfu.com/badges/6d34dc1ba682bbdf9ae2a97848241743/count.svg)][depfu]
@@ -35,12 +35,14 @@ type = "docs"
 [network]: https://github.com/oauth-xx/oauth2/network
 [stargazers]: https://github.com/oauth-xx/oauth2/stargazers
 [travis]: http://travis-ci.org/oauth-xx/oauth2
-[coveralls]: https://coveralls.io/r/intridea/oauth2
+[coveralls]: https://coveralls.io/r/oauth-xx/oauth2
 [codeclimate-maintainability]: https://codeclimate.com/github/oauth-xx/oauth2/maintainability
 [depfu]: https://depfu.com/github/oauth-xx/oauth2
 [source-license]: https://opensource.org/licenses/MIT
 [inch-ci]: http://inch-ci.org/github/oauth-xx/oauth2
 [code-triage]: https://www.codetriage.com/oauth-xx/oauth2
+
+**UPDATE 2018-10-13**: [Version 1.4.1 has been released!](/oauth2/oauth2-1.4.1.html)
 
 I am now the lead maintainer of the oauth2 gem.  I will work toward getting a version 2.0.0 released, which will not drop support for any currently supported Rubies.  After that a 3.0.0 release will drop support for EOL Rubies.
 
