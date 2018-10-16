@@ -14,9 +14,18 @@ type = "page"
 
 # Resume
 
-### Download
+### Download Resume Here <i class="fas fa-level-down"></i>
 
-My resume as **[WEB](http://resume.peterboling.com)**, **[PDF](https://drive.google.com/open?id=1oIzEHgwj8qpbNLvRVaaqhl_itZy4NncA)**, or **[DOCX](https://drive.google.com/open?id=1r-QrWA6mgJ6k7eJvMHpOt3DBIwSAN3TA)**.
+I'm not a fan of vendor-lockin, so have it your way!
+
+- **[WEB](http://resume.peterboling.com)** (a website, for a web browser)
+- **[ePub](/cv/PeterBoling_Resume_2018.10.15.epub)** (formatted for e-readers)
+- **[ODT](/cv/PeterBoling_Resume_2018.10.15.odt)** (OpenDocument Text file)
+- **[PDF](/cv/PeterBoling_Resume_2018.10.15.pdf)** (Portable Document Format)
+- **[RTF](/cv/PeterBoling_Resume_2018.10.15.rtf)** (Rich Text Format)
+- **[HTML, Zipped](/cv/PeterBoling_Resume_2018.10.15.zip)** (Raw HTML assets, archived as a Zip file)
+
+<small>- Even [DOCX](/cv/PeterBoling_Resume_2018.10.15.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
 
 ### I build big things out of bitty bits
 

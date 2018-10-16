@@ -20,6 +20,8 @@ type = "page"
 
 [peter.boling@gmail.com](mailto:peter.boling@gmail.com)
 
+## [Looking for my Resume?](/cv)
+
 ## Want More?
 
 [![On Github](https://img.shields.io/github/followers/pboling.svg)](https://github.com/pboling/)

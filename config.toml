@@ -31,16 +31,37 @@ disqusShortname = "railsbling"
     post = "/blog/:year/:month/:day/:title/"
 
 [[menu.main]]
-    name = "Blog"
+    name = "POSTS"
     url = "/posts"
 [[menu.main]]
     name = "FOSS"
     url = "/foss"
 [[menu.main]]
-    name = "Resume"
+    name = "RUBY"
+    url = "/tags/ruby"
+[[menu.main]]
+    name = "RSPEC"
+    url = "/tags/rspec"
+[[menu.main]]
+    name = "RESQUE"
+    url = "/tags/resque"
+[[menu.main]]
+    name = "OAUTH2"
+    url = "/tags/oauth2"
+[[menu.main]]
+    name = "CV"
     url = "/cv"
 [[menu.main]]
-    name = "Contact"
+    name = "JAVASCRIPT"
+    url = "/javascript"
+[[menu.main]]
+    name = "BASH"
+    url = "/bash"
+[[menu.main]]
+    name = "REFUGEES"
+    url = "/refugees"
+[[menu.main]]
+    name = "CONTACT"
     url = "/contact"
 
 [[menu.social]]
