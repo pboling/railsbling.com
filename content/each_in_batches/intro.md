@@ -25,7 +25,7 @@ type = "docs"
 [![Version](https://img.shields.io/gem/v/each_in_batches.svg)](https://rubygems.org/gems/each_in_batches)
 [![Build](https://img.shields.io/travis/pboling/each_in_batches.svg)](https://travis-ci.org/pboling/each_in_batches)
 [![Documentation](http://inch-ci.org/github/pboling/each_in_batches.svg)](http://inch-ci.org/github/pboling/each_in_batches)
-[![Dependency Status](https://gemnasium.com/pboling/each_in_batches.svg)](https://gemnasium.com/pboling/each_in_batches)
+[![Depfu](https://badges.depfu.com/badges/0d506c43cf01b41e1937d7cb151a8c0d/count.svg)](https://depfu.com/github/pboling/each_in_batches?project_id=2682)
 [![Chat](https://img.shields.io/gitter/room/pboling/each_in_batches.svg)](https://gitter.im/pboling/each_in_batches)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 

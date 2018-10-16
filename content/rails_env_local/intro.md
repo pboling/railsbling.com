@@ -27,7 +27,7 @@ Also includes a presenter base class to allow any Ruby web framework to create l
 [![Version](https://img.shields.io/gem/v/rails_env_local.svg)](https://rubygems.org/gems/rails_env_local)
 [![Build](https://img.shields.io/travis/pboling/rails_env_local.svg)](https://travis-ci.org/pboling/rails_env_local)
 [![Documentation](http://inch-ci.org/github/pboling/rails_env_local.svg)](http://inch-ci.org/github/pboling/rails_env_local)
-[![Dependency Status](https://gemnasium.com/pboling/rails_env_local.svg)](https://gemnasium.com/pboling/rails_env_local)
+[![Depfu](https://badges.depfu.com/badges/5f15cea25ab8994b8b60e5f597d27b00/count.svg)](https://depfu.com/github/pboling/rails_env_local?project_id=2722)
 [![Chat](https://img.shields.io/gitter/room/pboling/rails_env_local.svg)](https://gitter.im/pboling/rails_env_local)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 

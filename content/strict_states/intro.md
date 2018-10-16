@@ -27,7 +27,7 @@ Also includes a presenter base class to allow any Ruby web framework to create l
 [![Version](https://img.shields.io/gem/v/strict_states.svg)](https://rubygems.org/gems/strict_states)
 [![Build](https://img.shields.io/travis/pboling/strict_states.svg)](https://travis-ci.org/pboling/strict_states)
 [![Documentation](http://inch-ci.org/github/pboling/strict_states.svg)](http://inch-ci.org/github/pboling/strict_states)
-[![Dependency Status](https://gemnasium.com/pboling/strict_states.svg)](https://gemnasium.com/pboling/strict_states)
+[![Depfu](https://badges.depfu.com/badges/5ce4e64766839efde7ad6aba75624dce/count.svg)](https://depfu.com/github/pboling/strict_states?project_id=2746)
 [![Chat](https://img.shields.io/gitter/room/pboling/strict_states.svg)](https://gitter.im/pboling/strict_states)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 

@@ -25,7 +25,7 @@ type = "docs"
 [![Version](https://img.shields.io/gem/v/csv_pirate.svg)](https://rubygems.org/gems/csv_pirate)
 [![Build](https://img.shields.io/travis/pboling/csv_pirate.svg)](https://travis-ci.org/pboling/csv_pirate)
 [![Documentation](http://inch-ci.org/github/pboling/csv_pirate.svg)](http://inch-ci.org/github/pboling/csv_pirate)
-[![Dependency Status](https://gemnasium.com/pboling/csv_pirate.svg)](https://gemnasium.com/pboling/csv_pirate)
+[![Depfu](https://badges.depfu.com/badges/042d479e0588fcfd6dc604f6fe656e37/count.svg)](https://depfu.com/github/pboling/csv_pirate?project_id=2674)
 [![Chat](https://img.shields.io/gitter/room/pboling/csv_pirate.svg)](https://gitter.im/pboling/csv_pirate)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 

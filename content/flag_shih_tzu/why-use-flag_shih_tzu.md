@@ -53,7 +53,7 @@ Downloads (Today)     | [![Downloads Today](https://img.shields.io/gem/rd/flag_s
 Code Quality          | [![Code Quality](https://img.shields.io/codeclimate/github/pboling/flag_shih_tzu.svg)](https://codeclimate.com/github/pboling/flag_shih_tzu) | [![Code Quality](https://img.shields.io/codeclimate/github/grosser/bitfields.svg)](https://codeclimate.com/github/grosser/bitfields)
 Build                 | [![Build](https://img.shields.io/travis/pboling/flag_shih_tzu.svg)](https://travis-ci.org/pboling/flag_shih_tzu) | [![Build](https://img.shields.io/travis/grosser/bitfields.svg)](https://travis-ci.org/grosser/bitfields)
 Documentation         | [![Documentation](http://inch-ci.org/github/pboling/flag_shih_tzu.svg)](http://inch-ci.org/github/pboling/flag_shih_tzu) | [![Documentation](http://inch-ci.org/github/grosser/bitfields.svg)](http://inch-ci.org/github/grosser/bitfields)
-Dependency Status     | [![Dependency Status](https://gemnasium.com/pboling/flag_shih_tzu.svg)](https://gemnasium.com/pboling/flag_shih_tzu) | [![Dependency Status](https://gemnasium.com/grosser/bitfields.svg)](https://gemnasium.com/grosser/bitfields)
+Dependency Status     | [![Depfu](https://badges.depfu.com/badges/f011a69cf2426f91483aaade580823ac/count.svg)](https://depfu.com/github/pboling/flag_shih_tzu?project_id=2685) | Unknown |
 Custom Flag Column Name | Yes | Yes
 Multiple Flag Columns per Model | [Yes](https://github.com/pboling/flag_shih_tzu#using-a-custom-column-name) | No
 Has analog [to `update_column`](http://api.rubyonrails.org/classes/ActiveRecord/Persistence.html#method-i-update_column) | [Yes](https://github.com/pboling/flag_shih_tzu/tree/master#callbacks-and-validations "update_flag!") | No

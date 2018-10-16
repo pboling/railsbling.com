@@ -27,7 +27,7 @@ type = "docs"
 [![Version](https://img.shields.io/gem/v/celluloid-io-pg-listener.svg)](https://rubygems.org/gems/celluloid-io-pg-listener)
 [![Build](https://img.shields.io/travis/pboling/celluloid-io-pg-listener.svg)](https://travis-ci.org/pboling/celluloid-io-pg-listener)
 [![Documentation](http://inch-ci.org/github/pboling/celluloid-io-pg-listener.svg)](http://inch-ci.org/github/pboling/celluloid-io-pg-listener)
-[![Dependency Status](https://gemnasium.com/pboling/celluloid-io-pg-listener.svg)](https://gemnasium.com/pboling/celluloid-io-pg-listener)
+[![Depfu](https://badges.depfu.com/badges/b09d3d18f1371ac26fc4f5426db2b18b/count.svg)](https://depfu.com/github/pboling/celluloid-io-pg-listener?project_id=2669)
 [![Chat](https://img.shields.io/gitter/room/pboling/celluloid-io-pg-listener.svg)](https://gitter.im/pboling/celluloid-io-pg-listener)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 

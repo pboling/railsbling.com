@@ -25,7 +25,7 @@ type = "docs"
 [![Version](https://img.shields.io/gem/v/dry_views.svg)](https://rubygems.org/gems/dry_views)
 [![Build](https://img.shields.io/travis/pboling/dry_views.svg)](https://travis-ci.org/pboling/dry_views)
 [![Documentation](http://inch-ci.org/github/pboling/dry_views.svg)](http://inch-ci.org/github/pboling/dry_views)
-[![Dependency Status](https://gemnasium.com/pboling/dry_views.svg)](https://gemnasium.com/pboling/dry_views)
+[![Depfu](https://badges.depfu.com/badges/6a3ae8aaafecea73df9ade7213788b22/count.svg)](https://depfu.com/github/pboling/dry_views?project_id=2680)
 [![Chat](https://img.shields.io/gitter/room/pboling/dry_views.svg)](https://gitter.im/pboling/dry_views)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 

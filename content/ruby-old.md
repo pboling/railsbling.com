@@ -60,7 +60,6 @@ Amazon Flexible Payment Service client.
 [![Version](https://img.shields.io/gem/v/remit.svg)](https://rubygems.org/gems/remit)
 [![Build](https://img.shields.io/travis/tylerhunt/remit.svg)](https://travis-ci.org/tylerhunt/remit)
 [![Documentation](http://inch-ci.org/github/tylerhunt/remit.svg)](http://inch-ci.org/github/tylerhunt/remit)
-[![Dependency Status](https://gemnasium.com/tylerhunt/remit.svg)](https://gemnasium.com/tylerhunt/remit)
 
 ### capistrano_mailer
 
@@ -74,7 +73,6 @@ Configure automated email notifications when Capistrano tasks are run.
 [![Version](https://img.shields.io/gem/v/capistrano_mailer.svg)](https://rubygems.org/gems/capistrano_mailer)
 [![Build](https://img.shields.io/travis/pboling/capistrano_mailer.svg)](https://travis-ci.org/pboling/capistrano_mailer)
 [![Documentation](http://inch-ci.org/github/pboling/capistrano_mailer.svg)](http://inch-ci.org/github/pboling/capistrano_mailer)
-[![Dependency Status](https://gemnasium.com/pboling/capistrano_mailer.svg)](https://gemnasium.com/pboling/capistrano_mailer)
 
 ### super_exception_notifier
 
@@ -88,7 +86,6 @@ Improvement on ye olde exception_notification plugin.  Rails 1, 2, 3 only.
 [![Version](https://img.shields.io/gem/v/super_exception_notifier.svg)](https://rubygems.org/gems/super_exception_notifier)
 [![Build](https://img.shields.io/travis/pboling/exception_notification.svg)](https://travis-ci.org/pboling/exception_notification)
 [![Documentation](http://inch-ci.org/github/pboling/exception_notification.svg)](http://inch-ci.org/github/pboling/exception_notification)
-[![Dependency Status](https://gemnasium.com/pboling/exception_notification.svg)](https://gemnasium.com/pboling/exception_notification)
 
 ### sequential_file
 
@@ -102,4 +99,3 @@ Create files with sequential file names for nicer directory listing, with automa
 [![Version](https://img.shields.io/gem/v/status_tag.svg)](https://rubygems.org/gems/status_tag)
 [![Build](https://img.shields.io/travis/pboling/status_tag.svg)](https://travis-ci.org/pboling/status_tag)
 [![Documentation](http://inch-ci.org/github/pboling/status_tag.svg)](http://inch-ci.org/github/pboling/status_tag)
-[![Dependency Status](https://gemnasium.com/pboling/status_tag.svg)](https://gemnasium.com/pboling/status_tag)
