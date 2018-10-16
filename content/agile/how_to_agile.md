@@ -1,6 +1,6 @@
 +++
 date = "2018-10-14T05:30:16-07:00"
-draft = false
+draft = true
 authorlink = "https://about.me/peter.boling"
 authorlinktarget = "_blank"
 authortwitter = "https://www.twitter.com/galtzo"
