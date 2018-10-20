@@ -8,7 +8,7 @@ authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "Why Should You Use flag_shih_tzu"
-tags = [ "development", "ruby", "rails", "rubygems", "flag_shih_tzu" ]
+tags = [ "development", "ruby", "rails", "rubygems", "flag_shih_tzu", "database", "active_record" ]
 categories = [ "development", "tools", "ruby" ]
 series = [ "toolchain" ]
 
