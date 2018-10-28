@@ -17,7 +17,7 @@ type = "docs"
 
 ## Month::Serializer - Integer Serialization Plugin for [Month Gem](https://github.com/timcraft/month)
    
-Allows you to convert [`Month` objects](https://github.com/timcraft/month/blob/master/lib/month.rb) to `Integer`, and vice versa.  This is useful for serializing Months into other data structures, like `String`, or to pass values in `JSON`, or send as parameters to Resque / Sidekiq jobs (which parameters are [only compatible with simple JSON data types](https://github.com/mperham/sidekiq/wiki/The-Basics#client).  Neither `Date` or `Month` can serialize properly to Resque/Sidekiq jobs.
+Allows you to convert [`Month` objects](https://github.com/timcraft/month/blob/master/lib/month.rb) to `Integer`, and vice versa.  This is useful for serializing Months into other data structures, like `String`, or to pass values in `JSON`, or send as parameters to Resque / Sidekiq jobs (which parameters are [only compatible with simple JSON data types](https://github.com/mperham/sidekiq/wiki/The-Basics#client)).  Neither `Date` or `Time` can serialize properly to Resque/Sidekiq jobs.
 
 [![Total Downloads](https://img.shields.io/gem/rt/month-serializer.svg)](https://github.com/pboling/month-serializer)
 [![Downloads Today](https://img.shields.io/gem/rd/month-serializer.svg)](https://github.com/pboling/month-serializer)
@@ -35,11 +35,14 @@ Allows you to convert [`Month` objects](https://github.com/timcraft/month/blob/m
 
 ### Why use Month instead of Date or Time?
 
-- Month is lighter weight.
+- Month is lighter weight
 - There are many situations where having Months incrementable by 1 is useful
-  - e.g. Directly mappable to iteration index
+  - directly mappable to iteration index
 - It facilitates month-based math.
-- Adding a day when a day is not relevant, such as for data with a 1 month resolution, can result in very overcomplicated systems that try to work around or ignore the stray days.
+  - epochal math like adding 48 months to June, 2018
+  - monthly subscription logic
+- Adding a day when a day is not relevant can result in very overcomplicated systems that try to work around or ignore the stray days
+  - data with a 1 month resolution
 
 ## Installation
 
@@ -68,7 +71,7 @@ Month.send(:include, Month::Serializer)
 
 This spec below, copied from the actual test suite, makes usage pretty clear.  Note how the serialized Months as integer increment by one.  If you think about counting time by months this makes sense.  We often speak this way about babies, an 18 month old, or 24 month old.
   
-How old is the Common Era right now?  About 24.2k months!  Is a millenimonth, millimes, or kilomonth, a thing?  The Common Era is roughly 24 kilomonths old. 😆  And Neanderthal man went extinct about 471 kilomonths ago.
+How old is the Common Era right now?  About 24.2k months!  Is a millenimonth, millimes, or kilomonth, a thing?  The Common Era is roughly 24 kilomonths old. 😆  And Neanderthal man went extinct about `495.6 = (471.4 + 24.2)` kilomonths ago.
 
 ```ruby
     {
