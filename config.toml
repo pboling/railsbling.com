@@ -20,7 +20,7 @@ disqusShortname = "railsbling"
   sidebartagline = "Yet Another Paradigm by Peter Boling"
   categoriescss = "/css/project.css"
   noauthor = false
-  sidebarphoto = "/images/peter-amazon-black-caiman.jpg"
+  sidebarphoto = "/images/red-dragon.jpeg"
 
 [taxonomies]
   tag = "tags"
