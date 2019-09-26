@@ -31,9 +31,10 @@ I'm not a fan of vendor-lockin, so have it your way!
 ### I build big things out of bitty bits
 
 I am a Senior Staff Architect (contract) at [Group 1001](https://www.group1001.com) &larr; Building, optimizing, and extending the portfolio of insurance products, 2018 - present ([on Crunchbase](https://www.crunchbase.com/organization/group1001))
+
   - I work on React/Redux, analytics, and E2E testing with Cypress on [Gainbridge.life](https://gainbridge.life)
-  - I built [Group1001.com](https://www.group1001.com) with Ruby on Rails and Contentful
-  - I maintained, enhanced, and upgraded [Relay Rewards](https://relayrewards.com) using Ruby on Rails
+  - I re-built [Group1001.com](https://www.group1001.com) with Ruby on Rails and Contentful
+  - I maintain, enhance, and upgrade [Relay Rewards](https://relayrewards.com) using Ruby on Rails
 
 ### About Me
 
