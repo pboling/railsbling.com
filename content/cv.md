@@ -19,17 +19,21 @@ type = "page"
 I'm not a fan of vendor-lockin, so have it your way!
 
 - **[WEB](http://resume.peterboling.com)** (a website, for a web browser)
-- **[ePub](/cv/PeterBoling_Resume_2018.10.15.epub)** (formatted for e-readers)
-- **[ODT](/cv/PeterBoling_Resume_2018.10.15.odt)** (OpenDocument Text file)
-- **[PDF](/cv/PeterBoling_Resume_2018.10.15.pdf)** (Portable Document Format)
-- **[RTF](/cv/PeterBoling_Resume_2018.10.15.rtf)** (Rich Text Format)
-- **[HTML, Zipped](/cv/PeterBoling_Resume_2018.10.15.zip)** (Raw HTML assets, archived as a Zip file)
+- **[ePub](/cv/PeterBoling_Resume_2019.09.26.epub)** (formatted for e-readers)
+- **[ODT](/cv/PeterBoling_Resume_2019.09.26.odt)** (OpenDocument Text file)
+- **[PDF](/cv/PeterBoling_Resume_2019.09.26.pdf)** (Portable Document Format)
+- **[RTF](/cv/PeterBoling_Resume_2019.09.26.rtf)** (Rich Text Format)
+- **[TXT](/cv/PeterBoling_Resume_2019.09.26.txt)** (Plain Text Format)
+- **[HTML, Zipped](/cv/PeterBoling_Resume_2019.09.26.zip)** (Raw HTML assets, archived as a Zip file)
 
-<small>- Even [DOCX](/cv/PeterBoling_Resume_2018.10.15.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
+<small>- Even [DOCX](/cv/PeterBoling_Resume_2019.09.26.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
 
 ### I build big things out of bitty bits
 
-I am the Principle Systems Architect at [Intricately](https://www.intricately.com) &larr; Building, optimizing, and extending, the backend, 2016 - present ([on Crunchbase](https://www.crunchbase.com/organization/intricately#/entity))
+I am a Senior Staff Architect (contract) at [Group 1001](https://www.group1001.com) &larr; Building, optimizing, and extending the portfolio of insurance products, 2018 - present ([on Crunchbase](https://www.crunchbase.com/organization/group1001))
+  - I work on React/Redux, analytics, and E2E testing with Cypress on [Gainbridge.life](https://gainbridge.life)
+  - I built [Group1001.com](https://www.group1001.com) with Ruby on Rails and Contentful
+  - I maintained, enhanced, and upgraded [Relay Rewards](https://relayrewards.com) using Ruby on Rails
 
 ### About Me
 
@@ -49,7 +53,7 @@ I am a political activist utilizing my social currency to advocate for equality 
 
 ### Stuff I am working on now
 
-* Principle Systems Architect at [Intricately](https://intricately.com/) &larr; Building, optimizing, and extending, the backend, 2016 - present ([on Crunchbase](https://www.crunchbase.com/organization/intricately#/entity))
+* Technical Advisor and Evangelist at [Karuna Health](https://meetkaruna.com/) &larr; Assisting with backend architecture and hiring, 2018 - present ([on Crunchbase](https://www.crunchbase.com/organization/karuna))
 * Co-founder of [WordTree Foundation](http://blog.wordtree.org) - non-profit scientific linguistics research, 2014 - present
 [![Tweet](https://img.shields.io/twitter/url/http/wordtree.org.svg?style=social)](https://twitter.com/intent/tweet?text=Interesting:&amp;url=http%3A%2F%2Fwordtree.org)
 * Many Open Source projects!  [Check out the source.](https://github.com/pboling/)
@@ -57,6 +61,7 @@ I am a political activist utilizing my social currency to advocate for equality 
 
 ### Past Work
 
+* Principle Systems Architect at [Intricately](https://intricately.com/) &larr; Building, optimizing, and extending, the backend, 2016 - present ([on Crunchbase](https://www.crunchbase.com/organization/intricately#/entity))
 * Principle Systems Architect at [Bolt Threads](https://boltthreads.com/) &larr; The more I learn about what the company is doing to revolutionize the textile industry the more excited I become about the possibilities.  Changing the world for the better, through efficiency, is always my goal professionally and personally.
 * Principle Engineer, Web Team Lead, Productivity & Automation Lead at [Invoice2Go](https://www.invoice2go.com) &larr; Led team in rewrite; implemented engineering process, 2016 - 2017 ([on Crunchbase](https://www.crunchbase.com/organization/invoice2go))
 * Senior Engineer at [Trumaker](http://www.trumaker.com) - built a hydra: e-commerce platform, sales CRM, warehousing, inventory management, and fulfillment system. 2014 - 2016 
