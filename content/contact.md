@@ -12,9 +12,9 @@ type = "page"
 
 +++
 
-## SMS, Message, Facetime, or Voice
+## Google Voice, Phone & SMS
 
-[+1.765.760.2012](tel:17657602012)
+[+1.925.252.5351](tel:19252525351)
 
 ## Email
 
