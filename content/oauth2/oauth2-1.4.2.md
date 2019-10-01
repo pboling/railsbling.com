@@ -1,5 +1,5 @@
 +++
-date = "2018-10-13T01:00:00-07:00"
+date = "2019-10-01T01:00:00-07:00"
 draft = false
 authorlink = "https://about.me/peter.boling"
 authorlinktarget = "_blank"
@@ -7,7 +7,7 @@ authortwitter = "https://www.twitter.com/galtzo"
 authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
 authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
-title = "New Release of oauth2: Version 1.4.1"
+title = "New Release of oauth2: Version 1.4.2"
 tags = [ "development", "ruby", "rails", "rubygems", "oauth2" ]
 categories = [ "development", "tools", "ruby" ]
 series = [ "toolchain" ]
