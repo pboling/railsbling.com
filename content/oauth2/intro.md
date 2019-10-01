@@ -23,7 +23,7 @@ type = "docs"
 [![Network](https://img.shields.io/github/forks/oauth-xx/oauth2.svg?style=social)][network]
 [![Stars](https://img.shields.io/github/stars/oauth-xx/oauth2.svg?style=social)][stargazers]
 [![Build Status](https://travis-ci.org/oauth-xx/oauth2.svg?branch=1-4-stable)][travis]
-[![Coverage Status](http://img.shields.io/coveralls/intridea/oauth2.svg)][coveralls]
+[![Coverage Status](http://img.shields.io/coveralls/oauth-xx/oauth2.svg)][coveralls]
 [![Maintainability](https://api.codeclimate.com/v1/badges/688c612528ff90a46955/maintainability)][codeclimate-maintainability]
 [![Depfu](https://badges.depfu.com/badges/6d34dc1ba682bbdf9ae2a97848241743/count.svg)][depfu]
 [![Open Source Helpers](https://www.codetriage.com/oauth-xx/oauth2/badges/users.svg)][code-triage]
