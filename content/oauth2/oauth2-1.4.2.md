@@ -1,0 +1,56 @@
++++
+date = "2018-10-13T01:00:00-07:00"
+draft = false
+authorlink = "https://about.me/peter.boling"
+authorlinktarget = "_blank"
+authortwitter = "https://www.twitter.com/galtzo"
+authorlinkedin = "https://www.linkedin.com/in/peterboling"
+authorfacebook = "https://www.facebook.com/peter.boling"
+authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
+title = "New Release of oauth2: Version 1.4.1"
+tags = [ "development", "ruby", "rails", "rubygems", "oauth2" ]
+categories = [ "development", "tools", "ruby" ]
+series = [ "toolchain" ]
+type = "docs"
+
++++
+
+## oauth2 version 1.4.2 is Released
+
+[![Gem Version](http://img.shields.io/gem/v/oauth2.svg)][gem]
+[![Total Downloads](https://img.shields.io/gem/dt/oauth2.svg)][gem]
+[![Downloads Today](https://img.shields.io/gem/rt/oauth2.svg)][gem]
+[![Network](https://img.shields.io/github/forks/oauth-xx/oauth2.svg?style=social)][network]
+[![Stars](https://img.shields.io/github/stars/oauth-xx/oauth2.svg?style=social)][stargazers]
+[![Build Status](http://img.shields.io/travis/oauth-xx/oauth2.svg)][travis]
+[![Coverage Status](http://img.shields.io/coveralls/intridea/oauth2.svg)][coveralls]
+[![Maintainability](https://api.codeclimate.com/v1/badges/688c612528ff90a46955/maintainability)][codeclimate-maintainability]
+[![Depfu](https://badges.depfu.com/badges/6d34dc1ba682bbdf9ae2a97848241743/count.svg)][depfu]
+[![Open Source Helpers](https://www.codetriage.com/oauth-xx/oauth2/badges/users.svg)][code-triage]
+[![Chat](https://img.shields.io/gitter/room/oauth-xx/oauth2.svg)](https://gitter.im/oauth-xx/oauth2)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)][source-license]
+[![Documentation](http://inch-ci.org/github/oauth-xx/oauth2.png)][inch-ci]
+
+[gem]: https://rubygems.org/gems/oauth2
+[network]: https://github.com/oauth-xx/oauth2/network
+[stargazers]: https://github.com/oauth-xx/oauth2/stargazers
+[travis]: http://travis-ci.org/oauth-xx/oauth2
+[coveralls]: https://coveralls.io/r/oauth-xx/oauth2
+[codeclimate-maintainability]: https://codeclimate.com/github/oauth-xx/oauth2/maintainability
+[depfu]: https://depfu.com/github/oauth-xx/oauth2
+[source-license]: https://opensource.org/licenses/MIT
+[inch-ci]: http://inch-ci.org/github/oauth-xx/oauth2
+[code-triage]: https://www.codetriage.com/oauth-xx/oauth2
+
+The oauth2 gem team has been working ~~hard~~ ([82 Issues Closed, 6 remaining!](https://github.com/oauth-xx/oauth2/milestone/1?closed=1)) on preparing a version 2.0.0 for release.  It will have some minor breaking changes, and some important bug fixes.  It will have code cleanup, and new features.
+
+**But for many people version 1.4.x has been working fine**, and all they need is a new version, warts and all, which allows them to upgrade some locked dependencies, particularly `jwt` and `faraday`.  So I have [prepared a 1.4.2 release](https://github.com/oauth-xx/oauth2/milestone/4?closed=1).
+
+Here is the relevant section of [CHANGELOG.md](https://github.com/oauth-xx/oauth2/blob/1-4-stable/CHANGELOG.md):
+
+## [1.4.2] - 2019-10-01
+
+- [#478](https://github.com/oauth-xx/oauth2/pull/478) - support latest version of faraday & fix build (@pboling)
+  - Officially support Ruby 2.6 and truffleruby
+
+[1.4.2]: https://github.com/oauth-xx/oauth2/compare/v1.4.1...v1.4.2

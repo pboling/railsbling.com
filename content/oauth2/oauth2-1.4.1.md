@@ -15,7 +15,7 @@ type = "docs"
 
 +++
 
-## A Ruby wrapper for the OAuth 2.0 protocol
+## oauth2 version 1.4.1 is Released
 
 [![Gem Version](http://img.shields.io/gem/v/oauth2.svg)][gem]
 [![Total Downloads](https://img.shields.io/gem/dt/oauth2.svg)][gem]
