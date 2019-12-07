@@ -34,10 +34,10 @@ Project Lead, oauth2 ruby gem; 2017 - present
 Web Team Lead, at Invoice2go; I managed six developers, and 1 QA Engineer; 2016 - 2017
 Automation Team Lead, at Invoice2go; I managed one developer, and interfaced with managers of all other teams; 2016 - 2017
 Project Lead, dynamoid ruby gem; 2016 - present
-CTO of Acquaintable, and co-founder; I managed a team of five including designers, frontend, and backend engineers; Acquired, 2012 - 2013.
+CTO of Acquaintable, and co-founder; I managed a team of five including designers, frontend, and backend engineers; Acquired, 2012 - 2013
 Project Lead, flag_shih_tzu ruby gem; 2012 - present
-First Employee & Lead Engineer at BloombergBlack;  Interviewed, hired, then mentored team of fifteen engineers; personal wealth management startup; 2010 to 2012.
-Team Lead at Sagebit; Trained five fresh-out-of-college programmers; Built apps for clients; 2008-2009.
+First Employee & Lead Engineer at BloombergBlack;  Interviewed, hired, then mentored team of fifteen engineers; 2010 to 2012
+Team Lead at Sagebit; Managed and mentored five recent graduate programmers; 2008-2009
 
 
 ________________
@@ -69,11 +69,10 @@ https://gainbridge.life, https://www.group1001.com
 * Develop Group1001 corporate homepage (Rails & Contentful) https://www.group1001.com
 * Design and implement all analytics solutions and integrations for https://gainbridge.life
 * Developing front end (React v16 & Redux) on https://gainbridge.life
-* Building out E2E specs in Cypress for https://gainbridge.life
+* Built E2E specs in Cypress for https://gainbridge.life
 * Full stack support of https://relayrewards.com/ (will probably be shut down soon)
    * Implementation of all new features
    * Built new redesigned landing page with React Hooks (never released)
-   * Business priorities changed to a singular focus on Gainbridge
 * JIRA administration & process development
 
 
@@ -163,7 +162,6 @@ Acquired by LikeBright, now Reveal (Microsoft Ventures backed)
 * Designed to provide an immediate experience to each new user
 * One page app design, in preparation for iPhone app
 * UX tool-chain: backbone-marionette, handlebars, RequireJS, slim, SASS, foundation
-* Ruby upgrade 1.9.3 to 2.0.0
 * Accepted into Entrepreneurs Roundtable Accelerator Winter 2013 class (ERA - NYC)
 * Fully automated and self-correcting, no intervention required for 4 months.
 * Successful exit via acquisition!
@@ -371,4 +369,6 @@ Certifications
 ________________
 
 
-I am a certified, licensed, barista (coffee) in Australia; SITHFAB005 and SITXFSA001.
+Barista, Certified & Licensed in Australia by CBD College, Sydney, RTO# 91399
+* SITHFAB005 - Prepare and serve espresso coffee
+* SITXFSA001 - Use hygienic practices for food safety

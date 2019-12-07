@@ -19,22 +19,17 @@ type = "page"
 I'm not a fan of vendor-lockin, so have it your way!
 
 - **[WEB](http://resume.peterboling.com)** (a website, for a web browser)
-- **[ePub](/cv/PeterBoling_Resume_2019.12.06.epub)** (formatted for e-readers)
-- **[ODT](/cv/PeterBoling_Resume_2019.12.06.odt)** (OpenDocument Text file)
-- **[PDF](/cv/PeterBoling_Resume_2019.12.06.pdf)** (Portable Document Format)
-- **[RTF](/cv/PeterBoling_Resume_2019.12.06.rtf)** (Rich Text Format)
-- **[TXT](/cv/PeterBoling_Resume_2019.12.06.txt)** (Plain Text Format)
-- **[HTML, Zipped](/cv/PeterBoling_Resume_2019.12.06.zip)** (Raw HTML assets, archived as a Zip file)
+- **[ePub](/cv/PeterBoling_Resume_2019.12.07.epub)** (formatted for e-readers)
+- **[ODT](/cv/PeterBoling_Resume_2019.12.07.odt)** (OpenDocument Text file)
+- **[PDF](/cv/PeterBoling_Resume_2019.12.07.pdf)** (Portable Document Format)
+- **[RTF](/cv/PeterBoling_Resume_2019.12.07.rtf)** (Rich Text Format)
+- **[TXT](/cv/PeterBoling_Resume_2019.12.07.txt)** (Plain Text Format)
+- **[HTML, Zipped](/cv/PeterBoling_Resume_2019.12.07.zip)** (Raw HTML assets, archived as a Zip file)
 
-<small>- Even [DOCX](/cv/PeterBoling_Resume_2019.12.06.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
+<small>- Even [DOCX](/cv/PeterBoling_Resume_2019.12.07.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
 
 ### I build big things out of bitty bits
 
-I am a Senior Staff Architect (contract) at [Group 1001](https://www.group1001.com) &larr; Building, optimizing, and extending the portfolio of insurance products, 2018 - present ([on Crunchbase](https://www.crunchbase.com/organization/group1001))
-
-  - I work on React/Redux, analytics, and E2E testing with Cypress on [Gainbridge.life](https://gainbridge.life)
-  - I re-built [Group1001.com](https://www.group1001.com) with Ruby on Rails and Contentful
-  - I maintain, enhance, and upgrade [Relay Rewards](https://relayrewards.com) using Ruby on Rails
 
 ### About Me
 
@@ -54,6 +49,7 @@ I am a political activist utilizing my social currency to advocate for equality 
 
 ### Stuff I am working on now
 
+* Solutions Architect at [MINDBODY, Inc](https://www.mindbodyonline.com/) &larr; Architecture design; SDLC process; SME for services utilized by all teams, and projects within Marketing Products, 2019 - present ([on Crunchbase](https://www.crunchbase.com/organization/mindbody))
 * Technical Advisor and Evangelist at [Karuna Health](https://meetkaruna.com/) &larr; Assisting with backend architecture and hiring, 2018 - present ([on Crunchbase](https://www.crunchbase.com/organization/karuna))
 * Co-founder of [WordTree Foundation](http://blog.wordtree.org) - non-profit scientific linguistics research, 2014 - present
 [![Tweet](https://img.shields.io/twitter/url/http/wordtree.org.svg?style=social)](https://twitter.com/intent/tweet?text=Interesting:&amp;url=http%3A%2F%2Fwordtree.org)
@@ -62,19 +58,20 @@ I am a political activist utilizing my social currency to advocate for equality 
 
 ### Past Work
 
-* Principle Systems Architect at [Intricately](https://intricately.com/) &larr; Building, optimizing, and extending, the backend, 2016 - present ([on Crunchbase](https://www.crunchbase.com/organization/intricately#/entity))
-* Principle Systems Architect at [Bolt Threads](https://boltthreads.com/) &larr; The more I learn about what the company is doing to revolutionize the textile industry the more excited I become about the possibilities.  Changing the world for the better, through efficiency, is always my goal professionally and personally.
-* Principle Engineer, Web Team Lead, Productivity & Automation Lead at [Invoice2Go](https://www.invoice2go.com) &larr; Led team in rewrite; implemented engineering process, 2016 - 2017 ([on Crunchbase](https://www.crunchbase.com/organization/invoice2go))
-* Senior Engineer at [Trumaker](http://www.trumaker.com) - built a hydra: e-commerce platform, sales CRM, warehousing, inventory management, and fulfillment system. 2014 - 2016 
+* Senior Staff Architect (contract), @[Group 1001](https://www.group1001.com) &larr; Building, optimizing, and extending the portfolio of insurance products (e.g. [Gainbridge.life](https://gainbridge.life), [Relay Rewards](https://relayrewards.com)), 2018 - 2019 ([on Crunchbase](https://www.crunchbase.com/organization/group1001))
+* Principle Systems Architect, @[Intricately](https://intricately.com/) &larr; Building, optimizing, and extending, the backend, 2016 - present ([on Crunchbase](https://www.crunchbase.com/organization/intricately#/entity))
+* Principle Systems Architect, @[Bolt Threads](https://boltthreads.com/) &larr; The more I learn about what the company is doing to revolutionize the textile industry the more excited I become about the possibilities.  Changing the world for the better, through efficiency, is always my goal professionally and personally.
+* Principle Engineer, Web Team Lead, Productivity & Automation Lead, @[Invoice2Go](https://www.invoice2go.com) &larr; Led team in rewrite; implemented engineering process, 2016 - 2017 ([on Crunchbase](https://www.crunchbase.com/organization/invoice2go))
+* Senior Engineer, @[Trumaker](http://www.trumaker.com) - built a hydra: e-commerce platform, sales CRM, warehousing, inventory management, and fulfillment system. 2014 - 2016 
 [![Fashion Tweet](https://img.shields.io/twitter/url/https/trumaker.com.svg?style=social)](https://twitter.com/intent/tweet?text=Shirts:&amp;url=https%3A%2F%2Ftrumaker.com)
-* Senior Staff Architect, Services at [Church Pension Group](https://www.cpg.org/) &larr; I (re)built the entire backend, 10x improvement in performance, 2013 - 2014 ([bloomberg profile](http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=3648509))
-* Co-founder & CTO of Acquaintable, accepted into ERA (NYC-based accelerator), then acquired, 2012 - 2013 ([on Crunchbase](https://www.crunchbase.com/organization/acquaintable))([Tweet @ my co-founder](https://twitter.com/joeljrod))
-* First Employee and Tech Lead on Bloomberg Black, 2010 - 2012 ([bloomberg profile](http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=160210))
-* Senior Rails Developer, [BibleGateway](https://www.biblegateway.com/) (9 month PHP to Rails contract), 2010 ([on wikipedia](https://en.wikipedia.org/wiki/BibleGateway.com))
-* Tech Lead & Rails Developer, Neighborino (HOA startup), 2008 - 2010 ([on Crunchbase](https://www.crunchbase.com/organization/neighborino))
-* Partner, Team Lead and Senior Rails Developer, Sagebit LLC (development shop), 2007 - 2009 ([on Crunchbase](https://www.crunchbase.com/organization/sagebit)([Tweet @ a co-founder](https://twitter.com/ben_mishkin))
-* Senior Software Engineer (Rails & XSLT), [Indiana Legislative Services Agency](http://www.in.gov/legislative/register/irtoc.htm) &larr; I built the Indiana Register!, 2006 - 2007 ([on Ballotpedia](http://ballotpedia.org/Indiana_Legislative_Services_Agency))
-* Linux Sys Admin, .deb, Java, PHP, Rails Developer, Optivel (IT shop), 2004 - 2006 ([tweet at my old boss!](https://twitter.com/macksmind))
+* Senior Staff Architect, Services (contract), @[Church Pension Group](https://www.cpg.org/) &larr; I (re)built the entire backend, 10x improvement in performance, 2013 - 2014 ([bloomberg profile](http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=3648509))
+* Co-founder & CTO, Acquaintable, accepted into ERA (NYC-based accelerator), then acquired, 2012 - 2013 ([on Crunchbase](https://www.crunchbase.com/organization/acquaintable))([Tweet @ my co-founder](https://twitter.com/joeljrod))
+* First Employee and Tech Lead, @Bloomberg Black, 2010 - 2012 ([bloomberg profile](http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=160210))
+* Senior Rails Developer (contract), @[BibleGateway](https://www.biblegateway.com/) (9 month PHP to Rails contract), 2010 ([on wikipedia](https://en.wikipedia.org/wiki/BibleGateway.com))
+* Tech Lead & Rails Developer, @Neighborino (HOA startup, contract), 2008 - 2010 ([on Crunchbase](https://www.crunchbase.com/organization/neighborino))
+* Partner, Team Lead and Senior Rails Developer, @Sagebit LLC (development shop), 2007 - 2009 ([on Crunchbase](https://www.crunchbase.com/organization/sagebit)([Tweet @ a co-founder](https://twitter.com/ben_mishkin))
+* Senior Software Engineer (Rails & XSLT), @[Indiana Legislative Services Agency](http://www.in.gov/legislative/register/irtoc.htm) &larr; I built the Indiana Register!, 2006 - 2007 ([on Ballotpedia](http://ballotpedia.org/Indiana_Legislative_Services_Agency))
+* Linux Sys Admin, .deb, Java, PHP, Rails Developer, @Optivel (IT consulting), 2004 - 2006 ([tweet at my old boss!](https://twitter.com/macksmind))
 
 ### Skills
 
