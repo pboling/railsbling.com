@@ -1,8 +1,8 @@
 ﻿PETER H. BOLING
 San Francisco Bay Area                                homepage:         http://railsbling.com
-+1 (765) 407-3138                                     email:            peter.boling@gmail.com
+(765) 407-3138                                        email:                 peter.boling@gmail.com
 ________________
-Chief / Staff / Principal Software Architect, and Certified Barista
+Solution Architect, Automation Evangelist, Ruby Expert and Certified Barista
 ________________
 Experienced system architect, team leader, mentor, rubyist, and full stack web application programmer since 2004; previously linux system administrator.
 
@@ -23,41 +23,46 @@ Dedicated to moving science forward and improving the condition of life generall
 
 
 ________________
-Tech Leadership     
+Tech Leadership & Management
 ________________
 
 
 
 
-Advisor, at Karuna Health; Architectural planning, mentoring, interviewing;  2018 - present
+Technical Advisor, at Karuna Health; Architecture, mentoring, planning;  2018 - present
 Project Lead, oauth2 ruby gem; 2017 - present
 Web Team Lead, at Invoice2go; I managed six developers, and 1 QA Engineer; 2016 - 2017
 Automation Team Lead, at Invoice2go; I managed one developer, and interfaced with managers of all other teams; 2016 - 2017
 Project Lead, dynamoid ruby gem; 2016 - present
-Founding CTO of Acquaintable; I managed a team of five including designers, frontend, and backend engineers; Acquired, 2012 - 2013.
+CTO of Acquaintable, and co-founder; I managed a team of five including designers, frontend, and backend engineers; Acquired, 2012 - 2013.
 Project Lead, flag_shih_tzu ruby gem; 2012 - present
 First Employee & Lead Engineer at BloombergBlack;  Interviewed, hired, then mentored team of fifteen engineers; personal wealth management startup; 2010 to 2012.
-Team Lead at Sagebit; Trained five fresh-out-of-college programmers, Sagebit; 2008-2009.
+Team Lead at Sagebit; Trained five fresh-out-of-college programmers; Built apps for clients; 2008-2009.
 
 
 ________________
 Skills
 ________________
-App:                Ruby, Rails, RSpec, React, ES2016, Cypress, Webpacker, JSONapi, Protobuf
-Database:           PostgreSQL, Dynamo, Neo4j, ES, Mongo, Redis, MySQL, Oracle, Memcached
-Servers:            Puma, nginx, unicorn, passenger, mongrel, lighttpd, mod_ruby
-System:             Bash, monitoring, scheduling, backup, security, debian packaging
-Project:            Jira, Jenkins, Github, Pivotal, and Bitbucket Administration
-
-
-
-
+App:                 Ruby, Rails, RSpec, React, ES2016, Cypress, Webpacker, JSONapi, Protobuf
+Database:        PostgreSQL, Dynamo, Neo4j, ES, Mongo, Redis, MySQL, Oracle, Memcached
+Servers:        Puma, nginx, unicorn, passenger, mongrel, lighttpd, mod_ruby
+System:                Bash, monitoring, scheduling, backup, security, debian packaging
+Project:                Jira, Jenkins, Github, Pivotal, and Bitbucket Administration
 ________________
 Recent projects
 ________________
 
 
-Senior Staff Software Architect
+Solution Architect
+Stack - Rails 5.2, Ruby 2.6, RSpec, PostgreSQL, S3, ES, Redis, Kafka, Sidekiq, Github
+MINDBODY, Inc (inc. assimilated Booker & Frederick products)         November 2019 - present
+https://www.mindbodyonline.com/
+* Architecture design for new APIs, interfaces, data storage
+* Process design for software development lifecycle
+* SME for services utilized by all teams, and projects within Marketing Products
+
+
+Senior Staff Architect (6 month contract, extended)
 Stack - Rails 5.2, Ruby 2.4=>2.6, React v16, RSpec, PostgreSQL, S3, ES, Redis, Memcached, Sidekiq, Github
 Gainbridge.life, Relay Rewards, Delaware Life, Group1001      November 2018 - November 2019
 https://gainbridge.life, https://www.group1001.com
@@ -135,7 +140,7 @@ http://www.trumaker.com
 * Setup new deployed environments, created Thor deployment tool for automation of the many deployment related sub-tasks
 
 
-Senior Staff Architect, Services
+Senior Staff Architect, Services (9 month contract, extended)
 Stack - Ruby 1.8=>2.1, CGI, FastCGI, Mail gem, RSpec, Oracle 11g, rbenv, bash, daemons, RedHat linux
 Church Pension Group                                                 Aug 2013 – Oct 2014
 http://cpg.org (among others)
@@ -182,7 +187,7 @@ Bloomberg Black – now dissolved                                Aug 2010 – No
 * Maintained platform interoperability – Windows & RedHat & MacOS
 
 
-Team Lead, Senior Engineer
+Team Lead, Senior Engineer (contract)
 Stack - Rails 2.0, 2.1, 2.2, 2.3, Makandra Rails LTS, Ruby 1.8=>2.2, RSpec, Haml, CSS, MySQL, Memcached, Mongrel, Unicorn, TravisCI, Github, Redmine, NewRelic
 Timeperks.com – Order meals online from favorite local restaurants         Sep 2008 – Aug 2014
 * Mentored junior developers, and reviewed code
@@ -212,7 +217,7 @@ Sagebit, LLC - now dissolved                                        Jun 2007 –
    * Built advertising minisite engine for Estee Lauder and Mercedes-Mclaren campaigns
 
 
-Senior Ruby on Rails Developer
+Senior Ruby on Rails Developer (6 month contract, extended)
 Stack - Rails 2.3, Ruby 1.9, RSpec, Memcached, EPub
 Zondervan (Harper-Collins)                                        Dec 2009 – Jul 2010 
 http://BibleGateway.com
@@ -245,7 +250,7 @@ Stack: Rails 1.2, 2.0, 2.1, 2.2, 2.3, Ruby 1.8=>1.9, MySQL, Memcached, Redis, Re
    * Geolocates users to determine the correct legislators
 
 
-Senior Developer, System Admin, Ruby on Rails
+Senior Developer, System Admin, Ruby on Rails (contract)
 Stack - Rails 2.1, 2.2 & 2.3, Ruby 1.8=>1.9, RSpec, Memcached
 Neighborino, LLC                                                Aug 2008 – Aug 2010
 http://www.neighborino.com/ & http://demo.neighborino.com/
@@ -329,9 +334,9 @@ Co-founder of the WordTree Foundation, http://blog.wordtree.org.  Working on alg
 
 
 I contribute on an ongoing basis to the following charities and organizations:
-        United Way                  Africa Heartwood Project        Hope For Tomorrow, Liberia
-        Children International      Kiva.org                        Heifer International
-        KQED                        Pacifica Foundation             National Wildlife Federation
+        United Way                Africa Heartwood Project        Hope For Tomorrow, Liberia
+        Children International                Kiva.org                Heifer International
+        KQED                        Pacifica Foundation                National Wildlife Federation
 
 
 ________________
