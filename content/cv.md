@@ -30,6 +30,10 @@ I'm not a fan of vendor-lockin, so have it your way!
 
 ### I build big things out of bitty bits
 
+* Solutions Architect at [MINDBODY, Inc](https://www.mindbodyonline.com/), 2019 - present ([on Crunchbase](https://www.crunchbase.com/organization/mindbody))
+  * Architecture design and planning
+  * SDLC process improvement
+  * SME for services utilized by all teams, and projects within Marketing Products
 
 ### About Me
 
@@ -47,9 +51,8 @@ My [public calendar is available](https://calendar.google.com/calendar/embed?src
 
 I am a political activist utilizing my social currency to advocate for equality for all [![Follow Me](https://img.shields.io/twitter/follow/galtzo.svg?style=social&label=Follow)](http://twitter.com/intent/user?screen_name=galtzo).
 
-### Stuff I am working on now
+### More stuff I am working on now
 
-* Solutions Architect at [MINDBODY, Inc](https://www.mindbodyonline.com/) &larr; Architecture design; SDLC process; SME for services utilized by all teams, and projects within Marketing Products, 2019 - present ([on Crunchbase](https://www.crunchbase.com/organization/mindbody))
 * Technical Advisor and Evangelist at [Karuna Health](https://meetkaruna.com/) &larr; Assisting with backend architecture and hiring, 2018 - present ([on Crunchbase](https://www.crunchbase.com/organization/karuna))
 * Co-founder of [WordTree Foundation](http://blog.wordtree.org) - non-profit scientific linguistics research, 2014 - present
 [![Tweet](https://img.shields.io/twitter/url/http/wordtree.org.svg?style=social)](https://twitter.com/intent/tweet?text=Interesting:&amp;url=http%3A%2F%2Fwordtree.org)
