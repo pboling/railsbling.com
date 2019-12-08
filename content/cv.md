@@ -19,14 +19,14 @@ type = "page"
 I'm not a fan of vendor-lockin, so have it your way!
 
 - **[WEB](http://resume.peterboling.com)** (a website, for a web browser)
-- **[ePub](/cv/PeterBoling_Resume_2019.12.07.epub)** (formatted for e-readers)
-- **[ODT](/cv/PeterBoling_Resume_2019.12.07.odt)** (OpenDocument Text file)
-- **[PDF](/cv/PeterBoling_Resume_2019.12.07.pdf)** (Portable Document Format)
-- **[RTF](/cv/PeterBoling_Resume_2019.12.07.rtf)** (Rich Text Format)
-- **[TXT](/cv/PeterBoling_Resume_2019.12.07.txt)** (Plain Text Format)
-- **[HTML, Zipped](/cv/PeterBoling_Resume_2019.12.07.zip)** (Raw HTML assets, archived as a Zip file)
+- **[ePub](/cv/Peter_Boling_Resume_2019.12.07.epub)** (formatted for e-readers)
+- **[ODT](/cv/Peter_Boling_Resume_2019.12.07.odt)** (OpenDocument Text file)
+- **[PDF](/cv/Peter_Boling_Resume_2019.12.07.pdf)** (Portable Document Format)
+- **[RTF](/cv/Peter_Boling_Resume_2019.12.07.rtf)** (Rich Text Format)
+- **[TXT](/cv/Peter_Boling_Resume_2019.12.07.txt)** (Plain Text Format)
+- **[HTML, Zipped](/cv/Peter_Boling_Resume_2019.12.07.zip)** (Raw HTML assets, archived as a Zip file)
 
-<small>- Even [DOCX](/cv/PeterBoling_Resume_2019.12.07.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
+<small>- Even [DOCX](/cv/Peter_Boling_Resume_2019.12.07.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
 
 ### I build big things out of bitty bits
 
