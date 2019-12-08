@@ -1,0 +1,374 @@
+﻿PETER H. BOLING
+San Francisco Bay Area                                homepage:         http://railsbling.com
+(765) 407-3138                                        email:                 peter.boling@gmail.com
+________________
+Solution Architect, Automation Evangelist, Ruby Expert and Certified Barista
+________________
+Experienced system architect, team leader, mentor, rubyist, and full stack web application programmer since 2004; previously linux system administrator.
+
+
+Author and maintainer of many popular open source libraries.
+
+
+I excel at data analysis, task automation, testing, style guides, best practices, API design, benchmarking, and Domain Driven Design.
+
+
+Led major PHP to Rails conversions @ aSmallWorld (2008/9) and BibleGateway (2010).
+
+
+Created solutions for finance, insurance, healthcare, social networking, government, information technology, B2B, fashion, gaming, publishing, and e-commerce sectors.
+
+
+Dedicated to moving science forward and improving the condition of life generally by automation and process improvement.
+
+
+________________
+Tech Leadership & Management
+________________
+
+
+
+
+Technical Advisor, at Karuna Health; Architecture, mentoring, planning;  2018 - present
+Project Lead, oauth2 ruby gem; 2017 - present
+Web Team Lead, at Invoice2go; I managed six developers, and 1 QA Engineer; 2016 - 2017
+Automation Team Lead, at Invoice2go; I managed one developer, and interfaced with managers of all other teams; 2016 - 2017
+Project Lead, dynamoid ruby gem; 2016 - present
+CTO of Acquaintable, and co-founder; I managed a team of five including designers, frontend, and backend engineers; Acquired, 2012 - 2013
+Project Lead, flag_shih_tzu ruby gem; 2012 - present
+First Employee & Lead Engineer at BloombergBlack;  Interviewed, hired, then mentored team of fifteen engineers; 2010 to 2012
+Team Lead at Sagebit; Managed and mentored five recent graduate programmers; 2008-2009
+
+
+________________
+Skills
+________________
+App:                 Ruby, Rails, RSpec, React, ES2016, Cypress, Webpacker, JSONapi, Protobuf
+Database:        PostgreSQL, Dynamo, Neo4j, ES, Mongo, Redis, MySQL, Oracle, Memcached
+Servers:        Puma, nginx, unicorn, passenger, mongrel, lighttpd, mod_ruby
+System:                Bash, monitoring, scheduling, backup, security, debian packaging
+Project:                Jira, Jenkins, Github, Pivotal, and Bitbucket Administration
+________________
+Recent projects
+________________
+
+
+Solution Architect
+Stack - Rails 5.2, Ruby 2.6, RSpec, PostgreSQL, S3, ES, Redis, Kafka, Sidekiq, Github
+MINDBODY, Inc (inc. assimilated Booker & Frederick products)         November 2019 - present
+https://www.mindbodyonline.com/
+* Architecture design for new APIs, interfaces, data storage
+* Process design for software development lifecycle
+* SME for services utilized by all teams, and projects within Marketing Products
+
+
+Senior Staff Architect (6 month contract, extended)
+Stack - Rails 5.2, Ruby 2.4=>2.6, React v16, RSpec, PostgreSQL, S3, ES, Redis, Memcached, Sidekiq, Github
+Gainbridge.life, Relay Rewards, Delaware Life, Group1001      November 2018 - November 2019
+https://gainbridge.life, https://www.group1001.com
+* Develop Group1001 corporate homepage (Rails & Contentful) https://www.group1001.com
+* Design and implement all analytics solutions and integrations for https://gainbridge.life
+* Developing front end (React v16 & Redux) on https://gainbridge.life
+* Built E2E specs in Cypress for https://gainbridge.life
+* Full stack support of https://relayrewards.com/ (will probably be shut down soon)
+   * Implementation of all new features
+   * Built new redesigned landing page with React Hooks (never released)
+* JIRA administration & process development
+
+
+Tech Evangelist / Advisor
+Stack - Rails 5.2, Ruby 2.5=>2.6, RSpec, PostgreSQL, SQS, Protobuf, S3, ES, Redis, Memcached, Sidekiq, Aptible, Github
+Karuna Health                                                        November 2018 - Present
+https://www.meetkaruna.com/
+* Advising on technical, architectural, and hiring issues
+
+
+Principal Systems Architect
+Stack - Rails 4.2, Ruby 2.0=>2.3, RSpec, PostgreSQL, DynamoDB, S3, ES, Mongo, Redis, Memcached, Resque, DigitalOcean, Heroku, DataDog, Cloudwatch, NewRelic, Salesforce, Jira, Bitbucket, Ubuntu
+Intricately                                                        May 2016 - November 2018
+http://www.intricately.com
+* Created time-series data collection & analytics; Generates events to track change on internet
+* Scaling systems and creating devops tools to better utilize infrastructure
+* Advanced math to transform non-scalar data from AWS Alexa into a scalar digest
+* Monitor, log, benchmark, and automate the internet monitoring robots
+* Build data pipelines for enterprise customers exposing the internet sliced in different ways
+
+
+Principal Systems Architect
+Stack - Rails 4.2=>5.2, Ruby 2.3=>2.5, RSpec, PostgreSQL, Jira, Ubuntu, OPC DA integrations.
+Bolt Threads                                                        Sep 2017 - May 2018
+https://boltthreads.com/
+* Maintenance of a legacy, custom, in-house built, Lab Information Management System.
+* Analysis of potential replacement third party LIMS systems.
+* Interviewed candidates for Software Engineering leadership team (VP, Director, Sys Admins)
+* Integration of Windows-based OPC DA services with LIMS via data sampling mechanisms
+* Translate garment designs to instrumentation for a Stoll industrial knitting machine
+* Primary JIRA administrator for all company projects
+* Participated in Leadership Fundamentals training
+* Left when the in-house LIMS system was replaced with off-the-shelf software.
+
+
+Principal Engineer
+Automation Team Lead
+Web Team Lead
+Stack - Rails 4.2, Ruby 2.3, RSpec, AngularJS 1.4, PostgreSQL, S3, ElasticSearch, Redis, Memcached, Sidekiq, CircleCI, Jenkins, Github Enterprise, ZenDesk, NewRelic
+Invoice2Go                                                        Jan 2016 - Feb 2017
+http://www.invoice2go.com
+* Lead the web team in developing a revamped web app at https://web.invoice.2go.com/
+* Laid the groundwork for new service architecture, implementation and continuous integration
+* Designing JIRA process, workflows and screens, and integration with ZenDesk
+* Designing and implementing git branching strategy and supporting toolchain
+* Implementing sandboxed dev env and tiered deployed environments
+* Design and implement feature flags allowing synchronized feature release across clients
+* Engineering Leadership role in Jakarta office
+
+
+Senior Engineer
+Stack - Rails 3.2, Ruby 2.0=>2.1, RSpec, React, EmberCLI, Haml, Slim, SASS, PostgreSQL, S3, Redis, Memcached, Sidekiq, TravisCI, Github, Salesforce, NewRelic, Heroku
+Trumaker & Co                                                        Apr 2014 - Mar 2016
+http://www.trumaker.com
+* Rebuilding architecture of entire tech stack
+* Extracting front-end parts to ember-cli and react thin clients
+* Building structured, authenticated, performant APIs, utilizing versioning and caching
+* Modernizing versions of Ruby, Rails, and many critical gems
+* Implementing backend to support launches of new product lines (blazers, ties, belts, pants, sweaters, tees, etc), fulfillment processes, factories, and shipping methods
+* Designed and created a fully spec’d 12-state Lead CRM tool
+* Integrated Salesforce with internal Lead CRM via my celluloid-io-pg-listener gem
+* Built a commissioned sales attribution framework that supports point-in-time history
+* Fixed the factory pattern and rewrote the spec suite, adding thousands of additional tests
+* Setup new deployed environments, created Thor deployment tool for automation of the many deployment related sub-tasks
+
+
+Senior Staff Architect, Services (9 month contract, extended)
+Stack - Ruby 1.8=>2.1, CGI, FastCGI, Mail gem, RSpec, Oracle 11g, rbenv, bash, daemons, RedHat linux
+Church Pension Group                                                 Aug 2013 – Oct 2014
+http://cpg.org (among others)
+* Forensic analysis of 5 year old ruby service layer
+* Upgrade from Ruby 1.8.7 to 2.0, then 2.1
+* Created ruby service APIs to support many varied clients, & regression test suite
+* Implement account lock and token expiry security measures & automated enforcement
+* Upgrade daemon infrastructure and trading systems, improve software stack / `make` system
+* 10x performance enhancement of internal services: former 20 req/s is now at least 200 req/s when the bottleneck changes to external resources.
+
+
+Co-founder, Chief Technology Officer
+Stack - Rails 3.2, JRuby 1.7, Ruby 1.9=>2.0, RSpec, RequireJS, BackboneJS, Foundation, Slim, SASS, Neo4j, PostgreSQL, S3, Redis, Memcached, Sidekiq, Unicorn, Puma, TravisCI, Github, Librato Metrics, NewRelic, Heroku
+Acquaintable.com – Socially curated dating through FoF                      Jun 2012 – Aug 2013
+Acquired by LikeBright, now Reveal (Microsoft Ventures backed)
+* Built the entire site & made all tech decisions
+* Advised on all product and design decisions
+* Created matching engine with Neo4j + PostgreSQL data analysis algorithms
+* Mobile first, responsive design, with intuitive, touch-enabled mobile interface
+* Designed to provide an immediate experience to each new user
+* One page app design, in preparation for iPhone app
+* UX tool-chain: backbone-marionette, handlebars, RequireJS, slim, SASS, foundation
+* Accepted into Entrepreneurs Roundtable Accelerator Winter 2013 class (ERA - NYC)
+* Fully automated and self-correcting, no intervention required for 4 months.
+* Successful exit via acquisition!
+
+
+Senior Rubyist & Lead Developer
+Stack - Rails 2.3, 3.0, 3.1 & 3.2, Ruby 1.8=>1.9, Grape, RSpec, RequireJS, Foundation, Slim, SASS, SOAP, Unicorn, Puma, Memcached, TeamCity, Git
+Bloomberg Black – now dissolved                                Aug 2010 – Nov 2012
+* 1st Employee, and lead developer of Bloomberg Black, a personal wealth management startup
+* Interviewed and built a team of 15 engineers
+* I built internal gems:
+   * VCR extensions: improved automated management / recording of soap interactions allows for isolated development, recorded sessions reduce dependency on service tier
+   * Javascript: flyout menus, internally tabbed ajax pages, scrollspy, breadcrumbs
+   * Spec suite with thousands of tests to enforce style guide, validate ruby namespace against collisions
+* SOAP services interface, generators for SOAP models and test fixtures; created version dependency resolution between Ruby layer and Java services
+* Rack middleware for fast custom logging => Splunk, 10ms per request improvement
+* Designed project structure: ajax widgets built out of reusable RequireJS modules, cells for componentized features, presenters for single instance variable, and logic free views
+* Spec infrastructure: created custom rspec matchers, acceptance tests, JS unit tests
+* CMS presentation code for the dynamic content on the site with all content available via static route or ajax widgets
+* Built the CMS backend for the content entry in the 100% javascript Rapid IDE
+* Maintained platform interoperability – Windows & RedHat & MacOS
+
+
+Team Lead, Senior Engineer (contract)
+Stack - Rails 2.0, 2.1, 2.2, 2.3, Makandra Rails LTS, Ruby 1.8=>2.2, RSpec, Haml, CSS, MySQL, Memcached, Mongrel, Unicorn, TravisCI, Github, Redmine, NewRelic
+Timeperks.com – Order meals online from favorite local restaurants         Sep 2008 – Aug 2014
+* Mentored junior developers, and reviewed code
+* Built some of the more complex parts of the system, e.g. CX ghosting/masquerade tool
+* Created data reporting features, utilizes my csv_pirate gem.
+* Did all original, three-way, marketplace payment integration with Amazon FPS, and became maintainer of remit gem
+
+
+Partner & Lead Developer (Ruby on Rails)
+Stack - Rails 1.2, 2.0, 2.1, 2.2, 2.3, 3.0, 3.1, Ruby 1.8=>1.9, RSpec, Erb, Haml, CSS, jQuery, MySQL, Mongrel, Unicorn, Memcached, Github, Redmine, Debian, Ubuntu
+Sagebit, LLC - now dissolved                                        Jun 2007 – Dec 2011
+* Developed a Ruby on Rails based media storage and retrieval engine
+* Development, testing, deployment, and refactoring internal projects, including:
+   * CartaBuzz – Find things to do near you (many third party APIs)
+   * MonkeyStub – Get tickets to events fast (many third party APIs)
+   * YetiMail – Snopes for Chain Letters / Spam / Phishing (web scraping; a fuzzy phrase analysis engine; AI)
+* Trained 5 new hires in Ruby, Rails, REST, and stateless programming
+* Likewise with all Rails-based client projects, including: social networks, nonprofits, data warehousing, and commercial sites
+* Biggest contract was with aSmallWorld, http://asmallworld.com:
+   * Led team of 10 developers converting old PHP site to Rails
+   * Design & setup of load balanced 32 server production stack
+   * Wrote forums, photo sharing, friend network presentation engine
+   * Designed polymorphic basis for CMS in the new site
+   * Moved millions of rows of data from the legacy tables to new rails friendly table designs and data models, and optimized SQL queries, and code structure for negligible downtime during PHP -> Rails migration
+   * Optimized to handle 2MM uniques per month, and 300K page views per day
+   * Designed and implemented page and user tracking
+   * Built advertising minisite engine for Estee Lauder and Mercedes-Mclaren campaigns
+
+
+Senior Ruby on Rails Developer (6 month contract, extended)
+Stack - Rails 2.3, Ruby 1.9, RSpec, Memcached, EPub
+Zondervan (Harper-Collins)                                        Dec 2009 – Jul 2010 
+http://BibleGateway.com
+* Developed Google-inspired search engine for POC build of BibleGateway.com
+   * http://github.com/pboling/awesome_search
+* Created dynamic tools used to import hundreds of publications into the system:
+   * improve quality of data, metadata, and data linkages
+   * incrementally index publications with Solr / Sunspot
+* Implemented advanced exception handling and reporting
+* Developed parser to transform raw text into HTML decorated with footnotes and many publishing formatting requirements
+
+
+Founder & System Architect
+Stack: Rails 1.2, 2.0, 2.1, 2.2, 2.3, Ruby 1.8=>1.9, MySQL, Memcached, Redis, Redmine, DelayedJob, jQuery, AJAX, CSS, Debian, Ubuntu, Bash
+9thBit, LLC (Rails Consulting)                                                      Mar 2007 – Jul 2010
+* Built a full-featured credit union web application (offline)
+   * Integrations with several payment gateways and money transfer services
+   * Clients could transfer money from other institutions
+   * Clients could make online withdrawals to other institutions
+   * Advanced fraud detection and prevention
+   * Admin backend systems for credit union staff to use
+   * Interest calculation; Nightly audits and reconciliation on accounts
+   * Document handling; Account statements, and ledgers
+   * Notification system and support system, with knowledge base
+   * All devops work, security hardening, server provisioning, backups, etc
+   * $10 million+ in deposits and wire transfers
+   * Thousands of accounts and users supported
+* Built a letter writing, printing, and mailing service (offline)
+   * Physical letters as a service; Sent to government officials, local, state, national
+   * Geolocates users to determine the correct legislators
+
+
+Senior Developer, System Admin, Ruby on Rails (contract)
+Stack - Rails 2.1, 2.2 & 2.3, Ruby 1.8=>1.9, RSpec, Memcached
+Neighborino, LLC                                                Aug 2008 – Aug 2010
+http://www.neighborino.com/ & http://demo.neighborino.com/
+* Photo sharing features, form handling, messaging, advertising services, calendaring.
+* Created a mailer daemon system to fix timeouts on the website when sending emails.
+
+
+Systems Analyst / Developer (Ruby on Rails, XSL, C#, Shell)
+Stack - Rails 1.1 & 1.2, Ruby 1.8, Oracle 8i, 9i & 10g, jQuery, AJAX, CSS, Redhat Linux, Windows IIS, XML, XSLT, Google Search Appliance
+Legislative Services Agency (LSA)                                Apr 2006 – June 2007
+http://www.in.gov/legislative/iac/irtoc.htm
+* Built Indiana Register website with Tomcat, Cocoon, and Google Mini
+* Created Indiana General Assembly's internal call center application running the House, Senate, and LSA call centers.
+   * One of the first in the world to run Rails on Windows Server 2003; mongrel_cluster & Oracle 10g backend, IIS6 frontend; Worked directly with Microsoft’s IIS team
+   * AJAX address based lookup of senate and house districts for constituents, with issue tracking, and daily summary email to legislators
+
+
+Ruby on Rails Developer & Partner
+Stack: Rails 0.14, 1.0, 1.1 & 1.2, Ruby 1.8, Nginx, Mongrel Cluster, Lighttpd, MySQL, Memcached, Redmine, jQuery, AJAX, CSS, Debian, Ubuntu, Bash
+PanEther, LLC (Rails Consulting)                                Dec 2005 – Mar 2007
+* Built a fantasy football website for a client
+* Built a credit union web application, and administrative tools, for a client
+* Built a government advocacy web application for a client
+
+
+Linux System Administrator & Developer (Rails, PHP, Java, Perl, Scheme, Shell)
+Stack: Rails 0.10, 0.11, 0.12, 0.13, 0.14, 1.0 & 1.1, Ruby 1.8, Mongrel, MySQL, Memcached, Bugzilla, Bash
+Optivel, Inc                                                        Dec 2004 – April 2006
+* Primary developer on first-ever enterprise-grade, Rails-based, ticketing system
+* Built a time tracking app in Rails; an “AirBnB for Airplanes” in PhP
+* Managed a Debian apt repository mirror
+* Built and maintained internal debian packages handling configuration synchronization, key rotation, and automated backups.
+
+
+________________
+Open source activism - Millions of RubyGem downloads since 2009
+________________
+http://github.com/pboling                                 http://rubygems.org/profiles/pboling
+http://github-awards.com/users/search?login=pboling        https://coderwall.com/pboling
+
+
+________________
+Some gems I hack on
+________________
+
+
+oauth2 – A Ruby wrapper for the OAuth 2.0 protocol: Project Lead & Maintainer since Dec 2017
+https://github.com/oauth-xx/oauth2
+
+
+debug_logging – Unobtrusive debug logging for Ruby without the litter: Author, Mar 2017
+https://github.com/pboling/debug_logging
+
+
+dynamoid – AWS DynamoDB ORM for Ruby: Maintainer since May 2016
+https://github.com/Dynamoid/Dynamoid
+
+
+gem_bench – static gemfile analysis: Author, Apr 2013
+https://github.com/pboling/gem_bench
+
+
+flag_shih_tzu – Bitfields for ActiveRecord: Maintainer since Nov 2012
+https://github.com/pboling/flag_shih_tzu
+
+
+sanitize_email –         Tools for testing email; Safety belt for using production data: Author Oct 2008
+https://github.com/pboling/sanitize_email
+
+
+And many more... http://rubygems.org/profiles/pboling
+
+
+________________
+Humanitarian volunteer work
+________________
+Since 2013 I have been helping refugees from Ivory Coast and Liberian civil wars re-establish themselves.  Initially I rent apartments for refugees, purchase land, build cinder block homes, help them repatriate, find gainful employment, and build sufficiency by farming and husbandry.  Refugees who cannot repatriate I help relocate to permanent new lives through UN programs, mostly to Canada and Australia.  November 2015 my efforts became a registered Liberian NGO called Hope For Tomorrow.  Each year I directly assist hundreds of refugees to repatriate or relocate.
+
+
+Co-founder of the WordTree Foundation, http://blog.wordtree.org.  Working on algorithms to enable scientific textual analysis (e.g. n-gram) of literary works to shed light on provenance, and external influence, especially for works written prior to the modern age, which will shed light on how human thought has evolved.  All code is open source: http://github.com/wordtreefoundation
+
+
+I contribute on an ongoing basis to the following charities and organizations:
+        United Way                Africa Heartwood Project        Hope For Tomorrow, Liberia
+        Children International                Kiva.org                Heifer International
+        KQED                        Pacifica Foundation                National Wildlife Federation
+
+
+________________
+Human Language Fluency
+________________
+English (native)                          Spanish (fluent)                                   Portuguese (fluent)
+Indonesian (conversational)
+
+
+________________
+Honors
+________________
+Dean’s Honor List for College of Sciences and Humanities, Ball State University,
+Spring ’98 and Spring ’99 (Computer Science)
+Indiana Core 40 Honors Diploma, Muncie Central High School
+Eagle Scout* - Boy Scouts of America
+ (*As a minor; before I knew of the discriminatory nature of the organization)
+
+
+________________
+Education
+________________
+Ball State University, CS*, Science & Humanities, Muncie, IN 1997 – 1999
+Purdue University, MIS*, Science & Eng. Tech., Lafayette, IN 2002 – 2004
+Ball State University, CS*, Science & Humanities, Muncie, IN 2004 – 2005
+Purdue University, CIT*, Engineering Technology, Indpls, IN 2005 – 2007
+* Worked full-time, no debt, through college; flat-top roofer, sys-admin, web developer.  I am eight classes short of a degree, and I have no intention of completing it.
+
+
+________________
+Certifications
+________________
+
+
+Barista, Certified & Licensed in Australia by CBD College, Sydney, RTO# 91399
+* SITHFAB005 - Prepare and serve espresso coffee
+* SITXFSA001 - Use hygienic practices for food safety
