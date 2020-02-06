@@ -1,12 +1,12 @@
 +++
-date = "2019-10-01T01:00:00-07:00"
+date = "2020-01-29T23:00:00-07:00"
 draft = false
 authorlink = "https://about.me/peter.boling"
 authorlinktarget = "_blank"
 authortwitter = "https://www.twitter.com/galtzo"
 authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
-title = "New Release of oauth2: Version 1.4.2"
+title = "New Release of oauth2: Version 1.4.3"
 tags = [ "development", "ruby", "rails", "rubygems", "oauth2" ]
 categories = [ "development", "tools", "ruby" ]
 series = [ "toolchain" ]
@@ -42,15 +42,17 @@ type = "docs"
 [inch-ci]: http://inch-ci.org/github/oauth-xx/oauth2
 [code-triage]: https://www.codetriage.com/oauth-xx/oauth2
 
-The oauth2 gem team has been working ~~hard~~ ([82 Issues Closed, 6 remaining!](https://github.com/oauth-xx/oauth2/milestone/1?closed=1)) on preparing a version 2.0.0 for release.  It will have some minor breaking changes, and some important bug fixes.  It will have code cleanup, and new features.
+The oauth2 gem team has been working ~~hard~~ ([93 Issues Closed, 4 remaining!](https://github.com/oauth-xx/oauth2/milestone/1?closed=1)) on preparing a version 2.0.0 for release.  It will have some minor breaking changes, and some important bug fixes.  It will have code cleanup, and new features.
 
-**But for many people version 1.4.x has been working fine**, and all they need is a new version, warts and all, which allows them to upgrade some locked dependencies, particularly `jwt` and `faraday`.  So I have [prepared a 1.4.2 release](https://github.com/oauth-xx/oauth2/milestone/4?closed=1).
+**But for many people version 1.4.x has been working fine**, and all they need is a new version, warts and all, which fixes some bugs, adds some features, and allows them to upgrade some dependencies, particularly `jwt` and `faraday`.  So I have [prepared a 1.4.3 release](https://github.com/oauth-xx/oauth2/milestone/5?closed=1).
 
-Here is the relevant section of [CHANGELOG.md](https://github.com/oauth-xx/oauth2/blob/1-4-stable/CHANGELOG.md#142---2019-10-01):
+Here is the relevant section of [CHANGELOG.md](https://github.com/oauth-xx/oauth2/blob/1-4-stable/CHANGELOG.md#143---2020-01-29):
 
-## [1.4.2] - 2019-10-01
+## [1.4.3] - 2019-10-01
 
-- [#478](https://github.com/oauth-xx/oauth2/pull/478) - support latest version of faraday & fix build (@pboling)
-  - Officially support Ruby 2.6 and truffleruby
+- [#483](https://github.com/oauth-xx/oauth2/pull/483) - add project metadata to gemspec (@orien)
+- [#495](https://github.com/oauth-xx/oauth2/pull/495) - support additional types of access token requests (@SteveyblamFreeagent, @thomcorley, @dgholz)
+  - Adds support for `private_key_jwt` and `tls_client_auth`
+- [#433](https://github.com/oauth-xx/oauth2/pull/433) - allow field names with square brackets and numbers in params (@asm256)
 
-[1.4.2]: https://github.com/oauth-xx/oauth2/compare/v1.4.1...v1.4.2
+[1.4.3]: https://github.com/oauth-xx/oauth2/compare/v1.4.2...v1.4.3

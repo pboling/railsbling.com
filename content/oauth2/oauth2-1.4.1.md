@@ -22,7 +22,7 @@ type = "docs"
 [![Network](https://img.shields.io/github/forks/oauth-xx/oauth2.svg?style=social)][network]
 [![Stars](https://img.shields.io/github/stars/oauth-xx/oauth2.svg?style=social)][stargazers]
 [![Build Status](http://img.shields.io/travis/oauth-xx/oauth2.svg)][travis]
-[![Coverage Status](http://img.shields.io/coveralls/oauth-xx/oauth2.svg)][coveralls]
+[![Test Coverage](https://api.codeclimate.com/v1/badges/688c612528ff90a46955/test_coverage)][codeclimate-coverage]
 [![Maintainability](https://api.codeclimate.com/v1/badges/688c612528ff90a46955/maintainability)][codeclimate-maintainability]
 [![Depfu](https://badges.depfu.com/badges/6d34dc1ba682bbdf9ae2a97848241743/count.svg)][depfu]
 [![Open Source Helpers](https://www.codetriage.com/oauth-xx/oauth2/badges/users.svg)][code-triage]
@@ -36,6 +36,7 @@ type = "docs"
 [travis]: http://travis-ci.org/oauth-xx/oauth2
 [coveralls]: https://coveralls.io/r/oauth-xx/oauth2
 [codeclimate-maintainability]: https://codeclimate.com/github/oauth-xx/oauth2/maintainability
+[codeclimate-coverage]: https://codeclimate.com/github/oauth-xx/oauth2/test_coverage
 [depfu]: https://depfu.com/github/oauth-xx/oauth2
 [source-license]: https://opensource.org/licenses/MIT
 [inch-ci]: http://inch-ci.org/github/oauth-xx/oauth2
@@ -45,7 +46,7 @@ The oauth2 gem team has been working hard ([72 Issues Closed, 6 remaining!](http
 
 **But for many people version 1.4.0 has been working fine**, and all they need is a new version, warts and all, which allows them to upgrade some locked dependencies, particularly `jwt` and `faraday`.  So I have [prepared a 1.4.1 release](https://github.com/oauth-xx/oauth2/milestone/3?closed=1).
 
-Here is the relevant section of [CHANGELOG.md](https://github.com/oauth-xx/oauth2/blob/1-4-stable/CHANGELOG.md):
+Here is the relevant section of [CHANGELOG.md](https://github.com/oauth-xx/oauth2/blob/1-4-stable/CHANGELOG.md#141---2018-10-13):
 
 ## [1.4.1] - 2018-10-13
 
