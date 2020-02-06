@@ -1,5 +1,5 @@
 +++
-date = "2019-12-07T01:46:00-07:00"
+date = "2020.02.06T01:46:00-07:00"
 draft = false
 authorlink = "https://about.me/peter.boling"
 authorlinktarget = "_blank"
@@ -18,14 +18,14 @@ type = "page"
 I'm not a fan of vendor-lockin, so have it your way!
 
 - **[WEB](http://resume.peterboling.com)** (a website, for a web browser)
-- **[ePub](/cv/Peter_Boling_Resume_2019.12.07.epub)** (formatted for e-readers)
-- **[ODT](/cv/Peter_Boling_Resume_2019.12.07.odt)** (OpenDocument Text file)
-- **[PDF](/cv/Peter_Boling_Resume_2019.12.07.pdf)** (Portable Document Format)
-- **[RTF](/cv/Peter_Boling_Resume_2019.12.07.rtf)** (Rich Text Format)
-- **[TXT](/cv/Peter_Boling_Resume_2019.12.07.txt)** (Plain Text Format)
-- **[HTML, Zipped](/cv/Peter_Boling_Resume_2019.12.07.zip)** (Raw HTML assets, archived as a Zip file)
+- **[ePub](/cv/Peter_Boling_Resume_2020.02.06.epub)** (formatted for e-readers)
+- **[ODT](/cv/Peter_Boling_Resume_2020.02.06.odt)** (OpenDocument Text file)
+- **[PDF](/cv/Peter_Boling_Resume_2020.02.06.pdf)** (Portable Document Format)
+- **[RTF](/cv/Peter_Boling_Resume_2020.02.06.rtf)** (Rich Text Format)
+- **[TXT](/cv/Peter_Boling_Resume_2020.02.06.txt)** (Plain Text Format)
+- **[HTML, Zipped](/cv/Peter_Boling_Resume_2020.02.06.zip)** (Raw HTML assets, archived as a Zip file)
 
-<small>- Even [DOCX](/cv/Peter_Boling_Resume_2019.12.07.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
+<small>- Even [DOCX](/cv/Peter_Boling_Resume_2020.02.06.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
 
 ### I build big things out of bitty bits
 

@@ -53,16 +53,23 @@ Recent projects
 ________________
 
 
+Technical Advisor
+Stack - Rails 5.2, Ruby 2.5=>2.6, RSpec, PostgreSQL, SQS, Protobuf, S3, ES, Redis, Memcached, Sidekiq, Aptible, Github
+Karuna Health                                                        November 2018 - Present
+https://www.meetkaruna.com/
+* Advising on technical, architectural, and hiring issues
+
+
 Solution Architect
 Stack - Rails 5.2, Ruby 2.6, RSpec, PostgreSQL, S3, ES, Redis, Kafka, Sidekiq, Github
-MINDBODY, Inc (inc. assimilated Booker & Frederick products)         November 2019 - present
+MINDBODY, Inc                                                    November 2019 - February 2020
 https://www.mindbodyonline.com/
 * Architecture design for new APIs, interfaces, data storage
 * Process design for software development lifecycle
 * SME for services utilized by all teams, and projects within Marketing Products
 
 
-Senior Staff Architect (6 month contract, extended)
+Senior Staff Architect (6 month contract, extended to 12 months)
 Stack - Rails 5.2, Ruby 2.4=>2.6, React v16, RSpec, PostgreSQL, S3, ES, Redis, Memcached, Sidekiq, Github
 Gainbridge.life, Relay Rewards, Delaware Life, Group1001      November 2018 - November 2019
 https://gainbridge.life, https://www.group1001.com
@@ -74,13 +81,6 @@ https://gainbridge.life, https://www.group1001.com
    * Implementation of all new features
    * Built new redesigned landing page with React Hooks (never released)
 * JIRA administration & process development
-
-
-Tech Evangelist / Advisor
-Stack - Rails 5.2, Ruby 2.5=>2.6, RSpec, PostgreSQL, SQS, Protobuf, S3, ES, Redis, Memcached, Sidekiq, Aptible, Github
-Karuna Health                                                        November 2018 - Present
-https://www.meetkaruna.com/
-* Advising on technical, architectural, and hiring issues
 
 
 Principal Systems Architect
