@@ -6,7 +6,6 @@ authorlinktarget = "_blank"
 authortwitter = "https://www.twitter.com/galtzo"
 authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
-authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "New Release of oauth2: Version 1.4.2"
 tags = [ "development", "ruby", "rails", "rubygems", "oauth2" ]
 categories = [ "development", "tools", "ruby" ]

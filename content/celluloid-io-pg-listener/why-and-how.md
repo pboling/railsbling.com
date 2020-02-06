@@ -6,7 +6,6 @@ authorlinktarget = "_blank"
 authortwitter = "https://www.twitter.com/galtzo"
 authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
-authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "The Why and How of celluloid-io-pg-listener"
 tags = [ "development", "ruby", "rails", "rubygems", "celluloid-io-pg-listener" ]
 categories = [ "development", "tools", "ruby" ]

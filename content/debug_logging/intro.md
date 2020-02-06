@@ -6,7 +6,6 @@ authorlinktarget = "_blank"
 authortwitter = "https://www.twitter.com/galtzo"
 authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
-authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "Introducing debug_logging"
 tags = [ "development", "ruby", "rails", "rubygems", "debug_logging", "logging", "benchmarking" ]
 categories = [ "development", "tools", "ruby", "logging" ]

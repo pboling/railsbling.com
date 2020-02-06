@@ -6,7 +6,6 @@ authorlinktarget = "_blank"
 authortwitter = "https://www.twitter.com/galtzo"
 authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
-authorgoogleplus = "https://plus.google.com/+PeterBoling/posts"
 title = "Upgrade to El Capitan with Homebrew, Ruby, qt5, & Java"
 tags = [ "development", "ruby", "rails", "environment", "homebrew", "qt5", "java" ]
 categories = [ "development", "howto", "ruby" ]
