@@ -14,7 +14,7 @@ type = "docs"
 
 +++
 
-## oauth2 version 1.4.2 is Released
+## oauth2 version 1.4.3 is Released
 
 [![Gem Version](http://img.shields.io/gem/v/oauth2.svg)][gem]
 [![Total Downloads](https://img.shields.io/gem/dt/oauth2.svg)][gem]
