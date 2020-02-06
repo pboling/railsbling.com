@@ -27,14 +27,7 @@ I'm not a fan of vendor-lockin, so have it your way!
 
 <small>- Even [DOCX](/cv/Peter_Boling_Resume_2020.02.06.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
 
-### I build big things out of bitty bits
-
-* Solutions Architect at [MINDBODY, Inc](https://www.mindbodyonline.com/), 2019 - present ([on Crunchbase](https://www.crunchbase.com/organization/mindbody))
-  * Architecture design and planning
-  * SDLC process improvement
-  * SME for services utilized by all teams, and projects within Marketing Products
-
-### About Me
+### How I use my allocation of bits
 
 Experienced system architect, team leader, mentor, rubyist, and full stack web application programmer since 2004; sometime linux system administrator.
 
@@ -60,6 +53,7 @@ I am a political activist utilizing my social currency to advocate for equality 
 
 ### Past Work
 
+* Solutions Architect at [MINDBODY, Inc](https://www.mindbodyonline.com/) &larr; Architecture design and planning, SDLC process improvement, SME for services utilized by all teams, and projects within Marketing Products, 2019 - 2020 ([on Crunchbase](https://www.crunchbase.com/organization/mindbody))
 * Senior Staff Architect (contract), @[Group 1001](https://www.group1001.com) &larr; Building, optimizing, and extending the portfolio of insurance products (e.g. [Gainbridge.life](https://gainbridge.life), [Relay Rewards](https://relayrewards.com)), 2018 - 2019 ([on Crunchbase](https://www.crunchbase.com/organization/group1001))
 * Principle Systems Architect, @[Intricately](https://intricately.com/) &larr; Building, optimizing, and extending, the backend, 2016 - present ([on Crunchbase](https://www.crunchbase.com/organization/intricately#/entity))
 * Principle Systems Architect, @[Bolt Threads](https://boltthreads.com/) &larr; The more I learn about what the company is doing to revolutionize the textile industry the more excited I become about the possibilities.  Changing the world for the better, through efficiency, is always my goal professionally and personally.
