@@ -48,7 +48,7 @@ The oauth2 gem team has been working ~~hard~~ ([93 Issues Closed, 4 remaining!](
 
 Here is the relevant section of [CHANGELOG.md](https://github.com/oauth-xx/oauth2/blob/1-4-stable/CHANGELOG.md#143---2020-01-29):
 
-## [1.4.3] - 2019-10-01
+## [1.4.3] - 2020-01-29
 
 - [#483](https://github.com/oauth-xx/oauth2/pull/483) - add project metadata to gemspec (@orien)
 - [#495](https://github.com/oauth-xx/oauth2/pull/495) - support additional types of access token requests (@SteveyblamFreeagent, @thomcorley, @dgholz)

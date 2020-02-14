@@ -1,5 +1,5 @@
 +++
-date = "2020-02-13T23:00:00-07:00"
+date = "2020-02-12T23:00:00-07:00"
 draft = false
 authorlink = "https://about.me/peter.boling"
 authorlinktarget = "_blank"
@@ -46,9 +46,9 @@ The oauth2 gem team has been working ~~hard~~ ([93 Issues Closed, 5 remaining!](
 
 **But for many people version 1.4.x has been working fine**, and all they need is a new version, warts and all, which fixes some bugs, adds some features, and allows them to upgrade some dependencies, particularly `jwt` and `faraday`.  So I have [prepared a 1.4.4 release](https://github.com/oauth-xx/oauth2/milestone/6?closed=1).
 
-Here is the relevant section of [CHANGELOG.md](https://github.com/oauth-xx/oauth2/blob/1-4-stable/CHANGELOG.md#143---2020-01-29):
+Here is the relevant section of [CHANGELOG.md](https://github.com/oauth-xx/oauth2/blob/1-4-stable/CHANGELOG.md#144---2020-02-12):
 
-## [1.4.4] - 2019-10-01
+## [1.4.4] - 2020-02-12
 
 - [#408](https://github.com/oauth-xx/oauth2/pull/408) - Fixed expires_at for formatted time (@Lomey)
 
