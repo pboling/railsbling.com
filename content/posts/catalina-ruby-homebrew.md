@@ -57,12 +57,12 @@ No Java runtime present, requesting install.
 Once downloaded, open the `.dmg` (for me it was `jdk-13.0.2_osx-x64_bin`) and install, then restart iTerm.
 
 Add the following to your shell (e.g. `.bash_profile`):
-```shell script
+```
 export JAVA_HOME=`/usr/libexec/java_home -v 13`
 ```
 
 Now your Java will be available and version will be correct.
-```shell script
+```
 java -version
 ```
 
@@ -79,13 +79,13 @@ Apps like RubyMine should work now, well, at least launch.
 
 Update Homebrew.  NOTE: If the update fails you may need to do cleanup first, see below.
 
-```shell script
+```
 brew update
 ```
 
 Run a bit of cleanup.
 
-```shell script
+```
 brew doctor
 brew prune
 ```
@@ -98,14 +98,14 @@ Rather than use the Homebrew GPG (`brew install gpg`) I have switched to using t
 
 My pre-existing rbenv installation was working fine for most rubies, though some had to be reinstalled from scratch. TBH though, it is a great idea to reinstall them all from scratch, as some issues, like OpenSSL issues, may only become apparent later on.
 
-```shell script
+```
 rbenv uninstall 2.5.1
 rbenv install 2.5.7
 ```  
   
 Additionally, I ran into some issues with a dependency on `libxml2`.
 
-```shell script
+```
 brew upgrade cmake
 brew install libxml2
 echo 'export PATH="/usr/local/opt/libxml2/bin:$PATH"' >> ~/.shared/paths # NOTE: change the end to ~/.bash_profile or somewhere appropriate
@@ -121,7 +121,7 @@ I also took the opportunity to upgrade to the [latest Postgres.app](http://postg
 
 Mostly I followed [this gist](https://gist.github.com/operatino/392614486ce4421063b9dece4dfe6c21), and [this gist](https://gist.github.com/fernandoaleman/ee3ac6957c2ba4f7d7d33a251d58b191#gistcomment-2735728).
 
-```shell script
+```
 brew tap homebrew/services
 brew uninstall mysql@5.7
 brew install mysql@5.7
