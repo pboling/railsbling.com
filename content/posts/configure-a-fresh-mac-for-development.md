@@ -28,9 +28,8 @@ I am writing this as a reference for myself, because I go through this process f
 * Install homebrew (which will also auto-install Apple’s "command line developer tools") and some packages
 
     /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-    brew install cmake libxml2 git hub asdf pinentry 
-    # Dependencies of asdf-ruby
-    brew install openssl libyaml libffi pkg-config autoconf readline
+    brew install cmake libxml2 git hub asdf pinentry openssl libyaml libffi pkg-config autoconf readline coreutils
+
 * Install GnuPG using the [GPG Suite](https://gpgtools.org/), which provides a DMG based install, then:
 
     echo "test" | gpg2 --clearsign
@@ -50,6 +49,18 @@ I am writing this as a reference for myself, because I go through this process f
     rake install
 
 NOTE: Quit and reopen iTerm to ensure all shells pickup the new paths, aliases, and other goodies.
+
+## asdf
+
+### Ruby
+
+    asdf plugin-add ruby https://github.com/asdf-vm/asdf-ruby.git
+
+
+### NodeJS
+
+    asdf plugin-add nodejs https://github.com/asdf-vm/asdf-nodejs.git
+    bash ~/.asdf/plugins/nodejs/bin/import-release-team-keyring
 
 ## Java
 
