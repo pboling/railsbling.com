@@ -87,7 +87,6 @@ Run a bit of cleanup.
 
 ```
 brew doctor
-brew prune
 ```
 
 ### GPG
