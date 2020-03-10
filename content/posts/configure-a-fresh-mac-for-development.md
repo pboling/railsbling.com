@@ -21,24 +21,26 @@ I am writing this as a reference for myself, because I go through this process f
 
 ## Core Setup
 
-• Login to iCloud
-• Install Apps from App Store
-• Install iTerm2
-• Install Franz and Telegram
-• Install homebrew (which will also auto-install Apple’s "command line developer tools") and some packages
+* Login to iCloud
+* Install Apps from App Store
+* Install iTerm2
+* Install Franz and Telegram
+* Install homebrew (which will also auto-install Apple’s "command line developer tools") and some packages
 
     /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-    brew install cmake libxml2 git hub asdf pinentry cmake libxml2
-• Install GnuPG using the [GPG Suite](https://gpgtools.org/), which provides a DMG based install, then:
+    brew install cmake libxml2 git hub asdf pinentry 
+    # Dependencies of asdf-ruby
+    brew install openssl libyaml libffi pkg-config autoconf readline
+* Install GnuPG using the [GPG Suite](https://gpgtools.org/), which provides a DMG based install, then:
 
     echo "test" | gpg2 --clearsign
     git config --global user.signingkey BA3C3507
     git config --global commit.gpgsign true
     git config --global gpg.program gpg2
-• Jetbrains Toolbox: https://www.jetbrains.com/toolbox-app/
-• Google backup and sync: https://www.google.com/drive/download/backup-and-sync/
-• Dropbox: https://www.dropbox.com/install#downloaded
-• Install the [latest Postgres.app](http://postgresapp.com/).
+* Jetbrains Toolbox: https://www.jetbrains.com/toolbox-app/
+* Google backup and sync: https://www.google.com/drive/download/backup-and-sync/
+* Dropbox: https://www.dropbox.com/install#downloaded
+* Install the [latest Postgres.app](http://postgresapp.com/).
 
 ## pboling's (My) Dotfiles
 
