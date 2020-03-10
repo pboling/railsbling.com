@@ -15,7 +15,7 @@ type = "page"
 
 ### Download Resume Here <i class="fas fa-level-down"></i>
 
-I'm not a fan of vendor-lockin, so have it your way!
+I'm not a fan of vendor-lock, so have it your way!
 
 - **[WEB](http://resume.peterboling.com)** (a website, for a web browser)
 - **[ePub](/cv/Peter_Boling_Resume_2020.02.06.epub)** (formatted for e-readers)
@@ -45,6 +45,7 @@ I am a political activist utilizing my social currency to advocate for equality 
 
 ### More stuff I am working on now
 
+* Architect at [Riviera Partners](https://rivierapartners.com) &larr; Building the AI & ML enhanced recruiting platform of the future
 * Technical Advisor and Evangelist at [Karuna Health](https://meetkaruna.com/) &larr; Assisting with backend architecture and hiring, 2018 - present ([on Crunchbase](https://www.crunchbase.com/organization/karuna))
 * Co-founder of [WordTree Foundation](http://blog.wordtree.org) - non-profit scientific linguistics research, 2014 - present
 [![Tweet](https://img.shields.io/twitter/url/http/wordtree.org.svg?style=social)](https://twitter.com/intent/tweet?text=Interesting:&amp;url=http%3A%2F%2Fwordtree.org)
@@ -77,7 +78,7 @@ I am a political activist utilizing my social currency to advocate for equality 
   * Spanish
   * Portuguese
   * and conversational in Indonesian
-* Licensed, certified coffee barista; CBD College in Sydney, RTO# 91399
+* Food Service Licensed & Certified Coffee Barista; CBD College in Sydney, RTO# 91399
   * SITHFAB005 Prepare and serve espresso coffee
   * SITXFSA001 Use hygienic practices for food safety
 
