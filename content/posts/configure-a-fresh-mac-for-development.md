@@ -62,6 +62,12 @@ NOTE: Quit and reopen iTerm to ensure all shells pickup the new paths, aliases, 
     asdf plugin-add nodejs https://github.com/asdf-vm/asdf-nodejs.git
     bash ~/.asdf/plugins/nodejs/bin/import-release-team-keyring
 
+### Yarn
+
+For yarn I *did not* use the `brew install` because it would brew install other things, like `nodejs`, which I have through `asdf`.
+
+    curl -o- -L https://yarnpkg.com/install.sh | bash
+
 ## Java
 
 Next, run `java`, which prompts with a dialog that has a button "More Info" which takes you to [a website](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html) where you can accept the license and download the Java `.dmg` file.  You need the JDK, not the JRE, if you intend to run java command-line based tools.
