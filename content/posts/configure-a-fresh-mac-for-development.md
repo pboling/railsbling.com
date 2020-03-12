@@ -27,15 +27,20 @@ I am writing this as a reference for myself, because I go through this process f
 * Install Franz and Telegram
 * Install homebrew (which will also auto-install Apple’s "command line developer tools") and some packages
 
+    ```
     /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
     brew install cmake libxml2 git hub asdf pinentry openssl libyaml libffi pkg-config autoconf readline coreutils
+    ```
 
 * Install GnuPG using the [GPG Suite](https://gpgtools.org/), which provides a DMG based install, then:
 
+    ```
     echo "test" | gpg2 --clearsign
     git config --global user.signingkey BA3C3507
     git config --global commit.gpgsign true
     git config --global gpg.program gpg2
+    ```
+
 * Jetbrains Toolbox: https://www.jetbrains.com/toolbox-app/
 * Google backup and sync: https://www.google.com/drive/download/backup-and-sync/
 * Dropbox: https://www.dropbox.com/install#downloaded
@@ -62,6 +67,8 @@ NOTE: Quit and reopen iTerm to ensure all shells pickup the new paths, aliases, 
 
     asdf plugin-add nodejs https://github.com/asdf-vm/asdf-nodejs.git
     bash ~/.asdf/plugins/nodejs/bin/import-release-team-keyring
+    asdf install nodejs 12.11.1
+    asdf global nodejs 12.11.1
 
 ### Yarn
 
