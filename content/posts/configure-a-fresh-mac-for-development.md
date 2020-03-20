@@ -96,6 +96,10 @@ Setup a [new key](https://help.github.com/en/github/authenticating-to-github/gen
     chmod 600 ~/.ssh/config
     chown $USER ~/.ssh/config
 
+## Postgresql
+
+Install [latest Postgres.app](http://postgresapp.com/).  I use the alternate installer on the downloads page that includes all supported versions (back to v9.4!)
+
 # ERRORS?
 
 ## libxml-ruby
@@ -106,6 +110,16 @@ If you get an error installing the `libxml-ruby` gem:
 ```
 bundle config build.libxml-ruby --with-xml2-config=/usr/local/opt/libxml2/bin/xml2-config --with-xml2-dir=/usr/local/opt/libxml2 --with-xml2-lib=/usr/local/opt/libxml2/lib --with-xml2-include=/usr/local/opt/libxml2/include
 ```
+
+## pg gem
+
+If you use Postgres.app as I suggest above, and you are not using my dotfiles, then you will also need to add Postgress.app's bin files to the `PATH`.
+
+```
+# Postgres.app Integration (for latest version)
+export PATH="/Applications/Postgres.app/Contents/Versions/latest/bin:$PATH"
+```
+
 
 ## MySQL
 
