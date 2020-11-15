@@ -29,4 +29,4 @@ type = "docs"
 [![Chat](https://img.shields.io/gitter/room/pboling/debug_logging.svg)](https://gitter.im/pboling/debug_logging)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-I'll put something here soon.
+A new release is coming soon!
