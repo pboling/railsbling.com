@@ -15,7 +15,7 @@ type = "page"
 
 ### Download Resume Here <i class="fas fa-level-down"></i>
 
-I'm not a fan of vendor-lock, so have it your way!
+I'm not a fan of vendor-lock, so have it your way!  Last revised in February, 2020.
 
 - **[WEB](http://resume.peterboling.com)** (a website, for a web browser)
 - **[ePub](/cv/Peter_Boling_Resume_2020.02.06.epub)** (formatted for e-readers)
@@ -31,7 +31,7 @@ I'm not a fan of vendor-lock, so have it your way!
 
 Experienced system architect, team leader, mentor, rubyist, and full stack web application programmer since 2004; sometime linux system administrator.
 
-Author and maintainer of many popular open source libraries [![On RubyGems](https://img.shields.io/gem/u/pboling.svg)](https://rubygems.org/profiles/pboling).
+Author and maintainer of many popular open source libraries [![On RubyGems](https://img.shields.io/gem/u/pboling.svg)](https://rubygems.org/profiles/pboling), which have been downloaded many millions of times.
 
 I excel at data analysis, task automation, testing, style guides, best practices, API design, benchmarking, and Domain Driven Design.
 
@@ -45,15 +45,16 @@ I am a political activist utilizing my social currency to advocate for equality 
 
 ### More stuff I am working on now
 
+* Executive Director at [National Progressive Party](https://nationalprogressiveparty.org) &larr; A more progressive future is possible!
 * Architect at [Riviera Partners](https://rivierapartners.com) &larr; Building the AI & ML enhanced recruiting platform of the future
-* Technical Advisor and Evangelist at [Karuna Health](https://meetkaruna.com/) &larr; Assisting with backend architecture and hiring, 2018 - present ([on Crunchbase](https://www.crunchbase.com/organization/karuna))
 * Co-founder of [WordTree Foundation](http://blog.wordtree.org) - non-profit scientific linguistics research, 2014 - present
 [![Tweet](https://img.shields.io/twitter/url/http/wordtree.org.svg?style=social)](https://twitter.com/intent/tweet?text=Interesting:&amp;url=http%3A%2F%2Fwordtree.org)
-* Many Open Source projects!  [Check out the source.](https://github.com/pboling/)
-* This blog!  [Check out the source.](https://github.com/pboling/railsbling.com)
+* Many Open Source projects! [Check out the source.](https://github.com/pboling/)
+* This blog! [Check out the source.](https://github.com/pboling/railsbling.com)
 
 ### Past Work
 
+* Technical Advisor and Evangelist at [Karuna Health](https://meetkaruna.com/) &larr; Assisting with backend architecture and hiring, 2018 - 2020 ([on Crunchbase](https://www.crunchbase.com/organization/karuna))
 * Solutions Architect at [MINDBODY, Inc](https://www.mindbodyonline.com/) &larr; Architecture design and planning, SDLC process improvement, SME for services utilized by all teams, and projects within Marketing Products, 2019 - 2020 ([on Crunchbase](https://www.crunchbase.com/organization/mindbody))
 * Senior Staff Architect (contract), @[Group 1001](https://www.group1001.com) &larr; Building, optimizing, and extending the portfolio of insurance products (e.g. [Gainbridge.life](https://gainbridge.life), [Relay Rewards](https://relayrewards.com)), 2018 - 2019 ([on Crunchbase](https://www.crunchbase.com/organization/group1001))
 * Principle Systems Architect, @[Intricately](https://intricately.com/) &larr; Building, optimizing, and extending, the backend, 2016 - present ([on Crunchbase](https://www.crunchbase.com/organization/intricately#/entity))

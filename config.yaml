@@ -1,0 +1,107 @@
+baseURL: http://railsbling.com
+languageCode: en-us
+title: "Rails Bling"
+theme: "toha"
+
+# Manage languages
+# For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
+languages:
+  en:
+    languageName: English
+    weight: 1
+  es:
+    languageName: Español
+    weight: 2
+  pt:
+    languageName: Português
+    weight: 3
+  id:
+    languageName: Indonesian
+    weight: 4
+
+languageCode: "en"
+languageName: "English"
+# Force a language - useful in development, and before other language translations are complete.
+defaultContentLanguage: "en"
+disableLanguages: ["es", "pt", "id"]
+enableGitInfo: true
+enableRobotsTXT: true
+pygmentsUseClasses: true
+
+# Allow raw html in markdown file
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+# Enable Google Analytics
+googleAnalytics: UA-37606822-1
+
+# Enable Disqus forum
+disqusShortname: railsbling
+
+# Enable global emoji support
+enableEmoji: true
+
+# Custom parameters
+params:
+  # background image of the landing page
+  background: "images/background-blurry.jpg"
+
+  # Provide logos for your site. The inverted logo will be used in the initial
+  # transparent navbar and the main logo will be used in the non-transparent navbar.
+  # It will be default to the theme logos if not provided.
+  logo:
+    version: 8jlyawLvaB
+    main: /images/logos/RailsBling-TrainLogo-260x260.png
+    inverted: /images/logos/RailsBling-TrainLogo-260x260.png
+    favicon: /favicon.ico
+    favicon32: /favicon-32x32.png
+    favicon16: /favicon-16x16.png
+    faviconapple: /apple-touch-icon.png
+    safaripin: /safari-pinned-tab.svg
+    manifest: /site.webmanifest
+
+  # GitHub repo URL of your site
+  gitRepo: https://github.com/pboling/railsbling.com
+
+  # specify whether you want to write blog post or not
+  enableBlogPost: true
+
+  # specify whether you want to show Table of Contents in reading page
+  enableTOC: true
+
+  # Provide newsletter configuration. This feature hasn't been implemented yet.
+  # Currently, you can just hide it from the footer.
+  newsletter:
+    enable: false
+
+  author:
+    name: "Peter Boling"
+  AuthorName: "Peter Boling"
+  DateForm: "Mon, Jan 2, 2006"
+  GoogleAnalyticsUserID: "UA-37606822-1"
+  gaid: "UA-37606822-1"
+  BaseURL: "http://www.railsbling.com"
+  Facebook: "peter.boling"
+  Twitter: "galtzo"
+  Github: "pboling"
+  ShowRelatedPost: true
+  Disqus: "peterboling"
+#  SyntaxHighlightTheme: "solarized_dark.min.css"
+  sidebartagline: "Yet Another Paradigm by Peter Boling"
+  categoriescss: "/css/project.css"
+  noauthor: false
+  sidebarphoto: "/images/red-dragon.jpeg"
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
+  series: "series"
+
+permalinks:
+  post: "/blog/:year/:month/:day/:title/"

@@ -1,0 +1,20 @@
+# some information about you
+name: "Peter Boling"
+nickname: "galtzo"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/avatar.png"
+
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "peter.boling@gmail.com"
+  phone: "+1-925-252-5351"
+
+# some summary about what you do
+summary:
+  - I am a computer programmer
+  - I am a father
+  - I work on free and open-source projects
+  - I am a husband
+  - I am a progressive

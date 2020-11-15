@@ -1,0 +1,165 @@
+# section information
+section:
+  name: Experience
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+  - company:
+      name: Riviera Partners
+      url: "https://rivierapartners.com/"
+      location: San Francisco, CA
+      # company overview
+      overview: Engineering, Product, & Design Recruiting. Minimized Hiring Risk. Predictable Success.
+    positions:
+      - designation: Architect & Tech Lead
+        start: Feb 2020
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Design migration paths toward increased data security, lower systems costs, and fewer wasted resources
+          - Architect automated systems; automate monitoring
+          - Lead backend team
+
+  - company:
+      name: Karuna Health
+      url: "https://meetkaruna.com/"
+      location: San Francisco, CA
+      overview: Karuna connects patients with healthcare guides through streamlined communication and automation.
+    positions:
+      - designation: Technical Advisor
+        start: Nov 2018
+        end: May 2020
+        responsibilities:
+          - Assist with hiring
+          - Write tests and specs
+          - Develop an email gateway and integrate as communication channel
+          - Build automated tools that correct many forms of data corruption
+
+  - company:
+      name: Group 1001
+      url: "https://www.group1001.com/"
+      location: New York, NY
+      overview: We are a family of insurance companies offering accumulation and protection solutions
+    positions:
+      - designation: Senior Staff Architect
+        start: Nov 2018
+        end: Nov 2019 (6mos contract, extended)
+        responsibilities:
+          - Re-built and maintained Relay Rewards @ http://RelayRewards.com
+          - Re-built and maintained Group 1001 @ https://www.group1001.com/
+          - Worked on many parts of Gainbridge Life @ https://gainbridge.life/
+
+  - company:
+      name: Intricately
+      url: "https://www.intricately.com"
+      location: San Francisco, CA
+      overview: Authoritative Product Adoption, Usage, And Spend Data. Get detailed insights into the cloud infrastructure of 7 million companies.
+    positions:
+      - designation: Principal Systems Architect
+        start: May 2016
+        end: Nov 2018
+        responsibilities:
+          - Created time-series data collection & analytics; Generates events to track change on internet
+          - Scaling systems and creating devops tools to better utilize infrastructure
+          - Advanced math to transform non-scalar data from AWS Alexa into a scalar digest
+          - Monitor, log, benchmark, and automate the internet monitoring robots
+          - Build data pipelines for enterprise customers exposing the internet sliced in different ways
+
+  - company:
+      name: Bolt Threads
+      url: "https://boltthreads.com/"
+      location: San Francisco, CA
+      overview: Bolt Threads is a material solutions company. Taking nature as our inspiration, we invent and scale cutting-edge materials that put us on a path towards a more sustainable future – and that starts now.
+    positions:
+      - designation: Principal Systems Architect
+        start: Sep 2017
+        end: May 2018
+        responsibilities:
+          - Maintenance of a legacy, custom, in-house built, Lab Information Management System.
+          - Analysis of potential replacement third party LIMS systems.
+          - Interviewed candidates for Software Engineering leadership team (VP, Director, Sys Admins)
+          - Integration of Windows-based OPC DA services with LIMS via data sampling mechanisms
+          - Translate garment designs to instrumentation for a Stoll industrial knitting machine
+          - Primary JIRA administrator for all company projects
+          - Left when the in-house LIMS system was replaced with off-the-shelf software.
+
+  - company:
+      name: Invoice2Go
+      url: "https://www.invoice2go.com"
+      location: Jakarta, Indonesia
+      overview: Send professional invoices and estimates in minutes. Invoice on the spot, right when you finish the job. Spend less time on paperwork and more time doing what you love.
+    positions:
+      - designation: Principal Engineer, Automation Team Lead, Web Team Lead
+        start: Jan 2016
+        end: Feb 2017
+        responsibilities:
+          - Lead the web team in developing a revamped web app at https://web.invoice.2go.com/
+          - Laid the groundwork for new service architecture, implementation and continuous integration
+          - Designing JIRA process, workflows and screens, and integration with ZenDesk
+          - Designing and implementing git branching strategy and supporting toolchain
+          - Implementing sandboxed dev env and tiered deployed environments
+          - Design and implement feature flags allowing synchronized feature release across clients
+          - Tech Lead role in Jakarta office
+
+  - company:
+      name: Trumaker & Co
+      url: "https://www.trumaker.com"
+      location: San Francisco, CA
+      overview: Bolt Threads is a material solutions company. Taking nature as our inspiration, we invent and scale cutting-edge materials that put us on a path towards a more sustainable future – and that starts now.
+    positions:
+      - designation: Senior Engineer
+        start: Apr 2014
+        end: Mar 2016
+        responsibilities:
+          - Rebuilding architecture of entire tech stack
+          - Extracting front-end parts to ember-cli and react thin clients
+          - Building structured, authenticated, performant APIs, utilizing versioning and caching
+          - Modernizing versions of Ruby, Rails, and many critical gems
+          - Implementing backend to support launches of new product lines (blazers, ties, belts, pants, sweaters, tees, etc), fulfillment processes, factories, and shipping methods
+          - Designed and created a fully spec’d 12-state Lead CRM tool
+          - Integrated Salesforce with internal Lead CRM via my celluloid-io-pg-listener gem
+          - Built a commissioned sales attribution framework that supports point-in-time history
+          - Fixed the factory pattern and rewrote the spec suite, adding thousands of additional tests
+          - Setup new deployed environments, created Thor deployment tool for automation of the many deployment related sub-tasks
+
+  - company:
+      name: Church Pension Group Services Corporation
+      url: "https://cpg.org"
+      location: New York, NY
+      overview: Provides resources and services to sustain the operations of the Episcopal Church worldwide.
+    positions:
+      - designation: Senior Staff Architect, Services (9mos contract, extended)
+        start: Aug 2013
+        end: Oct 2014
+        responsibilities:
+          - Forensic analysis of 5 year old ruby service layer
+          - Upgrade from Ruby 1.8.7 to 2.0, then 2.1
+          - Created ruby service APIs to support many varied clients, & regression test suite
+          - Implement account lock and token expiry security measures & automated enforcement
+          - Upgrade daemon infrastructure and trading systems, improve software stack / `make` system
+          - 10x performance enhancement of internal services
+
+  - company:
+      name: Acquaintable
+      location: New York, NY
+      overview: Socially curated dating through Friends of Friends
+    positions:
+      - designation: Co-founder, Chief Technology Officer
+        start: Jan 2012
+        end: Aug 2013
+        responsibilities:
+          - Built the app, hired specialists to assist with some niche projects & made all tech decisions
+          - Advised on product and design decisions
+          - Created matching engine with Neo4j + PostgreSQL data analysis algorithms
+          - SPA, mobile first, responsive design, with intuitive, touch-enabled mobile interface
+          - Designed to provide an immediate experience to each new user
+          - Accepted into Entrepreneurs Roundtable Accelerator Winter 2013 class (ERA - NYC)
+          - Fully automated and self-correcting, no intervention required for 4 months.
+          - Successful exit via acquisition by LikeBright => Reveal (Microsoft Ventures)

@@ -1,0 +1,418 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Rails
+  filter: "rails"
+- name: Model
+  filter: "model"
+- name: View
+  filter: "view"
+- name: Controller
+  filter: "controller"
+- name: Auth
+  filter: "auth"
+- name: Math
+  filter: "math"
+- name: Bundler
+  filter: "bundler"
+- name: Rubygems
+  filter: "rubygem"
+- name: RSpec
+  filter: "rspec"
+- name: Resque
+  filter: "resque"
+- name: Email
+  filter: "email"
+- name: Logging
+  filter: "logs"
+- name: Debugging
+  filter: "debug"
+- name: React
+  filter: "react"
+- name: WIP
+  filter: "wip"
+- name: ENV
+  filter: "env"
+- name: Devops
+  filter: "devops"
+- name: Pub Sub
+  filter: "pubsub"
+- name: Shell
+  filter: "shell"
+- name: Javascript
+  filter: "javascript"
+
+# your projects
+projects:
+# 1981
+- name: oauth2
+  logo: images/projects/oauth-xx.png
+  role: Lead Maintainer
+  timeline: "Dec 2017 - Present"
+  repo: https://github.com/oauth-xx/oauth2
+  summary: Oauth 2.0 for Ruby
+  tags: ["rubygem","auth"]
+
+# 627
+- name: oauth
+  logo: images/projects/oauth-xx.png
+  role: Lead Maintainer
+  timeline: "Oct 2020 - Present"
+  repo: https://github.com/oauth-xx/oauth-ruby
+  summary: Oauth 1.0 for Ruby
+  tags: ["rubygem","auth"]
+
+# 453
+- name: flag_shih_tzu
+  role: Lead Maintainer
+  timeline: "Apr 2012 - Present"
+  repo: https://github.com/pboling/flag_shih_tzu
+  summary: Bit fields for ActiveRecord
+  tags: ["rubygem","rails","model","math"]
+
+# 413
+- name: dynamoid
+  role: Maintainer
+  timeline: "May 2016 - Present"
+  repo: https://github.com/Dynamoid/dynamoid
+  summary: Ruby ORM for Amazon's DynamoDB.
+  tags: ["rubygem","model","rails"]
+
+# 337
+- name: omniauth-identity
+  logo: images/projects/omniauth.png
+  role: Maintainer
+  timeline: "Sep 2020 - Present"
+  repo: https://rubygems.org/gems/omniauth-identity
+  summary: A simple login and password strategy for OmniAuth.
+  tags: ["rubygem","auth"]
+
+# 159
+- name: sanitize_email
+  role: Author & Maintainer
+  timeline: "Nov 2008 - Present"
+  repo: https://github.com/pboling/sanitize_email
+  summary: An Email Condom for your Ruby Server
+  tags: ["rubygem","email","rspec","rails"]
+
+# 66
+- name: gem_bench
+  role: Author & Maintainer
+  timeline: "Apr 2013 - Present"
+  repo: https://github.com/pboling/gem_bench
+  summary: Static Gemfile Analysis; A Toolkit for working with 3rd party libraries in Ruby
+  tags: ["rubygem","bundler","debug","rspec","logs"]
+
+# 6
+- name: debug_logging
+  role: Author & Maintainer
+  timeline: "Mar 2017 - Present"
+  repo: https://github.com/pboling/debug_logging
+  summary: Unobtrusive, configurable, drop-in debug logging useful when a call stack gets unruly
+  tags: ["rubygem","logs","debug"]
+
+# 2
+- name: resque-unique_in_queue
+  role: Author & Maintainer
+  timeline: "Aug 2017 - Present"
+  repo: https://github.com/pboling/resque-unique_in_queue
+  summary: Resque plugin allowing configuration of unique jobs at queue-time
+  tags: ["rubygem","resque"]
+
+# 3
+- name: resque-unique_at_runtime
+  role: Author & Maintainer
+  timeline: "Apr 2017 - Present"
+  repo: https://github.com/pboling/resque-unique_at_runtime
+  summary: A resque plugin that ensures that only one job for a given queue will be running on any worker at a given time.
+  tags: ["rubygem","resque"]
+
+# 2
+- name: resque-unique_by_arity
+  role: Author & Maintainer
+  timeline: "Apr 2017 - Present"
+  repo: https://github.com/pboling/resque-unique_by_arity
+  summary: Magic hacks which allow integration of job multiple Resque plugins providing different types of job uniqueness
+  tags: ["rubygem","resque"]
+
+# 2
+- name: anonymous_active_record
+  role: Author & Maintainer
+  timeline: "Jan 2018 - Present"
+  repo: https://github.com/pboling/anonymous_active_record
+  summary: Faux Anonymous AR Models for testing Concerns, Observers, Decorators
+  tags: ["rubygem","rspec","rails", "model"]
+
+# 1
+- name: month-serializer
+  role: Author & Maintainer
+  timeline: "Oct 2018 - Present"
+  repo: https://github.com/pboling/month-serializer
+  summary: Serialize Month objects to Integer
+  tags: ["rubygem","math"]
+
+# 2
+- name: rspec-stubbed_env
+  role: Author & Maintainer
+  timeline: "Oct 2018 - Present"
+  repo: https://github.com/pboling/rspec-stubbed_env
+  summary: Unobtrusively stub `ENV` keys and values during testing
+  tags: ["rubygem","rspec","env"]
+
+# 1
+- name: activerecord-tablefree
+  role: Author & Maintainer
+  timeline: "Nov 2017 - Present"
+  repo: https://github.com/pboling/activerecord-tablefree
+  summary: TableFree ActiveRecord w/ associations and nested attributes
+  tags: ["rubygem","rails","model"]
+
+# 14
+- name: react-rails-benchmark_renderer
+  role: Author & Maintainer
+  timeline: "Jun 2015 - Present"
+  repo: https://github.com/pboling/react-rails-benchmark_renderer
+  summary: Benchmarking instrumentation of the sort found in Rails' view rendering
+  tags: ["rubygem","react","rails","view"]
+
+# 7
+- name: each_in_batches
+  role: Author & Maintainer
+  timeline: "Nov 2008 - Present"
+  repo: https://github.com/pboling/each_in_batches
+  summary: Allows reverse batching, which means it can handle many types of destructuve blocks!
+  tags: ["rubygem","rails","model"]
+
+# 1
+- name: destination_errors
+  role: Author & Maintainer
+  timeline: "Apr 2015 - Present"
+  repo: https://github.com/pboling/destination_errors
+  summary: Mixin providing management of error surfaces within the familiar territory of ActiveModel
+  tags: ["rubygem","rails","model"]
+
+# 102
+- name: cacheable-flash
+  role: Lead Maintainer
+  timeline: "2011 - 2017"
+  repo: https://github.com/pboling/cacheable-flash
+  summary: Gets the Rails flash object working with page cacheing.
+  tags: ["rubygem","rails","view"]
+
+# 3
+- name: controller_validator
+  role: Author & Maintainer
+  timeline: "Nov 2014 - Present"
+  repo: https://github.com/pboling/controller_validator
+  summary: Simple Validations in the Controller
+  tags: ["rubygem","rails","controller"]
+
+# 1
+- name: analog-reshaper
+  role: Author & Maintainer
+  timeline: "Oct 2018 - Present"
+  repo: https://github.com/pboling/analog-reshaper
+  summary: Analog (gem) plugin allowing non-linear rescale of numbers
+  tags: ["rubygem","math","wip"]
+
+# 6
+- name: dry_views
+  role: Author & Maintainer
+  timeline: "Aug 2012 - Present"
+  repo: https://github.com/pboling/dry_views
+  summary: Keep the views dry with `content_for_with_default` and friends!
+  tags: ["rubygem","rails","view"]
+
+# 1
+- name: letter_group
+  role: Author & Maintainer
+  timeline: "Apr 2015 - Present"
+  repo: https://github.com/pboling/letter_group
+  summary: Organize data results from raw `sql` queries (as with PGresult, or Dossier) intelligently.
+  tags: ["rubygem","model"]
+
+# 28
+- name: csv_pirate
+  role: Author & Maintainer
+  timeline: "Mar 2009 - Present"
+  repo: https://github.com/pboling/csv_pirate
+  summary: 100 Pirates agree creating CSVs is boring. Pirates prefer lazy. Pirates use CsvPirate.
+  tags: ["rubygem","model"]
+
+# 2
+- name: rails_env_local
+  role: Author & Maintainer
+  timeline: "Mar 2016 - Present"
+  repo: https://github.com/pboling/rails_env_local
+  summary: Where the rails environment for local development can be named anything it desires!
+  tags: ["rubygem","rails","env"]
+
+# 4
+- name: status_tag
+  role: Author & Maintainer
+  timeline: "Aug 2015 - Present"
+  repo: https://github.com/pboling/status_tag
+  summary: Provides a method signature that can be splatted to Rails' `content_tag_for` to create labels.
+  tags: ["rubygem","rails","view"]
+
+# 45
+- name: capistrano_mailer
+  role: Author & Maintainer
+  timeline: "Aug 2008 - Present"
+  repo: https://github.com/pboling/capistrano_mailer
+  summary: A Gem For Capistrano Deployment Email Notification
+  tags: ["rubygem","rails","devops","email"]
+
+# 1
+- name: strict_states
+  role: Author & Maintainer
+  timeline: "Nov 2015 - Present"
+  repo: https://github.com/pboling/strict_states
+  summary: State machine typos are the worst. Never again! Compatible with most state machines.
+  tags: ["rubygem","rails","model"]
+
+# 1
+- name: include_with_respect
+  role: Author & Maintainer
+  timeline: "Dec 2019 - Present"
+  repo: https://github.com/pboling/include_with_respect
+  summary: Find out if your `include` and `extend` hooks are misbehaving!
+  tags: ["rubygem","rails","debug"]
+
+# 1
+- name: require_bench
+  role: Author & Maintainer
+  timeline: "Sep 2018 - Present"
+  repo: https://github.com/pboling/require_bench
+  summary: Benchmark Ruby's `require` for Debugging Glory
+  tags: ["rubygem","rails","debug","logs"]
+
+# 2
+- name: rspec-block_is_expected
+  role: Author & Maintainer
+  timeline: "Oct 2018 - Present"
+  repo: https://github.com/pboling/rspec-block_is_expected
+  summary: Simplify testing of blocks in RSpec
+  tags: ["rubygem","rspec"]
+
+# 6
+- name: celluloid-io-pg-listener
+  role: Author & Maintainer
+  timeline: "Oct 2015 - Present"
+  repo: https://github.com/pboling/celluloid-io-pg-listener
+  summary: Allows you to `LISTEN` for `NOTIFY` events from PostgreSQL and asynchronously handle the payload
+  tags: ["rubygem","pubsub","model"]
+
+# 5
+- name: rspec-pending_for
+  role: Author & Maintainer
+  timeline: "Oct 2015 - Present"
+  repo: https://github.com/pboling/rspec-pending_for
+  summary: Mark specs pending or skipped for specific Ruby engine / version combinations
+  tags: ["rubygem","rspec"]
+
+# 4
+- name: activerecord-transactionable
+  role: Author & Maintainer
+  timeline: "Mar 2016 - Present"
+  repo: https://github.com/pboling/activerecord-transactionable
+  summary: Properly Implement ActiveRecord Transactions
+  tags: ["rubygem","rails","model"]
+
+# 2
+- name: silent_stream
+  role: Author & Maintainer
+  timeline: "Sep 2018 - Present"
+  repo: https://github.com/pboling/silent_stream
+  summary: ActiveSupport Stream Silencing (`STDOUT` & `STDERR`) - Without ActiveSupport
+  tags: ["rubygem","debug","rspec","logs"]
+
+# 7
+- name: rack-toolbar
+  role: Author & Maintainer
+  timeline: "Apr 2015 - Present"
+  repo: https://github.com/pboling/rack-toolbar
+  summary: Provides an easy way to create Rack Middleware that injects things into the response body
+  tags: ["rubygem","debug","rack"]
+
+# 3
+- name: dotfiles
+  role: Author & Maintainer
+  timeline: "Apr 2012 - Present"
+  repo: https://github.com/pboling/dotfiles
+  summary: My personal dotfiles for Bash and Zsh
+  tags: ["shell","env"]
+
+# 4
+- name: bsfl
+  role: Maintainer
+  timeline: "Nov 2013 - Present"
+  repo: https://github.com/pboling/bsfl
+  summary: Bash Shell Function Library (FORK)
+  tags: ["shell","env","devops"]
+
+# 1
+- name: bash_step
+  role: Author & Maintainer
+  timeline: "Nov 2013 - Present"
+  repo: https://github.com/pboling/bash_step
+  summary: Bash Step Function Library
+  tags: ["shell","env","devops"]
+
+# 159
+- name: rack-insight
+  role: Author & Maintainer
+  timeline: "Aug 2012 - Present"
+  repo: https://github.com/pboling/rack-insight
+  summary: Debugging toolbar for Rack applications implemented as middleware
+  tags: ["rubygem","rack","debug"]
+
+# 66
+- name: super_exception_notifier
+  role: Author & Maintainer
+  timeline: "Aug 2012 - Present"
+  repo: https://github.com/pboling/exception_notification
+  summary: Super Exception Notifier Gem/Plugin for Rails
+  tags: ["rubygem","debug","email","log"]
+
+# 2
+- name: jquery.environment
+  role: Author & Maintainer
+  timeline: "Nov 2012 - Present"
+  repo: https://github.com/pboling/jquery.environment
+  summary: jQuery plugin that is analogous to the config/environments files in Rails.
+  tags: ["javascript","env"]
+
+# 1
+- name: jquery.ellipsis
+  role: Author & Maintainer
+  timeline: "Aug 2012 - Present"
+  repo: https://github.com/pboling/jquery.ellipsis
+  summary: Yet Another jQuery Ellipsis Plugin... only better.
+  tags: ["javascript"]
+
+# 1
+- name: js-cookie-calibre
+  role: Author & Maintainer
+  timeline: "Jul 2015 - Present"
+  repo: https://github.com/pboling/js-cookie-calibre
+  summary: A simple, lightweight JavaScript API for handling and namespacing configuration cookies
+  tags: ["javascript"]
+
+#- name: A sample academic paper
+#  role: Team Lead
+#  timeline: "Jan 2017 - Nov 2017"
+#  url: "https://www.example.com"
+#  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
+#  tags: ["academic","iot"]
