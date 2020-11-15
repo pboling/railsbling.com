@@ -315,7 +315,7 @@ flag_shih_tzu – Bitfields for ActiveRecord: Maintainer since Nov 2012
 https://github.com/pboling/flag_shih_tzu
 
 
-sanitize_email –         Tools for testing email; Safety belt for using production data: Author Oct 2008
+sanitize_email – Tools for testing email; Safety belt for using production data: Author Oct 2008
 https://github.com/pboling/sanitize_email
 
 

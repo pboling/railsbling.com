@@ -39,7 +39,7 @@ markup:
     ordered: false
 
 # Enable Google Analytics
-googleAnalytics: UA-37606822-1
+GoogleAnalytics: UA-37606822-1
 
 # Enable Disqus forum
 disqusShortname: railsbling
@@ -49,6 +49,8 @@ enableEmoji: true
 
 # Custom parameters
 params:
+  GitRepo: https://github.com/pboling/railsbling.com
+
   # background image of the landing page
   background: "images/background-blurry.jpg"
 

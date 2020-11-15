@@ -148,6 +148,7 @@ experiences:
 
   - company:
       name: Acquaintable
+      url: https://www.crunchbase.com/organization/acquaintable
       location: New York, NY
       overview: Socially curated dating through Friends of Friends
     positions:
@@ -162,4 +163,28 @@ experiences:
           - Designed to provide an immediate experience to each new user
           - Accepted into Entrepreneurs Roundtable Accelerator Winter 2013 class (ERA - NYC)
           - Fully automated and self-correcting, no intervention required for 4 months.
-          - Successful exit via acquisition by LikeBright => Reveal (Microsoft Ventures)
+          - Successful exit via acquisition by Reveal (Microsoft Ventures backed)
+
+  - company:
+      name: Bloomberg Black (now Circle Black)
+      url: https://www.circleblack.com/
+      location: New York, NY
+      overview: Personal Wealth Management
+    positions:
+      - designation: Senior Rubyist & Lead Developer
+        start: Aug 2010
+        end: Nov 2012
+        responsibilities:
+          - 1st Employee, and lead developer of Bloomberg Black, a personal wealth management startup
+          - Interviewed and built a team of 15 engineers
+          - Built internal tools, e.g. VCR extensions that automated management & recording of soap interactions outside test env
+          - Spec suite with thousands of tests to enforce style guide, validate ruby namespace against collisions
+          - SOAP services interface, generators for SOAP models and test fixtures; created version dependency resolution between Ruby layer and Java services
+          - Rack middleware for fast custom logging => Splunk, 10ms per request improvement
+          - CMS presentation code for the dynamic content on the site with all content available via static route or ajax widgets
+          - Designed project structure - ajax widgets built out of reusable RequireJS modules, cells for componentized features, presenters for single instance variable, and logic free views
+          - Spec infrastructure - created custom rspec matchers, acceptance tests, JS unit tests
+          - Javascript - flyout menus, internally tabbed ajax pages, scrollspy, breadcrumbs
+          - Javascript - Built the CMS backend for the content entry in the 100% javascript Rapid IDE
+          - Maintained platform interoperability – Windows & RedHat & MacOS
+

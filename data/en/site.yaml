@@ -24,3 +24,12 @@ customMenus:
 footer:
   - name: "My Old Blog"
     url: "http://galtzo.blogspot.com"
+
+Menus:
+  sidebar:
+    - name: "RUBY"
+      url: "/tags/ruby"
+    - name: "RESQUE"
+      url: "/tags/resque"
+    - name: "RSPEC"
+      url: "/tags/rspec"
