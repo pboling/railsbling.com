@@ -20,8 +20,8 @@ roles:
       name: Riviera Partners
       url: "https://rivierapartners.com/"
 
-# your resume. this file path should be relative to you "static" directory
-resume: "cv/Peter_Boling_Resume_2020.02.06.pdf"
+# your resume. this file path should be relative to your "static" directory
+resume: "/cv"
 
 # a summary about you
 summary: 'For over 15 years I have been building web-based applications, primarily with Ruby. I am passionate about building FOSS tools to help humanity accomplish more good things with fewer resources.'
@@ -29,77 +29,81 @@ summary: 'For over 15 years I have been building web-based applications, primari
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-- name: Email
-  icon: "fas fa-envelope"
-  handle: "peter.boling"
-  domain: "gmail.com"
+  - name: Email
+    icon: "fas fa-envelope"
+    handle: "peter.boling"
+    domain: "gmail.com"
 
-- name: Github
-  icon: "fab fa-github"
-  url: "https://github.com/pboling"
+  - name: Phone
+    icon: "fas fa-phone"
+    number: "+1-925-252-5351"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "https://stackoverflow.com/users/213191/peter-h-boling?tab=profile"
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://github.com/pboling"
 
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/peterboling"
+  - name: Stackoverflow
+    icon: "fab fa-stack-overflow"
+    url: "https://stackoverflow.com/users/213191/peter-h-boling?tab=profile"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "https://www.twitter.com/galtzo"
+  - name: LinkedIn
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/peterboling"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "https://www.facebook.com/peter.boling"
+  - name: Twitter
+    icon: "fab fa-twitter"
+    url: "https://www.twitter.com/galtzo"
 
-- name: HackerRank
-  icon: "fas fa-terminal"
-  url: "https://www.hackerrank.com/peter_boling"
+  - name: Facebook
+    icon: "fab fa-facebook"
+    url: "https://www.facebook.com/peter.boling"
 
-- name: Github Awards
-  icon: "far fa-keyboard"
-  url: "http://github-awards.com/users/search?login=pboling"
+  - name: HackerRank
+    icon: "fas fa-terminal"
+    url: "https://www.hackerrank.com/peter_boling"
 
-- name: About Me
-  icon: "fas fa-user-astronaut"
-  url: "https://about.me/peter.boling"
+  - name: Github Awards
+    icon: "far fa-keyboard"
+    url: "http://github-awards.com/users/search?login=pboling"
 
-- name: Crunchbase
-  icon: "fas fa-money-bill"
-  url: "https://www.crunchbase.com/person/peter-boling#/entity"
+  - name: About Me
+    icon: "fas fa-user-astronaut"
+    url: "https://about.me/peter.boling"
 
-- name: Angellist
-  icon: "fab fa-angellist"
-  url: "https://angel.co/peter-boling"
+  - name: Crunchbase
+    icon: "fas fa-money-bill"
+    url: "https://www.crunchbase.com/person/peter-boling#/entity"
 
-- name: RubyGems
-  icon: "fas fa-diamond"
-  url: "https://rubygems.org/profiles/pboling"
+  - name: Angellist
+    icon: "fab fa-angellist"
+    url: "https://angel.co/peter-boling"
+
+  - name: RubyGems
+    icon: "fas fa-diamond"
+    url: "https://rubygems.org/profiles/pboling"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Leadership
-  percentage: 95
-  color: blue
-- name: Team Work
-  percentage: 90
-  color: yellow
-- name: Communication
-  percentage: 85
-  color: pink
-- name: Hard Working
-  percentage: 95
-  color: green
-- name: Adaptability
-  percentage: 85
-  color: sky
-- name: Problem Solving
-  percentage: 100
-  color: orange
+  - name: Leadership
+    percentage: 95
+    color: blue
+  - name: Team Work
+    percentage: 90
+    color: yellow
+  - name: Communication
+    percentage: 85
+    color: pink
+  - name: Hard Working
+    percentage: 95
+    color: green
+  - name: Adaptability
+    percentage: 85
+    color: sky
+  - name: Problem Solving
+    percentage: 100
+    color: orange
 # you can also provide color code instead of pre-defined color name
 # - name: Example 1
 #   percentage: 75

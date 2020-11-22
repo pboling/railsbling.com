@@ -31,7 +31,9 @@
           {{ range .socialLinks }}
           <li>
             {{ if eq .name "Email" }}
-              <a target="_blank" href="javascript:window.location.href = 'mailto:' + ['{{ .handle }}','{{ .domain }}'].join('@')"><i class="{{ .icon }}"></i></a>
+              <a target="_blank" onclick="javascript:window.location.href = 'mailto:' + ['{{ .handle }}','{{ .domain }}'].join('@')"><i class="{{ .icon }}"></i></a>
+            {{ else if eq .name "Phone" }}
+              <a target="_blank" onclick="javascript:window.location.href = 'tel:' + '{{ .number }}'.replace(/[^0-9]/g, '')"><i class="{{ .icon }}"></i></a>
             {{ else }}
               <a href="{{ .url }}" target="_blank"><i class="{{ .icon }}"></i></a>
             {{ end }}

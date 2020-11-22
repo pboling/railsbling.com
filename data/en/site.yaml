@@ -1,35 +1,30 @@
-# Copyright Notice
-copyright: © 2020 All Rights Reserved
-
 # Meta description for your site.  This will help the search engines to find your site.
 description: Yet Another Paradigm by Peter Boling
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
 customMenus:
-  - name: "FOSS"
-    url: "/foss"
-  - name: "RUBY"
-    url: "/tags/ruby"
-  - name: "RSPEC"
-    url: "/tags/rspec"
   - name: "CV"
     url: "/cv"
-  - name: "JAVASCRIPT"
+  - name: "FOSS"
+    url: "/foss"
+  - name: "Ruby"
+    url: "/tags/ruby"
+  - name: "JavaScript"
     url: "/javascript"
-  - name: "BASH"
+  - name: "Bash"
     url: "/bash"
-  - name: "CONTACT"
+  - name: "Contact"
     url: "/contact"
-footer:
-  - name: "My Old Blog"
-    url: "http://galtzo.blogspot.com"
 
 Menus:
   sidebar:
-    - name: "RUBY"
+    - name: "Ruby"
       url: "/tags/ruby"
-    - name: "RESQUE"
+    - name: "Resque"
       url: "/tags/resque"
-    - name: "RSPEC"
+    - name: "RSpec"
       url: "/tags/rspec"
+  footer:
+    - name: "My Old Blog"
+      url: "http://galtzo.blogspot.com"

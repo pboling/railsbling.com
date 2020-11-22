@@ -6,15 +6,19 @@ nickname: "galtzo"
 greeting: "Hi, I am"
 image: "images/avatar.png"
 
-# give your some contact information. they will be used in the footer
+# give your contact information. they will be used in the footer
 contactInfo:
-  email: "peter.boling@gmail.com"
+  email:
+    handle: "peter.boling"
+    domain: "gmail.com"
   phone: "+1-925-252-5351"
 
 # some summary about what you do
 summary:
   - I am a computer programmer
-  - I am a father
+  - I build web applications
+  - I am a father, son and brother
   - I work on free and open-source projects
-  - I am a husband
+  - I am a husband, uncle, and evolved fish
   - I am a progressive
+  - I study everything
