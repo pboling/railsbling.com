@@ -93,7 +93,7 @@ Then you need to initialize Dynamoid config to get it going. Put code similar to
   require 'dynamoid'
   Dynamoid.configure do |config|
     config.namespace = 'dynamoid_app_development' # To namespace tables created by Dynamoid from other tables you might have. Set to nil to avoid namespacing.
-    config.endpoint = 'http://localhost:3000' # [Optional]. If provided, it communicates with the DB listening at the endpoint. This is useful for testing with [Amazon Local DB] (http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Tools.DynamoDBLocal.html).
+    config.endpoint = 'http://localhost:3000' # [Optional]. If provided, it communicates with the DB listening at the endpoint. This is useful for testing with [Amazon Local DB] (https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Tools.DynamoDBLocal.html).
   end
 ```
 

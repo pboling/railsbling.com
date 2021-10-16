@@ -1,5 +1,4 @@
-baseURL: http://railsbling.com
-languageCode: en-us
+baseURL: https://railsbling.com
 title: "Rails Bling"
 theme: "toha"
 
@@ -19,7 +18,7 @@ languages:
     languageName: Indonesian
     weight: 4
 
-languageCode: "en"
+languageCode: "en-us"
 languageName: "English"
 # Force a language - useful in development, and before other language translations are complete.
 defaultContentLanguage: "en"
@@ -88,7 +87,7 @@ params:
   DateForm: "Mon, Jan 2, 2006"
   GoogleAnalyticsUserID: "UA-37606822-1"
   gaid: "UA-37606822-1"
-  BaseURL: "http://www.railsbling.com"
+  BaseURL: "https://www.railsbling.com"
   Facebook: "peter.boling"
   Twitter: "galtzo"
   Github: "pboling"

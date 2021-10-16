@@ -3,7 +3,7 @@
     {{ partial "sidebarheader.html" . }}
 
     {{ if .Site.Params.sidebarphoto}}
-    <img src="{{.Site.Params.sidebarphoto}}" class="sidebarphoto" width="260px">
+    <img alt="Small Profile Pic of Peter on Sidebar" src="{{.Site.Params.sidebarphoto}}" class="sidebarphoto" width="260px">
     {{ end }}
 
     {{ if .Site.Params.sidebartitle }}<h1 class="brand-title">{{ .Site.Params.sidebartitle }}</h1>{{ end }}

@@ -100,7 +100,7 @@ SITE_WWW=$HOME/railsbling.com
 git clone $SITE_REPO $SITE_TMP
 git clone $THEME_REPO $THEME_TMP
 cd $SITE_TMP
-$HOME/root/usr/bin/hugo --theme="redlounge" -s $SITE_TMP -d $SITE_WWW -b "http://www.railsbling.com"
+$HOME/root/usr/bin/hugo --theme="redlounge" -s $SITE_TMP -d $SITE_WWW -b "https://www.railsbling.com"
 rm -Rf $SITE_TMP
 exit
 ```

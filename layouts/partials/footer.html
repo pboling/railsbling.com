@@ -61,7 +61,7 @@
         <form>
           <div class="form-group">
             <label id="emailHelp" for="exampleInputEmail1" class="form-text text-muted">{{ i18n "newsletter_warning" }}</label>
-            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="{{ i18n 'newsletter_input_placeholder' }}"/>
+            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="{{ i18n `newsletter_input_placeholder` }}"/>
           </div>
           <button type="submit" class="btn btn-info">{{ i18n "submit" }}</button>
         </form>
@@ -74,7 +74,7 @@
     <div class="row text-left">
       <div class="col-md-4">
         <a id="theme" href="https://github.com/hossainemruz/toha" target="#">
-          <img alt="Toha Theme Logo" src="{{ '/assets/images/inverted-logo.png' | relURL }}"/>
+          <img alt="Toha Theme Logo" src="{{ `/assets/images/inverted-logo.png` | relURL }}"/>
           Toha
         </a>
       </div>
@@ -90,7 +90,7 @@
       </div>
       <div class="col-md-3 text-right">
         <a id="hugo" href="https://gohugo.io/">{{ i18n "hugoAttributionText" }}
-        <img alt="Hugo Logo" height="18" src="{{ '/assets/images/hugo-logo-wide.svg' | relURL }}"/>
+        <img alt="Hugo Logo" height="18" src="{{ `/assets/images/hugo-logo-wide.svg` | relURL }}"/>
         </a>
       </div>
     </div>

@@ -3,7 +3,7 @@
         <div class="card">
             <div class="card-head d-flex">
                 {{ if .icon }}
-                <a href="{{ .url }}" target="_blank"><i class="{{ .icon }}" alt="{{ .name }}">&nbsp;</i></a>
+                <a href="{{ .url }}" target="_blank"><i class="{{ .icon }}" aria-label="{{ .name }}">&nbsp;</i></a>
                 {{ end }}
                 <h5 class="card-title">{{ .name }}</h5>
             </div>
