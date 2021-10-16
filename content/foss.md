@@ -38,7 +38,7 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
   <a href="/tags/flag_shih_tzu">
     <div class="name"><i class="fas fa-toggle-on"></i> flag_shih_tzu&rarr;</div>
   </a>
-  <div class="description">Bit Fields for Active Record, (originally by <a href=""https://github.com/xing">XING Developers</a>)</div>
+  <div class="description">Bit Fields for Active Record, (originally by <a href="https://github.com/xing">XING Developers</a>)</div>
 </div>
 
 [![Stars](https://img.shields.io/github/stars/pboling/flag_shih_tzu.svg?style=social)](https://github.com/pboling/flag_shih_tzu/stargazers)
