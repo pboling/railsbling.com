@@ -41,12 +41,12 @@
           {{ range $key,$value:= $author.contactInfo }}
             {{ if eq $key "email" }}
               {{ if $value.handle }}
-              <li><span>{{ title $key }}: </span> <span><a target="_blank" onclick="javascript:window.location.href = 'mailto:' + ['{{ $value.handle }}','{{ $value.domain }}'].join('@')">{{ $value.handle }} cinnamon roll symbol {{ $value.domain }}</a></span></li>
+              <li><span>{{ title $key }}: </span> <span><a target="_blank" onclick="window.location.href = 'mailto:' + ['{{ $value.handle }}','{{ $value.domain }}'].join('@')">{{ $value.handle }} cinnamon roll symbol {{ $value.domain }}</a></span></li>
               {{ else }}
               <li><span>{{ title $key }}: </span> <span>{{ $value }}</span></li>
               {{ end }}
             {{ else if eq $key "phone" }}
-              <li><span>{{ title $key }}: </span> <span><a target="_blank" onclick="javascript:window.location.href = 'tel:' + '{{ $value }}'.replace(/[^0-9]/g, '')">{{ $value }}</a></span></li>
+              <li><span>{{ title $key }}: </span> <span><a target="_blank" onclick="window.location.href = 'tel:' + '{{ $value }}'.replace(/[^0-9]/g, '')">{{ $value }}</a></span></li>
             {{ else }}
               <li><span>{{ title $key }}: </span> <span>{{ $value }}</span></li>
             {{ end }}
@@ -60,16 +60,8 @@
         <p>{{ i18n "newsletter_text" }}</p>
         <form>
           <div class="form-group">
-            <input
-              type="email"
-              class="form-control"
-              id="exampleInputEmail1"
-              aria-describedby="emailHelp"
-              placeholder="{{ i18n "newsletter_input_placeholder" }}"
-            />
-            <small id="emailHelp" class="form-text text-muted"
-              >{{ i18n "newsletter_warning" }}</small
-            >
+            <label id="emailHelp" for="exampleInputEmail1" class="form-text text-muted">{{ i18n "newsletter_warning" }}</label>
+            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="{{ i18n 'newsletter_input_placeholder' }}"/>
           </div>
           <button type="submit" class="btn btn-info">{{ i18n "submit" }}</button>
         </form>
@@ -82,7 +74,7 @@
     <div class="row text-left">
       <div class="col-md-4">
         <a id="theme" href="https://github.com/hossainemruz/toha" target="#">
-          <img src="{{ "/assets/images/inverted-logo.png" | relURL }}">
+          <img alt="Toha Theme Logo" src="{{ '/assets/images/inverted-logo.png' | relURL }}"/>
           Toha
         </a>
       </div>
@@ -98,11 +90,7 @@
       </div>
       <div class="col-md-3 text-right">
         <a id="hugo" href="https://gohugo.io/">{{ i18n "hugoAttributionText" }}
-        <img
-          src="{{ "/assets/images/hugo-logo-wide.svg" | relURL }}"
-          alt="Hugo Logo"
-          height="18"
-        />
+        <img alt="Hugo Logo" height="18" src="{{ '/assets/images/hugo-logo-wide.svg' | relURL }}"/>
         </a>
       </div>
     </div>
