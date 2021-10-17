@@ -17,19 +17,41 @@ experiences:
       # company overview
       overview: Engineering, Product, & Design Recruiting. Minimized Hiring Risk. Predictable Success.
     positions:
-      - designation: Architect & Tech Lead
+      - designation: Director of Engineering
         start: Feb 2020
         # don't provide end date if you are currently working there. It will be replaced by "Present"
         # end: Dec 2020
         # give some points about what was your responsibilities at the company.
         responsibilities:
-          - Design migration paths toward increased data security, lower systems costs, and fewer wasted resources
-          - Architect automated systems; automate monitoring
-          - Lead backend team
+          - Lead Engineering organization of 12, and directly manage backend team of 5
+          - Design migration paths toward increased data security, lower systems costs, fewer wasted resources
+          - My team leverages CQRS+ES (event sourcing), and GitOps for infrastructure-as-code, automation, monitoring, APIs, services, and data processing
+          - Maintain the legacy Grape/Rails app, and work on the Hasura Read Model, KNative Eventing, GraphQL APIs, Data Models, Ingestors, Denoramlizers (Projections), and Command APIs, in the new NodeJS CQRS+ES distributed system
+          - Event Storming to determine what we need to build; maps perfectly to CQRS+ES, and abides the principles of Domain Driven Design
+
+  - company:
+      name: National Progressive Party
+      url: "https://nationalprogressiveparty.org/"
+      location:
+      # company overview
+      overview: Build an equitable society without the corrupting influence of corporate money in politics.
+    positions:
+      - designation: Executive Director
+        start: Jun 2020
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Appointed by Executive Board of NPP
+          - Manage the volunteer efforts of the organization.  Determine or build the technology, tools, and platforms used by volunteers and members
+          - Plan backup and recovery protocols for technical services.  Develop membership and volunteer policies and procedures
+          - Helped draft NPP's bylaws
+          - Advised on organizational development, drafting of bylaws, of the Washington Progressive Party
+          - First role was as a volunteer Deputy Director of Outreach (March, 2020 - a volunteer position)
 
   - company:
       name: Karuna Health
-      url: "https://meetkaruna.com/"
+      url: "https://www.facebook.com/meetkarunahealth/"
       location: San Francisco, CA
       overview: Karuna connects patients with healthcare guides through streamlined communication and automation.
     positions:
@@ -37,10 +59,10 @@ experiences:
         start: Nov 2018
         end: May 2020
         responsibilities:
-          - Assist with hiring
-          - Write tests and specs
-          - Develop an email gateway and integrate as communication channel
-          - Build automated tools that correct many forms of data corruption
+          - Advising on technology and hiring decisions at Karuna Health.
+          - Built the email gateway, much of the notification services, and helped plan the architecture of the system.
+          - Created automated tools that correct many forms of data corruption.
+          - Left when acquired by Commure, Inc
 
   - company:
       name: Group 1001
@@ -187,4 +209,3 @@ experiences:
           - Javascript - flyout menus, internally tabbed ajax pages, scrollspy, breadcrumbs
           - Javascript - Built the CMS backend for the content entry in the 100% javascript Rapid IDE
           - Maintained platform interoperability – Windows & RedHat & MacOS
-
