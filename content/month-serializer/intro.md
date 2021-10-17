@@ -164,7 +164,6 @@ or in a `gemspec`
 [railsbling]: http://www.railsbling.com
 [peterboling]: https://about.me/peter.boling
 [refugees]: https://www.crowdrise.com/helprefugeeswithhopefortomorrowliberia/fundraiser/peterboling
-[gplus]: https://plus.google.com/+PeterBoling/posts
 [topcoder]: https://www.topcoder.com/members/pboling/
 [angellist]: https://angel.co/peter-boling
 [coderwall]: http://coderwall.com/pboling
