@@ -1,63 +1,97 @@
 ﻿PETER H. BOLING
-San Francisco Bay Area                                homepage:         http://railsbling.com
-(765) 407-3138                                        email:                 peter.boling@gmail.com
+Remote Only - United States                                                   homepage: http://railsbling.com
+(925) 252-5351                                                                email: peter.boling@gmail.com
 ________________
-Solution Architect, Automation Evangelist, Ruby Expert and Certified Barista
+Director, Architect, Evangelist, Ruby Expert and Certified Barista
 ________________
-Experienced system architect, team leader, mentor, rubyist, and full stack web application programmer since 2004; previously linux system administrator.
+Director, architect, evangelist, team leader, mentor, rubyist, and builder of web applications great and small, since 2004; system administrator since 1997. Passionate about efficiency, discovering new best practices, and process improvement.
 
 
-Author and maintainer of many popular open source libraries.
+Excel at data analysis, task automation, testing, style guides, best practices, API design, benchmarking, and Domain Driven Design. While Ruby is my core competency, I've done extensive javascript development, primarily between 2010 and 2016. Familiar with NodeJS, Stimulus, React, Angular, Ember, Backbone, and now I <3 Svelte.
 
 
-I excel at data analysis, task automation, testing, style guides, best practices, API design, benchmarking, and Domain Driven Design.
+Led PHP-to-Rails migrations @ aSmallWorld (2008-9) and BibleGateway (2009-10).
 
 
-Led major PHP to Rails conversions @ aSmallWorld (2008/9) and BibleGateway (2010).
+Solutions for finance, insurance, healthcare, social networking, local and federal government, NGOs, experimental research, B2B, fashion, gaming, publishing, recruiting, dating, advertising, food service and e-commerce sectors. Specialize in migrating legacy systems to modern architectures.
 
 
-Created solutions for finance, insurance, healthcare, social networking, government, information technology, B2B, fashion, gaming, publishing, and e-commerce sectors.
+FLOSS Leader and Advocate:
+• http://github.com/pboling
+• http://rubygems.org/profiles/pboling
+
+Polyglot: English, Spanish, and Portuguese; learning Bahasa Indonesia.
 
 
-Dedicated to moving science forward and improving the condition of life generally by automation and process improvement.
+Specialties: Agile Web Development, Deployment, Optimization, Refactoring, BDD, DDD, Testing, Training
+
+
+Dedicated to improving the condition of human life by automation.
 
 
 ________________
-Tech Leadership & Management
+Leadership & Management
 ________________
 
 
-
-
-Technical Advisor, at Karuna Health; Architecture, mentoring, planning;  2018 - present
-Project Lead, oauth2 ruby gem; 2017 - present
-Web Team Lead, at Invoice2go; I managed six developers, and 1 QA Engineer; 2016 - 2017
-Automation Team Lead, at Invoice2go; I managed one developer, and interfaced with managers of all other teams; 2016 - 2017
-Project Lead, dynamoid ruby gem; 2016 - present
-CTO of Acquaintable, and co-founder; I managed a team of five including designers, frontend, and backend engineers; Acquired, 2012 - 2013
-Project Lead, flag_shih_tzu ruby gem; 2012 - present
-First Employee & Lead Engineer at BloombergBlack;  Interviewed, hired, then mentored team of fifteen engineers; 2010 to 2012
-Team Lead at Sagebit; Managed and mentored five recent graduate programmers; 2008-2009
+Director of Engineering, Riviera Partners; 12 engineers, 5 direct reports; 2021 - present
+Executive Director, National Progressive Party; manage all volunteer efforts, policy and procedure, helped launch the Washington Progressive Party; 2020 - present
+Researcher and Co-founder, Word Tree Foundation; non-profit researching ways to scientifically analyze, compare, and derive meaningful data from literary works; first Big Data analysis of its kind; 2013 - present
+Deputy Director of Outreach, National Progressive Party; established relationships with other organizations, went on podcasts, grew social media presence 10x in three months; 2020
+CTO and Co-founder, Acquaintable; disruptive start-up in online dating; Managed team of 5, including designers, frontend, and backend engineers; 2012 - 2013 (Acquired)
+Technical Advisor, Karuna Health; Architecture, mentoring, planning;  2018 - 2020 (Acquired)
+First Employee & Lead Engineer, BloombergBlack, personal wealth management tool for Bloomberg LP; Interviewed, hired, mentored team of 15 engineers; 2010 to 2012
+Web Team Lead, Invoice2go; Managed 6 developers, and 1 QA Engineer; 2016 - 2017
+Automation Team Lead, Invoice2go; Managed 1 developer, coordinated horizontally; 2016 - 2017
+Team Lead, Sagebit; Mentored 5 recent graduate programmers; 2008-2009
+FLOSS Project Lead, omniauth-identity ruby gem; 2020 - present
+FLOSS Project Lead, oauth2 ruby gem; 2017 - present
+FLOSS Project Lead, dynamoid ruby gem; 2016 - present
+FLOSS Project Lead, flag_shih_tzu ruby gem; 2012 - present, and many more.
 
 
 ________________
 Skills
 ________________
-App:                 Ruby, Rails, RSpec, React, ES2016, Cypress, Webpacker, JSONapi, Protobuf
-Database:        PostgreSQL, Dynamo, Neo4j, ES, Mongo, Redis, MySQL, Oracle, Memcached
+App:                 Ruby, Rails, RSpec, Svelte, ES2016, Cypress, GraphQL, JSONapi, Protobuf
+Database:        PostgreSQL, Dynamo, Neo4j, ES, Mongo, Redis, MySQL, Oracle, Maria
 Servers:        Puma, nginx, unicorn, passenger, mongrel, lighttpd, mod_ruby
 System:                Bash, monitoring, scheduling, backup, security, debian packaging
-Project:                Jira, Jenkins, Github, Pivotal, and Bitbucket Administration
+Project:                Jira, JX, CircleCI, TravisCI, TeamCity, Github, Pivotal, Bitbucket
 ________________
-Recent projects
+Recent Roles
 ________________
+
+
+Director of Engineering
+Stack - Rails 5.2, Ruby 2.5=>2.6=>2.7, RSpec, PostgreSQL, SQS, S3, ES, Redis, Memcached, Sidekiq, Kubernetes, Hasura, SchemaHero, GraphQL, CQRS+ES, Svelte, JIRA, Github
+Riviera Partners                                                February 2020 - present
+https://rivierapartners.com
+* In addition to being director of engineering, I lead the backend team. We build tools that support Riviera's business. My team focuses on infrastructure as code, APIs, services, and data processing
+* We are leveraging CQRS+ES (event sourcing), and GitOps. I maintain the legacy Grape/Rails app, and work on the Hasura Read Model, KNative Eventing, GraphQL APIs, Data Models, Ingestors, Denoramlizers (Projections), and Command APIs, in the new NodeJS CQRS+ES distributed system
+* We use Event Storming to determine what we need to build because it maps perfectly to CQRS+ES, and abides the principles of Domain Driven Design
+
+
+Executive Director
+Stack - PHP 7.4, WordPress, CiviCRM, Discord, Telegram, Facebook, Twitter, Instagram, 
+National Progressive Party                                        June 2020 - present
+https://nationalprogressiveparty.org
+* Appointed by Executive Board of NPP
+* Manage the volunteer efforts of the organization.  Determine or build the technology, tools, and platforms used by volunteers and members
+* Plan backup and recovery protocols for technical services.  Develop membership and volunteer policies and procedures
+* Helped draft NPP's bylaws.
+* Advised on organizational development, drafting of bylaws, of the Washington Progressive Party.
+* First role was as a volunteer Deputy Director of Outreach (March, 2020 - a volunteer position)
 
 
 Technical Advisor
 Stack - Rails 5.2, Ruby 2.5=>2.6, RSpec, PostgreSQL, SQS, Protobuf, S3, ES, Redis, Memcached, Sidekiq, Aptible, Github
-Karuna Health                                                        November 2018 - Present
-https://www.meetkaruna.com/
-* Advising on technical, architectural, and hiring issues
+Karuna Health                                                        November 2018 - April 2020
+https://www.facebook.com/meetkarunahealth/
+* Advising on technology and hiring decisions at Karuna Health
+* Built the email gateway, much of the notification services, and helped plan the architecture of the system
+* Created automated tools that correct many forms of data corruption
+* Left when acquired by Commure, Inc
 
 
 Solution Architect
@@ -71,7 +105,7 @@ https://www.mindbodyonline.com/
 
 Senior Staff Architect (6 month contract, extended to 12 months)
 Stack - Rails 5.2, Ruby 2.4=>2.6, React v16, RSpec, PostgreSQL, S3, ES, Redis, Memcached, Sidekiq, Github
-Gainbridge.life, Relay Rewards, Delaware Life, Group1001      November 2018 - November 2019
+Gainbridge.life, Relay Rewards, Delaware Life, Group1001  November 2018 - November 2019
 https://gainbridge.life, https://www.group1001.com
 * Develop Group1001 corporate homepage (Rails & Contentful) https://www.group1001.com
 * Design and implement all analytics solutions and integrations for https://gainbridge.life
@@ -260,10 +294,16 @@ Systems Analyst / Developer (Ruby on Rails, XSL, C#, Shell)
 Stack - Rails 1.1 & 1.2, Ruby 1.8, Oracle 8i, 9i & 10g, jQuery, AJAX, CSS, Redhat Linux, Windows IIS, XML, XSLT, Google Search Appliance
 Legislative Services Agency (LSA)                                Apr 2006 – June 2007
 http://www.in.gov/legislative/iac/irtoc.htm
-* Built Indiana Register website with Tomcat, Cocoon, and Google Mini
+* Built new Indiana Register website which publishes all official legislative documents:
+* Running Tomcat & Cocoon, written in XML and XSL
+* Created search feature backed by a Google Mini appliance
+* Began work on Section 508 compliance (accessibility)
+* Developed batch and shell scripts for automatic publishing of official documents
+* Designed the layout, and created the CSS
 * Created Indiana General Assembly's internal call center application running the House, Senate, and LSA call centers.
-   * One of the first in the world to run Rails on Windows Server 2003; mongrel_cluster & Oracle 10g backend, IIS6 frontend; Worked directly with Microsoft’s IIS team
+   * Possibly world’s first to run Rails on Windows Server 2003; mongrel_cluster & Oracle 10g backend, IIS6 frontend; Worked directly with Microsoft’s IIS team
    * AJAX address based lookup of senate and house districts for constituents, with issue tracking, and daily summary email to legislators
+   * Possibly also world’s first Cisco IPCC & PBX integration with a Rails application
 
 
 Ruby on Rails Developer & Partner
@@ -278,13 +318,14 @@ Linux System Administrator & Developer (Rails, PHP, Java, Perl, Scheme, Shell)
 Stack: Rails 0.10, 0.11, 0.12, 0.13, 0.14, 1.0 & 1.1, Ruby 1.8, Mongrel, MySQL, Memcached, Bugzilla, Bash
 Optivel, Inc                                                        Dec 2004 – April 2006
 * Primary developer on first-ever enterprise-grade, Rails-based, ticketing system
-* Built a time tracking app in Rails; an “AirBnB for Airplanes” in PhP
+* Built a time tracking app in Rails; 
+* Built an “AirBnB for Airplanes” in PhP
 * Managed a Debian apt repository mirror
 * Built and maintained internal debian packages handling configuration synchronization, key rotation, and automated backups.
 
 
 ________________
-Open source activism - Millions of RubyGem downloads since 2009
+Open source activism - Hundreds of Millions of RubyGem downloads since 2009
 ________________
 http://github.com/pboling                                 http://rubygems.org/profiles/pboling
 http://github-awards.com/users/search?login=pboling        https://coderwall.com/pboling
@@ -323,18 +364,17 @@ And many more... http://rubygems.org/profiles/pboling
 
 
 ________________
-Humanitarian volunteer work
+Volunteer Work
 ________________
+
+
+Deputy Director of Outreach, National Progressive Party, 2020. Established relationships with United Left, Rose Coalition, and began a conversation with the Oregon Progressive Party, along with many other organizations and candidates. Grew the Discord server membership 10x, and the Twitter following 10x in three months.
+
+
 Since 2013 I have been helping refugees from Ivory Coast and Liberian civil wars re-establish themselves.  Initially I rent apartments for refugees, purchase land, build cinder block homes, help them repatriate, find gainful employment, and build sufficiency by farming and husbandry.  Refugees who cannot repatriate I help relocate to permanent new lives through UN programs, mostly to Canada and Australia.  November 2015 my efforts became a registered Liberian NGO called Hope For Tomorrow.  Each year I directly assist hundreds of refugees to repatriate or relocate.
 
 
-Co-founder of the WordTree Foundation, http://blog.wordtree.org.  Working on algorithms to enable scientific textual analysis (e.g. n-gram) of literary works to shed light on provenance, and external influence, especially for works written prior to the modern age, which will shed light on how human thought has evolved.  All code is open source: http://github.com/wordtreefoundation
-
-
-I contribute on an ongoing basis to the following charities and organizations:
-        United Way                Africa Heartwood Project        Hope For Tomorrow, Liberia
-        Children International                Kiva.org                Heifer International
-        KQED                        Pacifica Foundation                National Wildlife Federation
+Co-founder of the WordTree Foundation, http://wordtree.org.  Working on algorithms to enable scientific textual analysis (e.g. n-gram) of literary works to shed light on provenance, and external influence, especially for works written prior to the modern age, which will shed light on how human thought has evolved.  All code is open source: http://github.com/wordtreefoundation
 
 
 ________________
@@ -361,7 +401,7 @@ Ball State University, CS*, Science & Humanities, Muncie, IN 1997 – 1999
 Purdue University, MIS*, Science & Eng. Tech., Lafayette, IN 2002 – 2004
 Ball State University, CS*, Science & Humanities, Muncie, IN 2004 – 2005
 Purdue University, CIT*, Engineering Technology, Indpls, IN 2005 – 2007
-* Worked full-time, no debt, through college; flat-top roofer, sys-admin, web developer.  I am eight classes short of a degree, and I have no intention of completing it.
+* Worked full-time, no debt, through college; flat-top roofer, tech support, sys-admin, web developer.  I am eight classes short of a degree, and I have no intention of completing it.
 
 
 ________________

@@ -1,5 +1,5 @@
 +++
-date = "2020.02.06T01:46:00-07:00"
+date = "2021.10.16T01:46:00-07:00"
 draft = false
 authorlink = "https://about.me/peter.boling"
 authorlinktarget = "_blank"
@@ -18,18 +18,18 @@ type = "page"
 I'm not a fan of vendor-lock, so have it your way!  Last revised in February, 2020.
 
 - **[WEB](http://resume.peterboling.com)** (a website, for a web browser)
-- **[ePub](/cv/Peter_Boling_Resume_2020.02.06.epub)** (formatted for e-readers)
-- **[ODT](/cv/Peter_Boling_Resume_2020.02.06.odt)** (OpenDocument Text file)
-- **[PDF](/cv/Peter_Boling_Resume_2020.02.06.pdf)** (Portable Document Format)
-- **[RTF](/cv/Peter_Boling_Resume_2020.02.06.rtf)** (Rich Text Format)
-- **[TXT](/cv/Peter_Boling_Resume_2020.02.06.txt)** (Plain Text Format)
-- **[HTML, Zipped](/cv/Peter_Boling_Resume_2020.02.06.zip)** (Raw HTML assets, archived as a Zip file)
+- **[ePub](/cv/Peter_Boling_Resume_2021.10.16.epub)** (formatted for e-readers)
+- **[ODT](/cv/Peter_Boling_Resume_2021.10.16.odt)** (OpenDocument Text file)
+- **[PDF](/cv/Peter_Boling_Resume_2021.10.16.pdf)** (Portable Document Format)
+- **[RTF](/cv/Peter_Boling_Resume_2021.10.16.rtf)** (Rich Text Format)
+- **[TXT](/cv/Peter_Boling_Resume_2021.10.16.txt)** (Plain Text Format)
+- **[HTML, Zipped](/cv/Peter_Boling_Resume_2021.10.16.zip)** (Raw HTML assets, archived as a Zip file)
 
-<small>- Even [DOCX](/cv/Peter_Boling_Resume_2020.02.06.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
+<small>- Even [DOCX](/cv/Peter_Boling_Resume_2021.10.16.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
 
 ### How I use my allocation of bits
 
-Experienced system architect, team leader, mentor, rubyist, and full stack web application programmer since 2004; sometime linux system administrator.
+Experienced director, system architect, team leader, mentor, rubyist, and full stack web application programmer since 2004; sometime linux system administrator.
 
 Author and maintainer of many popular open source libraries [![On RubyGems](https://img.shields.io/gem/u/pboling.svg)](https://rubygems.org/profiles/pboling), which have been downloaded many millions of times.
 
@@ -45,9 +45,10 @@ I am a political activist utilizing my social currency to advocate for equality 
 
 ### More stuff I am working on now
 
+* Director of Engineering at [Riviera Partners](https://rivierapartners.com) &larr; Building the AI & ML enhanced recruiting platform of the future
 * Executive Director at [National Progressive Party](https://nationalprogressiveparty.org) &larr; A more progressive future is possible!
-* Architect at [Riviera Partners](https://rivierapartners.com) &larr; Building the AI & ML enhanced recruiting platform of the future
-* Co-founder of [WordTree Foundation](http://blog.wordtree.org) - non-profit scientific linguistics research, 2014 - present
+* Co-founder of [Hope For Tomorrow (Liberia)](https://www.facebook.com/hope.for.tomorrow.liberia/) - Liberian NGO working to repatriate refugees still in Ghana, and stabilize ex-refugees that have been repatriated, 2015 - present
+* Co-founder of [WordTree Foundation](http://wordtree.org) - non-profit scientific linguistics research, 2014 - present
 [![Tweet](https://img.shields.io/twitter/url/http/wordtree.org.svg?style=social)](https://twitter.com/intent/tweet?text=Interesting:&amp;url=http%3A%2F%2Fwordtree.org)
 * Many Open Source projects! [Check out the source.](https://github.com/pboling/)
 * This blog! [Check out the source.](https://github.com/pboling/railsbling.com)
