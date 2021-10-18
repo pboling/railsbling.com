@@ -16,6 +16,7 @@ jobs:
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
+      - name: Checkout
         uses: actions/checkout@v2.3.4
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
