@@ -7,3 +7,5 @@ Run locally with:
 ```shell
 hugo server -D
 ```
+
+Theme used is toha!
