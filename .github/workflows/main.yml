@@ -12,10 +12,11 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     environment: production
+    name: Make it new
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
-      - uses: actions/checkout@v2
+        uses: actions/checkout@v2.3.4
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
@@ -29,13 +30,13 @@ jobs:
       - name: Build
         run: hugo -D
 
-      - name: SFTP uploader
-        uses: wangyucode/sftp-upload-action@v1.1
+      - name: SFTP Upload
+        id: upload
+        uses: Creepios/sftp-action@v1.0.3
         with:
           host: railsbling.com
           port: 22
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          localDir: public/
-          remoteDir: /home/${{ secrets.FTP_USERNAME }}/railsbling.com/
-          dryRun: false
+          localPath: public/
+          remotePath: /home/${{ secrets.FTP_USERNAME }}/railsbling.com/
