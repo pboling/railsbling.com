@@ -55,14 +55,14 @@ Find out what gems may be causing it by defining `context`!
 >> require 'gem_bench'
 => true
 >> bad_context_maybes = GemBench.find(look_for_regex: /def context/).starters
-[GemBench] Will search for gems in ["/Users/pboling/.rvm/gems/ruby-2.4.0@foss/gems", "/Users/pboling/.rvm/gems/ruby-2.4.0@global/gems", "/Users/pboling/.rvm/gems/ruby-2.4.0@foss/bundler/gems"]
+[GemBench] Will search for gems in ["/Users/pboling/.rvm/gems/ruby-2.4.0@floss/gems", "/Users/pboling/.rvm/gems/ruby-2.4.0@global/gems", "/Users/pboling/.rvm/gems/ruby-2.4.0@floss/bundler/gems"]
 [GemBench] Detected 11 loaded gems + 2 loaded gems which GemBench is configured to ignore.
 => [byebug, diff-lcs]
 ```
 Then find the file with the first occurrence of the regex in each:
 ```
 >> bad_context_maybes.map { |bcm| bcm.stats.map(&:first) }
-=> [["/Users/pboling/.rvm/gems/ruby-2.4.0@foss/gems/byebug-9.0.6/lib/byebug/command.rb"], ["/Users/pboling/.rvm/gems/ruby-2.4.0@foss/gems/diff-lcs-1.3/lib/diff/lcs/hunk.rb"]]
+=> [["/Users/pboling/.rvm/gems/ruby-2.4.0@floss/gems/byebug-9.0.6/lib/byebug/command.rb"], ["/Users/pboling/.rvm/gems/ruby-2.4.0@floss/gems/diff-lcs-1.3/lib/diff/lcs/hunk.rb"]]
 ```
 
 ### More Different Example!
@@ -79,7 +79,7 @@ Here is an example `irb` session where I have installed only `gem_bench`, `rails
     >> require 'gem_bench'
     => true
     >> team = GemBench.check({verbose: true})
-    [GemBench] Will search for gems in ["/Users/pboling/.rvm/gems/ruby-1.9.3-head@foss/gems", "/Users/pboling/.rvm/gems/ruby-1.9.3-head@global/gems", "/Users/pboling/.rvm/gems/ruby-1.9.3-head@foss/bundler/gems"]
+    [GemBench] Will search for gems in ["/Users/pboling/.rvm/gems/ruby-1.9.3-head@floss/gems", "/Users/pboling/.rvm/gems/ruby-1.9.3-head@global/gems", "/Users/pboling/.rvm/gems/ruby-1.9.3-head@floss/bundler/gems"]
     [GemBench] Will check Gemfile at /Users/pboling/Documents/src/my/gem_bench/Gemfile.
     [GemBench] Detected 0 loaded gems
       (excluding the 2 loaded gems which GemBench is configured to ignore)
@@ -98,16 +98,16 @@ For the second run I `require 'rails'` as well, and now I can see which rails de
     >> require 'rails'
     => true
     >> team = GemBench.check({verbose: true})
-    [GemBench] Will search for gems in ["/Users/pboling/.rvm/gems/ruby-1.9.3-head@foss/gems", "/Users/pboling/.rvm/gems/ruby-1.9.3-head@global/gems", "/Users/pboling/.rvm/gems/ruby-1.9.3-head@foss/bundler/gems"]
+    [GemBench] Will search for gems in ["/Users/pboling/.rvm/gems/ruby-1.9.3-head@floss/gems", "/Users/pboling/.rvm/gems/ruby-1.9.3-head@global/gems", "/Users/pboling/.rvm/gems/ruby-1.9.3-head@floss/bundler/gems"]
     [GemBench] Will check Gemfile at /Users/pboling/Documents/src/my/gem_bench/Gemfile.
     [GemBench] Detected 14 loaded gems
       (excluding the 2 loaded gems which GemBench is configured to ignore)
     [GemBench] You might want to verify that activesupport v3.2.13 really has a Rails::Railtie or Rails::Engine.  Check these files:
-      ["/Users/pboling/.rvm/gems/ruby-1.9.3-head@foss/gems/activesupport-3.2.11/lib/active_support/i18n_railtie.rb", 146]
+      ["/Users/pboling/.rvm/gems/ruby-1.9.3-head@floss/gems/activesupport-3.2.11/lib/active_support/i18n_railtie.rb", 146]
     [GemBench] You might want to verify that actionpack v3.2.13 really has a Rails::Railtie or Rails::Engine.  Check these files:
-      ["/Users/pboling/.rvm/gems/ruby-1.9.3-head@foss/gems/actionpack-3.2.11/lib/action_controller/railtie.rb", 248]
+      ["/Users/pboling/.rvm/gems/ruby-1.9.3-head@floss/gems/actionpack-3.2.11/lib/action_controller/railtie.rb", 248]
     [GemBench] You might want to verify that railties v3.2.13 really has a Rails::Railtie or Rails::Engine.  Check these files:
-      ["/Users/pboling/.rvm/gems/ruby-1.9.3-head@foss/gems/railties-3.2.11/lib/rails/application/configuration.rb", 245]
+      ["/Users/pboling/.rvm/gems/ruby-1.9.3-head@floss/gems/railties-3.2.11/lib/rails/application/configuration.rb", 245]
     [GemBench] If you want to check for false positives, the files to check for Railties and Engines are listed above.
     [GemBench] 3 out of 14 evaluated gems actually need to be loaded at boot time. They are:
       [SUGGESTION] 1) gem 'activesupport', '~> 3.2.13'

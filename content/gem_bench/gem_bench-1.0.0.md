@@ -23,9 +23,9 @@ You: ❨╯°□°❩╯︵┻━┻
 
 ```
 >> puts GemBench.find(look_for_regex: /wat/).starters.map {|gem| "#{gem.name} has wat DRAGONS at #{gem.stats}" }.join("\n")
-[GemBench] Will search for gems in ["/Users/pboling/.rvm/gems/ruby-2.4.0@foss/gems", "/Users/pboling/.rvm/gems/ruby-2.4.0@global/gems", "/Users/pboling/.rvm/gems/ruby-2.4.0@foss/bundler/gems"]
+[GemBench] Will search for gems in ["/Users/pboling/.rvm/gems/ruby-2.4.0@floss/gems", "/Users/pboling/.rvm/gems/ruby-2.4.0@global/gems", "/Users/pboling/.rvm/gems/ruby-2.4.0@floss/bundler/gems"]
 [GemBench] Detected 11 loaded gems + 2 loaded gems which GemBench is configured to ignore.
-byebug has wat DRAGONS at [["/Users/pboling/.rvm/gems/ruby-2.4.0@foss/gems/byebug-9.0.6/lib/byebug/commands/frame.rb", 954]]
+byebug has wat DRAGONS at [["/Users/pboling/.rvm/gems/ruby-2.4.0@floss/gems/byebug-9.0.6/lib/byebug/commands/frame.rb", 954]]
 => nil
 ```
 

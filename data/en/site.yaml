@@ -6,8 +6,8 @@ description: Yet Another Paradigm by Peter Boling
 customMenus:
   - name: "CV"
     url: "/cv"
-  - name: "FOSS"
-    url: "/foss"
+  - name: "FLOSS"
+    url: "/floss"
   - name: "Ruby"
     url: "/tags/ruby"
   - name: "JavaScript"
