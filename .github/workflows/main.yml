@@ -27,7 +27,7 @@ jobs:
           # extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo -D
 
       - name: SFTP uploader
         uses: wangyucode/sftp-upload-action@v1.1
