@@ -18,24 +18,33 @@ languages:
     languageName: Indonesian
     weight: 4
 
-languageCode: "en-us"
-languageName: "English"
+languageCode: en-us
+languageName: English
 # Force a language - useful in development, and before other language translations are complete.
-defaultContentLanguage: "en"
+defaultContentLanguage: en
 disableLanguages: ["es", "pt", "id"]
 enableGitInfo: true
 enableRobotsTXT: true
 pygmentsUseClasses: true
 
-# Allow raw html in markdown file
 markup:
+  # Allow raw html in markdown file
   goldmark:
     renderer:
       unsafe: true
+  # Control TOC depth
   tableOfContents:
     startLevel: 2
     endLevel: 6
     ordered: false
+
+# At least HTML and JSON are required for the main HTML content and
+# client-side JavaScript search
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
 
 # Enable Google Analytics
 GoogleAnalytics: UA-37606822-1
@@ -48,17 +57,18 @@ enableEmoji: true
 
 # Custom parameters
 params:
-  GitRepo: https://github.com/pboling/railsbling.com
+  gitRepo: https://github.com/pboling/railsbling.com
+  gitBranch: master
 
   # background image of the landing page
   background: "images/background-blurry.jpg"
 
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
-  # It will be default to the theme logos if not provided.
+  # It will default to the theme logos if not provided.
   logo:
     version: 8jlyawLvaB
-    main: /images/logos/RailsBling-TrainLogo-260x260.png
+    main: /images/logos/RailsBling-TrainLogo.svg
     inverted: /images/logos/RailsBling-TrainLogo-260x260.png
     favicon: /favicon.ico
     favicon32: /favicon-32x32.png
@@ -66,9 +76,6 @@ params:
     faviconapple: /apple-touch-icon.png
     safaripin: /safari-pinned-tab.svg
     manifest: /site.webmanifest
-
-  # GitHub repo URL of your site
-  gitRepo: https://github.com/pboling/railsbling.com
 
   # specify whether you want to write blog post or not
   enableBlogPost: true
