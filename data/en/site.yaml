@@ -1,5 +1,5 @@
 # Meta description for your site.  This will help the search engines to find your site.
-description: Yet Another Paradigm by Peter Boling
+description: Yet Another Paradigm by Peter Boling. Ramblings, mumblings, cv/resume, technical blog, and documentation for many popular, and unpopular, RubyGems and other FLOSS projects, including oauth2, omniauth-identity, sanitize_email, debug_logging, flag_shih_tzu, gem_bench, etc. Semi-lifely state-of-the-petris updates.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
