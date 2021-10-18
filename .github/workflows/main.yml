@@ -37,5 +37,5 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           localDir: public/
-          remoteDir: railsbling.com/
+          remoteDir: /home/${{ secrets.FTP_USERNAME }}/railsbling.com/
           dryRun: false
