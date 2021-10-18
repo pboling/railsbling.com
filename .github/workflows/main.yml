@@ -29,10 +29,13 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Deploy
-        uses: SamKirkland/FTP-Deploy-Action@3.0.0
+      - name: SFTP uploader
+        uses: wangyucode/sftp-upload-action@v1.1
         with:
-          ftp-server:  railsbling.com
-          ftp-username: ${{ secrets.FTP_USERNAME }}
-          ftp-password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: railsbling.com/
+          host: railsbling.com
+          port: 22
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          localDir: public/
+          remoteDir: railsbling.com/
+          dryRun: false
