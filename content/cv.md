@@ -15,7 +15,7 @@ type = "page"
 
 ### Download Resume Here <i class="fas fa-level-down"></i>
 
-I'm not a fan of vendor-lock, so have it your way!  Last revised in February, 2020.
+I'm not a fan of vendor-lock, so have it your way!  Last revised in October, 2021.
 
 - **[WEB](http://resume.peterboling.com)** (a website, for a web browser)
 - **[ePub](/cv/Peter_Boling_Resume_2021.10.16.epub)** (formatted for e-readers)
