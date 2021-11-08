@@ -12,6 +12,35 @@
 {{ $copyrightNotice := "© YYYY. All Rights Reserved."}}
 {{ $copyright := replace ($copyrightNotice) "YYYY" $copyrightYear }}
 
+{{/*  Set defaults for toha and hugo logos  */}}
+{{ $tohaLogo := "" }}
+{{ $hugoLogo := "" }}
+
+{{/*  if custom logo has been provided, use them  */}}
+{{ if site.Params.logo.toha }}
+  {{ $tohaLogo = site.Params.logo.toha }}
+{{ end }}
+{{ if site.Params.logo.hugo }}
+  {{ $hugoLogo = site.Params.logo.hugo }}
+{{ end }}
+
+{{/* resize the logos. don't resize svg because it is not supported */}}
+{{ if $tohaLogo }}
+  {{ $tohaLogo = resources.Get $tohaLogo}}
+  {{ if and $tohaLogo (ne $tohaLogo.MediaType.SubType "svg") }}
+    {{ $tohaLogo = $tohaLogo.Resize "42x" }}
+  {{ end }}
+  {{ $tohaLogo = $tohaLogo.RelPermalink}}
+{{ end }}
+
+{{ if $hugoLogo }}
+  {{ $hugoLogo = resources.Get $hugoLogo}}
+  {{ if and $hugoLogo (ne $hugoLogo.MediaType.SubType "svg")}}
+    {{ $hugoLogo = $hugoLogo.Resize "42x" }}
+  {{ end }}
+  {{ $hugoLogo = $hugoLogo.RelPermalink}}
+{{ end }}
+
 <footer class="container-fluid text-center align-content-center footer pb-2">
   <div class="container pt-5">
     <div class="row text-left">
@@ -74,7 +103,7 @@
     <div class="row text-left">
       <div class="col-md-4">
         <a id="theme" href="https://github.com/hossainemruz/toha" target="#">
-          <img alt="Toha Theme Logo" src="{{ `/assets/images/inverted-logo.png` | relURL }}"/>
+          <img alt="Toha Theme Logo" src="{{ $tohaLogo }}"/>
           Toha
         </a>
       </div>
@@ -90,7 +119,7 @@
       </div>
       <div class="col-md-3 text-right">
         <a id="hugo" href="https://gohugo.io/">{{ i18n "hugoAttributionText" }}
-        <img alt="Hugo Logo" height="18" src="{{ `/assets/images/hugo-logo-wide.svg` | relURL }}"/>
+        <img alt="Hugo Logo" height="18" src="{{ $hugoLogo }}"/>
         </a>
       </div>
     </div>

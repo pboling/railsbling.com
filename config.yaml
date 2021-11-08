@@ -76,6 +76,8 @@ params:
     faviconapple: /apple-touch-icon.png
     safaripin: /safari-pinned-tab.svg
     manifest: /site.webmanifest
+    toha: /images/logos/inverted-logo.png
+    hugo: /images/logos/hugo-logo.svg
 
   # specify whether you want to write blog post or not
   enableBlogPost: true
@@ -94,7 +96,7 @@ params:
   DateForm: "Mon, Jan 2, 2006"
   GoogleAnalyticsUserID: "UA-37606822-1"
   gaid: "UA-37606822-1"
-  BaseURL: "https://www.railsbling.com"
+  baseURL: "https://www.railsbling.com"
   Facebook: "peter.boling"
   Twitter: "galtzo"
   Github: "pboling"

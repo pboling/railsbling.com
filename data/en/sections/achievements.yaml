@@ -2,7 +2,7 @@
 section:
   name: Achievements
   id: achievements
-  enable: true
+  enable: false
   weight: 6
   showOnNavbar: true
   hideTitle: false
