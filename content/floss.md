@@ -35,14 +35,14 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 [![Version](https://img.shields.io/gem/v/oauth2.svg)](https://rubygems.org/gems/oauth2)
 
 <div class="project">
-  <a href="/tags/flag_shih_tzu">
-    <div class="name"><i class="fas fa-toggle-on"></i> flag_shih_tzu&rarr;</div>
+  <a href="/tags/oauth">
+    <div class="name"><i class="fas fa-user-lock"></i> oauth&rarr;</div>
   </a>
-  <div class="description">Bit Fields for Active Record, (originally by <a href="https://github.com/xing">XING Developers</a>)</div>
+  <div class="description">A Ruby wrapper for the OAuth 1.0 protocol</div>
 </div>
 
-[![Stars](https://img.shields.io/github/stars/pboling/flag_shih_tzu.svg?style=social)](https://github.com/pboling/flag_shih_tzu/stargazers)
-[![Version](https://img.shields.io/gem/v/flag_shih_tzu.svg)](https://rubygems.org/gems/flag_shih_tzu)
+[![Stars](https://img.shields.io/github/stars/oauth-xx/oauth-ruby.svg?style=social)](https://github.com/oauth-xx/oauth-ruby/stargazers)
+[![Version](https://img.shields.io/gem/v/oauth.svg)](https://rubygems.org/gems/oauth)
 
 <div class="project">
   <a href="/tags/dynamoid">
@@ -53,6 +53,16 @@ Other Stuff: [my Bash work&rarr;](/bash), [my JavaScript work&rarr;](/javascript
 
 [![Stars](https://img.shields.io/github/stars/dynamoid/dynamoid.svg?style=social)](https://github.com/dynamoid/dynamoid/stargazers)
 [![Version](https://img.shields.io/gem/v/dynamoid.svg)](https://rubygems.org/gems/dynamoid)
+
+<div class="project">
+  <a href="/tags/flag_shih_tzu">
+    <div class="name"><i class="fas fa-toggle-on"></i> flag_shih_tzu&rarr;</div>
+  </a>
+  <div class="description">Bit Fields for Active Record, (originally by <a href="https://github.com/xing">XING Developers</a>)</div>
+</div>
+
+[![Stars](https://img.shields.io/github/stars/pboling/flag_shih_tzu.svg?style=social)](https://github.com/pboling/flag_shih_tzu/stargazers)
+[![Version](https://img.shields.io/gem/v/flag_shih_tzu.svg)](https://rubygems.org/gems/flag_shih_tzu)
 
 ## Ruby: I built that <i class="fas fa-level-down"></i>
 
