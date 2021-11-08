@@ -15,10 +15,10 @@ roles:
     company:
       name: National Progressive Party
       url: "https://nationalprogressiveparty.org/"
-  - designation: Director of Engineering
+  - designation: FLOSS Author & Maintainer
     company:
-      name: Riviera Partners
-      url: "https://rivierapartners.com/"
+      name: MINSWAN ;)
+      url: "https://rubygems.org/profiles/pboling"
   - designation: Co-founder & Researcher
     company:
       name: Word Tree Foundation
