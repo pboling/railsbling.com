@@ -1,4 +1,5 @@
 [submodule "themes/toha"]
 	path = themes/toha
-	url = https://github.com/pboling/toha.git
-	branch = main
+  url = git@github.com:pboling/toha.git
+  fetch = +refs/heads/*:refs/remotes/origin/* 
+  branch = main
