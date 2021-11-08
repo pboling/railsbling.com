@@ -62,7 +62,7 @@ type = "docs"
 
 [0.5.7]: https://github.com/oauth-xx/oauth-ruby/releases/tag/v0.5.7
 
-[COMMENT]: The following links are used by the table
+[comment]: <> (The following links are used by the table)
 
 [rubygems]: https://rubygems.org/gems/oauth
 

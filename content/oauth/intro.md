@@ -190,7 +190,7 @@ Comments are welcome. Contact the [OAuth Ruby mailing list (Google Group)][maili
 
 [issues]: https://github.com/oauth-xx/oauth-ruby/issues
 
-[COMMENT]: The following links are used by the table
+[comment]: <> (The following links are used by the table)
 
 [rubygems]: https://rubygems.org/gems/oauth
 
