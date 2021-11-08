@@ -14,7 +14,7 @@ type = "docs"
 
 +++
 
-# Changelog
+# oauth version 0.5.7 is Released
 ## [0.5.7] 2021-11-02
 ### Added
 
