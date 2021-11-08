@@ -410,6 +410,14 @@ projects:
   summary: A simple, lightweight JavaScript API for handling and namespacing configuration cookies
   tags: ["javascript"]
 
+# 1
+- name: shiftable
+  role: Author & Maintainer
+  timeline: "Oct 2021 - Present"
+  repo: https://github.com/pboling/shiftable
+  summary: Change ActiveRecord associations in a structured manner
+  tags: ["rubygem","rails","model"]
+
 #- name: A sample academic paper
 #  role: Team Lead
 #  timeline: "Jan 2017 - Nov 2017"
