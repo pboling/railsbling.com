@@ -178,7 +178,7 @@ Comments are welcome. Contact the [OAuth Ruby mailing list (Google Group)][maili
 
 [conduct]: https://github.com/oauth-xx/oauth-ruby/blob/master/CODE_OF_CONDUCT.md
 
-[license]: LICENSE
+[license]: https://github.com/oauth-xx/oauth-ruby/blob/master/LICENSE
 
 [semver]: http://semver.org/
 
@@ -190,7 +190,13 @@ Comments are welcome. Contact the [OAuth Ruby mailing list (Google Group)][maili
 
 [issues]: https://github.com/oauth-xx/oauth-ruby/issues
 
-[comment]: <> (The following links are used by the table)
+[comment]: <> (The following links are used by tables in Homepage only)
+
+[network]: https://github.com/oauth-xx/oauth-ruby/network
+
+[stargazers]: https://github.com/oauth-xx/oauth-ruby/stargazers
+
+[comment]: <> (The following links are used by tables in README and Homepage)
 
 [rubygems]: https://rubygems.org/gems/oauth
 
@@ -229,10 +235,6 @@ Comments are welcome. Contact the [OAuth Ruby mailing list (Google Group)][maili
 [source]: https://github.com/oauth-xx/oauth-ruby/
 
 [climate_maintainability]: https://codeclimate.com/github/oauth-xx/oauth-ruby/maintainability
-
-[network]: https://github.com/oauth-xx/oauth/network
-
-[stargazers]: https://github.com/oauth-xx/oauth/stargazers
 
 [chat]: https://gitter.im/oauth-xx/oauth-ruby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 

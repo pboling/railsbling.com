@@ -62,7 +62,13 @@ type = "docs"
 
 [0.5.7]: https://github.com/oauth-xx/oauth-ruby/releases/tag/v0.5.7
 
-[comment]: <> (The following links are used by the table)
+[comment]: <> (The following links are used by tables in Homepage only)
+
+[network]: https://github.com/oauth-xx/oauth-ruby/network
+
+[stargazers]: https://github.com/oauth-xx/oauth-ruby/stargazers
+
+[comment]: <> (The following links are used by tables in README and Homepage)
 
 [rubygems]: https://rubygems.org/gems/oauth
 
@@ -101,10 +107,6 @@ type = "docs"
 [source]: https://github.com/oauth-xx/oauth-ruby/
 
 [climate_maintainability]: https://codeclimate.com/github/oauth-xx/oauth-ruby/maintainability
-
-[network]: https://github.com/oauth-xx/oauth-ruby/network
-
-[stargazers]: https://github.com/oauth-xx/oauth-ruby/stargazers
 
 [chat]: https://gitter.im/oauth-xx/oauth-ruby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 
