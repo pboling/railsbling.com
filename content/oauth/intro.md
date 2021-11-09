@@ -230,7 +230,7 @@ Comments are welcome. Contact the [OAuth Ruby mailing list (Google Group)][maili
 
 [tweetme]: http://twitter.com/galtzo
 
-[documentation]: https://rubydoc.info/github/oauth-xx/oauth-ruby/main
+[documentation]: https://rubydoc.info/github/oauth-xx/oauth-ruby
 
 [source]: https://github.com/oauth-xx/oauth-ruby/
 
