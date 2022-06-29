@@ -30,8 +30,7 @@ rm -rf $THEME_TMP
 SITE_WWW=$HOME/$SITE_DOMAIN
 
 # Grab latest theme
-cd $THEME_REPO
-git pull --rebase
+git -C $THEME_REPO pull --rebase
 
 # Clone into the temporary directories.
 git clone $SITE_REPO $SITE_TMP
