@@ -20,7 +20,7 @@ experiences:
       - designation: Executive Director
         start: Jun 2020
         # don't provide end date if you are currently working there. It will be replaced by "Present"
-        # end: Dec 2020
+        end: Jun 2022
         # give some points about what was your responsibilities at the company.
         responsibilities:
           - Appointed by Executive Board of NPP
