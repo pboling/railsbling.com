@@ -24,13 +24,14 @@ THEME_REPO=$HOME/themes/$THEME_NAME.git
 # We clone the repo everytime we update, rather than git pull.
 SITE_TMP=$HOME/tmp/$SITE_NAME
 THEME_TMP=$HOME/tmp/$SITE_NAME/themes/$THEME_NAME
-rm -rf $SITE_TMP
-rm -rf $THEME_TMP
+# rm -rf $SITE_TMP
+# rm -rf $THEME_TMP
 # Where the final, built, site will land, to be served on the  internet.
 SITE_WWW=$HOME/$SITE_DOMAIN
 
 # Grab latest theme
 cd $THEME_REPO
+cat .git/HEAD
 git -C $THEME_REPO pull --rebase
 
 # Clone into the temporary directories.
