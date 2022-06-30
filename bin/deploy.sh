@@ -19,16 +19,11 @@ $FAUXROOT/usr/local/bin/hugo version
 # You could change this to any kind of git-cloneable address.
 # It doesn't need to be an actual repo path, just needs to be a cloneable thing.
 SITE_REPO=$HOME/$SITE_NAME.git
-# These temporary directories are used by the build process.
-# We clone the repo everytime we update, rather than git pull.
+# This temporary directory is used by the build process.
+# We clone the (local) repo, and remote submodule theme everytime we update.
 SITE_TMP=$HOME/tmp/$SITE_NAME
 # Where the final, built, site will land, to be served on the  internet.
 SITE_WWW=$HOME/$SITE_DOMAIN
-
-# Grab latest theme
-#cd $THEME_REPO
-#cat .git/HEAD
-# git -C $THEME_REPO pull --rebase
 
 # Clone into the temporary directories.
 rm -rf "$SITE_TMP"
