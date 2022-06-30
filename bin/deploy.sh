@@ -30,6 +30,7 @@ rm -rf $THEME_TMP
 SITE_WWW=$HOME/$SITE_DOMAIN
 
 # Grab latest theme
+cd $THEME_REPO
 git -C $THEME_REPO pull --rebase
 
 # Clone into the temporary directories.
@@ -40,5 +41,5 @@ git clone $THEME_REPO $THEME_TMP
 $FAUXROOT/usr/local/bin/hugo --theme="$THEME_NAME" -s "$SITE_TMP" -d "$SITE_WWW" -b "$SITE_URL"
 
 # Then Cleanup
-rm -rf $SITE_TMP
-rm -rf $THEME_TMP
+# rm -rf $SITE_TMP
+# rm -rf $THEME_TMP
