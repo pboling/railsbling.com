@@ -10,6 +10,8 @@ SITE_NAME=railsbling
 SITE_TLD=com
 SITE_DOMAIN="$SITE_NAME.$SITE_TLD"
 SITE_URL="http://www.$SITE_DOMAIN"
+# What is the theme?
+THEME_NAME=toha
 
 # Check that Hugo is installed and available at the expected path.
 $FAUXROOT/usr/local/bin/hugo version
@@ -17,26 +19,20 @@ $FAUXROOT/usr/local/bin/hugo version
 # You could change this to any kind of git-cloneable address.
 # It doesn't need to be an actual repo path, just needs to be a cloneable thing.
 SITE_REPO=$HOME/$SITE_NAME.git
-# Same with the theme:
-THEME_NAME=toha
-THEME_REPO=$HOME/themes/$THEME_NAME.git
 # These temporary directories are used by the build process.
 # We clone the repo everytime we update, rather than git pull.
 SITE_TMP=$HOME/tmp/$SITE_NAME
-THEME_TMP=$HOME/tmp/$SITE_NAME/themes/$THEME_NAME
 # Where the final, built, site will land, to be served on the  internet.
 SITE_WWW=$HOME/$SITE_DOMAIN
 
 # Grab latest theme
-cd $THEME_REPO
-cat .git/HEAD
-git -C $THEME_REPO pull --rebase
+#cd $THEME_REPO
+#cat .git/HEAD
+# git -C $THEME_REPO pull --rebase
 
 # Clone into the temporary directories.
-rm -rf $SITE_TMP
-rm -rf $THEME_TMP
-git clone $SITE_REPO $SITE_TMP
-git clone $THEME_REPO $THEME_TMP
+rm -rf "$SITE_TMP"
+git clone "$SITE_REPO" "$SITE_TMP" --recurse-submodules
 
 # Then build
 $FAUXROOT/usr/local/bin/hugo --theme="$THEME_NAME" -s "$SITE_TMP" -d "$SITE_WWW" -b "$SITE_URL"
