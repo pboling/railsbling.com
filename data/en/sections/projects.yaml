@@ -12,46 +12,48 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Rails
-  filter: "rails"
-- name: Model
-  filter: "model"
-- name: View
-  filter: "view"
-- name: Controller
-  filter: "controller"
 - name: Auth
   filter: "auth"
-- name: Math
-  filter: "math"
 - name: Bundler
   filter: "bundler"
-- name: Rubygems
-  filter: "rubygem"
-- name: RSpec
-  filter: "rspec"
-- name: Resque
-  filter: "resque"
-- name: Email
-  filter: "email"
-- name: Logging
-  filter: "logs"
+- name: Controller
+  filter: "controller"
 - name: Debugging
   filter: "debug"
-- name: React
-  filter: "react"
-- name: WIP
-  filter: "wip"
-- name: ENV
-  filter: "env"
 - name: Devops
   filter: "devops"
-- name: Pub Sub
-  filter: "pubsub"
-- name: Shell
-  filter: "shell"
+- name: ENV
+  filter: "env"
+- name: Email
+  filter: "email"
 - name: Javascript
   filter: "javascript"
+- name: Logging
+  filter: "logs"
+- name: Math
+  filter: "math"
+- name: Model
+  filter: "model"
+- name: Pub Sub
+  filter: "pubsub"
+- name: Rails
+  filter: "rails"
+- name: React
+  filter: "react"
+- name: Resque
+  filter: "resque"
+- name: RSpec
+  filter: "rspec"
+- name: Rubocop
+  filter: "rubocop"
+- name: Rubygems
+  filter: "rubygem"
+- name: Shell
+  filter: "shell"
+- name: View
+  filter: "view"
+- name: WIP
+  filter: "wip"
 
 # your projects
 projects:
