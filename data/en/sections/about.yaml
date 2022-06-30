@@ -11,10 +11,6 @@ section:
 
 # your company information
 roles:
-  - designation: Executive Director
-    company:
-      name: National Progressive Party
-      url: "https://nationalprogressiveparty.org/"
   - designation: FLOSS Author & Maintainer
     company:
       name: MINSWAN ;)
