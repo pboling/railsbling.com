@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Originally from https://rimdev.io/hugo-extended-latest-install-script-for-macos/
 
 set -x
 
