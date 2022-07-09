@@ -1,6 +1,21 @@
++++
+date = "2022-07-10T05:18:30+07:00"
+draft = false
+authorlink = "https://about.me/peter.boling"
+authorlinktarget = "_blank"
+authortwitter = "https://www.twitter.com/galtzo"
+authorlinkedin = "https://www.linkedin.com/in/peterboling"
+authorfacebook = "https://www.facebook.com/peter.boling"
+title = "I'm Leaving Github"
+tags = [ "development", "ruby", "git", "github", "dvcs", "floss", "federation" ]
+categories = [ "development", "tools", "git", "floss", "federation" ]
+series = [ "#GiveUpGithub" ]
+
++++
+
 ## I Am Using GitHub Under Protest
 
-Please join the [conversation on dev.to](https://dev.to/pboling/im-leaving-github-50ba).
+Update: I had posted this to dev.to originally, and it was the most popular thing I've written there by orders of magnitude.  So I guess they had no choice by to mark my account as spam.
 
 Github's decision to sponsor me is so recent that I haven't been able to cash out the $550 payment yet.
 
