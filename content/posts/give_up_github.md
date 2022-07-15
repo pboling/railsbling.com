@@ -15,7 +15,7 @@ series = [ "#GiveUpGithub" ]
 
 ## I Am Using GitHub Under Protest
 
-Update: I had posted this to dev.to originally, and it was the most popular thing I've written there by orders of magnitude.  So I guess they had no choice by to mark my account as spam.
+Also posted to [dev.to](https://dev.to/galtzo/im-leaving-github-50ba).
 
 Github's decision to sponsor me is so recent that I haven't been able to cash out the $550 payment yet.
 
