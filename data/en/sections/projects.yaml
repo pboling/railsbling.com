@@ -234,7 +234,7 @@ projects:
   role: Lead Maintainer
   timeline: "2011 - 2017"
   repo: https://github.com/pboling/cacheable-flash
-  summary: [ARCHIVED] Gets the Rails flash object working with page cacheing.
+  summary: (ARCHIVED) Gets the Rails flash object working with page cacheing.
   tags: ["rubygem","rails","view","archived"]
 
 # 3 stars - 11/15/20
