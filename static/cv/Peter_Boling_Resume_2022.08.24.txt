@@ -1,24 +1,28 @@
 ﻿PETER H. BOLING
 Remote Only - United States                                                   homepage: http://railsbling.com
-(925) 252-5351                                                                email: peter.boling@gmail.com
+(925) 252-5351                                                                email: peter@railsbling.com
 ________________
 Director, Architect, Evangelist, Ruby Expert and Certified Barista
 ________________
-Director, architect, evangelist, team leader, mentor, rubyist, and builder of web applications great and small, since 2004; system administrator since 1997. Passionate about efficiency, discovering new best practices, and process improvement.
+Team leader, mentor, rubyist, and builder of web applications great and small, since 2004; system administrator since 1997. Passionate about efficiency, discovering new best practices, and process improvement.
 
 
 Excel at data analysis, task automation, testing, style guides, best practices, API design, benchmarking, and Domain Driven Design. While Ruby is my core competency, I've done extensive javascript development, primarily between 2010 and 2016. Familiar with NodeJS, Stimulus, React, Angular, Ember, Backbone, and now I <3 Svelte.
 
 
-Led PHP-to-Rails migrations @ aSmallWorld (2008-9) and BibleGateway (2009-10).
+Led massive PHP-to-Rails migrations @ aSmallWorld (2008-9) and BibleGateway (2009-10).
 
 
-Solutions for finance, insurance, healthcare, social networking, local and federal government, NGOs, experimental research, B2B, fashion, gaming, publishing, recruiting, dating, advertising, food service and e-commerce sectors. Specialize in migrating legacy systems to modern architectures.
+Solutions for finance, insurance, healthcare, social networking, local and federal government, NGOs, experimental research, B2B, fashion, publishing, recruiting, dating, advertising, food service and e-commerce sectors. Specialize in migrating legacy systems to modern architectures.
 
 
-FLOSS Leader and Advocate:
-• http://github.com/pboling
-• http://rubygems.org/profiles/pboling
+FLOSS Leader and Advocate, hundreds of thousands of projects and companies rely on my open source work.
+* https://github.com/pboling & https://gitlab.com/pboling
+* https://rubygems.org/profiles/pboling
+* https://www.openhub.net/accounts/peterboling
+
+
+Recognized by Github in July 2022 as one of 904 developers whose open source code they rely on.
 
 Polyglot: English, Spanish, and Portuguese; learning Bahasa Indonesia.
 
@@ -34,8 +38,8 @@ Leadership & Management
 ________________
 
 
-Director of Engineering, Riviera Partners; 12 engineers, 5 direct reports; 2021 - present
-Executive Director, National Progressive Party; manage all volunteer efforts, policy and procedure, helped launch the Washington Progressive Party; 2020 - present
+Director of Engineering, Riviera Partners; 20 engineers, 7 direct reports; 2021 - present
+Executive Director, National Progressive Party; manage all volunteer efforts, policy and procedure, helped launch the Washington Progressive Party; 2020 - 2022
 Researcher and Co-founder, Word Tree Foundation; non-profit researching ways to scientifically analyze, compare, and derive meaningful data from literary works; first Big Data analysis of its kind; 2013 - present
 Deputy Director of Outreach, National Progressive Party; established relationships with other organizations, went on podcasts, grew social media presence 10x in three months; 2020
 CTO and Co-founder, Acquaintable; disruptive start-up in online dating; Managed team of 5, including designers, frontend, and backend engineers; 2012 - 2013 (Acquired)
@@ -44,6 +48,7 @@ First Employee & Lead Engineer, BloombergBlack, personal wealth management tool 
 Web Team Lead, Invoice2go; Managed 6 developers, and 1 QA Engineer; 2016 - 2017
 Automation Team Lead, Invoice2go; Managed 1 developer, coordinated horizontally; 2016 - 2017
 Team Lead, Sagebit; Mentored 5 recent graduate programmers; 2008-2009
+FLOSS Project Lead, oauth ruby gem; 2021 - present
 FLOSS Project Lead, omniauth-identity ruby gem; 2020 - present
 FLOSS Project Lead, oauth2 ruby gem; 2017 - present
 FLOSS Project Lead, dynamoid ruby gem; 2016 - present
@@ -65,16 +70,28 @@ ________________
 
 Director of Engineering
 Stack - Rails 5.2, Ruby 2.5=>2.6=>2.7, RSpec, PostgreSQL, SQS, S3, ES, Redis, Memcached, Sidekiq, Kubernetes, Hasura, SchemaHero, GraphQL, CQRS+ES, Svelte, JIRA, Github
-Riviera Partners                                                February 2020 - present
+Riviera Partners                                            February 2020 - present (full-time, then contract)
 https://rivierapartners.com
-* In addition to being director of engineering, I lead the backend team. We build tools that support Riviera's business. My team focuses on infrastructure as code, APIs, services, and data processing
+* Engineering org size: 20, split between backend (5), front end (5), devops (2), data science (6) and QA (2).
+* In addition to being director of engineering, I manage the backend and devops teams. We build tools that support Riviera's business. My team focuses on infrastructure as code, APIs, services, and data processing
 * We are leveraging CQRS+ES (event sourcing), and GitOps. I maintain the legacy Grape/Rails app, and work on the Hasura Read Model, KNative Eventing, GraphQL APIs, Data Models, Ingestors, Denoramlizers (Projections), and Command APIs, in the new NodeJS CQRS+ES distributed system
 * We use Event Storming to determine what we need to build because it maps perfectly to CQRS+ES, and abides the principles of Domain Driven Design
+* Since November, 2021 - New system will be “low-code”, and largely outsourced. I am retained for ongoing maintenance of the legacy recruiting system. Preparing data migrations to new system, upgrading tooling, dependencies and SSL certificates, patching CSVs, and keeping the whole machine running. Small time commitment in hours per week, as it is a mature system.
+
+
+Staff Engineer - Core Team
+Stack - Rails 6, Ruby 3, Minitest, PostgreSQL 14, GKE, Github
+Underdog Sports                                                December 2021 - August 2022
+https://underdogfantasy.com/
+* I led the authentication, authorization and regulations compliance initiatives, for which I integrated JWT & JWKS solutions.
+* Introduced the RFC pattern to the organization, as well as the view component, and interactor patterns.
+* Do a lot of code review, and work on low level code enhancement and library version upgrades.
+* As the company leaned further into high stakes gambling I lost motivation.
 
 
 Executive Director
 Stack - PHP 7.4, WordPress, CiviCRM, Discord, Telegram, Facebook, Twitter, Instagram, 
-National Progressive Party                                        June 2020 - present
+National Progressive Party                                        June 2020 - July 2022
 https://nationalprogressiveparty.org
 * Appointed by Executive Board of NPP
 * Manage the volunteer efforts of the organization.  Determine or build the technology, tools, and platforms used by volunteers and members
@@ -175,7 +192,7 @@ http://www.trumaker.com
 
 Senior Staff Architect, Services (9 month contract, extended)
 Stack - Ruby 1.8=>2.1, CGI, FastCGI, Mail gem, RSpec, Oracle 11g, rbenv, bash, daemons, RedHat linux
-Church Pension Group                                                 Aug 2013 – Oct 2014
+Church Pension Group                                                 Aug 2013 – Nov 2014
 http://cpg.org (among others)
 * Forensic analysis of 5 year old ruby service layer
 * Upgrade from Ruby 1.8.7 to 2.0, then 2.1
@@ -336,6 +353,10 @@ Some gems I hack on
 ________________
 
 
+oauth – A Ruby wrapper for the OAuth 1.0 protocol: Project Lead & Maintainer since Nov 2021
+https://github.com/oauth-xx/oauth-ruby
+
+
 oauth2 – A Ruby wrapper for the OAuth 2.0 protocol: Project Lead & Maintainer since Dec 2017
 https://github.com/oauth-xx/oauth2
 
@@ -390,8 +411,7 @@ ________________
 Dean’s Honor List for College of Sciences and Humanities, Ball State University,
 Spring ’98 and Spring ’99 (Computer Science)
 Indiana Core 40 Honors Diploma, Muncie Central High School
-Eagle Scout* - Boy Scouts of America
- (*As a minor; before I knew of the discriminatory nature of the organization)
+Eagle Scout - Boy Scouts of America
 
 
 ________________

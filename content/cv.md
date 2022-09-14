@@ -15,17 +15,17 @@ type = "page"
 
 ### Download Resume Here <i class="fas fa-level-down"></i>
 
-I'm not a fan of vendor-lock, so have it your way!  Last revised in October, 2021.
+I'm not a fan of vendor-lock, so have it your way!  Last revised in August, 2022.
 
 - **[WEB](http://resume.peterboling.com)** (a website, for a web browser)
-- **[ePub](/cv/Peter_Boling_Resume_2021.10.16.epub)** (formatted for e-readers)
-- **[ODT](/cv/Peter_Boling_Resume_2021.10.16.odt)** (OpenDocument Text file)
-- **[PDF](/cv/Peter_Boling_Resume_2021.10.16.pdf)** (Portable Document Format)
-- **[RTF](/cv/Peter_Boling_Resume_2021.10.16.rtf)** (Rich Text Format)
-- **[TXT](/cv/Peter_Boling_Resume_2021.10.16.txt)** (Plain Text Format)
-- **[HTML, Zipped](/cv/Peter_Boling_Resume_2021.10.16.zip)** (Raw HTML assets, archived as a Zip file)
+- **[ePub](/cv/Peter_Boling_Resume_2022.08.24.epub)** (formatted for e-readers)
+- **[ODT](/cv/Peter_Boling_Resume_2022.08.24.odt)** (OpenDocument Text file)
+- **[PDF](/cv/Peter_Boling_Resume_2022.08.24.pdf)** (Portable Document Format)
+- **[RTF](/cv/Peter_Boling_Resume_2022.08.24.rtf)** (Rich Text Format)
+- **[TXT](/cv/Peter_Boling_Resume_2022.08.24.txt)** (Plain Text Format)
+- **[HTML, Zipped](/cv/Peter_Boling_Resume_2022.08.24.zip)** (Raw HTML assets, archived as a Zip file)
 
-<small>- Even [DOCX](/cv/Peter_Boling_Resume_2021.10.16.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
+<small>- Even [DOCX](/cv/Peter_Boling_Resume_2022.08.24.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
 
 ### How I use my allocation of bits
 
@@ -45,8 +45,7 @@ I am a political activist utilizing my social currency to advocate for equality 
 
 ### More stuff I am working on now
 
-* Director of Engineering at [Riviera Partners](https://rivierapartners.com) &larr; Building the AI & ML enhanced recruiting platform of the future
-* Executive Director at [National Progressive Party](https://nationalprogressiveparty.org) &larr; A more progressive future is possible!
+* Director of Engineering at [Riviera Partners](https://rivierapartners.com) &larr; Building the AI & ML enhanced recruiting platform of the future, 2020 - present
 * Co-founder of [Hope For Tomorrow (Liberia)](https://www.facebook.com/hope.for.tomorrow.liberia/) - Liberian NGO working to repatriate refugees still in Ghana, and stabilize ex-refugees that have been repatriated, 2015 - present
 * Co-founder of [WordTree Foundation](http://wordtree.org) - non-profit scientific linguistics research, 2014 - present
 [![Tweet](https://img.shields.io/twitter/url/http/wordtree.org.svg?style=social)](https://twitter.com/intent/tweet?text=Interesting:&amp;url=http%3A%2F%2Fwordtree.org)
@@ -55,6 +54,8 @@ I am a political activist utilizing my social currency to advocate for equality 
 
 ### Past Work
 
+* Executive Director at [National Progressive Party](https://nationalprogressiveparty.org) &larr; A more progressive future is possible!
+* Staff Software Engineer at [Underdog Sports](https://underdogsports.com/) &larr; Built JWT & JWKS authentication tools; Introduced interactor & view component patterns, 2021 - 2022 ([on Crunchbase](https://www.crunchbase.com/organization/underdog-fantasy))
 * Technical Advisor and Evangelist at [Karuna Health](https://meetkaruna.com/) &larr; Assisting with backend architecture and hiring, 2018 - 2020 ([on Crunchbase](https://www.crunchbase.com/organization/karuna))
 * Solutions Architect at [MINDBODY, Inc](https://www.mindbodyonline.com/) &larr; Architecture design and planning, SDLC process improvement, SME for services utilized by all teams, and projects within Marketing Products, 2019 - 2020 ([on Crunchbase](https://www.crunchbase.com/organization/mindbody))
 * Senior Staff Architect (contract), @[Group 1001](https://www.group1001.com) &larr; Building, optimizing, and extending the portfolio of insurance products (e.g. [Gainbridge.life](https://gainbridge.life), [Relay Rewards](https://relayrewards.com)), 2018 - 2019 ([on Crunchbase](https://www.crunchbase.com/organization/group1001))
