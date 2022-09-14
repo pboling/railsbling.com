@@ -20,7 +20,7 @@ experiences:
       - designation: Executive Director
         start: Jun 2020
         # don't provide end date if you are currently working there. It will be replaced by "Present"
-        # end: Dec 2020
+        end: Jun 2022
         # give some points about what was your responsibilities at the company.
         responsibilities:
           - Appointed by Executive Board of NPP
@@ -111,7 +111,7 @@ experiences:
 
   - company:
       name: Invoice2Go
-      url: "https://www.invoice2go.com"
+      url: "https://invoice.2go.com/invoice-generator/"
       location: Jakarta, Indonesia
       overview: Send professional invoices and estimates in minutes. Invoice on the spot, right when you finish the job. Spend less time on paperwork and more time doing what you love.
     positions:
@@ -119,7 +119,7 @@ experiences:
         start: Jan 2016
         end: Feb 2017
         responsibilities:
-          - Lead the web team in developing a revamped web app at https://web.invoice.2go.com/
+          - Lead the web team in developing a revamped web app, now at https://invoice.2go.com/invoice-generator/
           - Laid the groundwork for new service architecture, implementation and continuous integration
           - Designing JIRA process, workflows and screens, and integration with ZenDesk
           - Designing and implementing git branching strategy and supporting toolchain
