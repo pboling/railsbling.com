@@ -54,7 +54,7 @@ I am a political activist utilizing my social currency to advocate for equality 
 
 ### Past Work
 
-* Executive Director at [National Progressive Party](https://nationalprogressiveparty.org) &larr; A more progressive future is possible!
+* Executive Director at [National Progressive Party](https://discord.gg/3V6j6Vy) &larr; A more progressive future is possible!, 2020 - 2022
 * Staff Software Engineer at [Underdog Sports](https://underdogsports.com/) &larr; Built JWT & JWKS authentication tools; Introduced interactor & view component patterns, 2021 - 2022 ([on Crunchbase](https://www.crunchbase.com/organization/underdog-fantasy))
 * Technical Advisor and Evangelist at [Karuna Health](https://meetkaruna.com/) &larr; Assisting with backend architecture and hiring, 2018 - 2020 ([on Crunchbase](https://www.crunchbase.com/organization/karuna))
 * Solutions Architect at [MINDBODY, Inc](https://www.mindbodyonline.com/) &larr; Architecture design and planning, SDLC process improvement, SME for services utilized by all teams, and projects within Marketing Products, 2019 - 2020 ([on Crunchbase](https://www.crunchbase.com/organization/mindbody))
