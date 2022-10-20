@@ -54,23 +54,20 @@ I am a political activist utilizing my social currency to advocate for equality 
 
 ### Past Work
 
-* Executive Director at [National Progressive Party](https://discord.gg/3V6j6Vy) &larr; A more progressive future is possible!, 2020 - 2022
-* Staff Software Engineer at [Underdog Sports](https://underdogsports.com/) &larr; Built JWT & JWKS authentication tools; Introduced interactor & view component patterns, 2021 - 2022 ([on Crunchbase](https://www.crunchbase.com/organization/underdog-fantasy))
-* Technical Advisor and Evangelist at [Karuna Health](https://meetkaruna.com/) &larr; Assisting with backend architecture and hiring, 2018 - 2020 ([on Crunchbase](https://www.crunchbase.com/organization/karuna))
-* Senior Staff Architect (contract), @[Group 1001](https://www.group1001.com) &larr; Building, optimizing, and extending the portfolio of insurance products (e.g. [Gainbridge.life](https://gainbridge.life), [Relay Rewards](https://relayrewards.com)), 2018 - 2019 ([on Crunchbase](https://www.crunchbase.com/organization/group1001))
-* Principle Systems Architect at cloud sales intelligence startup &larr; Building, optimizing, and extending, the backend, 2016 - 2018
-* Principle Systems Architect, @[Bolt Threads](https://boltthreads.com/) &larr; The more I learn about what the company is doing to revolutionize the textile industry the more excited I become about the possibilities.  Changing the world for the better, through efficiency, is always my goal professionally and personally.
-* Principle Engineer, Web Team Lead, Productivity & Automation Lead, @[Invoice2Go](https://www.invoice2go.com) &larr; Led team in rewrite; implemented engineering process, 2016 - 2017 ([on Crunchbase](https://www.crunchbase.com/organization/invoice2go))
-* Senior Engineer, @[Trumaker](http://www.trumaker.com) - built a hydra: e-commerce platform, sales CRM, warehousing, inventory management, and fulfillment system. 2014 - 2016 
-[![Fashion Tweet](https://img.shields.io/twitter/url/https/trumaker.com.svg?style=social)](https://twitter.com/intent/tweet?text=Shirts:&amp;url=https%3A%2F%2Ftrumaker.com)
-* Senior Staff Architect, Services (contract), @[Church Pension Group](https://www.cpg.org/) &larr; I (re)built the entire backend, 10x improvement in performance, 2013 - 2014 ([bloomberg profile](http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=3648509))
-* Co-founder & CTO, Acquaintable, accepted into ERA (NYC-based accelerator), then acquired, 2012 - 2013 ([on Crunchbase](https://www.crunchbase.com/organization/acquaintable))([Tweet @ my co-founder](https://twitter.com/joeljrod))
-* First Employee and Tech Lead, @Bloomberg Black, 2010 - 2012 ([bloomberg profile](http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=160210))
-* Senior Rails Developer (contract), @[BibleGateway](https://www.biblegateway.com/) (9 month PHP to Rails contract), 2010 ([on wikipedia](https://en.wikipedia.org/wiki/BibleGateway.com))
-* Tech Lead & Rails Developer, @Neighborino (HOA startup, contract), 2008 - 2010 ([on Crunchbase](https://www.crunchbase.com/organization/neighborino))
-* Partner, Team Lead and Senior Rails Developer, @Sagebit LLC (development shop), 2007 - 2009 ([on Crunchbase](https://www.crunchbase.com/organization/sagebit)([Tweet @ a co-founder](https://twitter.com/ben_mishkin))
-* Senior Software Engineer (Rails & XSLT), @[Indiana Legislative Services Agency](http://www.in.gov/legislative/register/irtoc.htm) &larr; I built the Indiana Register!, 2006 - 2007 ([on Ballotpedia](http://ballotpedia.org/Indiana_Legislative_Services_Agency))
-* Linux Sys Admin, .deb, Java, PHP, Rails Developer, @Optivel (IT consulting), 2004 - 2006 ([tweet at my old boss!](https://twitter.com/macksmind))
+* Executive Director & Board Member (ex-officio) @ [National Progressive Party](https://discord.gg/3V6j6Vy) &larr; A more progressive future is possible!, 2020 - 2022
+* Technical Advisor & Principal Engineer @ [Karuna Health](https://meetkaruna.com/) &larr; Assisting with backend architecture and hiring, 2018 - 2020 ([on Crunchbase](https://www.crunchbase.com/organization/karuna))
+* Principal Engineer @ [Group 1001](https://www.group1001.com) &larr; Building, optimizing, and extending the portfolio of insurance products (e.g. [Gainbridge](https://gainbridge.io)), 2018 - 2019 ([on Crunchbase](https://www.crunchbase.com/organization/group1001))
+* Principal Engineer @ [Bolt Threads](https://boltthreads.com/) &larr; How 'bout we try science?!, 2017
+* Principal Engineer Team Lead @ [Invoice2Go](https://invoice.2go.com/) &larr; Led team in rewrite; implemented engineering process, 2016 - 2017 ([on Crunchbase](https://www.crunchbase.com/organization/invoice2go))
+* Principal Engineer @ [Trumaker](http://www.trumaker.com) - built a hydra: e-commerce platform, sales CRM, warehousing, inventory management, and fulfillment system. 2014 - 2016 ([on Crunchbase](https://www.crunchbase.com/organization/trumaker))
+* Principal Engineer (contract) @ [Church Pension Group](https://www.cpg.org/) &larr; I (re)built the entire backend, 10x improvement in performance, 2013 - 2014 ([bloomberg profile](http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=3648509))
+* Chief Technology Officer & co-founder @ Acquaintable, accepted into ERA (NYC-based accelerator), then acquired, 2012 - 2013 ([on Crunchbase](https://www.crunchbase.com/organization/acquaintable))([Tweet @ my co-founder](https://twitter.com/joeljrod))
+* Senior Engineer Team Lead @ Bloomberg Black, 2010 - 2012 ([bloomberg profile](http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=160210))
+* Senior Engineer Team Lead @ Sagebit, LLC (development shop), 2007 - 20011 ([on Crunchbase](https://www.crunchbase.com/organization/sagebit))([Tweet @ a co-founder](https://twitter.com/ben_mishkin))
+* Senior Engineer (contract), @ [BibleGateway](https://www.biblegateway.com/) (9 month PHP to Rails contract), 2010 ([on wikipedia](https://en.wikipedia.org/wiki/BibleGateway.com))
+* Engineer @ Neighborino (HOA startup, contract), 2008 - 2010 ([on Crunchbase](https://www.crunchbase.com/organization/neighborino))
+* Engineer @ [Indiana Legislative Services Agency](http://www.in.gov/legislative/register/irtoc.htm) &larr; I built the Indiana Register!, 2006 - 2007 ([on Ballotpedia](http://ballotpedia.org/Indiana_Legislative_Services_Agency))
+* Engineer @ Optivel (IT consulting), 2004 - 2006 ([Tweet at my old boss!](https://twitter.com/macksmind))
 
 ### Skills
 
