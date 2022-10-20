@@ -15,17 +15,17 @@ type = "page"
 
 ### Download Resume Here <i class="fas fa-level-down"></i>
 
-I'm not a fan of vendor-lock, so have it your way!  Last revised in August, 2022.
+I'm not a fan of vendor-lock, so have it your way!  Last revised in October, 2022.
 
 - **[WEB](http://resume.peterboling.com)** (a website, for a web browser)
-- **[ePub](/cv/Peter_Boling_Resume_2022.08.24.epub)** (formatted for e-readers)
-- **[ODT](/cv/Peter_Boling_Resume_2022.08.24.odt)** (OpenDocument Text file)
-- **[PDF](/cv/Peter_Boling_Resume_2022.08.24.pdf)** (Portable Document Format)
-- **[RTF](/cv/Peter_Boling_Resume_2022.08.24.rtf)** (Rich Text Format)
-- **[TXT](/cv/Peter_Boling_Resume_2022.08.24.txt)** (Plain Text Format)
-- **[HTML, Zipped](/cv/Peter_Boling_Resume_2022.08.24.zip)** (Raw HTML assets, archived as a Zip file)
+- **[ePub](/cv/Peter_Boling_Resume_2022.10.20.epub)** (formatted for e-readers)
+- **[ODT](/cv/Peter_Boling_Resume_2022.10.20.odt)** (OpenDocument Text file)
+- **[PDF](/cv/Peter_Boling_Resume_2022.10.20.pdf)** (Portable Document Format)
+- **[RTF](/cv/Peter_Boling_Resume_2022.10.20.rtf)** (Rich Text Format)
+- **[TXT](/cv/Peter_Boling_Resume_2022.10.20.txt)** (Plain Text Format)
+- **[HTML, Zipped](/cv/Peter_Boling_Resume_2022.10.20.zip)** (Raw HTML assets, archived as a Zip file)
 
-<small>- Even [DOCX](/cv/Peter_Boling_Resume_2022.08.24.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
+<small>- Even [DOCX](/cv/Peter_Boling_Resume_2022.10.20.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
 
 ### How I use my allocation of bits
 
@@ -57,9 +57,8 @@ I am a political activist utilizing my social currency to advocate for equality 
 * Executive Director at [National Progressive Party](https://discord.gg/3V6j6Vy) &larr; A more progressive future is possible!, 2020 - 2022
 * Staff Software Engineer at [Underdog Sports](https://underdogsports.com/) &larr; Built JWT & JWKS authentication tools; Introduced interactor & view component patterns, 2021 - 2022 ([on Crunchbase](https://www.crunchbase.com/organization/underdog-fantasy))
 * Technical Advisor and Evangelist at [Karuna Health](https://meetkaruna.com/) &larr; Assisting with backend architecture and hiring, 2018 - 2020 ([on Crunchbase](https://www.crunchbase.com/organization/karuna))
-* Solutions Architect at [MINDBODY, Inc](https://www.mindbodyonline.com/) &larr; Architecture design and planning, SDLC process improvement, SME for services utilized by all teams, and projects within Marketing Products, 2019 - 2020 ([on Crunchbase](https://www.crunchbase.com/organization/mindbody))
 * Senior Staff Architect (contract), @[Group 1001](https://www.group1001.com) &larr; Building, optimizing, and extending the portfolio of insurance products (e.g. [Gainbridge.life](https://gainbridge.life), [Relay Rewards](https://relayrewards.com)), 2018 - 2019 ([on Crunchbase](https://www.crunchbase.com/organization/group1001))
-* Principle Systems Architect, @[Intricately](https://intricately.com/) &larr; Building, optimizing, and extending, the backend, 2016 - present ([on Crunchbase](https://www.crunchbase.com/organization/intricately#/entity))
+* Principle Systems Architect at cloud sales intelligence startup &larr; Building, optimizing, and extending, the backend, 2016 - 2018
 * Principle Systems Architect, @[Bolt Threads](https://boltthreads.com/) &larr; The more I learn about what the company is doing to revolutionize the textile industry the more excited I become about the possibilities.  Changing the world for the better, through efficiency, is always my goal professionally and personally.
 * Principle Engineer, Web Team Lead, Productivity & Automation Lead, @[Invoice2Go](https://www.invoice2go.com) &larr; Led team in rewrite; implemented engineering process, 2016 - 2017 ([on Crunchbase](https://www.crunchbase.com/organization/invoice2go))
 * Senior Engineer, @[Trumaker](http://www.trumaker.com) - built a hydra: e-commerce platform, sales CRM, warehousing, inventory management, and fulfillment system. 2014 - 2016 
