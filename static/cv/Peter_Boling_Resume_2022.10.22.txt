@@ -6,7 +6,7 @@ Recognized by Github in July 2022 as one of 904 developers whose open source cod
 Built world’s first enterprise Rails app running on Windows Server 2k3 & IIS6 (2006, ref1, ref2). Led massive PHP-to-Rails migrations @ aSmallWorld (2008-9) and BibleGateway (2009-10).
 Favorite 🥞is Event Storming, CQRS, Rails, SvelteKit, CI/CD, GitOps.
 Languages: 🇺🇸English ⦚ 🇲🇽Spanish (fluent) ⦚ 🇧🇷Portuguese (fluent) ⦚ 🇮🇩Indonesian (convo)
-Legend: 🦖= Additional role as primary JIRA admin (5x), 🪜= Received internal promotion (7x)
+Legend: 🦖= Additional role as primary Jira admin (5x), 🪜= Received internal promotion (7x)
 
 
 Leadership & Management Summary
@@ -40,7 +40,7 @@ Tidelift Maintainer, RubyGem & NPM Project Lead, 67+ libraries; following are wi
 
 Director of Engineering ⦚ Riviera Partners ⦚ Feb 2020 - present, 🦖🪜🪜
 ________________
-🥞Rails 5.2, Ruby 2.5…2.7, RSpec, PostgreSQL, SQS, S3, ES, Sidekiq, k8, Hasura, SchemaHero, GraphQL, CQRS+ES, Svelte, JIRA, Github
+🥞Rails 5.2, Ruby 2.5…2.7, RSpec, PostgreSQL, SQS, S3, ES, Sidekiq, k8, Hasura, SchemaHero, GraphQL, CQRS+ES, Svelte, Jira, Github
 * Managed back-end and devops teams. Focused on infrastructure as code and services
 * Automated & templated email campaigns improving response by order of magnitude
 * Utilized event storming to map business domain (Domain Driven Design)
@@ -62,7 +62,7 @@ ________________
 
 Principal Software Engineer ⦚ 9thBit LLC ⦚ Nov 2018 - Nov 2019, 🦖
 ________________
-🥞Rails 5.2, Ruby 2.4=>2.6, React v16, Redux, RSpec, PostgreSQL, S3, ES, Redis, Memcached, Sidekiq, JIRA, Github, Cypress, Contentful
+🥞Rails 5.2, Ruby 2.4=>2.6, React v16, Redux, RSpec, PostgreSQL, S3, ES, Redis, Memcached, Sidekiq, Jira, Github, Cypress, Contentful
 * Initially 6 month contract; extended to 12 months to work on following products:
    * Gainbridge, Delaware Life, Group1001, Relay Rewards (offline)
 * Design and implement all analytics integrations
@@ -72,7 +72,7 @@ ________________
 
 Principal Software Engineer ⦚ 9thBit LLC ⦚ May 2016 - Nov 2018, 🦖
 ________________
-🥞Rails 4.2, Ruby 2.0…2.3, RSpec, PostgreSQL, DynamoDB, S3, ES, Mongo, Resque, DO, DataDog, Cloudwatch, NewRelic, Salesforce, JIRA, Bitbucket
+🥞Rails 4.2, Ruby 2.0…2.3, RSpec, PostgreSQL, DynamoDB, S3, ES, Mongo, Resque, DO, DataDog, Cloudwatch, NewRelic, Salesforce, Jira, Bitbucket
 * Contract with cloud intelligence company extended many times
 * Created time-series data collection & analytics; track changes to the internet
 * Creating devops tools to better utilize infrastructure & manage costs
@@ -84,7 +84,7 @@ ________________
 
 Principal Software Engineer ⦚ Bolt Threads ⦚ Sep 2017 - May 2018, 🦖
 ________________
-🥞Rails 4.2…5.2, Ruby 2.3…2.5, RSpec, PostgreSQL, JIRA, Ubuntu, OPC DA integrations
+🥞Rails 4.2…5.2, Ruby 2.3…2.5, RSpec, PostgreSQL, Jira, Ubuntu, OPC DA integrations
 * Maintenance of a legacy Lab Information Management System (LIMS)
    * analysis and selection of off-the-shelf replacement
 * Interviewed candidates for Engineering leadership team:
@@ -95,7 +95,7 @@ ________________
 
 Principal Software Engineer Team Lead ⦚ Invoice2go ⦚ Jan 2016 - Feb 2017, 🦖🪜
 ________________
-🥞Rails 4.2, Ruby 2.3, RSpec, AngularJS 1.4, PostgreSQL, S3, ElasticSearch, Redis, Sidekiq, CircleCI, Jenkins, Github Enterprise, JIRA, ZenDesk, NewRelic
+🥞Rails 4.2, Ruby 2.3, RSpec, AngularJS 1.4, PostgreSQL, S3, ElasticSearch, Redis, Sidekiq, CircleCI, Jenkins, Github Enterprise, Jira, ZenDesk, NewRelic
 * Managed and led web team in developing a revamped web app
 * Managed automation team (developer tools); git flow and supporting toolchain
 * Participated in design of new service architecture

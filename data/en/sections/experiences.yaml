@@ -26,6 +26,7 @@ experiences:
           - My team leverages CQRS+ES (event sourcing), and GitOps for infrastructure-as-code, automation, monitoring, APIs, services, and data processing
           - Maintain the legacy Grape/Rails app, and work on the Hasura Read Model, KNative Eventing, GraphQL APIs, Data Models, Ingestors, Denoramlizers (Projections), and Command APIs, in the new NodeJS CQRS+ES distributed system
           - Event Storming to determine what we need to build; maps perfectly to CQRS+ES, and abides the principles of Domain Driven Design
+          - Primary Jira administrator for all company projects
 
   - company:
       name: National Progressive Party
@@ -70,9 +71,10 @@ experiences:
         start: Nov 2018
         end: Nov 2019 (6mos contract, extended)
         responsibilities:
-          - Re-built and maintained Relay Rewards @ https://RelayRewards.com
+          - Re-built and maintained Relay Rewards (now offline)
           - Re-built and maintained Group 1001 @ https://www.group1001.com/
-          - Worked on many parts of Gainbridge Life @ https://gainbridge.life/
+          - Worked on many parts of Gainbridge Life @ https://gainbridge.io/
+          - Primary Jira administrator for all company projects
 
   - company:
       name: Intricately
@@ -89,6 +91,7 @@ experiences:
           - Advanced math to transform non-scalar data from AWS Alexa into a scalar digest
           - Monitor, log, benchmark, and automate the internet monitoring robots
           - Build data pipelines for enterprise customers exposing the internet sliced in different ways
+          - Primary Jira administrator for all company projects
 
   - company:
       name: Bolt Threads
@@ -100,13 +103,13 @@ experiences:
         start: Sep 2017
         end: May 2018
         responsibilities:
-          - Maintenance of a legacy, custom, in-house built, Lab Information Management System.
-          - Analysis of potential replacement third party LIMS systems.
+          - Maintenance of a legacy, custom, in-house built, Lab Information Management System
+          - Analysis of potential replacement third party LIMS systems
           - Interviewed candidates for Software Engineering leadership team (VP, Director, Sys Admins)
           - Integration of Windows-based OPC DA services with LIMS via data sampling mechanisms
           - Translate garment designs to instrumentation for a Stoll industrial knitting machine
-          - Primary JIRA administrator for all company projects
-          - Left when the in-house LIMS system was replaced with off-the-shelf software.
+          - Left when the in-house LIMS system was replaced with off-the-shelf software
+          - Primary Jira administrator for all company projects
 
   - company:
       name: Invoice2Go
@@ -120,11 +123,11 @@ experiences:
         responsibilities:
           - Lead the web team in developing a revamped web app, now at https://invoice.2go.com/invoice-generator/
           - Laid the groundwork for new service architecture, implementation and continuous integration
-          - Designing JIRA process, workflows and screens, and integration with ZenDesk
           - Designing and implementing git branching strategy and supporting toolchain
           - Implementing sandboxed dev env and tiered deployed environments
           - Design and implement feature flags allowing synchronized feature release across clients
           - Tech Lead role in Jakarta office
+          - Primary Jira administrator for all company projects, and integration with ZenDesk
 
   - company:
       name: Trumaker & Co

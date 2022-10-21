@@ -16,9 +16,14 @@ skills:
   summary: "Language of choice for most tasks, on both professional and personal projects. Love writing scalable, testable, and maintainable code."
   url: "https://www.ruby-lang.org/"
 
+- name: Project Mgmt
+  icon: "fas fa-project-diagram"
+  summary: "Jira 🦖 is preferred issue tracker; administrator since 2016. Skilled at project setup & data migrations. Also familiar w/ Clubhouse, Pivotal, Redmine, and others."
+  url: "https://www.atlassian.com/software/jira"
+
 - name: Cloud
   icon: "fas fa-cloud-upload-alt"
-  summary: "Familiar with AWS, Digital Ocean, and Dreamhost cloud services."
+  summary: "Familiar with AWS, GCP, Azure, Heroku, Digital Ocean, and Dreamhost cloud services."
 
 - name: Linux & MacOS
   icon: "fas fa-cogs"
@@ -26,13 +31,9 @@ skills:
 
 - name: SCM / VCS
   icon: "fas fa-code-branch"
-  summary: "Experienced with git-based development, workflows and tools. Contributor to git-reflow. Additionally have experience with svn and cvs"
+  summary: "Experienced with git-based development, workflows and tools. Contributor to git-reflow, but now favor trunk-based. Additionally have experience with svn and cvs."
   url: "https://git-scm.com/"
 
 - name: Shells
   icon: "fas fa-terminal"
   summary: "Bash is my go tool for portable scripting, and Zsh is my current shell. Checkout my dotfiles, and other shell projects, on Github."
-
-- name: Project Management
-  icon: "fas fa-project-diagram"
-  summary: "Experienced with administration of many project management tools, such as Jira, Pivotal, Clubhouse, and others."

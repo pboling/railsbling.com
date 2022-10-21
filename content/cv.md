@@ -15,7 +15,7 @@ type = "page"
 
 ### Download Resume Here <i class="fas fa-level-down"></i>
 
-I'm not a fan of vendor-lock, so have it your way!  Resume last revised October 21st, 2022.
+I'm not a fan of vendor-lock, so have it your way!  Resume last revised October 22nd, 2022.
 
 - **[WEB (here)](/cv/resume.html), or on [Google](https://docs.google.com/document/d/1H9fYtkMFmnkQO1sucrFPt5E3dvhozgVtI31LgpNLmJ4/pub)** (a website, for a web browser)
 - **[ePub](/cv/Peter_Boling_Resume_2022.10.21.epub)** (formatted for e-readers)
@@ -69,16 +69,16 @@ I am a political activist utilizing my social currency to advocate for equality 
 * Principal Engineer @ [Group 1001](https://www.group1001.com) &larr; Building, optimizing, and extending the portfolio of insurance products (e.g. [Gainbridge](https://gainbridge.io)), 2018 - 2019 ([on Crunchbase](https://www.crunchbase.com/organization/group1001))
 * Principal Engineer @ [Bolt Threads](https://boltthreads.com/) &larr; How 'bout we try science?!, 2017
 * Principal Engineer Team Lead @ [Invoice2Go](https://invoice.2go.com/) &larr; Led team in rewrite; implemented engineering process, 2016 - 2017 ([on Crunchbase](https://www.crunchbase.com/organization/invoice2go))
-* Principal Engineer @ [Trumaker](http://www.trumaker.com) - built a hydra: e-commerce platform, sales CRM, warehousing, inventory management, and fulfillment system. 2014 - 2016 ([on Crunchbase](https://www.crunchbase.com/organization/trumaker))
+* Principal Engineer @ [Trumaker](http://www.trumaker.com) &larr; built a hydra: e-commerce platform, sales CRM, warehousing, inventory management, and fulfillment system. 2014 - 2016 ([on Crunchbase](https://www.crunchbase.com/organization/trumaker))
 * Principal Engineer (contract) @ [Church Pension Group](https://www.cpg.org/) &larr; I (re)built the entire backend, 10x improvement in performance, 2013 - 2014 ([bloomberg profile](http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=3648509))
-* Chief Technology Officer & co-founder @ [Acquaintable](https://www.crunchbase.com/organization/acquaintable), accepted into ERA (NYC-based accelerator), then acquired, 2012 - 2013 ([on Crunchbase](https://www.crunchbase.com/organization/acquaintable))([Tweet @ my co-founder](https://twitter.com/joeljrod))
+* Chief Technology Officer & co-founder @ [Acquaintable](https://www.crunchbase.com/organization/acquaintable) &larr; accepted into ERA (NYC-based accelerator), then acquired, 2012 - 2013 ([on Crunchbase](https://www.crunchbase.com/organization/acquaintable))([Tweet @ my co-founder](https://twitter.com/joeljrod))
 * Senior Engineer Team Lead @ [Bloomberg Black](http://web.archive.org/web/20130723200035/http://explore.bloombergblack.com/), 2010 - 2012 ([bloomberg profile](http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=160210))
-* Senior Engineer Team Lead @ [Sagebit](https://www.crunchbase.com/organization/sagebit) (development shop), 2007 - 20011 ([on Crunchbase](https://www.crunchbase.com/organization/sagebit))([Tweet @ a co-founder](https://twitter.com/ben_mishkin))
-* Senior Engineer (contract), @ [BibleGateway](https://www.biblegateway.com/) (9 month PHP to Rails contract), 2010 ([on wikipedia](https://en.wikipedia.org/wiki/BibleGateway.com))
-* Engineer @ [Neighborino](https://www.youtube.com/watch?v=b8f6mPkChrs) (HOA startup, contract), 2008 - 2010 ([on Crunchbase](https://www.crunchbase.com/organization/neighborino))
-* Engineer @ [Indiana Legislative Services Agency](http://www.in.gov/legislative/register/irtoc.htm) &larr; I built the Indiana Register!, 2006 - 2007 ([on Ballotpedia](http://ballotpedia.org/Indiana_Legislative_Services_Agency))
-* Engineer @ [PanEther](https://www.dandb.com/businessdirectory/panetherllc-indianapolis-in-22285441.html) (development shot), 2005 - 2007
-* Engineer @ [Optivel](https://rocketreach.co/optivel-inc-profile_b445a0dafa55b3c4) (IT consulting), 2004 - 2006 ([Tweet at my old boss!](https://twitter.com/macksmind))
+* Senior Engineer Team Lead @ [Sagebit](https://www.crunchbase.com/organization/sagebit) &larr; development consulting; so many projects! 2007 - 20011 ([on Crunchbase](https://www.crunchbase.com/organization/sagebit))([Tweet @ a co-founder](https://twitter.com/ben_mishkin))
+* Senior Engineer (contract), @ [BibleGateway](https://www.biblegateway.com/) &larr; 9 month PHP to Rails contract, 2010 ([on wikipedia](https://en.wikipedia.org/wiki/BibleGateway.com))
+* Engineer @ [Neighborino](https://www.youtube.com/watch?v=b8f6mPkChrs) &larr; HOA startup, contract, 2008 - 2010 ([on Crunchbase](https://www.crunchbase.com/organization/neighborino))
+* Engineer @ [Legislative Services Agency](https://faqs.in.gov/hc/en-us/sections/115001505808-Legislative-Services-Agency) of the Indiana General Assembly &larr; Built the [Indiana Register](http://iac.iga.in.gov/iac/irtoc.htm) and [Administrative Code](http://iac.iga.in.gov/iac/iac_title)!, 2006 - 2007 ([on Ballotpedia](http://ballotpedia.org/Indiana_Legislative_Services_Agency))
+* Engineer @ [PanEther](https://www.dandb.com/businessdirectory/panetherllc-indianapolis-in-22285441.html) &larr; development consulting; built a fantasy football app, 2005 - 2007
+* Engineer @ [Optivel](https://rocketreach.co/optivel-inc-profile_b445a0dafa55b3c4) &larr; IT consulting, 2004 - 2006 ([Tweet at my old boss!](https://twitter.com/macksmind))
 
 ### Skills
 
