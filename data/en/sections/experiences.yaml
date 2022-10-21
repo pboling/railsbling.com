@@ -11,17 +11,32 @@ section:
 # Your experiences
 experiences:
   - company:
+      name: Riviera Partners
+      url: "https://rivierapartners.com/"
+      location: San Francisco, CA
+      overview: Engineering, Product, & Design Recruiting. Minimized Hiring Risk. Predictable Success.
+    positions:
+      - designation: Director of Engineering
+        start: Feb 2020
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        end:
+        responsibilities:
+          - Lead Engineering organization of 20, and directly manage backend team of 5 and devops team of 2
+          - Design migration paths toward increased data security, lower systems costs, fewer wasted resources
+          - My team leverages CQRS+ES (event sourcing), and GitOps for infrastructure-as-code, automation, monitoring, APIs, services, and data processing
+          - Maintain the legacy Grape/Rails app, and work on the Hasura Read Model, KNative Eventing, GraphQL APIs, Data Models, Ingestors, Denoramlizers (Projections), and Command APIs, in the new NodeJS CQRS+ES distributed system
+          - Event Storming to determine what we need to build; maps perfectly to CQRS+ES, and abides the principles of Domain Driven Design
+
+  - company:
       name: National Progressive Party
       url: "https://nationalprogressiveparty.org/"
       location:
       # company overview
       overview: Build an equitable society without the corrupting influence of corporate money in politics.
     positions:
-      - designation: Executive Director
+      - designation: Executive Director & Board Member (ex-officio)
         start: Jun 2020
-        # don't provide end date if you are currently working there. It will be replaced by "Present"
         end: Jun 2022
-        # give some points about what was your responsibilities at the company.
         responsibilities:
           - Appointed by Executive Board of NPP
           - Manage the volunteer efforts of the organization.  Determine or build the technology, tools, and platforms used by volunteers and members
@@ -31,30 +46,14 @@ experiences:
           - First role was as a volunteer Deputy Director of Outreach (March, 2020 - a volunteer position)
 
   - company:
-      name: Riviera Partners
-      url: "https://rivierapartners.com/"
-      location: San Francisco, CA
-      overview: Engineering, Product, & Design Recruiting. Minimized Hiring Risk. Predictable Success.
-    positions:
-      - designation: Director of Engineering
-        start: Feb 2020
-        end: Nov 2021
-        responsibilities:
-          - Lead Engineering organization of 12, and directly manage backend team of 5
-          - Design migration paths toward increased data security, lower systems costs, fewer wasted resources
-          - My team leverages CQRS+ES (event sourcing), and GitOps for infrastructure-as-code, automation, monitoring, APIs, services, and data processing
-          - Maintain the legacy Grape/Rails app, and work on the Hasura Read Model, KNative Eventing, GraphQL APIs, Data Models, Ingestors, Denoramlizers (Projections), and Command APIs, in the new NodeJS CQRS+ES distributed system
-          - Event Storming to determine what we need to build; maps perfectly to CQRS+ES, and abides the principles of Domain Driven Design
-
-  - company:
       name: Karuna Health
       url: "https://www.facebook.com/meetkarunahealth/"
       location: San Francisco, CA
       overview: Karuna connects patients with healthcare guides through streamlined communication and automation.
     positions:
-      - designation: Technical Advisor
-        start: Nov 2018
-        end: May 2020
+      - designation: Technical Advisor, Principal Software Engineer
+        start: Oct 2018
+        end: Apr 2020
         responsibilities:
           - Advising on technology and hiring decisions at Karuna Health.
           - Built the email gateway, much of the notification services, and helped plan the architecture of the system.
@@ -67,7 +66,7 @@ experiences:
       location: New York, NY
       overview: We are a family of insurance companies offering accumulation and protection solutions
     positions:
-      - designation: Senior Staff Architect
+      - designation: Principal Software Engineer
         start: Nov 2018
         end: Nov 2019 (6mos contract, extended)
         responsibilities:
@@ -81,7 +80,7 @@ experiences:
       location: San Francisco, CA
       overview: Authoritative Product Adoption, Usage, And Spend Data. Get detailed insights into the cloud infrastructure of 7 million companies.
     positions:
-      - designation: Principal Systems Architect
+      - designation: Principal Software Engineer
         start: May 2016
         end: Nov 2018
         responsibilities:
@@ -97,7 +96,7 @@ experiences:
       location: San Francisco, CA
       overview: Bolt Threads is a material solutions company. Taking nature as our inspiration, we invent and scale cutting-edge materials that put us on a path towards a more sustainable future – and that starts now.
     positions:
-      - designation: Principal Systems Architect
+      - designation: Principal Software Engineer
         start: Sep 2017
         end: May 2018
         responsibilities:
@@ -115,7 +114,7 @@ experiences:
       location: Jakarta, Indonesia
       overview: Send professional invoices and estimates in minutes. Invoice on the spot, right when you finish the job. Spend less time on paperwork and more time doing what you love.
     positions:
-      - designation: Principal Engineer, Automation Team Lead, Web Team Lead
+      - designation: Principal Software Engineer Team Lead
         start: Jan 2016
         end: Feb 2017
         responsibilities:
@@ -133,7 +132,7 @@ experiences:
       location: San Francisco, CA
       overview: Bolt Threads is a material solutions company. Taking nature as our inspiration, we invent and scale cutting-edge materials that put us on a path towards a more sustainable future – and that starts now.
     positions:
-      - designation: Senior Engineer
+      - designation: Staff Software Engineer
         start: Apr 2014
         end: Mar 2016
         responsibilities:
@@ -154,7 +153,7 @@ experiences:
       location: New York, NY
       overview: Provides resources and services to sustain the operations of the Episcopal Church worldwide.
     positions:
-      - designation: Senior Staff Architect, Services (9mos contract, extended)
+      - designation: Staff Software Engineer (9mos contract, extended)
         start: Aug 2013
         end: Oct 2014
         responsibilities:
@@ -185,12 +184,12 @@ experiences:
           - Successful exit via acquisition by Reveal (Microsoft Ventures backed)
 
   - company:
-      name: Bloomberg Black (reorg'd as Circle Black)
+      name: Bloomberg Black
       url: https://www.circleblack.com/
       location: New York, NY
       overview: Personal Wealth Management
     positions:
-      - designation: Senior Rubyist & Lead Developer
+      - designation: Senior Software Engineer Team Lead
         start: Aug 2010
         end: Nov 2012
         responsibilities:
@@ -206,3 +205,4 @@ experiences:
           - Javascript - flyout menus, internally tabbed ajax pages, scrollspy, breadcrumbs
           - Javascript - Built the CMS backend for the content entry in the 100% javascript Rapid IDE
           - Maintained platform interoperability – Windows & RedHat & MacOS
+          - What started as Bloomberg Black eventually became Circle Black
