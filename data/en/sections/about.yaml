@@ -11,6 +11,10 @@ section:
 
 # your company information
 roles:
+  - designation: Director of Engineering
+    company:
+      name: Riviera Partners
+      url: "https://rivierapartners.com"
   - designation: FLOSS Author & Maintainer
     company:
       name: MINSWAN ;)
@@ -28,7 +32,7 @@ roles:
 resume: "/cv"
 
 # a summary about you
-summary: 'For over 17 years I have been building web-based applications, primarily with Ruby. I am passionate about building FLOSS tools to help humanity accomplish more good things with fewer resources.'
+summary: 'For over 18 years I have been building web-based applications, primarily with Ruby. I am passionate about building FLOSS tools to help humanity accomplish more good things with fewer resources.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -40,7 +44,7 @@ socialLinks:
 
   - name: Phone
     icon: "fas fa-phone"
-    number: "+1-925-252-5351"
+    url: "tel:+1-925-252-5351"
 
   - name: Github
     icon: "fab fa-github"
@@ -66,9 +70,9 @@ socialLinks:
     icon: "fas fa-terminal"
     url: "https://www.hackerrank.com/peter_boling"
 
-  - name: Github Awards
+  - name: Star Dev
     icon: "far fa-keyboard"
-    url: "http://github-awards.com/users/search?login=pboling"
+    url: "https://stardev.io/developers/pboling"
 
   - name: About Me
     icon: "fas fa-user-astronaut"

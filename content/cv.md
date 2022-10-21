@@ -15,41 +15,51 @@ type = "page"
 
 ### Download Resume Here <i class="fas fa-level-down"></i>
 
-I'm not a fan of vendor-lock, so have it your way!  Last revised in October, 2022.
+I'm not a fan of vendor-lock, so have it your way!  Resume last revised October 21st, 2022.
 
-- **[WEB](http://resume.peterboling.com)** (a website, for a web browser)
-- **[ePub](/cv/Peter_Boling_Resume_2022.10.20.epub)** (formatted for e-readers)
-- **[ODT](/cv/Peter_Boling_Resume_2022.10.20.odt)** (OpenDocument Text file)
-- **[PDF](/cv/Peter_Boling_Resume_2022.10.20.pdf)** (Portable Document Format)
-- **[RTF](/cv/Peter_Boling_Resume_2022.10.20.rtf)** (Rich Text Format)
-- **[TXT](/cv/Peter_Boling_Resume_2022.10.20.txt)** (Plain Text Format)
-- **[HTML, Zipped](/cv/Peter_Boling_Resume_2022.10.20.zip)** (Raw HTML assets, archived as a Zip file)
+- **[WEB](https://docs.google.com/document/d/1H9fYtkMFmnkQO1sucrFPt5E3dvhozgVtI31LgpNLmJ4/pub)** (a website, for a web browser)
+- **[ePub](/cv/Peter_Boling_Resume_2022.10.21.epub)** (formatted for e-readers)
+- **[ODT](/cv/Peter_Boling_Resume_2022.10.21.odt)** (OpenDocument Text file)
+- **[PDF](/cv/Peter_Boling_Resume_2022.10.21.pdf)** (Portable Document Format)
+- **[RTF](/cv/Peter_Boling_Resume_2022.10.21.rtf)** (Rich Text Format)
+- **[TXT](/cv/Peter_Boling_Resume_2022.10.21.txt)** (Plain Text Format)
+- **[HTML, Zipped](/cv/Peter_Boling_Resume_2022.10.21.zip)** (Raw HTML assets, archived as a Zip file)
 
-<small>- Even [DOCX](/cv/Peter_Boling_Resume_2022.10.20.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
+<small>- Even [DOCX](/cv/Peter_Boling_Resume_2022.10.21.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
 
 ### How I use my allocation of bits
 
-Experienced director, system architect, team leader, mentor, rubyist, and full stack web application programmer since 2004; sometime linux system administrator.
+Experienced director, team leader, mentor, linux system admin, rubyist, FLOSS advocate, barista, student, and builder of web applications great and small for 25 years. Passionate about testing, efficiency, learning best practices, and improving the human condition by automation.
 
 Author and maintainer of many popular open source libraries [![On RubyGems](https://img.shields.io/gem/u/pboling.svg)](https://rubygems.org/profiles/pboling), which have been downloaded many millions of times.
 
+Recognized by Github in July 2022 as one of 904 developers whose open source code their platform relies on. Engineered solutions for nearly every sector of industry. Specialize in migrating legacy systems to modern architecture utilizing principles of BDD, and DDD.
+
+Built world’s first enterprise Rails app running on Windows Server 2k3 & IIS6 (2006, ref1, ref2). Led massive PHP-to-Rails migrations @ aSmallWorld (2008-9) and BibleGateway (2009-10).
+
 I excel at data analysis, task automation, testing, style guides, best practices, API design, benchmarking, and Domain Driven Design.
+
+Favorite 🥞is Event Storming, CQRS, Rails, SvelteKit, CI/CD, and GitOps.
 
 Created solutions for finance, social networking, government, information technology, B2B, fashion, gaming, publishing, and e-commerce sectors.
 
 Dedicated to moving science forward and improving the condition of life generally by automation and process improvement.
 
-My [public calendar is available](https://calendar.google.com/calendar/embed?src=peter.boling%40gmail.com&ctz=America/Los_Angeles), so you can know when I am available.  I am always happy to chat about tech, and have advised many companies on a wide range of issues from development to infrastructure.
+Languages: 🇺🇸English ⦚ 🇲🇽Spanish (fluent) ⦚ 🇧🇷Portuguese (fluent) ⦚ 🇮🇩Indonesian (convo)
+
+My [public calendar is available](https://calendar.google.com/calendar/embed?src=peter.boling%40gmail.com&ctz=America/Los_Angeles), so you can know when I am available.
+You can schedule some time to chat on my [📅Calendly](https://calendly.com/peter-boling/30min).  I am always happy to chat about tech, and have advised many companies on a wide range of issues from development to infrastructure.
 
 I am a political activist utilizing my social currency to advocate for equality for all [![Follow Me](https://img.shields.io/twitter/follow/galtzo.svg?style=social&label=Follow)](http://twitter.com/intent/user?screen_name=galtzo).
 
 ### More stuff I am working on now
 
 * Director of Engineering at [Riviera Partners](https://rivierapartners.com) &larr; Building the AI & ML enhanced recruiting platform of the future, 2020 - present
-* Co-founder of [Hope For Tomorrow (Liberia)](https://www.facebook.com/hope.for.tomorrow.liberia/) - Liberian NGO working to repatriate refugees still in Ghana, and stabilize ex-refugees that have been repatriated, 2015 - present
-* Co-founder of [WordTree Foundation](http://wordtree.org) - non-profit scientific linguistics research, 2014 - present
+* Advisor to [Hope For Tomorrow (Liberia)](https://www.facebook.com/hope.for.tomorrow.liberia/) - Liberian NGO working to repatriate refugees still in Ghana, and stabilize ex-refugees that have been repatriated, 2015 - present
+* Co-founder of [WordTree Foundation](http://wordtree.org) - non-profit scientific linguistics research, 2013 - present
 [![Tweet](https://img.shields.io/twitter/url/http/wordtree.org.svg?style=social)](https://twitter.com/intent/tweet?text=Interesting:&amp;url=http%3A%2F%2Fwordtree.org)
-* Many Open Source projects! [Check out the source.](https://github.com/pboling/)
+* Many Open Source projects! [![RubyGems](https://img.shields.io/gem/u/pboling.svg)](https://rubygems.org/profiles/pboling) ⦚ [🐙Hub](https://github.com/pboling) ⦚ [🧪Lab](https://gitlab.com/pboling) ⦚ [🛖Hut](https://sr.ht/~galtzo/)
+  * Moving [away from the 🐙Hub](https://dev.to/pboling/im-leaving-github-50ba). 🤨
 * This blog! [Check out the source.](https://github.com/pboling/railsbling.com)
 
 ### Past Work
@@ -61,13 +71,14 @@ I am a political activist utilizing my social currency to advocate for equality 
 * Principal Engineer Team Lead @ [Invoice2Go](https://invoice.2go.com/) &larr; Led team in rewrite; implemented engineering process, 2016 - 2017 ([on Crunchbase](https://www.crunchbase.com/organization/invoice2go))
 * Principal Engineer @ [Trumaker](http://www.trumaker.com) - built a hydra: e-commerce platform, sales CRM, warehousing, inventory management, and fulfillment system. 2014 - 2016 ([on Crunchbase](https://www.crunchbase.com/organization/trumaker))
 * Principal Engineer (contract) @ [Church Pension Group](https://www.cpg.org/) &larr; I (re)built the entire backend, 10x improvement in performance, 2013 - 2014 ([bloomberg profile](http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=3648509))
-* Chief Technology Officer & co-founder @ Acquaintable, accepted into ERA (NYC-based accelerator), then acquired, 2012 - 2013 ([on Crunchbase](https://www.crunchbase.com/organization/acquaintable))([Tweet @ my co-founder](https://twitter.com/joeljrod))
-* Senior Engineer Team Lead @ Bloomberg Black, 2010 - 2012 ([bloomberg profile](http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=160210))
-* Senior Engineer Team Lead @ Sagebit, LLC (development shop), 2007 - 20011 ([on Crunchbase](https://www.crunchbase.com/organization/sagebit))([Tweet @ a co-founder](https://twitter.com/ben_mishkin))
+* Chief Technology Officer & co-founder @ [Acquaintable](https://www.crunchbase.com/organization/acquaintable), accepted into ERA (NYC-based accelerator), then acquired, 2012 - 2013 ([on Crunchbase](https://www.crunchbase.com/organization/acquaintable))([Tweet @ my co-founder](https://twitter.com/joeljrod))
+* Senior Engineer Team Lead @ [Bloomberg Black](http://web.archive.org/web/20130723200035/http://explore.bloombergblack.com/), 2010 - 2012 ([bloomberg profile](http://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=160210))
+* Senior Engineer Team Lead @ [Sagebit](https://www.bizapedia.com/in/sagebit-llc.html) (development shop), 2007 - 20011 ([on Crunchbase](https://www.crunchbase.com/organization/sagebit))([Tweet @ a co-founder](https://twitter.com/ben_mishkin))
 * Senior Engineer (contract), @ [BibleGateway](https://www.biblegateway.com/) (9 month PHP to Rails contract), 2010 ([on wikipedia](https://en.wikipedia.org/wiki/BibleGateway.com))
-* Engineer @ Neighborino (HOA startup, contract), 2008 - 2010 ([on Crunchbase](https://www.crunchbase.com/organization/neighborino))
+* Engineer @ [Neighborino](https://www.youtube.com/watch?v=b8f6mPkChrs) (HOA startup, contract), 2008 - 2010 ([on Crunchbase](https://www.crunchbase.com/organization/neighborino))
 * Engineer @ [Indiana Legislative Services Agency](http://www.in.gov/legislative/register/irtoc.htm) &larr; I built the Indiana Register!, 2006 - 2007 ([on Ballotpedia](http://ballotpedia.org/Indiana_Legislative_Services_Agency))
-* Engineer @ Optivel (IT consulting), 2004 - 2006 ([Tweet at my old boss!](https://twitter.com/macksmind))
+* Engineer @ [PanEther](https://www.dandb.com/businessdirectory/panetherllc-indianapolis-in-22285441.html) (development shot), 2005 - 2007
+* Engineer @ [Optivel](https://rocketreach.co/optivel-inc-profile_b445a0dafa55b3c4) (IT consulting), 2004 - 2006 ([Tweet at my old boss!](https://twitter.com/macksmind))
 
 ### Skills
 
