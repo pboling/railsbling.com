@@ -6,7 +6,7 @@ Recognized by Github in July 2022 as one of 904 developers whose open source cod
 Built world’s first enterprise Rails app running on Windows Server 2k3 & IIS6 (2006, ref1, ref2). Led massive PHP-to-Rails migrations @ aSmallWorld (2008-9) and BibleGateway (2009-10).
 Favorite 🥞is Event Storming, CQRS, Rails, SvelteKit, CI/CD, GitOps.
 Languages: 🇺🇸English ⦚ 🇲🇽Spanish (fluent) ⦚ 🇧🇷Portuguese (fluent) ⦚ 🇮🇩Indonesian (convo)
-Legend: 🦖= Additional role as primary JIRA admin (5x), 🪜= Received internal promotion (6x)
+Legend: 🦖= Additional role as primary JIRA admin (5x), 🪜= Received internal promotion (7x)
 
 
 Leadership & Management Summary
@@ -103,7 +103,7 @@ ________________
 * Promoted to Principal Engineer & assigned leadership role in Jakarta office
 
 
-Principal Software Engineer ⦚ Trumaker & Co ⦚ Apr 2014 - Mar 2016
+Staff Software Engineer ⦚ Trumaker & Co ⦚ Apr 2014 - Mar 2016
 ________________
 🥞Rails 3.2, Ruby 2.0…2.1, RSpec, React, Ember, Haml, Slim, SASS, PostgreSQL, S3, Sidekiq, TravisCI, Github, Salesforce, NewRelic, Heroku
 * Extracted front-end parts to ember-cli and react thin clients
@@ -119,7 +119,7 @@ ________________
 * Built front-end tools, & supporting gems, including status_tag, and destination_errors
 
 
-Principal Software Engineer ⦚ 9thBit LLC ⦚ Aug 2013 - Nov 2014
+Staff Software Engineer ⦚ 9thBit LLC ⦚ Aug 2013 - Nov 2014
 ________________
 🥞Ruby 1.8…2.1, CGI, FastCGI, Mail gem, RSpec, Oracle 11g, rbenv, bash, daemons, RedHat linux
 * Initial 9 month contact with Church Pension Group extended to project completion
@@ -160,11 +160,11 @@ ________________
 * Forked rack-bug; fixed and rewrote as rack-insight gem
 
 
-Senior Software Engineer Team Lead ⦚ 9thBit LLC ⦚ Sep 2008 - Aug 2014
+Senior Software Engineer Team Lead ⦚ 9thBit LLC ⦚ Sep 2008 - Aug 2014, 🪜
 ________________
 🥞Rails 2.0…2.3, Makandra Rails LTS, Ruby 1.8…2.2, RSpec, Haml, CSS, MySQL, Mongrel, Unicorn, TravisCI, Github, Redmine, NewRelic
 * Contract with Timeperks (early B2B2C DoorDash)
-* Mentored junior developers, and reviewed code
+* Promoted to Team Lead; mentored junior developers, and reviewed code
 * Built CX ghosting/masquerade tool
 * Created data reporting features, utilizing my csv_pirate gem
 * Implemented three-way marketplace payments via Amazon FPS;
@@ -228,7 +228,7 @@ ________________
 Software Engineer ⦚ Legislative Services Agency ⦚ Apr 2006 - Jun 2007
 ________________
 🥞Rails 1.1…1.2, Ruby 1.8, Oracle 8i, 9i & 10g, jQuery, AJAX, CSS, Redhat Linux, Windows IIS, XML, XSL, Tomcat, Cocoon, C#, Google search appliance
-* Built Indiana Register website - automatically publishes all official legislative documents
+* Built Indiana Register and Administrative Code site - official documents auto-published
    * Designed layout, created CSS which 15 years on is still beautiful, fast, and timeless!
    * Search feature backed by a Google Mini search appliance
    * Batch and shell scripts for automatic publishing of official documents
