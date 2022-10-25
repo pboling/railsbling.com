@@ -1,11 +1,13 @@
 ﻿PETER H BOLING
 📍Detroit, MI (remote-only) ⦚ ⌚️TZ-America/* ⦚ 📞(925) 252-5351 ⦚ 📧peter@railsbling.com
 🔗Portfolio ⦚ 💎Gems ⦚ 🐙Hub ⦚ 🧪Lab ⦚ 🛖Hut ⦚ 📅Calendly
-Director, team leader, mentor, linux system admin, FLOSS advocate, barista, student, and builder of web applications great and small for 25 years. Passionate about testing, efficiency, learning best practices, and improving the human condition by automation.
-Recognized by Github in July 2022 as one of 904 developers whose open source code their platform relies on. Engineered solutions for nearly every sector of industry. Specialize in migrating legacy systems to modern architecture utilizing principles of BDD, and DDD.
-Built world’s first enterprise Rails app running on Windows Server 2k3 & IIS6 (2006, ref1, ref2). Led massive PHP-to-Rails migrations @ aSmallWorld (2008-9) and BibleGateway (2009-10).
+Director, leader,  mentor, sys admin, FLOSS advocate, barista, and builder for 25 years. Passions are testing, efficiency, best practices, and improving the human condition by automation.
+Recognized in July 2022 as one of 904 builders of FLOSS tools making Github possible. Specialize in migrating legacy systems to modern architecture utilizing principles of BDD, and DDD.
+World first: Enterprise Rails app on Windows Server 2k3, IIS6 + FastCGI w/ SSO (2006, ref1, ref2). Led massive PHP-to-Rails migrations @ aSmallWorld (2008-9) and BibleGateway (2009-10).
 Favorite 🥞is Event Storming, CQRS, Rails, SvelteKit, CI/CD, GitOps.
 Languages: 🇺🇸English ⦚ 🇲🇽Spanish (fluent) ⦚ 🇧🇷Portuguese (fluent) ⦚ 🇮🇩Indonesian (convo)
+
+
 Legend: 🦖= Additional role as primary Jira admin (5x), 🪜= Received internal promotion (7x)
 
 
@@ -27,37 +29,35 @@ Team Lead, Sagebit; mentored 5 recent graduate programmers; 2008 - 2009
 
 Free (Libre) Open Source Summary
 ________________
-Tidelift Maintainer, RubyGem & NPM Project Lead, 67+ libraries; following are widely adopted:
-1. oauth2 - OAuth 2 Client; maintainer since 2017; 123.9MM DL
-2. oauth - OAuth 1 Client & Server; maintainer since 2021; 82.9MM DL
-3. version_gem - Gemspec-compatible VERSION enhancer; author, 2022; 3.3MM DL
+Tidelift Maintainer, RubyGem & NPM Project Lead, 67+ libraries; widely adopted (10.22.22):
+1. oauth2 - OAuth 2 Client; maintainer since 2017; 124MM DL
+2. oauth - OAuth 1 Client & Server; maintainer since 2021; 83MM DL
+3. version_gem - Gemspec-compatible VERSION enhancer; author, 2022; 3.5MM DL
 4. dynamoid - Amazon DynamoDB ORM; maintainer since 2016; 2.8MM DL
 5. gem_bench - Gemfile static analysis; author, 2013; 2.8MM DL
-6. flag_shih_tzu - bitfields for ActiveRecord; maintainer since 2012; 1.8MM DL
-7. sanitize_email - email condom for Ruby server; author, 2009; 1.5MM DL
-8. omniauth-identity - trad un/pw adapter for omniauth; maintainer since 2020; 1.4MM DL
+6. flag_shih_tzu - Bitfields for ActiveRecord; maintainer since 2012; 1.8MM DL
+7. sanitize_email - Email condom for Ruby server; author, 2009; 1.5MM DL
+8. omniauth-identity - Trad un/pw adapter for omniauth; maintainer since 2020; 1.4MM DL
+9. snaky_hash - A Hashie::Mash joint for #snakelife; author 2022; 1.3MM DL
+10. seed_migration - Rails gem for Data Migrations; maintainer 2022; 1.1MM DL
 
 
 Director of Engineering ⦚ Riviera Partners ⦚ Feb 2020 - present, 🦖🪜🪜
 ________________
 🥞Rails 5.2, Ruby 2.5…2.7, RSpec, PostgreSQL, SQS, S3, ES, Sidekiq, k8, Hasura, SchemaHero, GraphQL, CQRS+ES, Svelte, Jira, Github
-* Managed back-end and devops teams. Focused on infrastructure as code and services
-* Automated & templated email campaigns improving response by order of magnitude
-* Utilized event storming to map business domain (Domain Driven Design)
-* Maintained legacy system, while preparing data migrations to new system
-* Upgraded tools, dependencies and SSL certificates, patched CVEs
-* Promoted to Eng Manager, then Director of Engineering:
-   * Org comprised 20 engineers among back-end, front-end, devops, DS & QA
+* Managed back-end & devops teams. Focused on infrastructure as code & services
+* Order of magnitude improvement to response rate w/ automated email drips 
+* Map business domain with Event Storming (Domain Driven Design)
+* Upgraded tools, dependencies & SSL certificates, patched CVEs
+* Promoted to Eng Manager, then Director of Engineering: head count 20
 * Wrote service_actor-promptable to assist with CLI-based system management 
 
 
 Tech Advisor, Principal Software Engineer ⦚ Karuna Health ⦚ Nov 2018 - Apr 2020
 ________________
 🥞Rails 5.2, Ruby 2.5…2.6, RSpec, PostgreSQL, SQS, Protobuf, S3, ES, Sidekiq, Aptible, Github
-* Advised on technology and hiring at Karuna Health
-* Built email gateway, notification services, and helped plan architecture of system
-* Implemented automation to correct data corruption
-* Acquired by Commure, Inc
+* Built email gateway, notification services, & helped plan architecture of system
+* Advised on technology & hiring at Karuna Health; Acquired by Commure, Inc
 
 
 Principal Software Engineer ⦚ 9thBit LLC ⦚ Nov 2018 - Nov 2019, 🦖
@@ -65,20 +65,19 @@ ________________
 🥞Rails 5.2, Ruby 2.4=>2.6, React v16, Redux, RSpec, PostgreSQL, S3, ES, Redis, Memcached, Sidekiq, Jira, Github, Cypress, Contentful
 * Initially 6 month contract; extended to 12 months to work on following products:
    * Gainbridge, Delaware Life, Group1001, Relay Rewards (offline)
-* Design and implement all analytics integrations
 * Primary developer of all Rails-based apps (Relay Rewards & Group1001)
-* Developing front end (Gainbridge, React v16), and E2E specs in Cypress
+* Developing front end (Gainbridge, React v16), SME for analytics, & E2E specs in Cypress
 
 
 Principal Software Engineer ⦚ 9thBit LLC ⦚ May 2016 - Nov 2018, 🦖
 ________________
 🥞Rails 4.2, Ruby 2.0…2.3, RSpec, PostgreSQL, DynamoDB, S3, ES, Mongo, Resque, DO, DataDog, Cloudwatch, NewRelic, Salesforce, Jira, Bitbucket
 * Contract with cloud intelligence company extended many times
-* Created time-series data collection & analytics; track changes to the internet
-* Creating devops tools to better utilize infrastructure & manage costs
+* Time-series collection & analytics of changes to the internet (writ large)
+* Devops tools to better utilize infrastructure & manage costs
 * Advanced math to transform non-scalar data from AWS Alexa into a scalar digest
-* Designed tools to monitor, log, benchmark, and automate internet monitoring robots
-* Reporting tools utilized by F100 enterprise customers
+* Monitor, log, benchmark, & automate internet monitoring robots
+* Reporting utilized by many F100 enterprise customers
 * Wrote debug_logging to non-intrusively assist with complex debugging in production
 
 
@@ -86,7 +85,7 @@ Principal Software Engineer ⦚ Bolt Threads ⦚ Sep 2017 - May 2018, 🦖
 ________________
 🥞Rails 4.2…5.2, Ruby 2.3…2.5, RSpec, PostgreSQL, Jira, Ubuntu, OPC DA integrations
 * Maintenance of a legacy Lab Information Management System (LIMS)
-   * analysis and selection of off-the-shelf replacement
+   * analysis & selection of off-the-shelf replacement
 * Interviewed candidates for Engineering leadership team:
    * Vice President of Engineering, Director of Engineering, & others
 * Integrated OPC DA services; Instrumented a Stoll industrial knitting machine
@@ -96,27 +95,25 @@ ________________
 Principal Software Engineer Team Lead ⦚ Invoice2go ⦚ Jan 2016 - Feb 2017, 🦖🪜
 ________________
 🥞Rails 4.2, Ruby 2.3, RSpec, AngularJS 1.4, PostgreSQL, S3, ElasticSearch, Redis, Sidekiq, CircleCI, Jenkins, Github Enterprise, Jira, ZenDesk, NewRelic
-* Managed and led web team in developing a revamped web app
-* Managed automation team (developer tools); git flow and supporting toolchain
+* Managed & led web team in developing a revamped web app
+* Managed automation team (developer tools); git flow & supporting toolchain
 * Participated in design of new service architecture
-* Designed and implemented feature flags; allowed synch’d multi-client feature releases
+* Designed & implemented feature flags; allowed synch’d multi-client feature releases
 * Promoted to Principal Engineer & assigned leadership role in Jakarta office
 
 
 Staff Software Engineer ⦚ Trumaker & Co ⦚ Apr 2014 - Mar 2016
 ________________
 🥞Rails 3.2, Ruby 2.0…2.1, RSpec, React, Ember, Haml, Slim, SASS, PostgreSQL, S3, Sidekiq, TravisCI, Github, Salesforce, NewRelic, Heroku
-* Extracted front-end parts to ember-cli and react thin clients
-* Built structured, authenticated, performant APIs, utilizing versioning, caching
-* Modernized versions of Ruby, Rails, and critical gems
+* Extracted front-end parts to ember-cli & react thin clients
+* Structured, authenticated, performant APIs, utilizing versioning, caching
+* Modernized Ruby, Rails, critical gems, & spec suite w/ factory pattern
 * Supported launches of new product lines (blazers, ties, belts, pants, sweaters, tees, etc)
 * Business logic for ordering, manufacturing, shipping & inventory management
-* Designed and created a fully spec’d 12-state Lead CRM tool
+* Fully spec’d 12-state Lead CRM tool w/ sales attribution framework (commissions)
    * Integrated Salesforce w/ 2-way real-time sync via my celluloid-io-pg-listener gem
-* Built a commissioned sales attribution framework supporting point-in-time history
-* Factory patterned spec suite, added thousands of additional tests
-* Created Thor deployment automation tool to operationalize critical sub-tasks
-* Built front-end tools, & supporting gems, including status_tag, and destination_errors
+* Thor deployment automation tool to operationalize critical sub-tasks
+* Front-end tools, & supporting gems, including status_tag, & destination_errors
 
 
 Staff Software Engineer ⦚ 9thBit LLC ⦚ Aug 2013 - Nov 2014
@@ -125,8 +122,7 @@ ________________
 * Initial 9 month contact with Church Pension Group extended to project completion
 * Forensic analysis of 5 year old FastCGI ruby service layer
 * Created ruby service APIs to support many varied clients & regression test suite
-* Account locking, token expiry security & automated enforcement
-* Upgraded daemon infrastructure; improved `make` system
+* Account locking, token expiry, daemon infrastructure; improved `make` system
 * 10x perf of internal services for $11B pension management
    * 20 req/s increased to > 200 req/s
 
@@ -135,12 +131,12 @@ Chief Technology Officer ⦚ Acquaintable ⦚ Jun 2012 - Oct 2013
 ________________
 🥞Rails 3.2, JRuby 1.7, Ruby 1.9…2.0, RSpec, RequireJS, BackboneJS, MarionetteJS, Foundation, Slim, SASS, Neo4j, PostgreSQL, S3, Sidekiq, Unicorn, Puma, TravisCI, Github, Librato, NewRelic, Heroku
 * Co-founded, imagined & implemented socially-curated dating through FoF
-* Advised on all product and design decisions
+* Advised on all product & design decisions
 * Created matching engine with Neo4j + PostgreSQL data analysis algorithms
 * Mobile first, responsive SPA, with intuitive, touch-enabled mobile interface
 * Designed to provide an immediate experience within 10 seconds to new users
 * Accepted into Entrepreneurs Roundtable Accelerator Winter 2013 class (ERA - NYC)
-* Fully automated and self-correcting, no intervention required for final 4 months
+* Fully automated & self-correcting, no intervention required for final 4 months
 * Successful exit via acquisition by Reveal (Microsoft Ventures backed)
 
 
@@ -148,46 +144,41 @@ Senior Software Engineer Team Lead ⦚ Bloomberg LP ⦚ Aug 2010 - Nov 2012, �
 ________________
 🥞Rails 2.3…3.2, Ruby 1.8…1.9, Grape, RSpec, RequireJS, Foundation, Slim, SASS, SOAP, Unicorn, Puma, TeamCity, Git
 * Bloomberg Black’s 1st Employee - personal wealth mgmt startup within Bloomberg
-* Interviewed and hired team of 10 engineers; Promoted to Rails Team co-Leader
-* Built internal libraries:
-   * Ruby: VCR - automated curation of SOAP interactions for service isolation
-   * Javascript: flyout menus, internally tabbed SPA, scrollspy, breadcrumbs
-   * Ruby: Style guide Enforcer validated ruby namespaces against collisions
-* Rack middleware for fast custom logging => Splunk, 10ms per request improvement
+* Interviewed & hired team of 10 engineers; Promoted to Rails Team co-Leader
+* Extended VCR - automated curation of SOAP interactions for service isolation
+* Javascript flyout menus, internally tabbed SPA, scrollspy, breadcrumbs
+* 10ms per request faster rack middleware w/ custom logging to Splunk 
 * Patterns: JS modules, ruby cells, presenters, rspec matchers, acceptance tests, JS unit tests
-* CMS FE and BE for dynamic content, supporting SSR & AJAX
+* CMS FE & BE for dynamic content, supporting SSR & AJAX
 * Maintained platform interoperability – Windows, RedHat & MacOS
-* Forked rack-bug; fixed and rewrote as rack-insight gem
+* Forked rack-bug; fixed & rewrote as rack-insight gem
 
 
 Senior Software Engineer Team Lead ⦚ 9thBit LLC ⦚ Sep 2008 - Aug 2014, 🪜
 ________________
 🥞Rails 2.0…2.3, Makandra Rails LTS, Ruby 1.8…2.2, RSpec, Haml, CSS, MySQL, Mongrel, Unicorn, TravisCI, Github, Redmine, NewRelic
 * Contract with Timeperks (early B2B2C DoorDash)
-* Promoted to Team Lead; mentored junior developers, and reviewed code
-* Built CX ghosting/masquerade tool
-* Created data reporting features, utilizing my csv_pirate gem
-* Implemented three-way marketplace payments via Amazon FPS;
-   * Became maintainer of remit gem
+* Promoted to Team Lead; mentored junior developers, & reviewed code
+* CX ghosting/masquerade tool, & reporting features (utilizing my csv_pirate gem)
+* Implemented three-way marketplace payments via Amazon FPS; began maintaining remit
 
 
 Senior Software Engineer Team Lead ⦚ Sagebit, LLC ⦚ Jun 2007 - Dec 2011, 🪜
 ________________
 🥞Rails 1.2…3.1, Ruby 1.8…1.9, RSpec, Erb, Haml, CSS, jQuery, MySQL, Mongrel, Unicorn, Github, Redmine, Debian, Ubuntu
-* Hired, mentored, trained team of 5 in Ruby, Rails, REST, and stateless programming
+* Hired, mentored, trained team of 5 in Ruby, Rails, REST, & stateless programming
    * Promoted to Team Lead; Led buildout of RadioBookmark’s back-end
-* Development, testing, deployment, and refactoring internal projects (now offline):
+* Development, testing, deployment, & refactoring internal projects (now offline):
    * TeamClip – Youth sports team management with game video management
    * CartaBuzz – Find things to do near you
    * MonkeyStub – Get tickets to events fast
    * YetiMail – Snopes for Chain Letters / Spam / Phishing
-* Biggest contract was in social networking - aSmallWorld:
-   * Led team of 10 developers converting old PHP site to Rails
+* Contract: Led team of 10 developers converting aSmallWorld to Rails
    * Configured load balanced 32 server prod env,w/ rolling deployments
-   * Forum, photo sharing, friend network, page and user tracking
+   * Forum, photo sharing, friend network, page & user tracking
    * Polymorphic CMS; migrated legacy tables to modern data models w/o downtime
-   * Handled 2MM uniques per month, and 300K page views per day
-   * Advertising engine for Estee Lauder and Mercedes-Mclaren campaigns
+   * Handled 2MM uniques per month, & 300K page views per day
+   * Advertising engine for Estee Lauder & Mercedes-Mclaren campaigns
 
 
 Senior Software Engineer ⦚ 9thBit LLC ⦚ Dec 2009 - Jul 2010
@@ -196,11 +187,8 @@ ________________
 * Contract with BibleGateway, Zondervan (Harper-Collins), a US top 10 website
    * Initial contract was 6 months, but extended to completion of project
 * Developed Google-inspired search engine, based on my gem awesome_search
-* Created dynamic, interactive CLI:
-   * Imported hundreds of publications, many formats
-   * Improved quality of data, metadata, data linkages
-   * Incrementally indexed publications with Solr / Sunspot
-* Implemented advanced exception handling and reporting
+* Tool for importing publications in many formats, w/ incremental Solr indexing
+* Implemented advanced exception handling & reporting
 * Developed text parser, raw text to publishing quality HTML decorated with footnotes
 
 
@@ -208,12 +196,12 @@ Software Engineer ⦚ 9thBit LLC ⦚ Mar 2007 - Jul 2010
 ________________
 🥞Rails 1.2…2.3, Ruby 1.8…1.9, MySQL, Redis, Redmine, DelayedJob, jQuery, AJAX, CSS, Debian, Ubuntu, Bash
 * Credit union web application
-   * Transfer money in and out via third party financial institutions; $13MM transferred
-   * Admin back-end, w/ advanced fraud detection and prevention
+   * Transfer money in & out via third party financial institutions; $13MM transferred
+   * Admin back-end, w/ advanced fraud detection & prevention
    * Interest, audits, reconciliation, KYC, account statements, & ledgers
-   * Notifications and CX system, with knowledge base
+   * Notifications & CX system, with knowledge base
    * DevOps: Security hardening, server provisioning, backups, etc
-* Letter writing, printing, and mailing - physical letters to Legislators as a Service
+* Letter writing, printing, & mailing - physical letters to Legislators as a Service
    * Geolocates users to determine correct legislators
 
 
@@ -228,15 +216,14 @@ ________________
 Software Engineer ⦚ Legislative Services Agency ⦚ Apr 2006 - Jun 2007
 ________________
 🥞Rails 1.1…1.2, Ruby 1.8, Oracle 8i, 9i & 10g, jQuery, AJAX, CSS, Redhat Linux, Windows IIS, XML, XSL, Tomcat, Cocoon, C#, Google search appliance
-* Built Indiana Register and Administrative Code site - official documents auto-published
-   * Designed layout, created CSS which 15 years on is still beautiful, fast, and timeless!
+* Built Indiana Register & Administrative Code site - official documents auto-published
+   * Designed layout, created CSS which 15 years on is still beautiful, fast, & timeless!
    * Search feature backed by a Google Mini search appliance
-   * Batch and shell scripts for automatic publishing of official documents
    * Started work on Section 508 compliance (accessibility)
 * Created Indiana General Assembly's internal call center application
-   * Cisco IPCC & PBX integration with Rails app runs House, Senate, and LSA call centers
+   * Cisco IPCC & PBX integration with Rails app runs House, Senate, & LSA call centers
    * World’s first enterprise Rails app on Windows Server 2k3 & IIS6 (2006, ref1, ref2)
-   * AJAX address based lookup of senate and house districts for constituents
+   * AJAX address based lookup of senate & house districts for constituents
    * Constituent issue tracking; automated daily summary email to legislators
 
 
@@ -251,14 +238,13 @@ ________________
 🥞Rails 0.10…1.1, Ruby 1.8, Mongrel, MySQL, Memcached, Bugzilla, Bash, PHP, Java, Perl, Scheme, Nagios, Debian, apt
 * Primary developer on first open-source, Rails-based, ticketing system: SimpleTicket
 * Promoted to Software Engineer; built “AirBnB for Airplanes” in PhP
-* Managed a Debian apt repository mirror and internal .deb packages for:
-   * Configuration synchronization, key rotation, and automated backups
+* Managed Debian apt mirror & internal .debs for config sync, key rotation, & auto-backups
 
 
 Volunteer Work
 ________________
-* Liberian civil war refugee assistance since 2013. Purchase land, build homes, repatriate/relocate. Find self-sufficiency by farming/husbandry/employment. Registered Liberian NGO Hope For Tomorrow in 2015. Stabilize many families and orphans each year.
-* Co-founded WordTree Foundation in 2013. Algorithms enable scientific analysis (e.g. n-gram) of literary provenance. Pre-modern focus to map evolution of ideas. Free and open source.
+* Liberian civil war refugee assistance since 2013. Relocate, buy land, build homes, find employment. NGO Hope For Tomorrow reg 2015. Dozens stabilized each year.
+* Co-founded WordTree Foundation in 2013. Algorithms enable scientific analysis (e.g. n-gram) of literary provenance. Pre-modern focus to map evolution of ideas. Free & open source.
 
 
 Honors & Certifications
@@ -273,8 +259,9 @@ ________________
 
 Education
 ________________
-* Ball State University, CS(*), Science & Humanities, Muncie, IN, 2 years
-* …Purdue University, MIS(*), Science & Eng Tech, Lafayette, IN, 2 years
-* …… Ball State University, CS(*), Science & Humanities, Muncie, IN, 2 years
-* ……… Purdue University, CIT(*), Engineering Technology, Indianapolis, IN, 2 years
+* ···· semesters at Ball State University, Computer Science, Muncie, IN
+* ···· semesters at Purdue University, Management Information Systems, Lafayette, IN
+* ··· semesters at Ball State University, Computer Science, Muncie, IN
+* ·· semesters at Ivy Tech, Computer Information Technology, Anderson, IN
+* ····· semesters at Purdue University, Computer Information Technology, Indianapolis, IN
 (*) Univ part-time, work full-time; flat-top roofer, tech support, programmer ➔ No degrees

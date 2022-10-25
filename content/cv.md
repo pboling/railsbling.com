@@ -27,6 +27,8 @@ I'm not a fan of vendor-lock, so have it your way!  Resume last revised October 
 
 <small>- Even [DOCX](/cv/Peter_Boling_Resume_2022.10.21.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
 
+I wrote a [gem to automate](https://rubygems.org/gems/undrive_google) the export, renaming, and transforming, these resume file formats from the original Google Document.  Obviously, I called it "undrive_google".
+
 ### How I use my allocation of bits
 
 Experienced director, team leader, mentor, linux system admin, rubyist, FLOSS advocate, barista, student, and builder of web applications great and small for 25 years. Passionate about testing, efficiency, learning best practices, and improving the human condition by automation.
