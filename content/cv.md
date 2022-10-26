@@ -18,14 +18,14 @@ type = "page"
 I'm not a fan of vendor-lock, so have it your way!  Resume last revised October 22nd, 2022.
 
 - **[WEB (here)](/cv/resume.html), or on [Google](https://docs.google.com/document/d/1H9fYtkMFmnkQO1sucrFPt5E3dvhozgVtI31LgpNLmJ4/pub)** (a website, for a web browser)
-- **[ePub](/cv/Peter_Boling_Resume_2022.10.25.epub)** (formatted for e-readers)
-- **[ODT](/cv/Peter_Boling_Resume_2022.10.25.odt)** (OpenDocument Text file)
-- **[PDF](/cv/Peter_Boling_Resume_2022.10.25.pdf)** (Portable Document Format)
-- **[RTF](/cv/Peter_Boling_Resume_2022.10.25.rtf)** (Rich Text Format)
-- **[TXT](/cv/Peter_Boling_Resume_2022.10.25.txt)** (Plain Text Format)
-- **[HTML, Zipped](/cv/Peter_Boling_Resume_2022.10.25.zip)** (Raw HTML assets, archived as a Zip file)
+- **[ePub](/cv/Peter_Boling_Resume_2022.10.26.epub)** (formatted for e-readers)
+- **[ODT](/cv/Peter_Boling_Resume_2022.10.26.odt)** (OpenDocument Text file)
+- **[PDF](/cv/Peter_Boling_Resume_2022.10.26.pdf)** (Portable Document Format)
+- **[RTF](/cv/Peter_Boling_Resume_2022.10.26.rtf)** (Rich Text Format)
+- **[TXT](/cv/Peter_Boling_Resume_2022.10.26.txt)** (Plain Text Format)
+- **[HTML, Zipped](/cv/Peter_Boling_Resume_2022.10.26.zip)** (Raw HTML assets, archived as a Zip file)
 
-<small>- Even [DOCX](/cv/Peter_Boling_Resume_2022.10.25.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
+<small>- Even [DOCX](/cv/Peter_Boling_Resume_2022.10.26.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
 
 I wrote a [gem to automate](https://rubygems.org/gems/undrive_google) export, renaming, and transforming, of these resume file formats from the original Google Document.  Obviously, I called it "undrive_google".
 
