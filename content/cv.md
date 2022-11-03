@@ -47,7 +47,7 @@ Created solutions for finance, social networking, government, information techno
 
 Dedicated to moving science forward and improving the condition of life generally by automation and process improvement.
 
-Languages: 🇺🇸English ⦚ 🇲🇽Spanish (fluent) ⦚ 🇧🇷Portuguese (fluent) ⦚ 🇮🇩Indonesian (convo)
+Languages: 🇺🇸English ⦚ 🇲🇽Spanish (fluent) ⦚ 🇧🇷Portuguese (fluent) ⦚ 🇮🇩Indonesian (conversational)
 
 My [public calendar is available](https://calendar.google.com/calendar/embed?src=peter.boling%40gmail.com&ctz=America/Los_Angeles), so you can know when I am available.
 You can schedule some time to chat on my [📅Calendly](https://calendly.com/peter-boling/30min).  I am always happy to chat about tech, and have advised many companies on a wide range of issues from development to infrastructure.
