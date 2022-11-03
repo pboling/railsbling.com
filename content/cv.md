@@ -1,5 +1,5 @@
 +++
-date = "2021.10.16T01:46:00-07:00"
+date = "2022.11.03T01:46:00-07:00"
 draft = false
 authorlink = "https://about.me/peter.boling"
 authorlinktarget = "_blank"
@@ -15,17 +15,17 @@ type = "page"
 
 ### Download Resume Here <i class="fas fa-level-down"></i>
 
-I'm not a fan of vendor-lock, so have it your way!  Resume last revised November 1st, 2022.
+I'm not a fan of vendor-lock, so have it your way!  Resume last revised 2022.11.03.
 
 - **[WEB (here)](/cv/resume.html), or on [Google](https://docs.google.com/document/d/1H9fYtkMFmnkQO1sucrFPt5E3dvhozgVtI31LgpNLmJ4/pub)** (a website, for a web browser)
-- **[ePub](/cv/Peter_Boling_Resume_2022.11.01.epub)** (formatted for e-readers)
-- **[ODT](/cv/Peter_Boling_Resume_2022.11.01.odt)** (OpenDocument Text file)
-- **[PDF](/cv/Peter_Boling_Resume_2022.11.01.pdf)** (Portable Document Format)
-- **[RTF](/cv/Peter_Boling_Resume_2022.11.01.rtf)** (Rich Text Format)
-- **[TXT](/cv/Peter_Boling_Resume_2022.11.01.txt)** (Plain Text Format)
-- **[HTML, Zipped](/cv/Peter_Boling_Resume_2022.11.01.zip)** (Raw HTML assets, archived as a Zip file)
+- **[ePub](/cv/Peter_Boling_Resume_2022.11.03.epub)** (formatted for e-readers)
+- **[ODT](/cv/Peter_Boling_Resume_2022.11.03.odt)** (OpenDocument Text file)
+- **[PDF](/cv/Peter_Boling_Resume_2022.11.03.pdf)** (Portable Document Format)
+- **[RTF](/cv/Peter_Boling_Resume_2022.11.03.rtf)** (Rich Text Format)
+- **[TXT](/cv/Peter_Boling_Resume_2022.11.03.txt)** (Plain Text Format)
+- **[HTML, Zipped](/cv/Peter_Boling_Resume_2022.11.03.zip)** (Raw HTML assets, archived as a Zip file)
 
-<small>- Even [DOCX](/cv/Peter_Boling_Resume_2022.11.01.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
+<small>- Even [DOCX](/cv/Peter_Boling_Resume_2022.11.03.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
 
 I wrote a [gem to automate](https://rubygems.org/gems/undrive_google) export, renaming, and transforming, of these resume file formats from the original Google Document.  Obviously, I called it "undrive_google".
 
