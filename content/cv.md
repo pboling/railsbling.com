@@ -35,7 +35,7 @@ Experienced director, team leader, mentor, linux system admin, rubyist, FLOSS ad
 
 Author and maintainer of many popular open source libraries [![On RubyGems](https://img.shields.io/gem/u/pboling.svg)](https://rubygems.org/profiles/pboling), which have been downloaded many millions of times.
 
-Recognized by Github in July 2022 as one of 904 developers whose open source code their platform relies on. Engineered solutions for nearly every sector of industry. Specialize in migrating legacy systems to modern architecture utilizing principles of BDD, and DDD.
+Recognized by GitHub in July 2022 as one of 904 developers whose open source code their platform relies on. Engineered solutions for nearly every sector of industry. Specialize in migrating legacy systems to modern architecture utilizing principles of BDD, and DDD.
 
 Built world’s first enterprise Rails app running on Windows Server 2k3 & IIS6 (2006, ref1, ref2). Led massive PHP-to-Rails migrations @ aSmallWorld (2008-9) and BibleGateway (2009-10).
 
