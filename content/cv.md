@@ -41,7 +41,7 @@ Built world’s first enterprise Rails app running on Windows Server 2k3 & IIS6 
 
 I excel at data analysis, task automation, testing, style guides, best practices, API design, benchmarking, and Domain Driven Design.
 
-Favorite 🥞is Event Storming, CQRS, Rails, SvelteKit, CI/CD, and GitOps.
+Favorite 🥞is Event Storming, DDD, CQRS, BDD, trunk-based development, CI/CD, and GitOps.
 
 Created solutions for finance, social networking, government, information technology, B2B, fashion, gaming, publishing, and e-commerce sectors.
 
