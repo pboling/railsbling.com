@@ -33,7 +33,7 @@ What I mean by software-agnostic is it can version manage *any* software.
 Coming from Ruby you may be familiar with rvm, rbenv, or chruby.
 `asdf` eclipses them all, because not only does it serve as a Ruby version manager (using `ruby-build` under the hood),
 but it also can manage all your other software tools.  Need different versions of Redis, PostgreSQL, MySQL, Java,
-Clojure, Python, Elasticsearch, etc for different projects, or even the same project, for testing dependency upgrades?
+Clojure, Python, Elasticsearch, etc. for different projects, or even the same project, for testing dependency upgrades?
 `asdf` is your new best friend.  It has plugins for every software tool you can think of.
 Did you notice I mentioned Java and Clojure in there? ;)
 
@@ -42,8 +42,8 @@ Let's go!
 ## `asdf` setup
 
 1. [Setup `asdf`](https://asdf-vm.com/) if you haven't already.
-2. Java - Setup the [asdf-java plugin](https://github.com/halcyon/asdf-java) as instructed. The dependencies mentioned can be installed with `homebrew`.
-3. Clojure - Setup the [asdf-clojure plugin](https://github.com/asdf-community/asdf-clojure) as instructed.
+2. Java - Set up the [asdf-java plugin](https://github.com/halcyon/asdf-java) as instructed. The dependencies mentioned can be installed with `homebrew`.
+3. Clojure - Set up the [asdf-clojure plugin](https://github.com/asdf-community/asdf-clojure) as instructed.
 
 I went with the latest available versions of both (which may be different for you, future-dweller!):
 
@@ -66,7 +66,7 @@ asdf global clojure 1.11.1.1189
 I subscribe to JetBrains full suite of IDEs, so I can use any of them and any language as needed,
 and I highly recommend it. My blog is Hugo (which is Go), so I use GoLand for that.
 I use RubyMine for Ruby code.  I use WebStorm for Javascript / SvelteJS / front end code.
-I use PhpStorm for the times when I cross paths with Wordpress.
+I use PhpStorm for the times when I cross paths with WordPress.
 And now I use IntelliJ IDEA for Java / Clojure!
 
 These are the relevant plugins I use:
