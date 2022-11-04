@@ -4,6 +4,8 @@ description: Yet Another Paradigm by Peter Boling. Ramblings, mumblings, cv/resu
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
 customMenus:
+  - name: "RSS"
+    url: "/index.xml"
   - name: "CV"
     url: "/cv"
   - name: "FLOSS"
