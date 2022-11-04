@@ -5,7 +5,7 @@ ________________
 
 Executive, director, mentor, advisor, legacy specialist and software engineer for 25 years. Passions are strong testing, design patterns, process innovation, and improving the human condition.
 🌎1st: Enterprise Rails app on Windows Server 2k3, IIS6 + FastCGI w/ SSO (2006, ref1, ref2). Over 15 years ago I designed and built the Indiana Register & Administrative Code website, which continues to daily publish all official legislative documents of the Indiana State General Assembly. Quality matters when longevity matters. Led massive PHP-to-Rails migrations @ aSmallWorld (2008-9) and BibleGateway (2009-10). Recognized as a builder of critical FLOSS tools that make Github possible (2022, ref).
-Languages:    🇺🇸English    ⦚    🇲🇽Spanish (fluent)    ⦚    🇧🇷Portuguese (fluent)    ⦚    🇮🇩Indonesian (convo)
+Languages:    🇺🇸English (native)    ⦚    🇲🇽Spanish (fluent)    ⦚    🇧🇷Portuguese (fluent)    ⦚    🇮🇩Indonesian (basic)
 Legend:   🫰Leader / Manager / Exec   ⦚   🦖Jira Admin   ⦚   🪜Promotion   ⦚   📜Contract Extension   ⦚   💲Acquisition
 
 
@@ -19,28 +19,28 @@ Director of Engineering    ⦚    Riviera Partners    ⦚    Feb 2020    ⦚    
 
 Tech Advisor, Principal Engineer    ⦚    Karuna Health    ⦚    Nov 2018    ⦚    1.5y
 🥞Rails 5.2, Ruby 2.5…2.6, RSpec, psql, SQS, Protobuf, S3, ES, Sidekiq, Aptible, GH  ⦚  🫰💲🇺🇸🇲🇽🇮🇩
-* Built email gateway, notifications. Advised on tech & hiring; Acquired by Commure, Inc.
+* Built email gateway, notifications. Advised on tech & hiring; Acquired by Commure, Inc
 
 
 Principal Engineer, Founder    ⦚    9thBit LLC    ⦚    Nov 2018    ⦚    3.6y
  🥞Rails 4.2…5.2, Ruby 2.0…2.6, React v16, Redux, RSpec, psql, S3, ES, Sidekiq, GH, Cypress, Contentful, DynamoDB, S3 & CW, ES, Mongo, Resque, BB, DO, DD, NR, SF  ⦚  🦖📜📜📜🇺🇸
-* Contracted (extended, 2x) w/ Intricately; Track changes to the internet (writ large). Automated alerting, benchmarking; Reports for F100 enterprise customers. Wrote debug_logging; began maintaining dynamoid.
-* Contract (extended) on Gainbridge, Delaware Life, Group1001, Relay Rewards. Sole dev on Relay Rewards & Group1001 (Rails); SME for analytics on Gainbridge (React v16).
+* Contracted (extended, 2x) w/ Intricately; Track changes to the internet (writ large). Automated alerting, benchmarking; Reports for F100 enterprise customers. Wrote debug_logging; began maintaining dynamoid
+* Contract (extended) on Gainbridge, Delaware Life, Group1001, Relay Rewards. Sole dev on Relay Rewards & Group1001 (Rails); SME for analytics on Gainbridge (React v16)
 
 
 Principal Engineer Team Lead    ⦚    Bolt Threads    ⦚    Sep 2017    ⦚    0.8y
 🥞Rails 4.2…5.2, Ruby 2.3…2.5, RSpec, psql, Ubuntu, OPC DA  ⦚  🫰🦖🇺🇸
-* Integrated OPC DA; Instrumented Stoll industrial knitting machine. Lab Information Management System (LIMS) maintenance & then replacement. Completed “Leadership Fundamentals” training & interviewed new leadership.
+* Integrated OPC DA; Instrumented Stoll industrial knitting machine. Lab Information Management System (LIMS) maintenance & then replacement. Completed “Leadership Fundamentals” training & interviewed new leadership
 
 
 Principal Engineer Team Lead    ⦚    Invoice2go    ⦚    Jan 2016    ⦚    1.1y
 🥞Rails 4.2, Ruby 2.3, RSpec, AngularJS 1.4, psql, S3, ES, Redis, Sidekiq, CircleCI, Jenkins, GH Enterprise, ZD, NR  ⦚  🫰🦖🪜🇺🇸🇮🇩
-* Managed & led web team in developing a revamped web app. Managed automation team (dev tools): git flow, feature flags. Promoted to Principal Engineer & assigned leadership role in Jakarta office.
+* Managed & led web team in developing a revamped web app. Managed automation team (dev tools): git flow, feature flags. Promoted to Principal Engineer & assigned leadership role in Jakarta office
 
 
 Staff Engineer (equivalent)    ⦚    Trumaker & Co    ⦚    Apr 2014    ⦚    2y
 🥞Rails 3.2, Ruby 2.0…2.1, RSpec, React, Ember, Haml, Slim, SASS, psql, S3, Sidekiq, TravisCI, GH, SF, NR, Heroku  ⦚  🇺🇸
-* Extractions to ember-cli & react; Ordering, manufacturing, shipping & inventory biz logic. Fully spec’d 12-state Lead CRM tool w/ sales attribution. Wrote celluloid-io-pg-listener - real-time, bi-directional, SalesForce integration.
+* Extractions to ember-cli & react; Ordering, manufacturing, shipping & inventory biz logic. Fully spec’d 12-state Lead CRM tool w/ sales attribution. Wrote celluloid-io-pg-listener - real-time, bi-directional, SalesForce integration
 
 
 Staff Engineer, Founder    ⦚    9thBit LLC    ⦚    Aug 2013    ⦚    1.3y
@@ -50,12 +50,12 @@ Staff Engineer, Founder    ⦚    9thBit LLC    ⦚    Aug 2013    ⦚    1.3y
 
 Chief Technology Officer, Co-founder    ⦚    Acquaintable    ⦚    Jun 2012    ⦚    1.4y
 🥞Rails 3.2, JRuby 1.7, Ruby 1.9…2.0, RSpec, RequireJS, Backbone+Marionette, Foundation, SASS, Neo4j, psql, S3, Sidekiq, Unicorn, Puma, TravisCI, GH, Librato, NR, Heroku  ⦚  🫰💲🇺🇸🇧🇷
-* Co-founded, pitched, fund-raised, and implemented socially-curated dating through FoF. Mobile-first SPA, touch-enabled; Full matching UX within 10s. Seed round ERA-NYC Winter 2013; Acquired by Reveal (MS Ventures).
+* Co-founded, pitched, fund-raised, and implemented socially-curated dating through FoF. Mobile-first SPA, touch-enabled; Full matching UX within 10s. Seed round ERA-NYC Winter 2013; Acquired by Reveal (MS Ventures)
 
 
 Senior Engineer Team Lead    ⦚    Bloomberg LP    ⦚    Aug 2010    ⦚    2.3y
 🥞Rails 2.3…3.2, Ruby 1.8…1.9, Grape, RSpec, RequireJS, Foundation, Slim, SASS, SOAP, Unicorn, Puma, TeamCity, Git  ⦚  🫰🪜🇺🇸
-* 1st Employee@Bloomberg Black; Hired team of 10; Promoted to Team Lead. Built JS flyout menus, scrollspy, breadcrumbs; Created middleware shaving 10ms/req; CMS w/ SSR & AJAX; Platform support – Win, RedHat & MacOS.
+* 1st Employee@Bloomberg Black; Hired team of 10; Promoted to Team Lead. Built JS flyout menus, scrollspy, breadcrumbs; Created middleware shaving 10ms/req; CMS w/ SSR & AJAX; Platform support – Win, RedHat & MacOS
 
 
 Senior Engineer Team Lead, Founder    ⦚    9thBit LLC    ⦚    Sep 2008    ⦚    6.1y
@@ -65,7 +65,7 @@ Senior Engineer Team Lead, Founder    ⦚    9thBit LLC    ⦚    Sep 2008    �
 
 Senior Engineer Team Lead, Partner    ⦚    Sagebit, LLC    ⦚    Jun 2007    ⦚    4.6y
 🥞Rails 1.2…3.1, Ruby 1.8…1.9, RSpec, Haml, CSS, jQuery, MySQL, Mongrel, Unicorn, GH, Debian, Ubuntu  ⦚  🫰🪜🪜🇺🇸
-* Hired & trained team of 5 in stateless programming. Promoted to Team Lead, then Partner; Led buildout of RadioBookmark’s back-end. Built internal projects: sports management, event finder & tickets, spam analysis.
+* Hired & trained team of 5 in stateless programming. Promoted to Team Lead, then Partner; Led buildout of RadioBookmark’s back-end. Built internal projects: sports management, event finder & tickets, spam analysis
 * Led team of 10 developers converting aSmallWorld to Rails; LB’d rolling 32 server prod env; 2MM uniques/month, & 300K page views/day; Data migration; Forum, photo sharing, friend network, page & user tracking; Polymorphic CMS; Advertising engine for Estee Lauder & Mercedes-Mclaren
 Senior Engineer, Founder    ⦚    9thBit LLC    ⦚    Mar 2007    ⦚    3.6y
 🥞Rails 1.2…2.3, Ruby 1.8…1.9, MySQL, RSpec, EPub, Solr, Redmine, jQuery, AJAX, CSS, Debian, Ubuntu, Bash  ⦚  🪜📜📜📜🇺🇸
@@ -79,12 +79,12 @@ Engineer    ⦚    Legislative Services Agency - Indiana General Assembly   ⦚ 
 🥞Rails 1.1…1.2, Ruby 1.8, Oracle 8i, 9i & 10g, jQuery, CSS, Redhat, IIS, XML, XSL, Tomcat, Cocoon, C#, Google Mini  ⦚  🪜🇺🇸
 * Indiana Register & Administrative Code site - official documents auto-published. XML & XSLT; Designed layout, created CSS; 15+ years on still beautiful and fast! Programmed Google Mini search appliance; batch & shell scripts.
 * Indiana General Assembly's call center app (House/Senate/LSA). Rails + Cisco IPCC & PBX + constituent issues + legislator highlight emails. World’s first enterprise Rails app on Windows Server 2k3, IIS6 + FastCGI w/ SSO (ref1, ref2)
-* As standout CS student @ BSU, selected in 1st-and-2nd-ever technical intern groups; Built issue tracker app
+* As a standout CS student @ BSU, selected in 1st-and-2nd-ever technical intern groups; Built issue tracker app
 
 
 Engineer    ⦚    Optivel, Inc    ⦚    Dec 2004    ⦚    1.4y
 🥞Rails 0.10…1.1, Ruby 1.8, Mongrel, MySQL, Bugzilla, Bash, PHP, Java, Perl, Scheme, Nagios, Debian, apt  ⦚  🪜🇺🇸
-* Promoted to Engineer; built “AirBnB for Airplanes”. Managed Debian apt mirror & built internal .deb packages.
+* Promoted to Engineer; built “AirBnB for Airplanes”. Managed Debian apt mirror & built internal .deb packages
 
 
 Projects - Free (Libre) Open Source
@@ -112,9 +112,6 @@ Awards, Accolades and Certifications
 
 
 Education (*)
-* Ball State University   ⦚   Computer Science   ⦚   Muncie, IN   ⦚   ···· semesters 
-* Purdue University   ⦚   Management Information Systems   ⦚   Lafayette, IN   ⦚   ···· semesters
-* Ball State University   ⦚   Computer Science   ⦚   Muncie, IN   ⦚   ··· semesters
-* Ivy Tech   ⦚   Computer Information Technology   ⦚   Anderson, IN   ⦚   ·· semesters
-* Purdue University   ⦚   Computer Information Technology   ⦚   Indianapolis, IN   ⦚   ····· semesters
-(*) University part-time, while working full-time as flat-top roofer, tech support, programmer ➔ No degrees
+* Ball State University   ⦚   Computer Science   ⦚   Muncie, IN
+* Purdue University   ⦚   Management Information Systems   ⦚   Lafayette, IN
+(*) University part-time, while working ➔ No degrees
