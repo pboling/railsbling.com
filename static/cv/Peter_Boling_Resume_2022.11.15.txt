@@ -4,7 +4,7 @@ ________________
 
 
 Executive, director, mentor, advisor, legacy specialist and software engineer for 25 years. Passions are strong testing, design patterns, process innovation, and improving the human condition.
-🌎1st: Enterprise Rails app on Windows Server 2k3, IIS6 + FastCGI w/ SSO (2006, ref1, ref2). Over 15 years ago I designed and built the Indiana Register & Administrative Code website, which continues to daily publish all official legislative documents of the Indiana State General Assembly. Quality matters when longevity matters. Led massive PHP-to-Rails migrations @ aSmallWorld (2008-9) and BibleGateway (2009-10). Recognized as a builder of critical FLOSS tools that make Github possible (2022, ref).
+🌎1st: Enterprise Rails app on Windows Server 2k3, IIS6 + FastCGI w/ SSO (2006, ref1, ref2). Over 15 years ago I designed and built the Indiana Register & Administrative Code website, which continues to daily publish all official legislative documents of the Indiana State General Assembly. Quality matters when longevity matters. Led massive PHP-to-Rails migrations @ aSmallWorld (2008-9) and BibleGateway (2009-10). Recognized as a builder of critical Free (Libre) Open Source Software (FLOSS) tools that make Github possible (2022, ref).
 Languages:    🇺🇸English (native)    ⦚    🇲🇽Spanish (fluent)    ⦚    🇧🇷Portuguese (fluent)    ⦚    🇮🇩Indonesian (basic)
 Legend:   🫰Leader / Manager / Exec   ⦚   🦖Jira Admin   ⦚   🪜Promotion   ⦚   📜Contract Extension   ⦚   💲Acquisition
 
@@ -14,23 +14,23 @@ Work Experience
 
 Director of Engineering    ⦚    Riviera Partners    ⦚    Feb 2020    ⦚    present
 🥞Rails 5.2, Ruby 2.5…2.7, RSpec, psql, SQS, S3, ES, Sidekiq, k8, Hasura, GraphQL, CQRS+ES, Svelte, GH, Jx  ⦚  🫰🦖🪜🪜🇺🇸🇧🇷
-* Managed back-end, devops, and all contractors. Translated executive strategy to an executable roadmap. Order of magnitude improvement to response rate w/ automated email drips. Promoted to Eng Manager, then Dir Eng; Event Storming to map business domain. Upgraded tools, deps & SSL certs, patched CVEs, wrote service_actor-promptable.
+* Managed back-end, devops, and all contractors. Translated executive strategy to an executable roadmap. Order of magnitude improvement to response rate w/ automated email drips. Promoted to Eng Manager, then Dir Eng; Event Storming to map business domain. Upgraded tools, deps & SSL certs, patched CVEs, wrote service_actor-promptable
 
 
 Tech Advisor, Principal Engineer    ⦚    Karuna Health    ⦚    Nov 2018    ⦚    1.5y
 🥞Rails 5.2, Ruby 2.5…2.6, RSpec, psql, SQS, Protobuf, S3, ES, Sidekiq, Aptible, GH  ⦚  🫰💲🇺🇸🇲🇽🇮🇩
-* Built email gateway, notifications. Advised on tech & hiring; Acquired by Commure, Inc
-
-
-Principal Engineer, Founder    ⦚    9thBit LLC    ⦚    Nov 2018    ⦚    3.6y
- 🥞Rails 4.2…5.2, Ruby 2.0…2.6, React v16, Redux, RSpec, psql, S3, ES, Sidekiq, GH, Cypress, Contentful, DynamoDB, S3 & CW, ES, Mongo, Resque, BB, DO, DD, NR, SF  ⦚  🦖📜📜📜🇺🇸
-* Contracted (extended, 2x) w/ Intricately; Track changes to the internet (writ large). Automated alerting, benchmarking; Reports for F100 enterprise customers. Wrote debug_logging; began maintaining dynamoid
-* Contract (extended) on Gainbridge, Delaware Life, Group1001, Relay Rewards. Sole dev on Relay Rewards & Group1001 (Rails); SME for analytics on Gainbridge (React v16)
+* Built email gateway, notifications. Advised on tech & hiring. Acquired by Commure, Inc
 
 
 Principal Engineer Team Lead    ⦚    Bolt Threads    ⦚    Sep 2017    ⦚    0.8y
 🥞Rails 4.2…5.2, Ruby 2.3…2.5, RSpec, psql, Ubuntu, OPC DA  ⦚  🫰🦖🇺🇸
 * Integrated OPC DA; Instrumented Stoll industrial knitting machine. Lab Information Management System (LIMS) maintenance & then replacement. Completed “Leadership Fundamentals” training & interviewed new leadership
+
+
+Principal Engineer, Founder    ⦚    9thBit LLC    ⦚    May 2016    ⦚    3.6y
+ 🥞Rails 4.2…5.2, Ruby 2.0…2.6, React v16, Redux, RSpec, psql, S3, ES, Sidekiq, GH, Cypress, Contentful, DynamoDB, S3 & CW, ES, Mongo, Resque, BB, DO, DD, NR, SF  ⦚  🦖📜📜📜🇺🇸
+* Contract (extended, 2x) w/ Intricately; Track changes to the internet (writ large). Automated alerting, benchmarking; Reports for F100 enterprise customers. Wrote debug_logging; began maintaining dynamoid
+* Contract (extended) on Gainbridge, Delaware Life, Group1001, Relay Rewards. Sole dev on Relay Rewards & Group1001 (Rails); SME for analytics on Gainbridge (React v16)
 
 
 Principal Engineer Team Lead    ⦚    Invoice2go    ⦚    Jan 2016    ⦚    1.1y
@@ -69,9 +69,9 @@ Senior Engineer Team Lead, Partner    ⦚    Sagebit, LLC    ⦚    Jun 2007    
 * Led team of 10 developers converting aSmallWorld to Rails; LB’d rolling 32 server prod env; 2MM uniques/month, & 300K page views/day; Data migration; Forum, photo sharing, friend network, page & user tracking; Polymorphic CMS; Advertising engine for Estee Lauder & Mercedes-Mclaren
 Senior Engineer, Founder    ⦚    9thBit LLC    ⦚    Mar 2007    ⦚    3.6y
 🥞Rails 1.2…2.3, Ruby 1.8…1.9, MySQL, RSpec, EPub, Solr, Redmine, jQuery, AJAX, CSS, Debian, Ubuntu, Bash  ⦚  🪜📜📜📜🇺🇸
-* Contract (extended) to write apps for a new credit union. Money transfers via third party financial institutions; $13MM transferred. Fraud detection, CX tools, KB, Interest, audits, KYC, statements, & ledgers
+* Contract (extended) to write apps for a new credit union. Money transfers via third party financial institutions; $13MM transferred. Fraud detection, CX tools, KB, interest calculations, audits, KYC, statements, & ledgers
 * Contracted to write a “physical letters to Legislators as a Service” web app
-* Contracted (extended) w/ Neighborino, LLC to build photos, messaging, ad services, calendaring, and daemons
+* Contract (extended) w/ Neighborino, LLC to build photos, messaging, ad services, calendaring, and daemons
 * Contract (extended) to migrate BibleGateway (Harper-Collins), then a US top 10 website, to Rails
 
 

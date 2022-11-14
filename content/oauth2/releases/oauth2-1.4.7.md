@@ -16,6 +16,7 @@ type = "docs"
 
 ## oauth2 version 1.4.7 is Released
 
+<!-- oauth2-badges -->
 [![Gem Version](http://img.shields.io/gem/v/oauth2.svg)][gem]
 [![Total Downloads](https://img.shields.io/gem/dt/oauth2.svg)][gem]
 [![Downloads Today](https://img.shields.io/gem/rt/oauth2.svg)][gem]
@@ -23,7 +24,6 @@ type = "docs"
 [![Stars](https://img.shields.io/github/stars/oauth-xx/oauth2.svg?style=social)][stargazers]
 [![Build Status](http://img.shields.io/travis/oauth-xx/oauth2.svg)][travis]
 [![Test Coverage](https://api.codeclimate.com/v1/badges/688c612528ff90a46955/test_coverage)][codeclimate-coverage]
-[![Maintainability](https://api.codeclimate.com/v1/badges/688c612528ff90a46955/maintainability)][codeclimate-maintainability]
 [![Depfu](https://badges.depfu.com/badges/6d34dc1ba682bbdf9ae2a97848241743/count.svg)][depfu]
 [![Open Source Helpers](https://www.codetriage.com/oauth-xx/oauth2/badges/users.svg)][code-triage]
 [![Chat](https://img.shields.io/gitter/room/oauth-xx/oauth2.svg)](https://gitter.im/oauth-xx/oauth2)
