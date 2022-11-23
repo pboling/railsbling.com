@@ -19,7 +19,7 @@ Director of Engineering    ⦚    Riviera Partners    ⦚    Feb 2020    ⦚    
 
 Tech Advisor, Principal Engineer    ⦚    Karuna Health    ⦚    Nov 2018    ⦚    1.5y
 🥞Rails 5.2, Ruby 2.5…2.6, RSpec, psql, SQS, Protobuf, S3, ES, Sidekiq, Aptible, GH  ⦚  🫰💲🇺🇸🇲🇽🇮🇩
-* Built email gateway, notifications. Advised on tech & hiring. Acquired by Commure, Inc
+* Built Redox integration, email gateway, and notifications. Advised on tech & hiring. Acquired by Commure, Inc
 
 
 Principal Engineer Team Lead    ⦚    Bolt Threads    ⦚    Sep 2017    ⦚    0.8y
@@ -70,7 +70,7 @@ Senior Engineer Team Lead, Partner    ⦚    Sagebit, LLC    ⦚    Jun 2007    
 Senior Engineer, Founder    ⦚    9thBit LLC    ⦚    Mar 2007    ⦚    3.6y
 🥞Rails 1.2…2.3, Ruby 1.8…1.9, MySQL, RSpec, EPub, Solr, Redmine, jQuery, AJAX, CSS, Debian, Ubuntu, Bash  ⦚  🪜📜📜📜🇺🇸
 * Contract (extended) to write apps for a new credit union. Money transfers via third party financial institutions; $13MM transferred. Fraud detection, CX tools, KB, interest calculations, audits, KYC, statements, & ledgers
-* Contracted to write a “physical letters to Legislators as a Service” web app
+* Contract to write a “physical letters to Legislators as a Service” web app
 * Contract (extended) w/ Neighborino, LLC to build photos, messaging, ad services, calendaring, and daemons
 * Contract (extended) to migrate BibleGateway (Harper-Collins), then a US top 10 website, to Rails
 
@@ -106,7 +106,7 @@ Projects - Volunteer Work
 
 Awards, Accolades and Certifications
 * 2x Dean’s Honor List for Computer Science, Ball State University
-* Indiana Core 40 Honors Diploma, Muncie Central High School
+* Indiana Core40 with Academic Honors Diploma, Muncie Central High School
 * Eagle Scout - Boy Scouts of America
 * Licensed Barista SITHFAB005 & SITXFSA001, CBD College, Sydney, Australia, RTO# 91399
 
