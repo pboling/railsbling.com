@@ -45,7 +45,7 @@ Staff Engineer (equivalent)    ⦚    Trumaker & Co    ⦚    Apr 2014    ⦚   
 
 Staff Engineer, Founder    ⦚    9thBit LLC    ⦚    Aug 2013    ⦚    1.3y
 🥞Ruby 1.8…2.1, CGI, FastCGI, Mail gem, RSpec, Oracle 11g, rbenv, bash, daemons, RedHat linux  ⦚  📜🇺🇸
-* Initial 9 month contact with Church Pension Group extended to project completion. Forensic modernization; Account locking, token auth, daemons, `make` build system. Achieved 10x perf improvement of internal services, 20 req/s increased to > 200 req/s
+* Contract (extended) with Church Pension Group. Forensic modernization; Account locking, token auth, daemons, `make` build system. Achieved 10x perf improvement of internal services, 20 req/s increased to > 200 req/s
 
 
 Chief Technology Officer, Co-founder    ⦚    Acquaintable    ⦚    Nov 2012    ⦚    1.1y
