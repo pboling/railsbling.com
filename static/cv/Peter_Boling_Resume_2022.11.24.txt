@@ -40,7 +40,7 @@ Principal Engineer Team Lead    ⦚    Invoice2go    ⦚    Jan 2016    ⦚    1
 
 Staff Engineer (equivalent)    ⦚    Trumaker & Co    ⦚    Apr 2014    ⦚    2y
 🥞Rails 3.2, Ruby 2.0…2.1, RSpec, React, Ember, Haml, Slim, SASS, psql, S3, Sidekiq, TravisCI, GH, SF, NR, Heroku  ⦚  🇺🇸
-* Extractions to ember-cli & react; Ordering, manufacturing, shipping & inventory biz logic. Fully spec’d 12-state Lead CRM tool w/ sales attribution. Wrote celluloid-io-pg-listener - real-time, bi-directional, SalesForce integration
+* Monolith extractions Ember/React; Ordering, manufacturing, shipping & inventory biz logic. Fully spec’d 12-state Lead CRM tool w/ sales attribution. Wrote celluloid-io-pg-listener - real-time, bi-directional, SalesForce integration
 
 
 Staff Engineer, Founder    ⦚    9thBit LLC    ⦚    Aug 2013    ⦚    1.3y
@@ -48,7 +48,7 @@ Staff Engineer, Founder    ⦚    9thBit LLC    ⦚    Aug 2013    ⦚    1.3y
 * Initial 9 month contact with Church Pension Group extended to project completion. Forensic modernization; Account locking, token auth, daemons, `make` build system. Achieved 10x perf improvement of internal services, 20 req/s increased to > 200 req/s
 
 
-Chief Technology Officer, Co-founder    ⦚    Acquaintable    ⦚    Jun 2012    ⦚    1.4y
+Chief Technology Officer, Co-founder    ⦚    Acquaintable    ⦚    Nov 2012    ⦚    1.1y
 🥞Rails 3.2, JRuby 1.7, Ruby 1.9…2.0, RSpec, RequireJS, Backbone+Marionette, Foundation, SASS, Neo4j, psql, S3, Sidekiq, Unicorn, Puma, TravisCI, GH, Librato, NR, Heroku  ⦚  🫰💲🇺🇸🇧🇷
 * Co-founded, pitched, fund-raised, and implemented socially-curated dating through FoF. Mobile-first SPA, touch-enabled; Full matching UX within 10s. Seed round ERA-NYC Winter 2013; Acquired by Reveal (MS Ventures)
 
