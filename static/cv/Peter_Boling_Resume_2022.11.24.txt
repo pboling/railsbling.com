@@ -4,7 +4,7 @@ ________________
 
 
 Executive, director, mentor, advisor, legacy specialist and software engineer for 25 years. Passions are strong testing, design patterns, process innovation, and improving the human condition.
-🌎1st: Enterprise Rails app on Windows Server 2k3, IIS6 + FastCGI w/ SSO (2006, ref1, ref2). Over 15 years ago I designed and built the Indiana Register & Administrative Code website, which continues to daily publish all official legislative documents of the Indiana State General Assembly. Quality matters when longevity matters. Led massive PHP-to-Rails migrations @ aSmallWorld (2008-9) and BibleGateway (2009-10). Recognized as a builder of critical Free (Libre) Open Source Software (FLOSS) tools that make Github possible (2022, ref).
+🌎1st: Enterprise Rails app on Windows Server 2k3, IIS6 + FastCGI w/ SSO (2006, ref1, ref2). Over 15 years ago I designed and built the Indiana Register & Administrative Code website, which continues to daily publish all official legislative documents of the Indiana State General Assembly. Quality matters when longevity matters. Led massive PHP-to-Rails migrations @ aSmallWorld (2008-9) and BibleGateway (2009-10). Recognized as a builder of critical Free (Libre) Open Source Software (FLOSS) tools that make GitHub possible (2022, ref).
 Languages:    🇺🇸English (native)    ⦚    🇲🇽Spanish (fluent)    ⦚    🇧🇷Portuguese (fluent)    ⦚    🇮🇩Indonesian (basic)
 Legend:   🫰Leader / Manager / Exec   ⦚   🦖Jira Admin   ⦚   🪜Promotion   ⦚   📜Contract Extension   ⦚   💲Acquisition
 
