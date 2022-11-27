@@ -14,15 +14,25 @@ series = [ "#GiveUpGithub" ]
 +++
 <div id="badges">
 
-[![Follow Me on Twitter](https://img.shields.io/badge/PeterBoling-blue?style=plastic&logo=linkedin)](http://www.linkedin.com/in/peterboling)
-[![Follow Me on LinkedIn](https://img.shields.io/twitter/follow/galtzo.svg?style=social&label=Follow)](http://twitter.com/intent/user?screen_name=galtzo)
-[![Published Rubygems](https://img.shields.io/gem/u/pboling.svg)](https://rubygems.org/profiles/pboling)
+[![Liberapay Patrons][⛳liberapay-img]][⛳liberapay]
+[![Follow Me on LinkedIn][🖇linkedin-img]][🖇linkedin]
+[![Follow Me on Twitter][🐦twitter-img]][🐦twitter]
+[![Published Rubygems][💎rubygems-img]][💎rubygems]
 
 </div>
 
+[⛳liberapay-img]: https://img.shields.io/liberapay/patrons/pboling.svg?logo=liberapay
+[⛳liberapay]: https://liberapay.com/pboling/donate
+[🖇linkedin]: http://www.linkedin.com/in/peterboling
+[🖇linkedin-img]: https://img.shields.io/badge/PeterBoling-blue?style=plastic&logo=linkedin
+[🐦twitter]: http://twitter.com/intent/user?screen_name=galtzo
+[🐦twitter-img]: https://img.shields.io/twitter/follow/galtzo.svg?style=social&label=Follow
+[💎rubygems]: https://rubygems.org/profiles/pboling
+[💎rubygems-img]: https://img.shields.io/gem/u/pboling.svg
+
 ## I Am Using GitHub Under Protest
 
-Github's decided to sponsor me, because they rely on my tools.
+Github decided to sponsor me, because they rely on my tools.
 
 In spite of that, I'm leaving.  Why?  I certainly do not have the spare-time to move **hundreds** of projects to a new home... but I'm getting started.
 
