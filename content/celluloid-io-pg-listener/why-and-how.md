@@ -46,4 +46,4 @@ With some triggers and functions on both sides connected by the channel payloads
 
 # I want to know more!
 
-Read [this little tutorial.](/posts/introducing-celluloid-io-pg-listener/)
+Read [this little tutorial.](/assets/images/posts/introducing-celluloid-io-pg-listener/)
