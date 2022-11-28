@@ -6,6 +6,7 @@ authorlinktarget = "_blank"
 authortwitter = "https://www.twitter.com/galtzo"
 authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
+hero = "images/vector-header.jpeg"
 title = "bash shell"
 type = "page"
 
@@ -28,3 +29,5 @@ Bash Shell Function Library
 [![Stars](https://img.shields.io/github/stars/pboling/bsfl.svg?style=social)](https://github.com/pboling/bsfl/stargazers)
 
 I want to get better at bash scripting!
+
+> Hero image by Peter Boling (me) using [Inkscape, the free vector drawing tool](https://inkscape.org/)

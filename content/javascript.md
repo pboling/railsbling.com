@@ -6,6 +6,7 @@ authorlinktarget = "_blank"
 authortwitter = "https://www.twitter.com/galtzo"
 authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
+hero = "images/vector-header.jpeg"
 title = "javascript"
 type = "page"
 
@@ -28,3 +29,5 @@ Yet Another jQuery Ellipsis Plugin... only better.
 
 [![Network](https://img.shields.io/github/forks/pboling/jquery.ellipsis.svg?style=social)](https://github.com/pboling/jquery.ellipsis/network)
 [![Stars](https://img.shields.io/github/stars/pboling/jquery.ellipsis.svg?style=social)](https://github.com/pboling/jquery.ellipsis/stargazers)
+
+> Hero image by Peter Boling (me) using [Inkscape, the free vector drawing tool](https://inkscape.org/)

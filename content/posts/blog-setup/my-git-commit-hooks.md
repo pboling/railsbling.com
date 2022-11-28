@@ -124,4 +124,4 @@ end
 \*\* Note: Much of this is based on work originally done by Brett Fishman ([github](https://github.com/brettfishman)), Director of Engineering at [Trumaker &amp; Co](http://www.trumaker.com/)
 \*\*\* Note: Brett used a [great ascii art generator](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 
-> [Cover Photo (cropped)](https://unsplash.com/photos/HSP9_V2cZ5s) by [Barthelemy de Mazenod](https://unsplash.com/@thebarlemy)
+> [Hero image (cropped)](https://unsplash.com/photos/HSP9_V2cZ5s) by [Barthelemy de Mazenod](https://unsplash.com/@thebarlemy)

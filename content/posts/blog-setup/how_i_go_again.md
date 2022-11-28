@@ -203,5 +203,5 @@ Update: I am switching my theme to [`coder`](https://github.com/luizdepra/hugo-c
 
 Update to last Update: Actually... [`toha`](https://github.com/hugo/hugo-toha/) is a great theme :)
 
-> [Cover Photo (cropped)](https://unsplash.com/photos/INeZJfQxMLE) by [Scott Webb](https://unsplash.com/@scottwebb)
+> [Hero image (cropped)](https://unsplash.com/photos/INeZJfQxMLE) by [Scott Webb](https://unsplash.com/@scottwebb)
   

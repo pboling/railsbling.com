@@ -6,6 +6,7 @@ authorlinktarget = "_blank"
 authortwitter = "https://www.twitter.com/galtzo"
 authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
+hero = "images/vector-header.jpeg"
 title = "moldy ruby"
 type = "page"
 
@@ -98,3 +99,5 @@ Create files with sequential file names for nicer directory listing, with automa
 [![Version](https://img.shields.io/gem/v/status_tag.svg)](https://rubygems.org/gems/status_tag)
 [![Build](https://img.shields.io/travis/pboling/status_tag.svg)](https://travis-ci.org/pboling/status_tag)
 [![Documentation](http://inch-ci.org/github/pboling/status_tag.svg)](http://inch-ci.org/github/pboling/status_tag)
+
+> Hero image by Peter Boling (me) using [Inkscape, the free vector drawing tool](https://inkscape.org/)

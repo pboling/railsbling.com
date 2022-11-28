@@ -170,4 +170,4 @@ git push --set-upstream live master
 
 Like magic, and unless I missed something in my writeup, my new site will deploy and be live!
 
-> [Cover Photo (cropped)](https://unsplash.com/photos/2kQ5luiBp9M) by [Barthelemy de Mazenod](https://unsplash.com/@thebarlemy)
+> [Hero image (cropped)](https://unsplash.com/photos/2kQ5luiBp9M) by [Barthelemy de Mazenod](https://unsplash.com/@thebarlemy)

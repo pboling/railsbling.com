@@ -91,4 +91,4 @@ Frame number: 0/3
 [1] pry(main)> exit
 ```
 
-> [Cover Photo (cropped)](https://unsplash.com/photos/-UWkoieb0MU) by [Barthelemy de Mazenod](https://unsplash.com/@thebarlemy)
+> [Hero image (cropped)](https://unsplash.com/photos/-UWkoieb0MU) by [Barthelemy de Mazenod](https://unsplash.com/@thebarlemy)

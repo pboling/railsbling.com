@@ -147,4 +147,4 @@ bundle install
 
 Glorious.
 
-> [Cover Photo (cropped)](https://unsplash.com/photos/DO6uKiZuYeA) by [manos koutras](https://unsplash.com/@manosk)
+> [Hero image (cropped)](https://unsplash.com/photos/DO6uKiZuYeA) by [manos koutras](https://unsplash.com/@manosk)

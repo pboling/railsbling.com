@@ -39,4 +39,4 @@ http://github.com/pboling/csv_pirate
 
 > Originally posted to [my old blog](https://galtzo.blogspot.com/2009/03/csv-pirate.html)
 
-> [Cover Photo (cropped)](https://unsplash.com/photos/HTpAIzZRHvw) by [Zoltan Tasi](https://unsplash.com/@zoltantasi)
+> [Hero image (cropped)](https://unsplash.com/photos/HTpAIzZRHvw) by [Zoltan Tasi](https://unsplash.com/@zoltantasi)

@@ -162,4 +162,4 @@ You may need to run compaudit and fix some directory permissions.
     $ sudo chmod g-w /usr/local/share/zsh/site-functions
     $ sudo chmod g-w /usr/local/share/zsh
 
-> [Cover Photo (cropped)](https://unsplash.com/photos/9wW9hqvT0Jo) by [Paweł Wielądek](https://unsplash.com/@pawelwieladek)
+> [Hero image (cropped)](https://unsplash.com/photos/9wW9hqvT0Jo) by [Paweł Wielądek](https://unsplash.com/@pawelwieladek)

@@ -183,4 +183,4 @@ Glorious.
 * [On Github](https://gist.github.com/pboling/c2bb179e73f8a6ca94e4)
 * The reddit version of this post was featured in [RubyWeekly Issue #266, October 1, 2015](http://rubyweekly.com/issues/266)
 
-> [Cover Photo (cropped)](https://unsplash.com/photos/_rLDh9IFHf8) by [Robby McCullough](https://unsplash.com/@mybbor)
+> [Hero image (cropped)](https://unsplash.com/photos/_rLDh9IFHf8) by [Robby McCullough](https://unsplash.com/@mybbor)

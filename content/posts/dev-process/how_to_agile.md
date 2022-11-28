@@ -47,4 +47,4 @@ If you're like me you grew as a software developer alongside a novel style of de
 
 **Self-organizing Teams with Empowered Product Owners**: Agile teams are composed of peers who share ownership of the team’s work and decision-making processes. Self-organizing teams in Scrum are given ownership of their work process, their commitments, and their approach to meeting their commitments. Product Owner is the role in Scrum that represents the business and customer directly within the development team. The Product Owner must be empowered to make product decisions in response to feedback from stakeholders and customers. Taken together, a Scrum team has complete control over how it does its work and what work it does.
 
-> [Cover Photo (cropped)](https://unsplash.com/photos/iJg1YzsEfqo) by [Eden Constantino](https://unsplash.com/@edenconstantin0)
+> [Hero image (cropped)](https://unsplash.com/photos/iJg1YzsEfqo) by [Eden Constantino](https://unsplash.com/@edenconstantin0)

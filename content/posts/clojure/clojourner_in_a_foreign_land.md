@@ -101,4 +101,4 @@ It is so much work to manage that it had caused me to fail to post release annou
 
 Follow along with the [`badger` project on Codeberg](https://codeberg.org/pboling/badger) if you are interested!
 
-> [Cover Photo (cropped)](https://unsplash.com/photos/nS7Kfg9Ai4w) by [Artem Artemov](https://unsplash.com/@artemov)
+> [Hero image (cropped)](https://unsplash.com/photos/nS7Kfg9Ai4w) by [Artem Artemov](https://unsplash.com/@artemov)

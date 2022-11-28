@@ -6,6 +6,7 @@ authorlinktarget = "_blank"
 authortwitter = "https://www.twitter.com/galtzo"
 authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
+hero = "images/vector-header.jpeg"
 title = "CV"
 type = "page"
 
@@ -108,3 +109,5 @@ I am a political activist utilizing my social currency to advocate for equality 
 * Devoted to making the world a better place, and to furthering scientific knowledge.
 * I dedicate a significant potion of my time, talents, and resources to refugees in Africa.
 * Also donate to a large number of humanitarian organizations working on issues of injustice and poverty.
+
+> Hero image by Peter Boling (me) using [Inkscape, the free vector drawing tool](https://inkscape.org/)

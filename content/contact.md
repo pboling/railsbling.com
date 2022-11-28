@@ -6,6 +6,7 @@ authorlinktarget = "_blank"
 authortwitter = "https://www.twitter.com/galtzo"
 authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
+hero = "images/vector-header.jpeg"
 title = "contact"
 type = "page"
 
@@ -37,3 +38,5 @@ You can schedule some time to chat on my [📅Calendly](https://calendly.com/pet
 Here is my public calendar so you know when I am available:
 
 <iframe src="https://calendar.google.com/calendar/embed?src=peter.boling%40gmail.com&ctz=America/Los_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+> Hero image by Peter Boling (me) using [Inkscape, the free vector drawing tool](https://inkscape.org/)
