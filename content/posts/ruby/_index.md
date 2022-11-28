@@ -4,6 +4,6 @@ title = "Ruby Thoughts"
 [menu.sidebar]
 name = "Ruby Thoughts"
 identifier = "ruby-thoughts"
-weight = 500
+weight = 600
 
 +++

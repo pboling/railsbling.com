@@ -4,6 +4,6 @@ title = "Local Development Setup"
 [menu.sidebar]
 name = "Local Development Setup"
 identifier = "localdev-setup"
-weight = 400
+weight = 500
 
 +++
