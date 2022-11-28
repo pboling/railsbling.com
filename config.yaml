@@ -48,9 +48,6 @@ outputs:
     - RSS
     - JSON
 
-# Enable Disqus forum
-disqusShortname: railsbling
-
 # Enable global emoji support
 enableEmoji: true
 
