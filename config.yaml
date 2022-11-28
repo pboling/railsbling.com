@@ -48,9 +48,6 @@ outputs:
     - RSS
     - JSON
 
-# Enable Google Analytics
-GoogleAnalytics: UA-37606822-1
-
 # Enable Disqus forum
 disqusShortname: railsbling
 
@@ -59,6 +56,22 @@ enableEmoji: true
 
 # Custom parameters
 params:
+  features:
+    analytics:
+      enabled: true
+      goatCounter:
+        code: galtzo
+    comment:
+      enable: true
+      disqus:
+        shortName: "peterboling"
+    support:
+      enabled: true
+      kofi:
+        user: pboling
+        text: Tip Me
+        textColor: '#f9fafc'
+        backgroundColor: '#248aaa'
   gitRepo: https://github.com/pboling/railsbling.com
   gitBranch: master
 
@@ -96,7 +109,6 @@ params:
     name: "Peter Boling"
   AuthorName: "Peter Boling"
   DateForm: "Mon, Jan 2, 2006"
-  GoogleAnalyticsUserID: "UA-37606822-1"
   gaid: "UA-37606822-1"
   baseURL: "https://www.railsbling.com"
   Facebook: "peter.boling"
