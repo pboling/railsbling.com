@@ -221,9 +221,9 @@ weight = 10
 [🪜l-g]: https://github.com/pboling/letter_group
 [🪜m-s]: https://github.com/pboling/month-serializer
 [🪜oa1]: https://gitlab.com/oauth-xx/oauth
-[🪜oa1-gh]: https://gitlab.com/oauth-xx/oauth
+[🪜oa1-gh]: https://github.com/oauth-xx/oauth-ruby
 [🪜oa2]: https://gitlab.com/oauth-xx/oauth2
-[🪜oa2-gh]: https://gitlab.com/oauth-xx/oauth2
+[🪜oa2-gh]: https://github.com/oauth-xx/oauth2
 [🪜tty]: https://gitlab.com/oauth-xx/oauth-tty
 [🪜oid]: https://github.com/omniauth/omniauth-identity
 [🪜p-f]: https://github.com/pboling/pretty_feed

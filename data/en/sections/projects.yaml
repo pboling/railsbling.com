@@ -65,6 +65,7 @@ buttons:
 projects:
 # 1981 stars - 11/15/20
 # 2081 stars - 6/30/22
+# 2108 stars - 11/28/22
 - name: oauth2
   logo: images/projects/oauth-xx.png
   role: Lead Maintainer
@@ -75,6 +76,7 @@ projects:
 
 # 627 stars - 11/15/20
 # 660 stars - 6/30/22
+# 667 stars - 11/28/22
 - name: oauth
   logo: images/projects/oauth-xx.png
   role: Lead Maintainer
@@ -83,8 +85,17 @@ projects:
   summary: Oauth 1.0 for Ruby
   tags: ["rubygem","auth"]
 
+- name: oauth-tty
+  logo: images/projects/oauth-xx.png
+  role: Author & Maintainer
+  timeline: "Aug 2020 - Present"
+  repo: https://gitlab.com/oauth-xx/oauth-tty
+  summary: OAuth 1.0 TTY Command Line Interface
+  tags: ["rubygem","auth","shell","debug"]
+
 # 453 stars - 11/15/20
 # 467 stars - 6/30/22
+# 472 stars - 11/28/22
 - name: flag_shih_tzu
   role: Lead Maintainer
   timeline: "Apr 2012 - Present"
@@ -94,6 +105,7 @@ projects:
 
 # 413 stars - 11/15/20
 # 496 stars - 6/30/22
+# 513 stars - 11/28/22
 - name: dynamoid
   role: Maintainer
   timeline: "May 2016 - Present"
@@ -103,6 +115,7 @@ projects:
 
 # 337 stars - 11/15/20
 # 340 stars - 6/30/22
+# 340 stars - 11/28/22
 - name: omniauth-identity
   logo: images/projects/omniauth.png
   role: Maintainer
@@ -112,7 +125,7 @@ projects:
   tags: ["rubygem","auth"]
 
 # 159 stars - 11/15/20
-# 340 stars - 6/30/22
+# 161 stars - 11/28/22
 - name: sanitize_email
   role: Author & Maintainer
   timeline: "Nov 2008 - Present"
@@ -122,6 +135,7 @@ projects:
 
 # 66 stars - 11/15/20
 # 75 stars - 6/30/22
+# 76 stars - 11/28/22
 - name: gem_bench
   role: Author & Maintainer
   timeline: "Apr 2013 - Present"
@@ -130,7 +144,7 @@ projects:
   tags: ["rubygem","bundler","debug","rspec","logs"]
 
 # 6 stars - 11/15/20
-# 9 stars - 6/30/22
+# 9 stars - 11/28/22
 - name: debug_logging
   role: Author & Maintainer
   timeline: "Mar 2017 - Present"
@@ -139,25 +153,32 @@ projects:
   tags: ["rubygem","logs","debug"]
 
 # 2 stars - 11/15/20
-# 2 stars - 6/30/22
+# 2 stars - 11/28/22
 - name: resque-unique_in_queue
   role: Author & Maintainer
   timeline: "Aug 2017 - Present"
   repo: https://github.com/pboling/resque-unique_in_queue
-  summary: Resque plugin allowing configuration of unique jobs at queue-time
+  summary: Resque plugin allowing configuration of queue-time job uniqueness
   tags: ["rubygem","resque"]
 
+- name: resque-lonely_job
+  role: Maintainer
+  timeline: "Aug 2017 - Present"
+  repo: https://rubygems.org/gems/resque-lonely_job
+  summary: "[WIP-Deprecating] Resque plugin allowing configuration of run-time job uniqueness"
+  tags: ["rubygem","resque","archived","wip"]
+
 # 3 stars - 11/15/20
-# 3 stars - 6/30/22
+# 3 stars - 11/28/22
 - name: resque-unique_at_runtime
   role: Author & Maintainer
   timeline: "Apr 2017 - Present"
   repo: https://github.com/pboling/resque-unique_at_runtime
-  summary: A resque plugin that ensures that only one job for a given queue will be running on any worker at a given time.
+  summary: Resque plugin allowing configuration of run-time job uniqueness
   tags: ["rubygem","resque"]
 
 # 2 stars - 11/15/20
-# 4 stars - 6/30/22
+# 4 stars - 11/28/22
 - name: resque-unique_by_arity
   role: Author & Maintainer
   timeline: "Apr 2017 - Present"
@@ -167,6 +188,7 @@ projects:
 
 # 2 stars - 11/15/20
 # 3 stars - 6/30/22
+# 4 stars - 11/28/22
 - name: anonymous_active_record
   role: Author & Maintainer
   timeline: "Jan 2018 - Present"
@@ -175,7 +197,7 @@ projects:
   tags: ["rubygem","rspec","rails", "model"]
 
 # 1 stars - 11/15/20
-# 1 stars - 6/30/22
+# 1 stars - 11/28/22
 - name: month-serializer
   role: Author & Maintainer
   timeline: "Oct 2018 - Present"
@@ -184,7 +206,7 @@ projects:
   tags: ["rubygem","math"]
 
 # 2 stars - 11/15/20
-# 3 stars - 6/30/22
+# 3 stars - 11/28/22
 - name: rspec-stubbed_env
   role: Author & Maintainer
   timeline: "Oct 2018 - Present"
@@ -193,7 +215,7 @@ projects:
   tags: ["rubygem","rspec","env"]
 
 # 1 stars - 11/15/20
-# 1 stars - 6/30/22
+# 1 stars - 11/28/22
 - name: activerecord-tablefree
   role: Author & Maintainer
   timeline: "Nov 2017 - Present"
@@ -211,7 +233,7 @@ projects:
   tags: ["rubygem","react","rails","view"]
 
 # 7 stars - 11/15/20
-# 7 stars - 6/30/22
+# 7 stars - 11/28/22
 - name: each_in_batches
   role: Author & Maintainer
   timeline: "Nov 2008 - Present"
@@ -220,7 +242,7 @@ projects:
   tags: ["rubygem","rails","model"]
 
 # 1 stars - 11/15/20
-# 1 stars - 6/30/22
+# 1 stars - 11/28/22
 - name: destination_errors
   role: Author & Maintainer
   timeline: "Apr 2015 - Present"
@@ -256,7 +278,7 @@ projects:
   tags: ["rubygem","math","wip"]
 
 # 6 stars - 11/15/20
-# 6 stars - 6/30/22
+# 6 stars - 11/28/22
 - name: dry_views
   role: Author & Maintainer
   timeline: "Aug 2012 - Present"
@@ -265,7 +287,7 @@ projects:
   tags: ["rubygem","rails","view"]
 
 # 1 stars - 11/15/20
-# 1 stars - 6/30/22
+# 1 stars - 11/28/22
 - name: letter_group
   role: Author & Maintainer
   timeline: "Apr 2015 - Present"
@@ -274,6 +296,7 @@ projects:
   tags: ["rubygem","model","presenter"]
 
 # 28 stars - 11/15/20
+# 28 stars - 11/28/22
 - name: csv_pirate
   role: Author & Maintainer
   timeline: "Mar 2009 - Present"
@@ -282,6 +305,7 @@ projects:
   tags: ["rubygem","model"]
 
 # 2 stars - 11/15/20
+# 2 stars - 11/28/22
 - name: rails_env_local
   role: Author & Maintainer
   timeline: "Mar 2016 - Present"
@@ -290,6 +314,7 @@ projects:
   tags: ["rubygem","rails","env"]
 
 # 4 stars - 11/15/20
+# 4 stars - 11/28/22
 - name: status_tag
   role: Author & Maintainer
   timeline: "Aug 2015 - Present"
@@ -306,6 +331,7 @@ projects:
   tags: ["rubygem","rails","devops","email"]
 
 # 1 stars - 11/15/20
+# 1 stars - 11/28/22
 - name: strict_states
   role: Author & Maintainer
   timeline: "Nov 2015 - Present"
@@ -314,6 +340,7 @@ projects:
   tags: ["rubygem","rails","model"]
 
 # 1 stars - 11/15/20
+# 1 stars - 11/28/22
 - name: include_with_respect
   role: Author & Maintainer
   timeline: "Dec 2019 - Present"
@@ -322,6 +349,7 @@ projects:
   tags: ["rubygem","rails","debug"]
 
 # 1 stars - 11/15/20
+# 2 stars - 11/28/22
 - name: require_bench
   role: Author & Maintainer
   timeline: "Sep 2018 - Present"
@@ -330,6 +358,7 @@ projects:
   tags: ["rubygem","rails","debug","logs"]
 
 # 2 stars - 11/15/20
+# 2 stars - 11/28/22
 - name: rspec-block_is_expected
   role: Author & Maintainer
   timeline: "Oct 2018 - Present"
@@ -338,6 +367,7 @@ projects:
   tags: ["rubygem","rspec"]
 
 # 6 stars - 11/15/20
+# 6 stars - 11/28/22
 - name: celluloid-io-pg-listener
   role: Author & Maintainer
   timeline: "Oct 2015 - Present"
@@ -346,6 +376,7 @@ projects:
   tags: ["rubygem","pubsub","model"]
 
 # 5 stars - 11/15/20
+# 6 stars - 11/28/22
 - name: rspec-pending_for
   role: Author & Maintainer
   timeline: "Oct 2015 - Present"
@@ -354,6 +385,7 @@ projects:
   tags: ["rubygem","rspec"]
 
 # 4 stars - 11/15/20
+# 5 stars - 11/28/22
 - name: activerecord-transactionable
   role: Author & Maintainer
   timeline: "Mar 2016 - Present"
@@ -362,6 +394,7 @@ projects:
   tags: ["rubygem","rails","model"]
 
 # 2 stars - 11/15/20
+# 2 stars - 11/28/22
 - name: silent_stream
   role: Author & Maintainer
   timeline: "Sep 2018 - Present"
@@ -442,12 +475,94 @@ projects:
   tags: ["javascript"]
 
 # 1 stars - 11/15/20
+# 3 stars - 11/28/22
 - name: shiftable
   role: Author & Maintainer
   timeline: "Oct 2021 - Present"
   repo: https://github.com/pboling/shiftable
   summary: Change ActiveRecord associations in a structured manner
   tags: ["rubygem","rails","model"]
+
+# 2 stars - 11/28/22
+- name: snaky_hash
+  role: Author & Maintainer
+  timeline: "Aug 2022 - Present"
+  repo: https://gitlab.com/oauth-xx/snaky_hash
+  summary: "A Hashie::Mash joint to improve #snake_life for everyone"
+  tags: ["rubygem","hash","env","auth"]
+
+# 3 stars - 11/28/22
+- name: version_gem
+  role: Author & Maintainer
+  timeline: "Jun 2022 - Present"
+  repo: https://gitlab.com/oauth-xx/snaky_hash
+  summary: "Versions are good. Versions are cool. Versions will win."
+  tags: ["rubygem","devops","env"]
+
+- name: undrive_google
+  role: Author & Maintainer
+  timeline: "Oct 2022 - Present"
+  repo: https://git.sr.ht/~galtzo/undrive_google
+  summary: "🏴 Liberate files from your Google Drive"
+  tags: ["rubygem","shell"]
+
+- name: simple_column-scopes
+  role: Author & Maintainer
+  timeline: "Jun 2017 - Present"
+  repo: https://rubygems.org/gems/simple_column-scopes
+  summary: "Dynamic modules define dynamic methods from array of column names"
+  tags: ["rubygem","rails","model","wip"]
+
+- name: service_actor-promptable
+  role: Author & Maintainer
+  timeline: "Jun 2017 - Present"
+  repo: https://github.com/pboling/service_actor-promptable
+  summary: "TTY User Input plugin for service_actor gem"
+  tags: ["rubygem","interactor","model"]
+
+- name: sequential_file
+  role: Author & Maintainer
+  timeline: "Feb 2014 - Present"
+  repo: https://github.com/pboling/service_actor-promptable
+  summary: "Create Files Named Sequentially Intelligently"
+  tags: ["rubygem","shell","debug","logs"]
+
+- name: seed_migration
+  role: Maintainer
+  timeline: "Mar 2022 - Present"
+  repo: https://github.com/pboling/seed_migration
+  summary: "Seed Migration"
+  tags: ["rubygem","model","rails","logs"]
+
+# 1 stars - 11/28/22
+- name: qfill
+  role: Author & Maintainer
+  timeline: "Mar 2013 - Present"
+  repo: https://github.com/pboling/qfill
+  summary: "Create Files Named Sequentially Intelligently"
+  tags: ["rubygem","math"]
+
+- name: pretty_feed
+  role: Author & Maintainer
+  timeline: "Mar 2022 - Present"
+  repo: https://github.com/pboling/pretty_feed
+  summary: "Pass/Fail logging colorization"
+  tags: ["rubygem","debug","logs"]
+
+- name: gitmoji-regex
+  role: Author & Maintainer
+  timeline: "Mar 2022 - Present"
+  repo: https://github.com/pboling/gitmoji-regex
+  summary: "A regular expression matching Gitmoji symbols only"
+  tags: ["rubygem"]
+
+- name: archivist-client
+  role: Author & Maintainer
+  timeline: "Dec 2013 - Present"
+  repo: http://github.com/wordtreefoundation/archivist-client
+  summary: "Query archive.org for book data and download some things"
+  tags: ["rubygem","shell","wip"]
+
 
 #- name: A sample academic paper
 #  role: Team Lead
