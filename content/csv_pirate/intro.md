@@ -1,11 +1,12 @@
 +++
-date = "2009-10-01T12:30:16-07:00"
+date = "2009-03-04T12:30:16-07:00"
 draft = false
 authorlink = "https://about.me/peter.boling"
 authorlinktarget = "_blank"
 authortwitter = "https://www.twitter.com/galtzo"
 authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
+hero = "images/posts/writing/zoltan-tasi-HTpAIzZRHvw-unsplash-1920-1095-crop.png"
 title = "Introducing csv_pirate"
 tags = [ "development", "ruby", "rails", "rubygems", "csv_pirate" ]
 categories = [ "development", "tools", "ruby" ]
@@ -28,4 +29,14 @@ type = "docs"
 [![Chat](https://img.shields.io/gitter/room/pboling/csv_pirate.svg)](https://gitter.im/pboling/csv_pirate)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-I'll put something here soon.
+I needed a way to handily create CSVs anytime I want to because I have clients that ask for reports of data all the time. So I wrote a plugin and then turned it into a gem!
+
+The source is written in Piratey Ruby.
+
+So check my source =)
+
+http://github.com/pboling/csv_pirate
+
+> Originally posted to [my old blog](https://galtzo.blogspot.com/2009/03/csv-pirate.html)
+
+> [Cover Photo (cropped)](https://unsplash.com/photos/HTpAIzZRHvw) by [Zoltan Tasi](https://unsplash.com/@zoltantasi)
