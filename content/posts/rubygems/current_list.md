@@ -21,6 +21,24 @@ weight = 10
 
 +++
 
+# I'm a Tidelift Maintainer
+
+## What is Tidelift?
+
+Tidelift maximizes the health and security of the
+open source powering your applications.  Provides the tools, data, and strategies
+that help organizations assess risk and improve the health, security, and
+resilience of the open source used in their applications.
+
+Tidelift partners directly with maintainers like me and pays them to ensure the open source
+software organizations rely on meets enterprise standards now and into the future.
+
+[Check it out](https://tidelift.com/subscription/pkg/rubygems-oauth2?utm_source=rubygems-oauth2&utm_medium=referral&utm_campaign=enterprise) if you need enterprise-level support for open source tools.
+
+If you need support for something [I wrote, or published](https://rubygems.org/profiles/pboling) that isn't listed here, please do [reach out](/contact).
+
+Below are the gems I currently maintain.
+
 | Gem                            | Blog        | Gitter      | DVCS                       | DLs                 | Stars                                          | DL Ranks            |
 |--------------------------------|-------------|-------------|----------------------------|---------------------|------------------------------------------------|---------------------|
 | `activerecord-tablefree`       | [🔗][🔗atf] | [💬][🏘atf] | [🐙][🪜atf]                | [![🔻atf-i]][💎atf] | [![⭐atf-i]][🪜atf]                             | [![🚦atf-i]][💎atf] |
@@ -87,7 +105,6 @@ weight = 10
 3. As I migrate projects away from GitHub 🐙 to GitLab 🧪, SourceHut 🛖, CodeBerg 🧊, and others, I'll update the table.
 
 > [Hero image (cropped)](https://unsplash.com/photos/JKRXPwUoFt0) by [Jason D](https://unsplash.com/@jasondeblooisphotography)
-
 
 [🔗atf]: /activerecord-tablefree
 [🔗atr]: /activerecord-transactionable

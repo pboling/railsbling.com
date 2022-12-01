@@ -12,6 +12,8 @@ customMenus:
     url: "/floss"
   - name: "Ruby"
     url: "/tags/ruby"
+  - name: "Gems"
+    url: "/posts/rubygems/current_list/"
   - name: "JavaScript"
     url: "/javascript"
   - name: "Bash"

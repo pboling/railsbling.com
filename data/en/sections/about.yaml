@@ -17,8 +17,8 @@ roles:
       url: "https://rivierapartners.com"
   - designation: FLOSS Author & Maintainer
     company:
-      name: MINSWAN ;)
-      url: "https://railsbling.com/posts/rubygems/current_list/"
+      name: Tidelift
+      url: "/posts/rubygems/current_list/"
   - designation: Co-founder & Researcher
     company:
       name: Word Tree Foundation
@@ -46,9 +46,25 @@ socialLinks:
     icon: "fas fa-phone"
     url: "tel:+1-925-252-5351"
 
+  - name: RubyGems
+    icon: "fas fa-gem"
+    url: "/posts/rubygems/current_list/"
+
   - name: Github
     icon: "fab fa-github"
     url: "https://github.com/pboling"
+
+  - name: GitLab
+    icon: "fab fa-gitlab"
+    url: "https://gitlab.com/pboling"
+
+  - name: CodeBerg
+    icon: "fas fa-mountain"
+    url: "https://codeberg.org/pboling"
+
+  - name: SourceHut
+    icon: "fas fa-bread-slice"
+    url: "https://sr.ht/~galtzo/"
 
   - name: Stackoverflow
     icon: "fab fa-stack-overflow"
@@ -58,20 +74,20 @@ socialLinks:
     icon: "fab fa-linkedin"
     url: "https://www.linkedin.com/in/peterboling"
 
-  - name: Twitter
-    icon: "fab fa-twitter"
-    url: "https://www.twitter.com/galtzo"
+#  - name: Twitter
+#    icon: "fab fa-twitter"
+#    url: "https://www.twitter.com/galtzo"
 
-  - name: Facebook
-    icon: "fab fa-facebook"
-    url: "https://www.facebook.com/peter.boling"
+#  - name: Facebook
+#    icon: "fab fa-facebook"
+#    url: "https://www.facebook.com/peter.boling"
 
-  - name: HackerRank
-    icon: "fas fa-terminal"
-    url: "https://www.hackerrank.com/peter_boling"
+#  - name: HackerRank
+#    icon: "fas fa-terminal"
+#    url: "https://www.hackerrank.com/peter_boling"
 
   - name: Star Dev
-    icon: "far fa-keyboard"
+    icon: "far fa-star"
     url: "https://stardev.io/developers/pboling"
 
   - name: About Me
@@ -85,10 +101,6 @@ socialLinks:
   - name: Angellist
     icon: "fab fa-angellist"
     url: "https://angel.co/peter-boling"
-
-  - name: RubyGems
-    icon: "fas fa-diamond"
-    url: "https://railsbling.com/posts/rubygems/current_list/"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
