@@ -2,58 +2,58 @@
 { Portfolio , LinkedIn , wellfound: , Crunchbase , RubyGems , 
   GitHub , GitLab , CodeBerg , SourceHut }
 TZ-America/* | (925) 252-5351 | peter@railsbling.com
-Architect-level engineer with team lead and management experience in deep backend systems with 25 years of experience.  Assembling teams at innovative startups, and established enterprises, while building complex backend systems and delivering successful products.  Led major PHP-to-Rails migrations @ aSmallWorld and BibleGateway. Tidelift Maintainer since April 2022. Recognized by GitHub in July 2022 as author/maintainer of critical FLOSS tools (ref). I speak 🇺🇸English (native), 🇲🇽Spanish (fluent), 🇧🇷Portuguese (fluent), and 🇮🇩Indonesian (basic).
-Director of Software Engineering  |  Riviera Partners  |  SF, CA  |  Feb20  |  present
+Architect-level engineer with team lead and hands-on management experience in deep backend systems for 25 years.  Assembling teams at innovative startups, and established enterprises, while building complex backend systems and delivering successful products.  Led major PHP-to-Rails migrations @ aSmallWorld and BibleGateway. Tidelift Maintainer since April 2022. Recognized by GitHub in July 2022 as author/maintainer of critical FLOSS tools (ref). I speak 🇺🇸English (native), 🇲🇽Spanish (fluent), 🇧🇷Portuguese (fluent), and 🇮🇩Indonesian (basic).
+Director of Software Engineering  |  Riviera Partners  |  SF, CA  |  Feb’20  |  present
 Stack: Rails 5.2,Ruby 2.5…2.7,RSpec,psql,S3,ES,Sk,k8,Hasura,GraphQL,CQRS+ES,Svelte,GH,Jx
 PE-backed search firm combining executive search with an AI/ML-driven search system. Hired & managed back-end, devops, and all contractors. Translated executive strategy to executable roadmap. 10x better response rate w/ automation. Event Storming to map domain. Wrote service_actor-promptable.
 
 
-Tech Advisor, Principal Engineer  |  Karuna Health  |  SF, CA  |  Nov18  |  1.5y  | Apr20
+Tech Advisor, Principal Engineer  |  Karuna Health  |  SF, CA  |  Nov’18  |  1.5y  | Apr’20
 Stack: Rails 5.2,Ruby 2.5…2.6,RSpec,psql,SQS,Protobuf,S3,ES,Sk,Aptible,GH
 Connected patients with healthcare guides through streamlined communication and automation. Built Redox integration, email gateway. Advised on tech & hiring. Acquired by Commure, Inc.
 
 
-Principal Engineer Team Lead  |  Bolt Threads  |  SF, CA  |  Sep17  |  0.8y  |  May18
+Principal Engineer Team Lead  |  Bolt Threads  |  SF, CA  |  Sep’17  |  0.8y  |  May’18
 Stack: Rails 4.2…5.2,Ruby 2.3…2.5,RSpec,psql,Ubuntu,OPC DA
 Cutting-edge materials science for fashion and beauty industries. Integrated OPC DA with Lab Information Management System (LIMS). Instrumented Stoll industrial knitting machine. LIMS maintenance & replacement. “Leadership Fundamentals” training; hired new leadership.
 
 
-Full-Stack Eng, Founder  |  9thBit LLC  |  SF, CA & NY, NY  |  May16  |  3.6y  |  Nov19
-Stack: Rails 4.2…5.2,Ruby 2.0…2.6,React v16,Redux,RSpec,psql,S3,ES,Sk,GH,Cypress,Contentful,DynamoDB,S3 & CW,ES,Mongo,Resque,BB,DO,DD,NR,SF
-Agile software development agency. Full or part-time building solutions across many industries. 2016-18 Contract w/ Intricately, Marketing and Sales Intelligence; Built systems to track changes to the internet (writ large). Automated alerting, benchmarking; Reports for F100 enterprise customers. Wrote debug_logging; maintaining dynamoid. 2018-19 Contract /w Gainbridge, Delaware Life, Group1001, Relay Rewards. Sole dev on Relay Rewards & Group1001 (Rails); Analytics SME on Gainbridge (React v16)
+Full-Stack Eng, Founder  |  9thBit LLC  |  SF, CA & NY, NY  |  May’16  |  3.6y  |  Nov’19
+Stack: Rails 4.2…5.2,Ruby 2.0…2.6,React v16,Redux,RSpec,psql,S3,ES,Sk,GH,Cypress,Contentful,DynamoDB,S3 & CW,Mongo,Resque,BB,DO,DD,NR,SF
+Agile software development agency. Full or part-time building solutions across many industries. 2016-18 Contract w/ Intricately, authoritative product adoption, usage, and spend Data on 7 million companies with marketing and sales intelligence. Built systems to track changes to the internet (writ large). Automated alerting, and benchmarking. Cloud intel reports for F100 enterprise customers. Wrote debug_logging; maintaining dynamoid. 2018-19 Contract /w Group1001, family of insurance companies offering accumulation and protection solutions; Gainbridge, Delaware Life, Relay Rewards. Sole dev on Relay Rewards & Group1001 (Rails); Analytics SME on Gainbridge (React v16)
 
 
-Principal Engineer Team Lead  |  Invoice2go  |  SF, CA & JK, INDO  |  Jan16  |  1.1y  |  Feb17
+Principal Engineer Team Lead  |  Invoice2go  |  SF, CA & JK, INDO  |  Jan’16  |  1.1y  |  Feb’17
 Stack: Rails 4.2,Ruby 2.3,RSpec,psql,S3,ES,Redis,Sk,CircleCI,Jenkins,GH Enterprise,ZD,NR
-Leading invoicing platform for freelancers and small businesses. Managed web team in developing a revamped web app. Managed automation team (dev tools): git flow, feature flags. Promoted to Principal Engineer & assigned leadership role in Jakarta office. Acquired by Bill.com.
+Professional invoicing platform for freelancers and small businesses. Managed web team in developing a revamped web app. Managed automation team (dev tools): git flow, feature flags. Promoted to Principal Engineer & assigned leadership role in Jakarta office. Acquired by Bill.com.
 
 
-Staff Engineer (equiv)  |  Trumaker & Co  |  SF, CA  |  Apr14  |  2y  |  Apr16
+Staff Engineer (equiv)  |  Trumaker & Co  |  SF, CA  |  Apr’14  |  2y  |  Apr’16
 Stack: Rails 3.2,Ruby 2.0…2.1,RSpec,React,Ember,Haml,Slim,SASS,psql,S3,Sk,TravisCI,GH,SF,NR,Heroku
-Personalized service and bespoke made-to-measure fashion. Monolith extractions Ember/React; Orders, manufacturing, shipping & inventory. 12-state CRM w/ sales attribution. Wrote celluloid-io-pg-listener - real-time, bi-directional, SalesForce integration.
+Personalized service and bespoke made-to-measure fashion. Monolith extractions Ember/React; Orders, manufacturing, shipping & inventory. 12-state CRM w/ commissioned sales attribution. Wrote celluloid-io-pg-listener - real-time, bi-directional, SalesForce integration. Thor automation.
 
 
-CTO, Co-founder  |  Acquaintable  |  NY, NY  |  Nov12  |  1.1y  |  Nov13
+CTO, Co-founder  |  Acquaintable  |  NY, NY  |  Nov’12  |  1.1y  |  Nov’13
 Stack: Rails 3.2,Ruby 1.9…2.0,RSpec,RequireJS,Bb+Mar,ZF,Neo4j,psql,S3,Sk,Puma,TravisCI,GH,Librato,NR,Heroku
 Pitched, fund-raised, and implemented socially-curated dating via friends-of-friends. Touch-enabled SPA; Match UX < 10s. Seed round ERA-NYC Winter 2013; Acquired by Reveal (MS Ventures)
 
 
-Senior Engineer Team Lead  |  Bloomberg LP  |  NY, NY  |  Aug10  |  2.3y  |  Nov12
+Senior Engineer Team Lead  |  Bloomberg LP  |  NY, NY  |  Aug’10  |  2.3y  |  Nov’12
 Stack: Rails 2.3…3.2,Ruby 1.8…1.9,Grape,RSpec,RequireJS,ZF,Slim,SASS,SOAP,Unicorn,Puma,TeamCity
 Tightly integrated portfolio management and performance reporting. 1st Employee @ Bloomberg Black. Hired team of 10; Promoted to Team Lead. JS flyout menus, scrollspy, breadcrumbs; Shaved 10ms/req; CMS w/ SSR & AJAX; Platform support – Win, RedHat & MacOS. Now CircleBlack.
 
 
-Senior Engineer Team Lead, Partner  |  Sagebit, LLC  |  Indy, IN  |  Jun07  |  4.6y  | Dec11
+Senior Engineer Team Lead, Partner  |  Sagebit, LLC  |  Indy, IN  |  Jun’07  |  4.6y  | Dec’11
 Stack: Rails 1.2…3.1,Ruby 1.8…1.9,RSpec,Haml,CSS,jQuery,MySQL,Mongrel,Unicorn,GH,Debian,Ubuntu
 Agile software development agency. Hired & trained team of 5 in stateless programming. Promoted to Team Lead, then Partner; Led buildout of RadioBookmark’s back-end. Internal projects: sports mgmt, events & tickets, spam analysis. Led team of 10 converting aSmallWorld to Rails; LB’d rolling 32 server prod env; 2MM uniques/month, & 300K page views/day; Data migration; Forum, photo sharing, friend network, page & user tracking; Polymorphic CMS; Advertising engine for Estee Lauder & Mercedes-Mclaren.
-Full-Stack Eng, Founder  |  9thBit LLC  |  Indy, IN & NY, NY  |  Mar07  |  7.8y  |  Nov14
+Full-Stack Eng, Founder  |  9thBit LLC  |  Indy, IN & NY, NY  |  Mar’07  |  7.8y  |  Nov’14
 Stack: Rails 1.2…2.3,RailsLTS,Ruby 1.8…2.1,MySQL,RSpec,EPub,Solr,Redmine,jQuery,AJAX,CSS,Ubuntu,Haml,MySQL, Mongrel,Unicorn,TravisCI,GH,NR,CGI,Oracle 11g,rbenv,bash,daemons,RedHat
 Agile software development agency. Full or part-time building solutions across many industries.
 * 2006-10 Contract to write apps for a new credit union. Money transfers via third party financial institutions; $13MM transferred. CX tools, KB, audits, KYC, statements, & ledgers
 * 2008-10 Contract w/ Neighborino, LLC; built photos, messaging, ads, calendaring, and daemons
-* 2009-10 Contract to migrate BibleGateway (Harper-Collins), then a US top 10 website, to Rails
-* 2008-14 Contract w/ Timeperks (early B2B2C DoorDash); Promoted to Team Lead. Reporting & CX masquerade tool. 3-way AWS FPS payments; maintaining remit, wrote csv_pirate
-* 2013-14 Contract w/ Church Pension Group. Forensic modernization; Implemented  token auth, daemons, `make` system. 10x perf improvement of internal services, 20 req/s increased to > 200 req/s
+* 2009-10 Contract to migrate BibleGateway (Harper-Collins publishing), a US top 10 website, to Rails
+* 2008-14 Contract w/ Timeperks; early B2B2C DoorDash; Promoted to Team Lead. Reporting & CX masquerade tool. 3-way AWS FPS payments; maintaining remit, wrote csv_pirate
+* 2013-14 Contract w/ Church Pension Group; Provided resources and services to sustain the operations of the Episcopal Church worldwide. Forensic modernization; Implemented  token auth, daemons, `make` system. 10x perf improvement of internal services, 20 req/s increased to > 200 req/s
 
 
 Engineer  |  Legislative Services Agency - IGA  |  Indy, IN  |  97 & 06  |  2.3y  |  99 & 07
@@ -64,13 +64,13 @@ Stack: Rails 1.1…1.2,Ruby 1.8,Oracle8i,9i,10g,jQuery,CSS,Redhat,IIS,XML,XSL,To
 * 97-99 Inaugural tech intern @ IN State House; selected as standout CS student; Built issue tracker
 
 
-Engineer  |  Optivel, Inc  |  Indy, IN  |  Dec04  |  1.4y  |  Apr06
+Engineer  |  Optivel, Inc  |  Indy, IN  |  Dec’04  |  1.4y  |  Apr’06
 Stack: Rails 0.10…1.1,Ruby 1.8,Mongrel,MySQL,Bugzilla,Bash,PHP,Java,Perl,Scheme,Nagios,Debian,apt
 Agile software development agency & IT solutions provider. Initially a linux sysadmin, I was promoted to Engineer; built “AirBnB for Airplanes”; managed apt mirror; built internal .deb packages
 
 
 Projects - Free (Libre) Open Source
-Tidelift Maintainer since Apr22, RubyGem & NPM Project Lead, 67+ libraries; top DL as of Oct22:
+Tidelift Maintainer since Apr’22, RubyGem & NPM Project Lead, 67+ libraries; top DL as of Oct’22:
 1. oauth2 - OAuth 2 Client; maintainer since 2017; 124MM DL
 2. oauth - OAuth 1 Client & Server; maintainer since 2021; 83MM DL
 3. version_gem - Gemspec-compatible VERSION enhancer; author, 2022; 3.5MM DL
