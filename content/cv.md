@@ -1,5 +1,5 @@
 +++
-date = "2022.11.29T00:00:00-00:00"
+date = "2022.12.01T00:00:00-00:00"
 draft = false
 authorlink = "https://about.me/peter.boling"
 authorlinktarget = "_blank"
@@ -16,29 +16,27 @@ type = "page"
 
 ### Download Resume Here <i class="fas fa-level-down"></i>
 
-I'm not a fan of vendor-lock, so have it your way!  Resume last revised 2022.11.29.
+Whatever your favorite format I probably have it.  Resume last revised 2022.12.01.
 
 - **[WEB (quick and dirty, in-browser)](/cv/resume.html), or on [Google](https://docs.google.com/document/d/1H9fYtkMFmnkQO1sucrFPt5E3dvhozgVtI31LgpNLmJ4/pub)** (just a website, for a web browser)
-- **[ePub](/cv/Peter_Boling_Resume_2022.11.29.epub)** (formatted for e-readers) ⬅️⬅️⬅️⭐️So Readable!⭐️
-- **[ODT](/cv/Peter_Boling_Resume_2022.11.29.odt)** (OpenDocument Text file) ⬅️⬅️⬅️⭐️So Open!⭐️
-- **[PDF](/cv/Peter_Boling_Resume_2022.11.29.pdf)** (Portable Document Format) ⬅️⬅️⬅️⭐️Best Formatting!⭐️
-- **[RTF](/cv/Peter_Boling_Resume_2022.11.29.rtf)** (Rich Text Format)
-- **[TXT](/cv/Peter_Boling_Resume_2022.11.29.txt)** (Plain Text Format) (no links 😢)
-- **[HTML, Zipped](/cv/Peter_Boling_Resume_2022.11.29.zip)** (Raw HTML assets, archived as a Zip file)
+- **[ePub](/cv/Peter_Boling_Resume_2022.12.01.epub)** (formatted for e-readers) ⬅️⬅️⬅️⭐️So Readable!⭐️
+- **[ODT](/cv/Peter_Boling_Resume_2022.12.01.odt)** (OpenDocument Text file) ⬅️⬅️⬅️⭐️So Open!⭐️
+- **[PDF](/cv/Peter_Boling_Resume_2022.12.01.pdf)** (Portable Document Format) ⬅️⬅️⬅️⭐️Best Formatting!⭐️
+- **[RTF](/cv/Peter_Boling_Resume_2022.12.01.rtf)** (Rich Text Format)
+- **[TXT](/cv/Peter_Boling_Resume_2022.12.01.txt)** (Plain Text Format) (no links 😢)
+- **[HTML, Zipped](/cv/Peter_Boling_Resume_2022.12.01.zip)** (Raw HTML assets, archived as a Zip file)
 
-<small>- Even [DOCX](/cv/Peter_Boling_Resume_2022.11.29.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
+<small>- Even [DOCX](/cv/Peter_Boling_Resume_2022.12.01.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
 
 I wrote a [gem to automate](https://rubygems.org/gems/undrive_google) export, renaming, and transforming, of these resume file formats from the original Google Document.  Obviously, I called it "undrive_google".
 
 ### How I use my allocation of bits
 
-Experienced director, team leader, mentor, linux system admin, rubyist, FLOSS advocate, barista, student, and builder of web applications great and small for 25 years. Passionate about testing, efficiency, learning best practices, and improving the human condition by automation.
+Architect-level engineer with team lead and management experience in deep backend systems with 25 years of experience.  Assembling teams at innovative startups, and established enterprises, while building complex backend systems and delivering successful products.  Led major PHP-to-Rails migrations @ aSmallWorld and BibleGateway. Recognized by GitHub in July 2022 as author/maintainer of critical FLOSS tools ([ref](https://github.blog/2022-06-24-thank-you-to-our-maintainers/)). Tidelift Maintainer since April 2022.
 
-Author and maintainer of many popular open source libraries [![On RubyGems](https://img.shields.io/gem/u/pboling.svg)](https://rubygems.org/profiles/pboling), which have been downloaded many millions of times.
+Author and maintainer of many popular open source libraries [![RubyGems](https://img.shields.io/gem/u/pboling.svg)](https://railsbling.com/posts/rubygems/current_list/), which have been downloaded many millions of times.
 
-Recognized by GitHub in July 2022 as one of 904 developers whose open source code their platform relies on. Engineered solutions for nearly every sector of industry. Specialize in migrating legacy systems to modern architecture utilizing principles of BDD, and DDD.
-
-Built world’s first enterprise Rails app running on Windows Server 2k3 & IIS6 (2006, ref1, ref2). Led massive PHP-to-Rails migrations @ aSmallWorld (2008-9) and BibleGateway (2009-10).
+Built world’s first enterprise Rails app running on Windows Server 2k3 & IIS6 (2006, [rubyonrails.org](https://discuss.rubyonrails.org/t/iis-new-fastcgi-support-and-rails/5614/5), [com.googlegroups.rubyonrails-talk](https://markmail.org/message/tvkxqnpjltu5xvtk#query:+page:1+mid:tvkxqnpjltu5xvtk+state:results)). Led massive PHP-to-Rails migrations @ aSmallWorld (2008-9) and BibleGateway (2009-10).
 
 I excel at data analysis, task automation, testing, style guides, best practices, API design, benchmarking, and Domain Driven Design.
 
@@ -61,13 +59,12 @@ I am a political activist utilizing my social currency to advocate for equality 
 * Advisor to [Hope For Tomorrow (Liberia)](https://www.facebook.com/hope.for.tomorrow.liberia/) - Liberian NGO working to repatriate refugees still in Ghana, and stabilize ex-refugees that have been repatriated, 2015 - present
 * Co-founder of [WordTree Foundation](http://wordtree.org) - non-profit scientific linguistics research, 2013 - present
 [![Tweet](https://img.shields.io/twitter/url/http/wordtree.org.svg?style=social)](https://twitter.com/intent/tweet?text=Interesting:&amp;url=http%3A%2F%2Fwordtree.org)
-* Many Open Source projects! [![RubyGems](https://img.shields.io/gem/u/pboling.svg)](https://rubygems.org/profiles/pboling) ⦚ [🐙Hub](https://github.com/pboling) ⦚ [🧪Lab](https://gitlab.com/pboling) ⦚ [🛖Hut](https://sr.ht/~galtzo/)
+* Many Open Source projects! [![RubyGems](https://img.shields.io/gem/u/pboling.svg)](https://railsbling.com/posts/rubygems/current_list/) ⦚ [🐙Hub](https://github.com/pboling) ⦚ [🧪Lab](https://gitlab.com/pboling) ⦚ [🧊Berg](https://codeberg.org/pboling) ⦚ [🛖Hut](https://sr.ht/~galtzo/)
   * Moving [away from the 🐙Hub](https://dev.to/pboling/im-leaving-github-50ba). 🤨
 * This blog! [Check out the source.](https://github.com/pboling/railsbling.com)
 
 ### Past Work
 
-* Executive Director & Board Member (ex-officio) @ [National Progressive Party](https://discord.gg/3V6j6Vy) &larr; A more progressive future is possible!, 2020 - 2022
 * Technical Advisor & Principal Engineer @ [Karuna Health](https://meetkaruna.com/) &larr; Assisting with backend architecture and hiring, 2018 - 2020 ([on Crunchbase](https://www.crunchbase.com/organization/karuna))
 * Principal Engineer @ [Group 1001](https://www.group1001.com) &larr; Building, optimizing, and extending the portfolio of insurance products (e.g. [Gainbridge](https://gainbridge.io)), 2018 - 2019 ([on Crunchbase](https://www.crunchbase.com/organization/group1001))
 * Principal Engineer @ [Bolt Threads](https://boltthreads.com/) &larr; How 'bout we try science?!, 2017

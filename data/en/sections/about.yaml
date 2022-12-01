@@ -18,7 +18,7 @@ roles:
   - designation: FLOSS Author & Maintainer
     company:
       name: MINSWAN ;)
-      url: "https://rubygems.org/profiles/pboling"
+      url: "https://railsbling.com/posts/rubygems/current_list/"
   - designation: Co-founder & Researcher
     company:
       name: Word Tree Foundation
@@ -88,7 +88,7 @@ socialLinks:
 
   - name: RubyGems
     icon: "fas fa-diamond"
-    url: "https://rubygems.org/profiles/pboling"
+    url: "https://railsbling.com/posts/rubygems/current_list/"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
