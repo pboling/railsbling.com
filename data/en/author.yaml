@@ -1,6 +1,6 @@
 # some information about you
 name: "Peter Boling"
-nickname: "galtzo"
+nickname: "Peter"
 
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
@@ -17,8 +17,8 @@ contactInfo:
 summary:
   - I am a computer programmer
   - I build web applications
-  - I am a father, son and brother
+  - I am a father, son, husband, brother
   - I work on free and open-source projects
-  - I am a husband, uncle, and evolved fish
-  - I am a progressive
-  - I study everything
+  - I tenaciously study reality
+  - I am a humanist
+  - I took this picture of jellyfish
