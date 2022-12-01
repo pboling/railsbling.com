@@ -25,12 +25,12 @@ Agile software development agency. Full or part-time building solutions across m
 
 Principal Engineer Team Lead  |  Invoice2go  |  SF, CA & JK, INDO  |  Jan16  |  1.1y  |  Feb17
 Stack: Rails 4.2,Ruby 2.3,RSpec,psql,S3,ES,Redis,Sk,CircleCI,Jenkins,GH Enterprise,ZD,NR
-Leading invoicing platform for freelancers and small businesses. Managed web team in developing a revamped web app. Managed automation team (dev tools): git flow, feature flags. Promoted to Principal Engineer & assigned leadership role in Jakarta office.
+Leading invoicing platform for freelancers and small businesses. Managed web team in developing a revamped web app. Managed automation team (dev tools): git flow, feature flags. Promoted to Principal Engineer & assigned leadership role in Jakarta office. Acquired by Bill.com.
 
 
 Staff Engineer (equiv)  |  Trumaker & Co  |  SF, CA  |  Apr14  |  2y  |  Apr16
 Stack: Rails 3.2,Ruby 2.0…2.1,RSpec,React,Ember,Haml,Slim,SASS,psql,S3,Sk,TravisCI,GH,SF,NR,Heroku
-Personalized service and bespoke made-to-measure fashion. Monolith extractions Ember/React; Orders, manufacturing, shipping & inventory. 12-state CRM w/ sales attribution. Wrote celluloid-io-pg-listener - real-time, bi-directional, SalesForce integration
+Personalized service and bespoke made-to-measure fashion. Monolith extractions Ember/React; Orders, manufacturing, shipping & inventory. 12-state CRM w/ sales attribution. Wrote celluloid-io-pg-listener - real-time, bi-directional, SalesForce integration.
 
 
 CTO, Co-founder  |  Acquaintable  |  NY, NY  |  Nov12  |  1.1y  |  Nov13
@@ -45,7 +45,7 @@ Tightly integrated portfolio management and performance reporting. 1st Employee 
 
 Senior Engineer Team Lead, Partner  |  Sagebit, LLC  |  Indy, IN  |  Jun07  |  4.6y  | Dec11
 Stack: Rails 1.2…3.1,Ruby 1.8…1.9,RSpec,Haml,CSS,jQuery,MySQL,Mongrel,Unicorn,GH,Debian,Ubuntu
-Agile software development agency. Hired & trained team of 5 in stateless programming. Promoted to Team Lead, then Partner; Led buildout of RadioBookmark’s back-end. Internal projects: sports mgmt, events & tickets, spam analysis. Led team of 10 converting aSmallWorld to Rails; LB’d rolling 32 server prod env; 2MM uniques/month, & 300K page views/day; Data migration; Forum, photo sharing, friend network, page & user tracking; Polymorphic CMS; Advertising engine for Estee Lauder & Mercedes-Mclaren
+Agile software development agency. Hired & trained team of 5 in stateless programming. Promoted to Team Lead, then Partner; Led buildout of RadioBookmark’s back-end. Internal projects: sports mgmt, events & tickets, spam analysis. Led team of 10 converting aSmallWorld to Rails; LB’d rolling 32 server prod env; 2MM uniques/month, & 300K page views/day; Data migration; Forum, photo sharing, friend network, page & user tracking; Polymorphic CMS; Advertising engine for Estee Lauder & Mercedes-Mclaren.
 Full-Stack Eng, Founder  |  9thBit LLC  |  Indy, IN & NY, NY  |  Mar07  |  7.8y  |  Nov14
 Stack: Rails 1.2…2.3,RailsLTS,Ruby 1.8…2.1,MySQL,RSpec,EPub,Solr,Redmine,jQuery,AJAX,CSS,Ubuntu,Haml,MySQL, Mongrel,Unicorn,TravisCI,GH,NR,CGI,Oracle 11g,rbenv,bash,daemons,RedHat
 Agile software development agency. Full or part-time building solutions across many industries.
