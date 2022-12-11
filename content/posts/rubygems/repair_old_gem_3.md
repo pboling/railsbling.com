@@ -207,12 +207,17 @@ So the issue is simply that we need to change the RSpec expect syntax to the one
 
   config.expect_with :test_unit # Some tests still use this syntax, which is fine.
 ```
+Check the specs, and ensure everything is good!
 ```
 $ bundle exec rspec
 ...
 36 examples, 0 failures
 ```
+
 RSpec test suite upgraded!
+
+Check out the [pull request](https://github.com/rdp/os/pull/68)
+and give it a thumbs up or a heart if you are feeling generous!
 
 Stay tuned for further posts in this series!
 

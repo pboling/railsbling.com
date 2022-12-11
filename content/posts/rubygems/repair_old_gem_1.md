@@ -116,6 +116,7 @@ ArgumentError:
 # ./spec/os_spec.rb:1:in `require'
 # ./spec/os_spec.rb:1:in `<top (required)>'
 ```
+- [#70](https://github.com/rdp/os/issues/70) - Test suite needs to be upgraded to modern [rspec-autotest](https://github.com/rspec/rspec-autotest)
 
 # Path Forward
 
@@ -138,6 +139,7 @@ I will upstream fixes for:
 - [ ] [#63](https://github.com/rdp/os/issues/63)
 - [ ] [#64](https://github.com/rdp/os/issues/64)
 - [x] [#67](https://github.com/rdp/os/issues/67) fixed by [#68](https://github.com/rdp/os/pull/68)
+- [x] [#70](https://github.com/rdp/os/issues/70) fixed by [#71](https://github.com/rdp/os/pull/71)
 
 # Q & A
 

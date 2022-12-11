@@ -46,7 +46,10 @@ s.add_dependency(%q<rspec>.freeze, ["~> 2.5.0"])
 Additionally it fixes two broken tests, where it is clear the author and I have different platforms,
 and so we hit different paths in the test code.
 
-Pull Request: https://github.com/rdp/os/pull/59
+Bundle fixed, and tests passing!
+
+Check out the [pull request](https://github.com/rdp/os/pull/59)
+and give it a thumbs up or a heart if you are feeling generous!
 
 Stay tuned for further posts in this series!
 
