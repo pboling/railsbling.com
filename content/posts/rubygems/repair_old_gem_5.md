@@ -35,7 +35,7 @@ So we'll rip it out of the `os` source!
 require 'rubygems' if RUBY_VERSION < '1.9.0'
 ```
 Interesting that it seems there was a reason to think Ruby 1.8.7 needed this hack, 
-but an alternative solution to whatever this was working around, must be to install a newer version of rubygems.
+but an alternative solution to whatever this was working around must be to install a newer version of rubygems.
 The latest version of rubygems that can be installed on Ruby 1.8.7 does not need this hack.
 
 Next we apply some best practices to the Rakefile.  I use the following in most of my RubyGem projects:
