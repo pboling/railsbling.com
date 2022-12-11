@@ -17,7 +17,7 @@ series = [ "RubyGemRepair" ]
 name = "Upgrade RSpec (Part 3)"
 identifier = "repair_old_gem_3"
 parent = "rubygems"
-weight = 12
+weight = 13
 
 +++
 
