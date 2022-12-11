@@ -1,5 +1,5 @@
 +++
-date = "2022-12-11T10:27:22+07:00"
+date = "2022-12-11T22:27:22+07:00"
 draft = false
 authorlink = "https://about.me/peter.boling"
 authorlinktarget = "_blank"
@@ -7,7 +7,7 @@ authortwitter = "https://www.twitter.com/galtzo"
 authorlinkedin = "https://www.linkedin.com/in/peterboling"
 authorfacebook = "https://www.facebook.com/peter.boling"
 hero = "images/posts/writing/jon-tyson-rXi6VEpoSqQ-unsplash-1920-1095-crop.png"
-title = "How to Repair an Old Gem (Part 3) - Upgrade Autotest"
+title = "How to Repair an Old Gem (Part 4) - Upgrade Autotest"
 tags = [ "development", "ruby", "rubygems", "floss", "rspec" ]
 categories = [ "development", "tools", "ruby", "maintenance", "rspec" ]
 series = [ "RubyGemRepair" ]
