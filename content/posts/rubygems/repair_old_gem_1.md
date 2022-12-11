@@ -132,12 +132,12 @@ I will upstream fixes for:
 - [ ] [#56](https://github.com/rdp/os/issues/56)
 - [ ] [#57](https://github.com/rdp/os/issues/57)
 - [ ] [#58](https://github.com/rdp/os/issues/58)
-- [ ] [#60](https://github.com/rdp/os/issues/60) fixed by [#59](https://github.com/rdp/os/pull/59)
+- [x] [#60](https://github.com/rdp/os/issues/60) fixed by [#59](https://github.com/rdp/os/pull/59)
 - [ ] [#61](https://github.com/rdp/os/issues/61)
 - [ ] [#62](https://github.com/rdp/os/issues/62)
 - [ ] [#63](https://github.com/rdp/os/issues/63)
 - [ ] [#64](https://github.com/rdp/os/issues/64)
-- [ ] [#67](https://github.com/rdp/os/issues/67)
+- [x] [#67](https://github.com/rdp/os/issues/67) fixed by [#68](https://github.com/rdp/os/pull/68)
 
 # Q & A
 
