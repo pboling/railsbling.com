@@ -17,7 +17,7 @@ series = [ "#GiveUpGithub" ]
 name = "Put the D in DVCS"
 identifier = "dvcs-thoughts-put-the-d-in"
 parent = "dvcs-thoughts"
-weight = 10
+weight = 11
 
 +++
 <div id="badges">
