@@ -11,10 +11,14 @@ section:
 
 # your company information
 roles:
-  - designation: Director of Engineering
+  - designation: Coding Bootcamp Instructor
     company:
-      name: Riviera Partners
-      url: "https://rivierapartners.com"
+      name: edX, Michigan State University
+      url: "https://bootcamp.msu.edu/coding/landing/"
+  - designation: Principal Cloud Engineer
+    company:
+      name: Vital Connect
+      url: "https://vitalconnect.com/"
   - designation: FLOSS Author & Maintainer
     company:
       name: Tidelift
