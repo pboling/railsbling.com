@@ -3,7 +3,17 @@
   GitHub , GitLab , CodeBerg , SourceHut }
 TZ-America/* | (925) 252-5351 | peter@railsbling.com
 Architect-level engineer with team lead and hands-on management experience in deep backend systems for 25 years.  Assembling teams at innovative startups, and established enterprises, while building complex backend systems and delivering successful products.  Led major PHP-to-Rails migrations @ aSmallWorld and BibleGateway. Tidelift Maintainer since April 2022. Recognized by GitHub in July 2022 as author/maintainer of critical FLOSS tools (ref). I speak 🇺🇸English (native), 🇲🇽Spanish (fluent), 🇧🇷Portuguese (fluent), and 🇮🇩Indonesian (basic).
-Director of Software Engineering  |  Riviera Partners  |  SF, CA  |  Feb’20  |  present
+Coding Bootcamp Instructor  | edX,  Michigan State University  |  DT, MI  |  Mar’23  |  present
+Stack: React,GraphQL,Node,MongoDB
+Teaching Full Stack Web Development with React + Node in a 24 week Coding Bootcamp course.
+
+
+Principal Engineer Team Lead  |  VitalConnect  |  SJ, CA  |  Dec’22  |  present
+Stack: Rails microservices,RSpec,psql,AWS,GraphQL,BB
+Building a cloud engineering team, and supporting outpatient cardiac health monitoring. Developing reporting and alerting tools. Improving resiliency with robust testing.
+
+
+Director of Software Engineering  |  Riviera Partners  |  SF, CA  |  Feb’20  |  2.8y  |  Dec’22
 Stack: Rails 5.2,Ruby 2.5…2.7,RSpec,psql,S3,ES,Sk,k8,Hasura,GraphQL,CQRS+ES,Svelte,GH,Jx
 PE-backed search firm combining executive search with an AI/ML-driven search system. Hired & managed back-end, devops, and all contractors. Translated executive strategy to executable roadmap. 10x better response rate w/ automation. Event Storming to map domain. Wrote service_actor-promptable.
 

@@ -1,5 +1,5 @@
 +++
-date = "2022.12.01T00:00:00-00:00"
+date = "2023.03.25T00:00:00-00:00"
 draft = false
 authorlink = "https://about.me/peter.boling"
 authorlinktarget = "_blank"
@@ -16,17 +16,17 @@ type = "page"
 
 ### Download Resume Here <i class="fas fa-level-down"></i>
 
-Whatever your favorite format I probably have it.  Resume last revised 2022.12.01.
+Whatever your favorite format I probably have it.  Resume last revised 2023.03.25.
 
 - **[WEB (quick and dirty, in-browser)](/cv/resume.html), or on [Google](https://docs.google.com/document/d/1H9fYtkMFmnkQO1sucrFPt5E3dvhozgVtI31LgpNLmJ4/pub)** (just a website, for a web browser)
-- **[ePub](/cv/Peter_Boling_Resume_2022.12.01.epub)** (formatted for e-readers) ⬅️⬅️⬅️⭐️So Readable!⭐️
-- **[ODT](/cv/Peter_Boling_Resume_2022.12.01.odt)** (OpenDocument Text file) ⬅️⬅️⬅️⭐️So Open!⭐️
-- **[PDF](/cv/Peter_Boling_Resume_2022.12.01.pdf)** (Portable Document Format) ⬅️⬅️⬅️⭐️Best Formatting!⭐️
-- **[RTF](/cv/Peter_Boling_Resume_2022.12.01.rtf)** (Rich Text Format)
-- **[TXT](/cv/Peter_Boling_Resume_2022.12.01.txt)** (Plain Text Format) (no links 😢)
-- **[HTML, Zipped](/cv/Peter_Boling_Resume_2022.12.01.zip)** (Raw HTML assets, archived as a Zip file)
+- **[ePub](/cv/Peter_Boling_Resume_2023.03.25.epub)** (formatted for e-readers) ⬅️⬅️⬅️⭐️So Readable!⭐️
+- **[ODT](/cv/Peter_Boling_Resume_2023.03.25.odt)** (OpenDocument Text file) ⬅️⬅️⬅️⭐️So Open!⭐️
+- **[PDF](/cv/Peter_Boling_Resume_2023.03.25.pdf)** (Portable Document Format) ⬅️⬅️⬅️⭐️Best Formatting!⭐️
+- **[RTF](/cv/Peter_Boling_Resume_2023.03.25.rtf)** (Rich Text Format)
+- **[TXT](/cv/Peter_Boling_Resume_2023.03.25.txt)** (Plain Text Format) (no links 😢)
+- **[HTML, Zipped](/cv/Peter_Boling_Resume_2023.03.25.zip)** (Raw HTML assets, archived as a Zip file)
 
-<small>- Even [DOCX](/cv/Peter_Boling_Resume_2022.12.01.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
+<small>- Even [DOCX](/cv/Peter_Boling_Resume_2023.03.25.docx) (Word Open XML Format Document file) if that's your thing.  It's not my thing.  Might have ugly formatting.</small>
 
 I wrote a [gem to automate](https://rubygems.org/gems/undrive_google) export, renaming, and transforming, of these resume file formats from the original Google Document.  Obviously, I called it "undrive_google".
 
@@ -55,7 +55,8 @@ I am a political activist utilizing my social currency to advocate for equality 
 
 ### More stuff I am working on now
 
-* Director of Engineering at [Riviera Partners](https://rivierapartners.com) &larr; Building the AI & ML enhanced recruiting platform of the future, 2020 - present
+* Coding Bootcamp Instructor @ edX, Michigan State University - Full Stack Web Development course, 2023 - present
+* Principal Cloud Engineer @ Vital Connect - medical device manufacturer, vital signs monitoring, 2022 - present
 * Advisor to [Hope For Tomorrow (Liberia)](https://www.facebook.com/hope.for.tomorrow.liberia/) - Liberian NGO working to repatriate refugees still in Ghana, and stabilize ex-refugees that have been repatriated, 2015 - present
 * Co-founder of [WordTree Foundation](http://wordtree.org) - non-profit scientific linguistics research, 2013 - present
 [![Tweet](https://img.shields.io/twitter/url/http/wordtree.org.svg?style=social)](https://twitter.com/intent/tweet?text=Interesting:&amp;url=http%3A%2F%2Fwordtree.org)
@@ -65,6 +66,7 @@ I am a political activist utilizing my social currency to advocate for equality 
 
 ### Past Work
 
+* Director of Engineering at [Riviera Partners](https://rivierapartners.com) &larr; Building the AI & ML enhanced recruiting platform of the future, 2020 - 2022
 * Technical Advisor & Principal Engineer @ [Karuna Health](https://meetkaruna.com/) &larr; Assisting with backend architecture and hiring, 2018 - 2020 ([on Crunchbase](https://www.crunchbase.com/organization/karuna))
 * Principal Engineer @ [Group 1001](https://www.group1001.com) &larr; Building, optimizing, and extending the portfolio of insurance products (e.g. [Gainbridge](https://gainbridge.io)), 2018 - 2019 ([on Crunchbase](https://www.crunchbase.com/organization/group1001))
 * Principal Engineer @ [Bolt Threads](https://boltthreads.com/) &larr; How 'bout we try science?!, 2017
