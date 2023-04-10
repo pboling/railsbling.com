@@ -11,6 +11,33 @@ section:
 # Your experiences
 experiences:
   - company:
+      name: Michigan State University
+      url: "https://bootcamp.msu.edu/coding/landing/"
+      location: Detroit, MI
+      overview: Teaching remote, online, coding course
+    positions:
+      - designation: Full Stack Flex Boot Camp Instructor
+        start: Dec 2022
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        end:
+        responsibilities:
+          - Teaching students to build, and refactor, modern, accessible, responsive, performant websites
+          - "Stack: HTML, CSS, Javascript, React, Git, GitHub, GitLab, Heroku"
+
+  - company:
+      name: Vital Connect
+      url: "https://vitalconnect.com/"
+      location: San Jose, CA
+      overview: Anywhere Patient Monitoring
+    positions:
+      - designation: Principal Cloud Engineer
+        start: Dec 2022
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        end:
+        responsibilities:
+          - Building, maintaining, and upgrading vital signs monitoring solutions in support of the VitalPatch RTM.
+
+  - company:
       name: Riviera Partners
       url: "https://rivierapartners.com/"
       location: San Francisco, CA
@@ -18,8 +45,7 @@ experiences:
     positions:
       - designation: Director of Engineering
         start: Feb 2020
-        # don't provide end date if you are currently working there. It will be replaced by "Present"
-        end:
+        end: Dec 2022
         responsibilities:
           - Lead Engineering organization of 20, and directly manage backend team of 5 and devops team of 2
           - Design migration paths toward increased data security, lower systems costs, fewer wasted resources
@@ -28,6 +54,7 @@ experiences:
           - Event Storming to determine what we need to build; maps perfectly to CQRS+ES, and abides the principles of Domain Driven Design
           - Primary Jira administrator for all company projects
 
+# TODO: Create a summary landing page explainer about NPP somewhere
 #  - company:
 #      name: National Progressive Party
 #      url: "https://nationalprogressiveparty.org/"
