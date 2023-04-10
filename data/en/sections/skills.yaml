@@ -36,4 +36,4 @@ skills:
 
 - name: Shells
   icon: "fas fa-terminal"
-  summary: "Bash is my go tool for portable scripting, and Zsh is my current shell. Checkout my dotfiles, and other shell projects, on Github."
+  summary: "Bash is my favored tool for portable scripting, and Zsh is my current shell. Checkout my dotfiles, and other shell projects, on Github."
