@@ -78,17 +78,22 @@ socialLinks:
     icon: "fab fa-linkedin"
     url: "https://www.linkedin.com/in/peterboling"
 
-#  - name: Twitter
-#    icon: "fab fa-twitter"
-#    url: "https://www.twitter.com/galtzo"
+  - name: Ruby.Social
+    icon: "fab fa-mastodon"
+    rel: me
+    url: https://ruby.social/@galtzo
 
-#  - name: Facebook
-#    icon: "fab fa-facebook"
-#    url: "https://www.facebook.com/peter.boling"
+  - name: Twitter
+    icon: "fab fa-twitter"
+    url: "https://www.twitter.com/galtzo"
 
-#  - name: HackerRank
-#    icon: "fas fa-terminal"
-#    url: "https://www.hackerrank.com/peter_boling"
+  - name: Facebook
+    icon: "fab fa-facebook"
+    url: "https://www.facebook.com/peter.boling"
+
+  - name: HackerRank
+    icon: "fas fa-terminal"
+    url: "https://www.hackerrank.com/peter_boling"
 
   - name: Star Dev
     icon: "far fa-star"
@@ -109,25 +114,25 @@ socialLinks:
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
-softSkills:
-  - name: Leadership
-    percentage: 95
-    color: blue
-  - name: Team Work
-    percentage: 90
-    color: yellow
-  - name: Communication
-    percentage: 85
-    color: pink
-  - name: Hard Working
-    percentage: 95
-    color: green
-  - name: Adaptability
-    percentage: 85
-    color: sky
-  - name: Problem Solving
-    percentage: 100
-    color: orange
+#softSkills:
+#  - name: Leadership
+#    percentage: 95
+#    color: blue
+#  - name: Team Work
+#    percentage: 90
+#    color: yellow
+#  - name: Communication
+#    percentage: 85
+#    color: pink
+#  - name: Hard Working
+#    percentage: 95
+#    color: green
+#  - name: Adaptability
+#    percentage: 85
+#    color: sky
+#  - name: Problem Solving
+#    percentage: 100
+#    color: orange
 # you can also provide color code instead of pre-defined color name
 # - name: Example 1
 #   percentage: 75
