@@ -1,6 +1,6 @@
 # RailsBling.com
 
-This is the website of Peter Boling.
+This is the website of Peter Boling, of Earth.
 
 Run locally with:
 
@@ -30,4 +30,4 @@ Deploy is run on the server itself.
 
 ## How to update Resume
 
-Use the [undrive_google](https://sr.ht/~galtzo/undrive_google/) gem.
+Use the [undrive_google](https://sr.ht/~galtzo/undrive_google/) ruby gem.
