@@ -25,7 +25,8 @@ Logo is my own creation.
 Deploy is run on the server itself.
 
 ```shell
-./bin/deploy.sh
+ssh rb
+./scripts/deploy.sh
 ```
 
 ## How to update Resume
