@@ -1,3 +1,6 @@
 public
 .DS_Store
 resources/
+
+.idea
+.hugo_build.lock
